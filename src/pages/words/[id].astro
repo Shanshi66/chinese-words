@@ -1,0 +1,27 @@
+---
+import fs from "fs";
+import Layout from "@/layouts/Layout.astro";
+export function getStaticPaths() {
+    // read file from src/data/words, get the list of words
+    const content = fs.readFileSync("src/data/words.txt", "utf-8");
+    // 将文件内容分割为数组
+    const lines = content.split("\n");
+    // map the list of words to an array of objects with params key
+    return lines.map((word) => {
+        console.log(word);
+        return {
+            params: {
+                id: word,
+            },
+        };
+    });
+}
+
+const { id } = Astro.params;
+---
+
+<Layout title="Welcome to Astro.">
+    <main>
+        <div>Good dog, {id}!</div>
+    </main>
+</Layout>
