@@ -9,13 +9,28 @@ export interface PinyinWord {
     pinyin: string;
 }
 
-export interface Example {
-    chinese: string;
-    pinyin: string[];
-    english: string;
-}
-
 export interface Question {
     question: string;
     answer: string;
+}
+
+export interface WordDetail {
+    word: string;
+    tags: string[];
+    explanations: Explanation[];
+}
+
+export interface Translate {
+    english: string;
+}
+
+export interface Explanation {
+    explanation: string;
+    translate: Translate
+    examples: Example[];
+}
+
+export interface Example {
+    example: string;
+    translate: Translate;
 }

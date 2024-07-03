@@ -5,18 +5,14 @@ import PageLayout from "@/layouts/PageLayout.astro";
 import "@fontsource/twinkle-star";
 import Hanzi from "@/components/widget/WritingWords.astro";
 import { pinyin } from "pinyin-pro";
-import type { PinyinWord, Example } from "@/common/types";
-import PinyinWords from "@/components/widget/PinyinWords.astro";
-export function getStaticPaths() {
-    // read file from src/data/words, get the list of words
-    const content = fs.readFileSync("src/data/words.txt", "utf-8");
-    // 将文件内容分割为数组
-    const lines = content.split("\n");
-    // map the list of words to an array of objects with params key
-    return lines.map((word) => {
+import type { PinyinWord, WordDetail } from "@/common/types";
+import Explanation from "@/components/widget/Explanation.astro";
+export async function getStaticPaths() {
+    const wordFiles = fs.readdirSync("src/data/words");
+    return wordFiles.map((wordFile) => {
         return {
             params: {
-                word: word,
+                word: wordFile.split(".")[0],
             },
         };
     });
@@ -34,30 +30,8 @@ for (let i = 0; i < word.length; i++) {
     });
 }
 
-const example: Example[] = [
-    {
-        chinese: "你好，你叫什么名字?",
-        pinyin: pinyin("你好，你叫什么名字?", { type: "array" }),
-        english: "Hello, what's your name?",
-    },
-    {
-        chinese: "你好，你叫什么名字?",
-        pinyin: pinyin("你好，你叫什么名字?", { type: "array" }),
-        english: "Hello, what's your name?",
-    },
-];
-
-const explaination = {
-    english: "hello",
-};
-
-let examplePinyinWords: PinyinWord[] = [];
-for (let i = 0; i < example[0].chinese.length; i++) {
-    examplePinyinWords.push({
-        word: example[0].chinese[i],
-        pinyin: example[0].pinyin[i],
-    });
-}
+let content = fs.readFileSync(`src/data/words/${word}.json`);
+let wordDetail: WordDetail = JSON.parse(content.toString());
 
 // Todo
 const metadata = {
@@ -74,20 +48,29 @@ const metadata = {
         </div>
 
         <div class="my-10">
-            <h2 class="text-2xl border-b-[1px] py-2 font-serif">Explanation</h2>
-            <p class="my-2 text-xl font-serif">{explaination.english}</p>
+            <h2 class="text-2xl border-b-[1px] py-4 font-serif">Information</h2>
         </div>
 
         <div class="my-10">
-            <h2 class="text-2xl border-b-[1px] py-2">Examples</h2>
-            {
-                example.map((ex) => (
-                    <div class="my-5 flex flex-col items-center">
-                        <PinyinWords pinyinWords={examplePinyinWords} />
-                        <p class="my-2 text-xl tracking-wide">{ex.english}</p>
-                    </div>
-                ))
-            }
+            <h2 class="text-2xl py-4 font-serif">Explanation</h2>
+            <div>
+                {
+                    wordDetail.explanations.map((explanation, index) => (
+                        <Explanation explanation={explanation} index={index} />
+                    ))
+                }
+            </div>
+        </div>
+        <div class="my-10">
+            <h2 class="text-2xl border-b-[1px] py-4 font-serif">Writing</h2>
+        </div>
+        <div class="my-10">
+            <h2 class="text-2xl border-b-[1px] py-4 font-serif">
+                Related List
+            </h2>
+        </div>
+        <div class="my-10">
+            <h2 class="text-2xl border-b-[1px] py-4 font-serif">Homophones</h2>
         </div>
     </main>
 </PageLayout>

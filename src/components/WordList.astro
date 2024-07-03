@@ -1,62 +1,6 @@
 ---
 import ListCard from "./widget/ListCard.astro";
-
-const wordsList = [
-    {
-        title: "HSK",
-        description: "Common Chinese words for colors",
-        path: "/src/assets/images/hsk.jpg",
-        url: "/list/hsk",
-    },
-    {
-        title: "Food",
-        description: "Common Chinese words for food",
-        path: "/src/assets/images/food.jpg",
-        url: "/list/food",
-    },
-    {
-        title: "Animals",
-        description: "Common Chinese words for animals",
-        path: "/src/assets/images/animal.jpg",
-        url: "/list/animals",
-    },
-    {
-        title: "Numbers",
-        description: "Common Chinese words for numbers",
-        path: "/src/assets/images/number.jpg",
-        url: "/list/numbers",
-    },
-    {
-        title: "Colors",
-        description: "Common Chinese words for colors",
-        path: "/src/assets/images/color.png",
-        url: "/list/colors",
-    },
-    {
-        title: "Business",
-        description: "Common Chinese words for colors",
-        path: "/src/assets/images/greet.jpg",
-        url: "/list/business",
-    },
-    {
-        title: "Travel",
-        description: "Common Chinese words for colors",
-        path: "/src/assets/images/travel.webp",
-        url: "/list/travel",
-    },
-    {
-        title: "Love",
-        description: "Common Chinese words for colors",
-        path: "/src/assets/images/love.jpg",
-        url: "/list/love",
-    },
-    {
-        title: "Daily",
-        description: "Common Chinese words for colors",
-        path: "/src/assets/images/life.jpeg",
-        url: "/list/daily",
-    },
-];
+import { listData } from "@/customize/list";
 ---
 
 <section>
@@ -67,7 +11,7 @@ const wordsList = [
         </h2>
         <!-- Features Grid -->
         <div class="grid gap-5 lg:grid-cols-3 md:grid-cols-1">
-            {wordsList.map((word) => <ListCard {...word} />)}
+            {listData.map((word) => <ListCard detail={word} />)}
         </div>
     </div>
 </section>
