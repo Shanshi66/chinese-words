@@ -1,0 +1,58 @@
+---
+import type { PinyinWord } from "@/common/types";
+
+interface Props {
+    pinyinWord: PinyinWord[];
+    size?: number;
+}
+
+const { pinyinWord, size = 100 } = Astro.props;
+---
+
+<div class="flex flex-row justify-center">
+    {
+        pinyinWord.map((word) => (
+            <div class="flex flex-col items-center">
+                <span class="text-2xl">{word.pinyin}</span>
+                <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="100"
+                    height="100"
+                    class="hanzi border-2 m-2 cursor-pointer"
+                    data-word={word.word}
+                    data-size={size}
+                >
+                    <line x1="0" y1="0" x2="100" y2="100" stroke="#DDD" />
+                    <line x1="100" y1="0" x2="0" y2="100" stroke="#DDD" />
+                    <line x1="50" y1="0" x2="50" y2="100" stroke="#DDD" />
+                    <line x1="0" y1="50" x2="100" y2="50" stroke="#DDD" />
+                </svg>
+            </div>
+        ))
+    }
+</div>
+
+<script>
+    import HanziWriter from "hanzi-writer";
+    let allHanzi = document.querySelectorAll(
+        ".hanzi",
+    ) as NodeListOf<HTMLElement>;
+    let chars = [];
+    for (var elem of allHanzi) {
+        let word = elem.getAttribute("data-word");
+        let size = elem.getAttribute("data-size");
+        if (!word || !size) continue;
+        let writer = HanziWriter.create(elem, word, {
+            width: parseInt(size),
+            height: parseInt(size),
+            padding: 5,
+            showCharacter: true,
+            strokeAnimationSpeed: 2,
+            delayBetweenStrokes: 10,
+        });
+        chars.push(writer);
+        elem.addEventListener("click", function () {
+            writer.animateCharacter();
+        });
+    }
+</script>

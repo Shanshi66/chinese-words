@@ -3,12 +3,9 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@/*": [
-        "src/*"
-      ],
-      "pub/*": [
-        "public/*"
-      ]
-    }
+      "@/*": ["src/*"],
+      "pub/*": ["public/*"]
+    },
+    "jsx": "preserve"
   }
 }

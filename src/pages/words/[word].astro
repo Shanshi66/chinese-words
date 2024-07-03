@@ -1,0 +1,61 @@
+---
+import fs from "fs";
+import "@fontsource/ma-shan-zheng";
+import PageLayout from "@/layouts/PageLayout.astro";
+import "@fontsource/twinkle-star";
+import Hanzi from "@/components/widget/words.astro";
+import { pinyin } from "pinyin-pro";
+import type { PinyinWord } from "@/common/types";
+export function getStaticPaths() {
+    // read file from src/data/words, get the list of words
+    const content = fs.readFileSync("src/data/words.txt", "utf-8");
+    // 将文件内容分割为数组
+    const lines = content.split("\n");
+    // map the list of words to an array of objects with params key
+    return lines.map((word) => {
+        return {
+            params: {
+                word: word,
+            },
+        };
+    });
+}
+
+const { word } = Astro.params;
+
+const pinyins = pinyin(word, { type: "array" });
+
+let pinyinWords: PinyinWord[] = [];
+for (let i = 0; i < word.length; i++) {
+    pinyinWords.push({
+        word: word[i],
+        pinyin: pinyins[i],
+    });
+}
+
+// Todo
+const metadata = {
+    title: `Chinese Words - ${word}`,
+    description: "Chinese Words",
+};
+---
+
+<PageLayout metadata={metadata}>
+    <main class="max-w-screen-md mx-auto">
+        <h1 class="text-4xl text-center text-white">{word}</h1>
+        <div class="mb-20">
+            <Hanzi pinyinWord={pinyinWords} />
+        </div>
+
+        <div class="my-4">
+            <h2 class="text-2xl border-b-[1px] p-2 font-serif">Explain</h2>
+            <p class="p-2 text-xl font-serif">hello</p>
+        </div>
+
+        <div class="my-4">
+            <h2 class="text-2xl border-b-[1px] p-2">Example</h2>
+            <p class="p-2 text-xl font-serif">你好，你叫什么名字?</p>
+            <p class="p-2 text-xl">Hello, what's your name?</p>
+        </div>
+    </main>
+</PageLayout>
