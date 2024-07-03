@@ -1,0 +1,32 @@
+---
+import { Image } from "astro:assets";
+
+interface Props {
+    path: string;
+    title: string;
+    description: string;
+    url: string;
+}
+const images = import.meta.glob<{ default: ImageMetadata }>(
+    "/src/assets/images/*.{jpg,jpeg,png,webp,gif}",
+);
+
+const { path, title, url, description } = Astro.props;
+
+if (!images[path]) throw new Error(`"${path}" does not exist in glob:`);
+
+const imageHeight = 300;
+const imageWidth = 300;
+---
+
+<!-- Features Item -->
+<a href={url}>
+    <Image
+        src={images[path]()}
+        alt={title}
+        width={imageWidth}
+        height={imageHeight}
+        class="aspect-video rounded-md mb-2"
+    />
+    <h3 class="text-xl font-semibold text-center">{title}</h3>
+</a>
