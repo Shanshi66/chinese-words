@@ -1,0 +1,20 @@
+---
+import type { PinyinWord } from "@/common/types";
+
+interface Props {
+    pinyinWords: PinyinWord[];
+}
+
+const { pinyinWords } = Astro.props;
+---
+
+<div class="flex flex-row flex-wrap">
+    {
+        pinyinWords.map((pw) => (
+            <div class="flex flex-col items-center text-xl mr-1">
+                <span class="mb-1">{pw.pinyin}</span>
+                <span>{pw.word}</span>
+            </div>
+        ))
+    }
+</div>

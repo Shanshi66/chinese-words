@@ -3,9 +3,10 @@ import fs from "fs";
 import "@fontsource/ma-shan-zheng";
 import PageLayout from "@/layouts/PageLayout.astro";
 import "@fontsource/twinkle-star";
-import Hanzi from "@/components/widget/words.astro";
+import Hanzi from "@/components/widget/WritingWords.astro";
 import { pinyin } from "pinyin-pro";
-import type { PinyinWord } from "@/common/types";
+import type { PinyinWord, Example } from "@/common/types";
+import PinyinWords from "@/components/widget/PinyinWords.astro";
 export function getStaticPaths() {
     // read file from src/data/words, get the list of words
     const content = fs.readFileSync("src/data/words.txt", "utf-8");
@@ -33,6 +34,31 @@ for (let i = 0; i < word.length; i++) {
     });
 }
 
+const example: Example[] = [
+    {
+        chinese: "你好，你叫什么名字?",
+        pinyin: pinyin("你好，你叫什么名字?", { type: "array" }),
+        english: "Hello, what's your name?",
+    },
+    {
+        chinese: "你好，你叫什么名字?",
+        pinyin: pinyin("你好，你叫什么名字?", { type: "array" }),
+        english: "Hello, what's your name?",
+    },
+];
+
+const explaination = {
+    english: "hello",
+};
+
+let examplePinyinWords: PinyinWord[] = [];
+for (let i = 0; i < example[0].chinese.length; i++) {
+    examplePinyinWords.push({
+        word: example[0].chinese[i],
+        pinyin: example[0].pinyin[i],
+    });
+}
+
 // Todo
 const metadata = {
     title: `Chinese Words - ${word}`,
@@ -44,18 +70,24 @@ const metadata = {
     <main class="max-w-screen-md mx-auto">
         <h1 class="text-4xl text-center text-white">{word}</h1>
         <div class="mb-20">
-            <Hanzi pinyinWord={pinyinWords} />
+            <Hanzi pinyinWords={pinyinWords} />
         </div>
 
-        <div class="my-4">
-            <h2 class="text-2xl border-b-[1px] p-2 font-serif">Explain</h2>
-            <p class="p-2 text-xl font-serif">hello</p>
+        <div class="my-10">
+            <h2 class="text-2xl border-b-[1px] py-2 font-serif">Explanation</h2>
+            <p class="my-2 text-xl font-serif">{explaination.english}</p>
         </div>
 
-        <div class="my-4">
-            <h2 class="text-2xl border-b-[1px] p-2">Example</h2>
-            <p class="p-2 text-xl font-serif">你好，你叫什么名字?</p>
-            <p class="p-2 text-xl">Hello, what's your name?</p>
+        <div class="my-10">
+            <h2 class="text-2xl border-b-[1px] py-2">Examples</h2>
+            {
+                example.map((ex) => (
+                    <div class="my-5 flex flex-col items-center">
+                        <PinyinWords pinyinWords={examplePinyinWords} />
+                        <p class="my-2 text-xl">{ex.english}</p>
+                    </div>
+                ))
+            }
         </div>
     </main>
 </PageLayout>
