@@ -1,7 +1,6 @@
 ---
 import type { MetaData as MetaDataType } from "@/common/types";
 import "@fontsource/twinkle-star";
-import { ViewTransitions } from "astro:transitions";
 export interface Props {
 	metadata: MetaDataType;
 }
@@ -16,7 +15,6 @@ const { metadata } = Astro.props;
 		<meta name="description" content={metadata.description} />
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<ViewTransitions />
 		<title>{metadata.title}</title>
 	</head>
 	<body class="font-serif max-w-screen-2xl mx-auto min-h-screen">

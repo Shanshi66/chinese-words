@@ -1,5 +1,8 @@
 ---
+const path = Astro.url.pathname;
 
+const isListActive = path.startsWith("/lists");
+const isWordActive = path.startsWith("/words");
 ---
 
 <section>
@@ -9,14 +12,28 @@
                 <a class="ml-2 text-xl font-bold" href="/">Chinese Words</a>
             </div>
             <div>
-                <a
-                    href="/lists"
-                    class="rounded-lg lg:px-6 lg:py-4 hover:bg-gray-5">Lists</a
-                >
-                <a
-                    href="/words"
-                    class="rounded-lg lg:px-6 lg:py-4 hover:bg-gray-5">Word</a
-                >
+                {
+                    isListActive ? (
+                        <a href="/lists" class="p-4 text-blue-700">
+                            Lists
+                        </a>
+                    ) : (
+                        <a href="/lists" class="p-4">
+                            Lists
+                        </a>
+                    )
+                }
+                {
+                    isWordActive ? (
+                        <a href="/words" class="p-4 text-blue-700">
+                            Word
+                        </a>
+                    ) : (
+                        <a href="/words" class="p-4">
+                            Word
+                        </a>
+                    )
+                }
                 <!-- <a
                     href="/blog"
                     class="rounded-lg lg:px-6 lg:py-4 hover:bg-gray-5">Blog</a
