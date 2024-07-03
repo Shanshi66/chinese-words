@@ -1,0 +1,42 @@
+---
+const wordsNumber = 1000;
+const wordListsNumber = 10;
+const exampleNumber = 1000;
+---
+
+<!-- Section Facts -->
+<section>
+    <!-- Facts Container -->
+    <div class="mx-auto w-full max-w-7xl px-5 py-16 md:px-10 md:py-24 lg:py-32">
+        <!-- Facts Title -->
+        <h2 class="text-center text-2xl font-bold md:text-4xl mb-10">
+            How Many Words Included?
+        </h2>
+        <!-- Facts Content -->
+        <div
+            class="mx-auto grid max-w-4xl gap-6 bg-[#f2f2f7] px-16 py-8 sm:grid-cols-1 lg:grid-cols-3"
+        >
+            <!-- Facts Item -->
+            <div class="flex flex-col items-center justify-center">
+                <p class="text-sm uppercase">WORDS</p>
+                <h3 class="text-2xl font-bold text-[#276ef1] md:text-3xl">
+                    {wordsNumber}
+                </h3>
+            </div>
+            <!-- Facts Item -->
+            <div class="flex flex-col items-center justify-center">
+                <p class="text-sm uppercase">WORD LISTS</p>
+                <h3 class="text-2xl font-bold text-[#276ef1] md:text-3xl">
+                    {wordListsNumber}
+                </h3>
+            </div>
+            <!-- Facts Item -->
+            <div class="flex flex-col items-center justify-center">
+                <p class="text-sm uppercase">EXAMPLES</p>
+                <h3 class="text-2xl font-bold text-[#276ef1] md:text-3xl">
+                    {exampleNumber}
+                </h3>
+            </div>
+        </div>
+    </div>
+</section>

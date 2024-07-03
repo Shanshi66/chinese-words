@@ -1,0 +1,17 @@
+---
+import type { Question } from "@/common/types";
+
+interface Prop {
+    question: Question;
+}
+const { question } = Astro.props;
+---
+
+<div class="text-xl my-6 rounded-sm border-b-[1px] border-[#c4c4c4] p-8">
+    <h3 class="font-semibold mb-4">
+        {question.question}
+    </h3>
+    <p class="mb-4 text-[#636262]">
+        {question.answer}
+    </p>
+</div>

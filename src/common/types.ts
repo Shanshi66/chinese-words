@@ -14,3 +14,8 @@ export interface Example {
     pinyin: string[];
     english: string;
 }
+
+export interface Question {
+    question: string;
+    answer: string;
+}
