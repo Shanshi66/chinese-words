@@ -1,7 +1,6 @@
 ---
 import PageLayout from "@/layouts/PageLayout.astro";
-import { listDetails } from "@/customize/list";
-import ListCard from "@/components/widget/ListCard.astro";
+import { allList } from "@/customize/list";
 import ListItem from "@/components/widget/ListItem.astro";
 
 const metadata = {
@@ -23,7 +22,7 @@ const metadata = {
 
     <div class="flex flex-col items-center py-16 px-5">
         <div class="grid gap-10 lg:grid-cols-2 md:grid-cols-1">
-            {listDetails.map((word) => <ListItem detail={word} />)}
+            {allList.map((word) => <ListItem detail={word} />)}
         </div>
     </div>
 </PageLayout>

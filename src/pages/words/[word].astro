@@ -7,6 +7,7 @@ import Hanzi from "@/components/widget/WritingWords.astro";
 import { pinyin } from "pinyin-pro";
 import type { PinyinWord, WordDetail } from "@/common/types";
 import Explanation from "@/components/widget/Explanation.astro";
+
 export async function getStaticPaths() {
     const wordFiles = fs.readdirSync("src/data/words");
     return wordFiles.map((wordFile) => {

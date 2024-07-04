@@ -1,0 +1,22 @@
+---
+import type { WordDetail } from "@/common/types";
+
+interface Props {
+    words: WordDetail[];
+}
+
+const { words } = Astro.props;
+---
+
+<div class="grid grid-cols-5 md:grid-cols-10">
+    {
+        words.map((word) => (
+            <a
+                class="block hover:text-blue-700 m-2 text-xl"
+                href={`/words/${word.word}`}
+            >
+                {word.word}
+            </a>
+        ))
+    }
+</div>

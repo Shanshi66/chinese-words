@@ -1,0 +1,49 @@
+---
+import PageLayout from "@/layouts/PageLayout.astro";
+import { allList } from "@/customize/list";
+import type { WordDetail } from "@/common/types";
+import Words from "@/components/widget/Words.astro";
+import { loadAllWords } from "@/utils/words";
+
+export async function getStaticPaths() {
+    return allList.map((list) => {
+        return {
+            params: {
+                list: list.name,
+            },
+        };
+    });
+}
+
+const { list } = Astro.params;
+
+const wordList = allList.find((item) => item.name === list);
+
+const allWords: WordDetail[] = loadAllWords();
+
+let listWords = [];
+
+for (let i = 0; i < allWords.length; i++) {
+    // if tags in wordList.tags cross with allWords[i].tags
+    if (wordList?.tags.some((tag) => allWords[i].tags.includes(tag))) {
+        listWords.push(allWords[i]);
+    }
+}
+
+const metadata = {
+    title: "Chinese Words",
+    description: "Chinese Words",
+};
+---
+
+<PageLayout metadata={metadata}>
+    <div class="px-5 py-16 md:px-10 md:py-24 lg:py-25">
+        <h1 class="text-3xl font-bold md:text-5xl text-center mb-10">
+            {wordList?.title}
+        </h1>
+        <p class="text-center text-xl text-gray-500">
+            {wordList?.description}
+        </p>
+    </div>
+    <Words words={listWords} />
+</PageLayout>
