@@ -1,0 +1,26 @@
+{
+    "word": "从容",
+    "tag": "HSK7",
+    "explanations": [
+        {
+            "explanation": "你好",
+            "translate": {
+                "english": "hello"
+            },
+            "examples": [
+                {
+                    "example": "你好, 小明!",
+                    "translate": {
+                        "english": "Hello, Ming!"
+                    }
+                },
+                {
+                    "example": "你好, 你叫什么名字",
+                    "translate": {
+                        "english": "Hello, what's your name?"
+                    }
+                }
+            ]
+        }
+    ]
+}
