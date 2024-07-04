@@ -1,7 +1,26 @@
 ---
-const wordsNumber = 1000;
-const wordListsNumber = 10;
-const exampleNumber = 1000;
+import type { Language } from "@/common/types";
+import { getIntlData } from "@/customize/intl";
+import { allList } from "@/customize/list";
+import { loadAllWords } from "@/utils/words";
+
+interface Props {
+    lang: Language;
+}
+
+const { lang } = Astro.props;
+
+const intlData = getIntlData(lang);
+
+const allWords = loadAllWords();
+
+const wordsNumber = allWords.length;
+const wordListsNumber = allList.length;
+const exampleNumber = allWords
+    .map((word) => word.explanations)
+    .flat()
+    .map((explain) => explain.examples.length)
+    .reduce((a, b) => a + b, 0);
 ---
 
 <!-- Section Facts -->
@@ -10,7 +29,7 @@ const exampleNumber = 1000;
     <div class="mx-auto w-full max-w-7xl px-5 py-16 md:px-10 md:py-24 lg:py-32">
         <!-- Facts Title -->
         <h2 class="text-center text-2xl font-bold md:text-4xl mb-10">
-            How Many Words Included?
+            {intlData.home.factsTitle}
         </h2>
         <!-- Facts Content -->
         <div
@@ -18,21 +37,23 @@ const exampleNumber = 1000;
         >
             <!-- Facts Item -->
             <div class="flex flex-col items-center justify-center">
-                <p class="text-sm uppercase">WORDS</p>
+                <p class="uppercase">{intlData.home.factsWordCount}</p>
                 <h3 class="text-2xl font-bold text-blue-700 md:text-3xl">
                     {wordsNumber}
                 </h3>
             </div>
             <!-- Facts Item -->
             <div class="flex flex-col items-center justify-center">
-                <p class="text-sm uppercase">WORD LISTS</p>
+                <p class="uppercase">{intlData.home.factsListCount}</p>
                 <h3 class="text-2xl font-bold text-blue-700 md:text-3xl">
                     {wordListsNumber}
                 </h3>
             </div>
             <!-- Facts Item -->
             <div class="flex flex-col items-center justify-center">
-                <p class="text-sm uppercase">EXAMPLES</p>
+                <p class="uppercase">
+                    {intlData.home.factsExampleCount}
+                </p>
                 <h3 class="text-2xl font-bold text-blue-700 md:text-3xl">
                     {exampleNumber}
                 </h3>

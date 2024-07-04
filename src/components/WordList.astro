@@ -1,13 +1,23 @@
 ---
+import type { Language } from "@/common/types";
 import ListCard from "./widget/ListCard.astro";
 import { homeList } from "@/customize/list";
+import { getIntlData } from "@/customize/intl";
+
+interface Props {
+    lang: Language;
+}
+
+const { lang } = Astro.props;
+
+const intl = getIntlData(lang);
 ---
 
 <section>
     <div class="flex flex-col items-center py-16 px-5">
         <!-- Features Title -->
         <h2 class="text-2xl font-bold md:text-4xl text-center mb-10">
-            Chinese Words List
+            {intl.home.wordListTitle}
         </h2>
         <!-- Features Grid -->
         <div class="grid gap-5 lg:grid-cols-3 md:grid-cols-1">

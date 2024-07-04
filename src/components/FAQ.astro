@@ -1,21 +1,17 @@
 ---
-import type { Question } from "@/common/types";
+import type { Language } from "@/common/types";
 import AQ from "./widget/AQ.astro";
+import { getFaqData } from "@/customize/faq";
+import { getIntlData } from "@/customize/intl";
 
-const questions: Question[] = [
-    {
-        question: "What is this site about?",
-        answer: "This website has collected a lot of Chinese words (and will include more in the future), providing pinyin, annotations, examples, and stroke order for each word, with support for pronunciation to be added later. We will also categorize the words into different lists. Through this website, you can learn Chinese more effectively.",
-    },
-    {
-        question: "How to find a Chinese word?",
-        answer: "We offer three methods to look up words: the first is by searching for Chinese words or pinyin, the second is through categorized word lists, and the third is by filtering through the word catalog.",
-    },
-    {
-        question: "Does this site include all Chinese words?",
-        answer: "Currently, this website does not include all words, as organizing the data takes a considerable amount of time, but in the future, it will cover more, including idioms, xiehouyu (two-part allegorical sayings), and so on.",
-    },
-];
+interface Props {
+    lang: Language;
+}
+
+const { lang } = Astro.props;
+
+const questions = getFaqData(lang);
+const intlData = getIntlData(lang);
 ---
 
 <section>
@@ -24,7 +20,7 @@ const questions: Question[] = [
         <!-- Heading Div -->
         <div class="mb-8 text-center md:mb-12 lg:mb-16">
             <h2 class="text-2xl font-semibold md:text-4xl">
-                Frequently Asked Questions
+                {intlData.home.faqTitle}
             </h2>
         </div>
         <!-- FAQ Div -->
