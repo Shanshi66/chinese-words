@@ -1,5 +1,8 @@
 ---
 import PageLayout from "@/layouts/PageLayout.astro";
+import { listDetails } from "@/customize/list";
+import ListCard from "@/components/widget/ListCard.astro";
+import ListItem from "@/components/widget/ListItem.astro";
 
 const metadata = {
     title: "Chinese Words",
@@ -8,5 +11,19 @@ const metadata = {
 ---
 
 <PageLayout metadata={metadata}>
-    <main></main>
+    <div class="px-5 py-16 md:px-10 md:py-24 lg:py-25">
+        <h1 class="text-3xl font-bold md:text-5xl text-center mb-10">
+            Chinese Words List
+        </h1>
+        <p class="text-center text-xl text-gray-500">
+            Organize Chinese words into different lists according to various
+            usage scenarios, facilitating learning for different purposes.
+        </p>
+    </div>
+
+    <div class="flex flex-col items-center py-16 px-5">
+        <div class="grid gap-10 lg:grid-cols-2 md:grid-cols-1">
+            {listDetails.map((word) => <ListItem detail={word} />)}
+        </div>
+    </div>
 </PageLayout>

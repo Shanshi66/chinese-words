@@ -1,6 +1,6 @@
 ---
 import ListCard from "./widget/ListCard.astro";
-import { listData } from "@/customize/list";
+import { listDetails } from "@/customize/list";
 ---
 
 <section>
@@ -11,7 +11,7 @@ import { listData } from "@/customize/list";
         </h2>
         <!-- Features Grid -->
         <div class="grid gap-5 lg:grid-cols-3 md:grid-cols-1">
-            {listData.map((word) => <ListCard detail={word} />)}
+            {listDetails.map((word) => <ListCard detail={word} />)}
         </div>
     </div>
 </section>

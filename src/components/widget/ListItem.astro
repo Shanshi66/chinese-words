@@ -1,0 +1,35 @@
+---
+import type { ListDetail } from "@/customize/list";
+import { Image } from "astro:assets";
+
+interface Props {
+    detail: ListDetail;
+}
+const images = import.meta.glob<{ default: ImageMetadata }>(
+    "/src/assets/images/*.{jpg,jpeg,png,webp,gif}",
+);
+
+const { detail } = Astro.props;
+
+if (!images[detail.imgPath])
+    throw new Error(`"${detail.imgPath}" does not exist in glob:`);
+
+const imageHeight = 150;
+const imageWidth = 150;
+---
+
+<a href={detail.url}>
+    <div class="flex flex-row items-center">
+        <Image
+            src={images[detail.imgPath]()}
+            alt={detail.title}
+            width={imageWidth}
+            height={imageHeight}
+            class="aspect-video rounded-md mr-4"
+        />
+        <div>
+            <h3 class="text-xl font-semibold">{detail.title}</h3>
+            <p class="text-gray-500">{detail.description}</p>
+        </div>
+    </div>
+</a>

@@ -6,7 +6,7 @@ export interface ListDetail {
     tags: string[];
 }
 
-export const listData: ListDetail[] = [
+export const listDetails: ListDetail[] = [
     {
         title: "HSK",
         description: "Common Chinese words for colors",
