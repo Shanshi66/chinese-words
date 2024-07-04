@@ -1,13 +1,3 @@
-
-// export const hskList: ListDetail = {
-//     title: "HSK-ALL",
-//     name: "hsk-all",
-//     description: "Common Chinese words for hsk",
-//     imgPath: "/src/assets/images/hsk.jpg",
-//     url: '/lists/hsk-all',
-//     tags: ["hsk1", "hsk2", "hsk3", "hsk4", "hsk5", "hsk6", "hsk high"],
-// }
-
 import type { ListDetail } from "@/common/types"
 
 export const hsk1List: ListDetail = {

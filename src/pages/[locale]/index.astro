@@ -11,24 +11,26 @@ export async function getStaticPaths() {
 	return supportedLang.map((lang) => {
 		return {
 			params: {
-				lang: lang?.locale,
+				locale: lang?.locale,
 			},
 		};
 	});
 }
 
-const { lang } = Astro.params;
+const { locale } = Astro.params;
+
+const lang = getLang(locale);
 
 const metadata: MetaData = {
 	title: "Chinese Words",
 	description: "Chinese Words",
-	lang: getLang(lang),
+	lang: lang,
 };
 ---
 
 <PageLayout metadata={metadata}>
-	<Hero lang={getLang(lang)} />
-	<WordList lang={getLang(lang)} />
-	<Facts lang={getLang(lang)} />
-	<FAQ lang={getLang(lang)} />
+	<Hero lang={lang} />
+	<WordList lang={lang} />
+	<Facts lang={lang} />
+	<FAQ lang={lang} />
 </PageLayout>

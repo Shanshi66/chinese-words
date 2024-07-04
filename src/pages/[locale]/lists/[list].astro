@@ -12,7 +12,7 @@ export async function getStaticPaths() {
         for (let list of allList) {
             paths.push({
                 params: {
-                    lang: lang?.locale,
+                    locale: lang?.locale,
                     list: list.name,
                 },
             });
@@ -21,7 +21,7 @@ export async function getStaticPaths() {
     return paths;
 }
 
-const { list, lang } = Astro.params;
+const { list, locale } = Astro.params;
 
 const wordList = allList.find((item) => item.name === list);
 
@@ -39,7 +39,7 @@ for (let i = 0; i < allWords.length; i++) {
 const metadata: MetaData = {
     title: "Chinese Words",
     description: "Chinese Words",
-    lang: getLang(lang),
+    lang: getLang(locale),
 };
 ---
 

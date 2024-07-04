@@ -4,34 +4,37 @@ import { allList } from "@/customize/list";
 import ListItem from "@/components/widget/ListItem.astro";
 import { getLang, supportedLang } from "@/customize/lang";
 import type { MetaData } from "@/common/types";
+import { getIntlData } from "@/customize/intl";
 
 export async function getStaticPaths() {
     return supportedLang.map((lang) => {
         return {
             params: {
-                lang: lang?.locale,
+                locale: lang?.locale,
             },
         };
     });
 }
 
-const { lang } = Astro.params;
+const { locale } = Astro.params;
+const lang = getLang(locale);
+
+const intlData = getIntlData(lang);
 
 const metadata: MetaData = {
     title: "Chinese Words",
     description: "Chinese Words",
-    lang: getLang(lang),
+    lang: lang,
 };
 ---
 
 <PageLayout metadata={metadata}>
     <div class="px-5 py-16 md:px-10 md:py-24 lg:py-25">
         <h1 class="text-3xl font-bold md:text-5xl text-center mb-10">
-            Chinese Words List
+            {intlData.lists.title}
         </h1>
         <p class="text-center text-xl text-gray-500">
-            Organize Chinese words into different lists according to various
-            usage scenarios, facilitating learning for different purposes.
+            {intlData.lists.description}
         </p>
     </div>
 

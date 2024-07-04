@@ -16,7 +16,7 @@ export async function getStaticPaths() {
         for (let word of wordFiles) {
             paths.push({
                 params: {
-                    lang: lang?.locale,
+                    locale: lang?.locale,
                     word: word.split(".")[0],
                 },
             });
@@ -25,7 +25,7 @@ export async function getStaticPaths() {
     return paths;
 }
 
-const { word, lang } = Astro.params;
+const { word, locale } = Astro.params;
 
 const pinyins = pinyin(word, { type: "array" });
 
@@ -44,7 +44,7 @@ let wordDetail: WordDetail = JSON.parse(content.toString());
 const metadata: MetaData = {
     title: `Chinese Words - ${word}`,
     description: "Chinese Words",
-    lang: getLang(lang),
+    lang: getLang(locale),
 };
 ---
 
