@@ -13,7 +13,7 @@ const { metadata } = Astro.props;
 ---
 
 <Layout metadata={metadata}>
-    <Header {...headerData} isSticky showRssFeed showToggleTheme />
+    <Header lang={metadata.lang} />
     <main class="mx-auto max-w-screen-2xl">
         <slot />
     </main>

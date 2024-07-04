@@ -1,4 +1,5 @@
 ---
+import type { MetaData } from "@/common/types";
 import FAQ from "@/components/FAQ.astro";
 import Facts from "@/components/Facts.astro";
 import Hero from "@/components/Hero.astro";
@@ -7,27 +8,27 @@ import { getLang, supportedLang } from "@/customize/lang";
 import PageLayout from "@/layouts/PageLayout.astro";
 
 export async function getStaticPaths() {
-    return supportedLang.map((lang) => {
-        return {
-            params: {
-                lang: lang?.locale,
-            },
-        };
-    });
+	return supportedLang.map((lang) => {
+		return {
+			params: {
+				lang: lang?.locale,
+			},
+		};
+	});
 }
 
 const { lang } = Astro.params;
 
-const metadata = {
-    title: "Chinese Words",
-    description: "Chinese Words",
-    lang: getLang(lang),
+const metadata: MetaData = {
+	title: "Chinese Words",
+	description: "Chinese Words",
+	lang: getLang(lang),
 };
 ---
 
 <PageLayout metadata={metadata}>
-    <Hero />
-    <WordList />
-    <Facts />
-    <FAQ />
+	<Hero />
+	<WordList />
+	<Facts />
+	<FAQ />
 </PageLayout>

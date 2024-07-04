@@ -1,11 +1,3 @@
-export interface ListDetail {
-    title: string;
-    name: string;
-    description: string;
-    imgPath: string;
-    url: string;
-    tags: string[];
-}
 
 // export const hskList: ListDetail = {
 //     title: "HSK-ALL",
@@ -15,6 +7,8 @@ export interface ListDetail {
 //     url: '/lists/hsk-all',
 //     tags: ["hsk1", "hsk2", "hsk3", "hsk4", "hsk5", "hsk6", "hsk high"],
 // }
+
+import type { ListDetail } from "@/common/types"
 
 export const hsk1List: ListDetail = {
     title: "HSK-1",

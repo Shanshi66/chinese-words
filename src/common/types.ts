@@ -2,6 +2,7 @@ export interface MetaData {
     title: string;
     canonical?: string;
     description: string;
+    lang: Language;
 }
 
 export interface PinyinWord {
@@ -33,4 +34,18 @@ export interface Explanation {
 export interface Example {
     example: string;
     translate: Translate;
+}
+
+export interface Language {
+    locale: string;
+    name: string;
+}
+
+export interface ListDetail {
+    title: string;
+    name: string;
+    description: string;
+    imgPath: string;
+    url: string;
+    tags: string[];
 }

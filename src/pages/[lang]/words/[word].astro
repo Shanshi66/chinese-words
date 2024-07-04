@@ -5,21 +5,27 @@ import PageLayout from "@/layouts/PageLayout.astro";
 import "@fontsource/twinkle-star";
 import Hanzi from "@/components/widget/WritingWords.astro";
 import { pinyin } from "pinyin-pro";
-import type { PinyinWord, WordDetail } from "@/common/types";
+import type { MetaData, PinyinWord, WordDetail } from "@/common/types";
 import Explanation from "@/components/widget/Explanation.astro";
+import { getLang, supportedLang } from "@/customize/lang";
 
 export async function getStaticPaths() {
     const wordFiles = fs.readdirSync("src/data/words");
-    return wordFiles.map((wordFile) => {
-        return {
-            params: {
-                word: wordFile.split(".")[0],
-            },
-        };
-    });
+    let paths = [];
+    for (let lang of supportedLang) {
+        for (let word of wordFiles) {
+            paths.push({
+                params: {
+                    lang: lang?.locale,
+                    word: word.split(".")[0],
+                },
+            });
+        }
+    }
+    return paths;
 }
 
-const { word } = Astro.params;
+const { word, lang } = Astro.params;
 
 const pinyins = pinyin(word, { type: "array" });
 
@@ -35,9 +41,10 @@ let content = fs.readFileSync(`src/data/words/${word}.json`);
 let wordDetail: WordDetail = JSON.parse(content.toString());
 
 // Todo
-const metadata = {
+const metadata: MetaData = {
     title: `Chinese Words - ${word}`,
     description: "Chinese Words",
+    lang: getLang(lang),
 };
 ---
 

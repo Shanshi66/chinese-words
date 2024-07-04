@@ -1,50 +1,96 @@
 ---
-const path = Astro.url.pathname;
+import type { Language } from "@/common/types";
+import { getIntlData } from "@/customize/intl";
+import { supportedLang } from "@/customize/lang";
 
-const isListActive = path === "/lists";
-const isWordActive = path === "/words";
+interface Props {
+    lang: Language;
+}
+
+const { lang } = Astro.props;
+const pathSplit = Astro.url.pathname.split("/");
+
+let pathWithoutLang = "";
+if (pathSplit.length > 2) {
+    pathWithoutLang = `/${pathSplit.slice(2).join("/")}`;
+} else {
+    pathWithoutLang = "/";
+}
+
+const intl = getIntlData(lang);
+
+const isList = pathWithoutLang === "/lists";
+const isHome = pathWithoutLang === "/";
 ---
 
 <section>
     <nav class="lg:relative lg:top-0 border-b-[1px]">
         <div class="flex flex-row items-center justify-between h-14">
             <div>
-                <a class="ml-2 text-xl font-bold" href="/">Chinese Words</a>
+                <a class="ml-2 text-xl font-bold" href={`/${lang.locale}`}
+                    >Chinese Words</a
+                >
             </div>
             <div>
                 {
-                    isListActive ? (
+                    isHome ? (
                         <a
-                            href="/lists"
+                            href={`/${lang.locale}`}
                             class="p-4 text-blue-700 font-semibold"
                         >
-                            Lists
+                            {intl.home.home}
                         </a>
                     ) : (
-                        <a href="/lists" class="p-4">
-                            Lists
+                        <a href={`/${lang.locale}`} class="p-4">
+                            {intl.home.home}
                         </a>
                     )
                 }
-                <!-- {
-                    isWordActive ? (
+                {
+                    isList ? (
                         <a
-                            href="/words"
+                            href={`/${lang.locale}/lists`}
                             class="p-4 text-blue-700 font-semibold"
                         >
-                            Word
+                            {intl.home.lists}
                         </a>
                     ) : (
-                        <a href="/words" class="p-4">
-                            Word
+                        <a href={`/${lang.locale}/lists`} class="p-4">
+                            {intl.home.lists}
                         </a>
                     )
-                } -->
-                <!-- <a
-                    href="/blog"
-                    class="rounded-lg lg:px-6 lg:py-4 hover:bg-gray-5">Blog</a
-                > -->
+                }
+            </div>
+            <div>
+                <select
+                    name="language"
+                    id="language-select"
+                    data-path={`${pathWithoutLang}`}
+                >
+                    {
+                        supportedLang.map((l) => (
+                            <option value={l.locale} selected={l === lang}>
+                                {l.name}
+                            </option>
+                        ))
+                    }
+                </select>
             </div>
         </div>
     </nav>
 </section>
+
+<script>
+    let languageSelect = document.getElementById("language-select");
+    if (languageSelect) {
+        languageSelect.addEventListener("change", (e) => {
+            const value = (e.target as HTMLSelectElement).value;
+            const path = languageSelect.getAttribute("data-path");
+            if (path === "/") {
+                window.location.href = `/${value}`;
+            } else {
+                window.location.href = `/${value}${path}`;
+            }
+        });
+    }
+</script>

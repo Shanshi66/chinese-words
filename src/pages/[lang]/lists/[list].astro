@@ -1,21 +1,27 @@
 ---
 import PageLayout from "@/layouts/PageLayout.astro";
 import { allList } from "@/customize/list";
-import type { WordDetail } from "@/common/types";
+import type { MetaData, WordDetail } from "@/common/types";
 import Words from "@/components/widget/Words.astro";
 import { loadAllWords } from "@/utils/words";
+import { getLang, supportedLang } from "@/customize/lang";
 
 export async function getStaticPaths() {
-    return allList.map((list) => {
-        return {
-            params: {
-                list: list.name,
-            },
-        };
-    });
+    let paths = [];
+    for (let lang of supportedLang) {
+        for (let list of allList) {
+            paths.push({
+                params: {
+                    lang: lang?.locale,
+                    list: list.name,
+                },
+            });
+        }
+    }
+    return paths;
 }
 
-const { list } = Astro.params;
+const { list, lang } = Astro.params;
 
 const wordList = allList.find((item) => item.name === list);
 
@@ -30,9 +36,10 @@ for (let i = 0; i < allWords.length; i++) {
     }
 }
 
-const metadata = {
+const metadata: MetaData = {
     title: "Chinese Words",
     description: "Chinese Words",
+    lang: getLang(lang),
 };
 ---
 

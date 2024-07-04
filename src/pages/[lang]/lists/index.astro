@@ -2,10 +2,25 @@
 import PageLayout from "@/layouts/PageLayout.astro";
 import { allList } from "@/customize/list";
 import ListItem from "@/components/widget/ListItem.astro";
+import { getLang, supportedLang } from "@/customize/lang";
+import type { MetaData } from "@/common/types";
 
-const metadata = {
+export async function getStaticPaths() {
+    return supportedLang.map((lang) => {
+        return {
+            params: {
+                lang: lang?.locale,
+            },
+        };
+    });
+}
+
+const { lang } = Astro.params;
+
+const metadata: MetaData = {
     title: "Chinese Words",
     description: "Chinese Words",
+    lang: getLang(lang),
 };
 ---
 
