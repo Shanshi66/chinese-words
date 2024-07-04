@@ -43,7 +43,7 @@ for (let i = 0; i < allWords.length; i++) {
 const metadata: MetaData = {
     title: "Chinese Words",
     description: "Chinese Words",
-    lang: getLang(locale),
+    lang: lang,
 };
 ---
 
@@ -56,5 +56,5 @@ const metadata: MetaData = {
             {wordListDesc?.description}
         </p>
     </div>
-    <Words words={listWords} />
+    <Words words={listWords} lang={lang} />
 </PageLayout>

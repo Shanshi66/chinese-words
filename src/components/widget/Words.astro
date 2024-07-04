@@ -1,11 +1,12 @@
 ---
-import type { WordDetail } from "@/common/types";
+import type { WordDetail, Language } from "@/common/types";
 
 interface Props {
     words: WordDetail[];
+    lang: Language;
 }
 
-const { words } = Astro.props;
+const { words, lang } = Astro.props;
 ---
 
 <div class="grid grid-cols-5 md:grid-cols-10">
@@ -13,7 +14,7 @@ const { words } = Astro.props;
         words.map((word) => (
             <a
                 class="block hover:text-blue-700 m-2 text-xl"
-                href={`/words/${word.word}`}
+                href={`/${lang.locale}/words/${word.word}`}
             >
                 {word.word}
             </a>
