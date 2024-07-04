@@ -41,11 +41,16 @@ export interface Language {
     name: string;
 }
 
-export interface ListDetail {
+export interface ListDescription {
     title: string;
-    name: string;
     description: string;
+}
+
+export interface IntlListDetail {
+    name: string;
     imgPath: string;
     url: string;
     tags: string[];
+    chinese: ListDescription;
+    english: ListDescription;
 }

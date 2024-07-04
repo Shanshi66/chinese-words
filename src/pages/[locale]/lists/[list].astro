@@ -1,6 +1,6 @@
 ---
 import PageLayout from "@/layouts/PageLayout.astro";
-import { allList } from "@/customize/list";
+import { allList, getListIntl } from "@/customize/list";
 import type { MetaData, WordDetail } from "@/common/types";
 import Words from "@/components/widget/Words.astro";
 import { loadAllWords } from "@/utils/words";
@@ -23,7 +23,11 @@ export async function getStaticPaths() {
 
 const { list, locale } = Astro.params;
 
+const lang = getLang(locale);
+
 const wordList = allList.find((item) => item.name === list);
+
+const wordListDesc = wordList ? getListIntl(wordList, lang) : null;
 
 const allWords: WordDetail[] = loadAllWords();
 
@@ -46,10 +50,10 @@ const metadata: MetaData = {
 <PageLayout metadata={metadata}>
     <div class="px-5 py-16 md:px-10 md:py-24 lg:py-25">
         <h1 class="text-3xl font-bold md:text-5xl text-center mb-10">
-            {wordList?.title}
+            {wordListDesc?.title}
         </h1>
         <p class="text-center text-xl text-gray-500">
-            {wordList?.description}
+            {wordListDesc?.description}
         </p>
     </div>
     <Words words={listWords} />

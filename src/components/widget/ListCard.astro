@@ -1,9 +1,10 @@
 ---
-import type { Language, ListDetail } from "@/common/types";
+import type { IntlListDetail, Language } from "@/common/types";
+import { getListIntl } from "@/customize/list";
 import { Image } from "astro:assets";
 
 interface Props {
-    detail: ListDetail;
+    detail: IntlListDetail;
     lang: Language;
 }
 const images = import.meta.glob<{ default: ImageMetadata }>(
@@ -17,15 +18,17 @@ if (!images[detail.imgPath])
 
 const imageHeight = 300;
 const imageWidth = 300;
+
+const listDesc = getListIntl(detail, lang);
 ---
 
 <a href={`/${lang.locale}${detail.url}`}>
     <Image
         src={images[detail.imgPath]()}
-        alt={detail.title}
+        alt={listDesc.title}
         width={imageWidth}
         height={imageHeight}
         class="aspect-video rounded-md mb-2"
     />
-    <h3 class="text-xl font-semibold text-center">{detail.title}</h3>
+    <h3 class="text-xl font-semibold text-center">{listDesc.title}</h3>
 </a>
