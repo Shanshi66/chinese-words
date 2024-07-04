@@ -40,7 +40,7 @@ const metadata: MetaData = {
 
     <div class="flex flex-col items-center py-16 px-5">
         <div class="grid gap-10 lg:grid-cols-2 md:grid-cols-1">
-            {allList.map((word) => <ListItem detail={word} />)}
+            {allList.map((word) => <ListItem lang={lang} detail={word} />)}
         </div>
     </div>
 </PageLayout>

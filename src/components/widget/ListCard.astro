@@ -1,15 +1,16 @@
 ---
-import type { ListDetail } from "@/customize/list";
+import type { Language, ListDetail } from "@/common/types";
 import { Image } from "astro:assets";
 
 interface Props {
     detail: ListDetail;
+    lang: Language;
 }
 const images = import.meta.glob<{ default: ImageMetadata }>(
     "/src/assets/images/*.{jpg,jpeg,png,webp,gif}",
 );
 
-const { detail } = Astro.props;
+const { detail, lang } = Astro.props;
 
 if (!images[detail.imgPath])
     throw new Error(`"${detail.imgPath}" does not exist in glob:`);
@@ -18,7 +19,7 @@ const imageHeight = 300;
 const imageWidth = 300;
 ---
 
-<a href={detail.url}>
+<a href={`/${lang.locale}${detail.url}`}>
     <Image
         src={images[detail.imgPath]()}
         alt={detail.title}

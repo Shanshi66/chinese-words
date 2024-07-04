@@ -15,13 +15,11 @@ const intl = getIntlData(lang);
 
 <section>
     <div class="flex flex-col items-center py-16 px-5">
-        <!-- Features Title -->
         <h2 class="text-2xl font-bold md:text-4xl text-center mb-10">
             {intl.home.wordListTitle}
         </h2>
-        <!-- Features Grid -->
         <div class="grid gap-5 lg:grid-cols-3 md:grid-cols-1">
-            {homeList.map((word) => <ListCard detail={word} />)}
+            {homeList.map((word) => <ListCard lang={lang} detail={word} />)}
         </div>
     </div>
 </section>
