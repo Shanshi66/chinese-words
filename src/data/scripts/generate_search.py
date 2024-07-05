@@ -3,10 +3,12 @@ from pypinyin import pinyin, Style
 
 search_doc = []
 
+i = 0
 with open('./words.txt', 'r') as f:
     for line in f:
         if not line:
             continue
+        i += 1
         word = line.strip().split()[1]
         tag = line.strip().split()[0]
         pinyin_list = pinyin(word, style=Style.NORMAL)

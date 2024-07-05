@@ -27,7 +27,7 @@ export interface Translate {
 
 export interface Explanation {
     explanation: string;
-    translate: Translate
+    translate: Translate;
     examples: Example[];
 }
 
@@ -53,4 +53,13 @@ export interface IntlListDetail {
     tags: string[];
     chinese: ListDescription;
     english: ListDescription;
+}
+
+export interface SearchDocument {
+    word: string;
+    pinyin: string;
+}
+
+export interface SocialMedia {
+    x: string;
 }
