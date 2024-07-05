@@ -6,32 +6,43 @@ interface Props {
     size?: number;
 }
 
-const { pinyinWords, size = 100 } = Astro.props;
+const { pinyinWords, size = 80 } = Astro.props;
+
+const halfSize = size / 2;
 ---
 
 <div class="flex flex-row justify-center">
     {
         pinyinWords.map((word) => (
-            <div class="flex flex-col items-center">
-                <span class="text-2xl">{word.pinyin}</span>
-                <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="100"
-                    height="100"
-                    class="hanzi m-2 cursor-pointer"
-                    data-word={word.word}
-                    data-size={size}
-                >
-                    <line x1="0" y1="0" x2="100" y2="100" stroke="#fecaca" />
-                    <line x1="100" y1="0" x2="0" y2="100" stroke="#fca5a5" />
-                    <line x1="50" y1="0" x2="50" y2="100" stroke="#fca5a5" />
-                    <line x1="0" y1="50" x2="100" y2="50" stroke="#fca5a5" />
-                    <line x1="0" y1="0" x2="0" y2="100" stroke="#fca5a5" />
-                    <line x1="0" y1="0" x2="100" y2="0" stroke="#fca5a5" />
-                    <line x1="100" y1="100" x2="100" y2="0" stroke="#fca5a5" />
-                    <line x1="100" y1="100" x2="0" y2="100" stroke="#fca5a5" />
-                </svg>
-            </div>
+            <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width={size}
+                height={size}
+                class="hanzi m-2 cursor-pointer"
+                data-word={word.word}
+                data-size={size}
+            >
+                <line x1="0" y1="0" x2={size} y2={size} stroke="#fecaca" />
+                <line x1={size} y1="0" x2="0" y2={size} stroke="#fca5a5" />
+                <line
+                    x1={halfSize}
+                    y1="0"
+                    x2={halfSize}
+                    y2={size}
+                    stroke="#fca5a5"
+                />
+                <line
+                    x1="0"
+                    y1={halfSize}
+                    x2={size}
+                    y2={halfSize}
+                    stroke="#fca5a5"
+                />
+                <line x1="0" y1="0" x2="0" y2={size} stroke="#fca5a5" />
+                <line x1="0" y1="0" x2={size} y2="0" stroke="#fca5a5" />
+                <line x1={size} y1={size} x2={size} y2="0" stroke="#fca5a5" />
+                <line x1={size} y1={size} x2="0" y2={size} stroke="#fca5a5" />
+            </svg>
         ))
     }
 </div>
@@ -51,7 +62,6 @@ const { pinyinWords, size = 100 } = Astro.props;
             height: parseInt(size),
             padding: 5,
             showCharacter: true,
-            strokeAnimationSpeed: 2,
             delayBetweenStrokes: 10,
         });
         chars.push(writer);
