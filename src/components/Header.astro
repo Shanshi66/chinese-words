@@ -17,21 +17,19 @@ if (pathSplit.length > 2) {
     pathWithoutLang = "/";
 }
 
-const intl = getIntlData(lang);
+const intlData = getIntlData(lang);
 
 const isList = pathWithoutLang === "/lists";
 const isHome = pathWithoutLang === "/";
 ---
 
 <section>
-    <nav class="lg:relative lg:top-0 border-b-[1px]">
+    <nav class="relative lg:top-0 border-b-[1px]">
         <div class="flex flex-row items-center justify-between h-14">
             <div>
-                <a class="ml-2 text-xl font-bold" href={`/${lang.locale}`}
+                <a class="ml-2 mr-4 text-xl font-bold" href={`/${lang.locale}`}
                     >Chinese Words</a
                 >
-            </div>
-            <div>
                 <span class="hover:bg-gray-100 rounded p-2 mr-2">
                     {
                         isHome ? (
@@ -39,10 +37,12 @@ const isHome = pathWithoutLang === "/";
                                 href={`/${lang.locale}`}
                                 class=" text-blue-700 font-semibold "
                             >
-                                {intl.header.home}
+                                {intlData.header.home}
                             </a>
                         ) : (
-                            <a href={`/${lang.locale}`}>{intl.header.home}</a>
+                            <a href={`/${lang.locale}`}>
+                                {intlData.header.home}
+                            </a>
                         )
                     }
                 </span>
@@ -53,16 +53,39 @@ const isHome = pathWithoutLang === "/";
                                 href={`/${lang.locale}/lists`}
                                 class="text-blue-700 font-semibold"
                             >
-                                {intl.header.lists}
+                                {intlData.header.lists}
                             </a>
                         ) : (
                             <a href={`/${lang.locale}/lists`}>
-                                {intl.header.lists}
+                                {intlData.header.lists}
                             </a>
                         )
                     }
                 </span>
             </div>
+            <div class="absolute left-1/2 transform -translate-x-1/2 w-1/4">
+                <label class="input input-bordered input-sm flex items-center">
+                    <input
+                        type="text"
+                        class="grow"
+                        placeholder={intlData.header.searchPlaceholder}
+                        id="searchInput"
+                        data-locale={lang.locale}
+                    />
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        viewBox="0 0 16 16"
+                        fill="currentColor"
+                        class="h-4 w-4 opacity-70"
+                    >
+                        <path
+                            fill-rule="evenodd"
+                            d="M9.965 11.026a5 5 0 1 1 1.06-1.06l2.755 2.754a.75.75 0 1 1-1.06 1.06l-2.755-2.754ZM10.5 7a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0Z"
+                            clip-rule="evenodd"></path>
+                    </svg>
+                </label>
+            </div>
+
             <div>
                 <select
                     name="language"
@@ -92,6 +115,19 @@ const isHome = pathWithoutLang === "/";
                 window.location.href = `/${value}`;
             } else {
                 window.location.href = `/${value}${path}`;
+            }
+        });
+    }
+
+    let searchInput = document.getElementById("searchInput");
+    if (searchInput) {
+        let locale = searchInput.getAttribute("data-locale");
+        searchInput.addEventListener("keydown", function (event) {
+            if (event.key === "Enter") {
+                event.preventDefault();
+                let query = (searchInput as HTMLInputElement).value;
+                if (!query) return;
+                window.open(`/${locale}/words/${query}`);
             }
         });
     }

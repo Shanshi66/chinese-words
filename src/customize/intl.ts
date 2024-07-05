@@ -4,11 +4,12 @@ import { chinese, english } from "./lang";
 export interface HeaderIntlData {
     lists: string;
     home: string;
+    searchPlaceholder: string;
 }
 
 export interface HomeIntlData {
     heroTitle: string;
-    searchPlaceholder: string;
+    heroSubtitle: string;
     wordListTitle: string;
     factsTitle: string;
     factsWordCount: string;
@@ -41,10 +42,11 @@ export const englishIntlData: IntlData = {
     header: {
         lists: "Lists",
         home: "Home",
+        searchPlaceholder: "Search by pinyin or characters",
     },
     home: {
         heroTitle: "Find And Learn Chinese Words",
-        searchPlaceholder: "Search Chinese words by pinyin or characters",
+        heroSubtitle: "Find the words you want to learn through search or word list, you will get related content about listening, reading, and writing on the word details page",
         wordListTitle: "Chinese Word List",
         factsTitle: "How many words included?",
         factsWordCount: "WORDS",
@@ -69,11 +71,12 @@ export const englishIntlData: IntlData = {
 export const chineseIntlData: IntlData = {
     header: {
         lists: "列表",
-        home: "首页"
+        home: "首页",
+        searchPlaceholder: "通过拼音或汉字搜索",
     },
     home: {
         heroTitle: "查找并学习中文词",
-        searchPlaceholder: "通过拼音或汉字搜索中文词",
+        heroSubtitle: "通过搜索或者单词分类表可以找到你想要学习的单词，在单词详情页可以学习到词汇听、说、读、写相关内容",
         wordListTitle: "中文词分类表",
         factsTitle: "网站收录数量",
         factsWordCount: "词",

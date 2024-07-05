@@ -112,7 +112,6 @@ HSK1 来到
 HSK1 老人
 HSK1 老师
 HSK1 里边
-HSK1 两（数）
 HSK1 楼上
 HSK1 楼下
 HSK1 路口
@@ -8450,7 +8449,6 @@ HSK7 向来
 HSK7 向往
 HSK7 向着
 HSK7 项链
-HSK7 像（名）
 HSK7 像样
 HSK7 橡胶
 HSK7 橡皮

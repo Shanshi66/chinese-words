@@ -56,5 +56,5 @@ for word in words:
         }
     ]
     # dump to json file
-    with open(f'./words/{word}.json', 'w') as f:
+    with open(f'../words/{word}.json', 'w') as f:
         json.dump(info, f, indent=4, ensure_ascii=False)
