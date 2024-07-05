@@ -8,6 +8,7 @@ import { pinyin } from "pinyin-pro";
 import type { MetaData, PinyinWord, WordDetail } from "@/common/types";
 import Explanation from "@/components/widget/Explanation.astro";
 import { getLang, supportedLang } from "@/customize/lang";
+import { getIntlData } from "@/customize/intl";
 
 export async function getStaticPaths() {
     const wordFiles = fs.readdirSync("src/data/words");
@@ -26,6 +27,8 @@ export async function getStaticPaths() {
 }
 
 const { word, locale } = Astro.params;
+const lang = getLang(locale);
+const intlData = getIntlData(lang);
 
 const pinyins = pinyin(word, { type: "array" });
 
@@ -44,7 +47,7 @@ let wordDetail: WordDetail = JSON.parse(content.toString());
 const metadata: MetaData = {
     title: `Chinese Words - ${word}`,
     description: "Chinese Words",
-    lang: getLang(locale),
+    lang: lang,
 };
 ---
 
@@ -56,11 +59,15 @@ const metadata: MetaData = {
         </div>
 
         <div class="my-10">
-            <h2 class="text-2xl border-b-[1px] py-4 font-serif">Information</h2>
+            <h2 class="text-2xl border-b-[1px] py-4 font-serif">
+                {intlData.word.information}
+            </h2>
         </div>
 
         <div class="my-10">
-            <h2 class="text-2xl py-4 font-serif">Explanation</h2>
+            <h2 class="text-2xl py-4 font-serif">
+                {intlData.word.explanation}
+            </h2>
             <div>
                 {
                     wordDetail.explanations.map((explanation, index) => (
@@ -70,15 +77,19 @@ const metadata: MetaData = {
             </div>
         </div>
         <div class="my-10">
-            <h2 class="text-2xl border-b-[1px] py-4 font-serif">Writing</h2>
-        </div>
-        <div class="my-10">
             <h2 class="text-2xl border-b-[1px] py-4 font-serif">
-                Related List
+                {intlData.word.writing}
             </h2>
         </div>
         <div class="my-10">
-            <h2 class="text-2xl border-b-[1px] py-4 font-serif">Homophones</h2>
+            <h2 class="text-2xl border-b-[1px] py-4 font-serif">
+                {intlData.word.relatedList}
+            </h2>
+        </div>
+        <div class="my-10">
+            <h2 class="text-2xl border-b-[1px] py-4 font-serif">
+                {intlData.word.homophones}
+            </h2>
         </div>
     </main>
 </PageLayout>
