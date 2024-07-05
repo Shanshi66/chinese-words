@@ -58,7 +58,7 @@ export const englishIntlData: IntlData = {
     },
     word: {
         information: "Information",
-        explanation: "Explanation",
+        explanation: "Explanations",
         writing: "Writing",
         relatedList: "Related List",
         homophones: "Homophones",
