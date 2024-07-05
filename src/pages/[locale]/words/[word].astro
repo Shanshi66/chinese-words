@@ -5,10 +5,12 @@ import PageLayout from "@/layouts/PageLayout.astro";
 import "@fontsource/twinkle-star";
 import Hanzi from "@/components/widget/WritingWords.astro";
 import { pinyin } from "pinyin-pro";
-import type { MetaData, PinyinWord, WordDetail } from "@/common/types";
+import type { MetaData, PinyinWord } from "@/common/types";
 import Explanation from "@/components/widget/Explanation.astro";
 import { getLang, supportedLang } from "@/customize/lang";
 import { getIntlData } from "@/customize/intl";
+import { loadWord } from "@/utils/words";
+import { allList, getListIntl } from "@/customize/list";
 
 export async function getStaticPaths() {
     const wordFiles = fs.readdirSync("src/data/words");
@@ -40,10 +42,12 @@ for (let i = 0; i < word.length; i++) {
     });
 }
 
-let content = fs.readFileSync(`src/data/words/${word}.json`);
-let wordDetail: WordDetail = JSON.parse(content.toString());
+let wordDetail = loadWord(word);
 
-// Todo
+let relatedList = allList.filter((list) =>
+    list.tags.some((tag) => wordDetail.tags.includes(tag)),
+);
+
 const metadata: MetaData = {
     title: `Chinese Words - ${word}`,
     description: "Chinese Words",
@@ -58,11 +62,11 @@ const metadata: MetaData = {
             <Hanzi pinyinWords={pinyinWords} />
         </div>
 
-        <div class="my-10">
+        <!-- <div class="my-10">
             <h2 class="text-2xl border-b-[1px] py-4 font-serif">
                 {intlData.word.information}
             </h2>
-        </div>
+        </div> -->
 
         <div class="my-10">
             <h2 class="text-2xl py-4 font-serif">
@@ -80,16 +84,29 @@ const metadata: MetaData = {
             <h2 class="text-2xl border-b-[1px] py-4 font-serif">
                 {intlData.word.writing}
             </h2>
-        </div>
-        <div class="my-10">
-            <h2 class="text-2xl border-b-[1px] py-4 font-serif">
-                {intlData.word.relatedList}
-            </h2>
-        </div>
-        <div class="my-10">
-            <h2 class="text-2xl border-b-[1px] py-4 font-serif">
-                {intlData.word.homophones}
-            </h2>
+            <p class="mt-2">Click grid above to animate</p>
+            <div class="my-10">
+                <h2 class="text-2xl border-b-[1px] py-4 font-serif">
+                    {intlData.word.relatedList}
+                </h2>
+                <div class="my-4">
+                    {
+                        relatedList.map((list) => (
+                            <a
+                                href={`/${lang.locale}/lists/${list.name}`}
+                                class="text-blue-700"
+                            >
+                                {getListIntl(list, lang).title}
+                            </a>
+                        ))
+                    }
+                </div>
+            </div>
+            <div class="my-10">
+                <h2 class="text-2xl border-b-[1px] py-4 font-serif">
+                    {intlData.word.homophones}
+                </h2>
+            </div>
         </div>
     </main>
 </PageLayout>

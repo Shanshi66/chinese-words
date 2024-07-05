@@ -14,35 +14,50 @@ const halfSize = size / 2;
 <div class="flex flex-row justify-center">
     {
         pinyinWords.map((word) => (
-            <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width={size}
-                height={size}
-                class="hanzi m-2 cursor-pointer"
-                data-word={word.word}
-                data-size={size}
-            >
-                <line x1="0" y1="0" x2={size} y2={size} stroke="#fecaca" />
-                <line x1={size} y1="0" x2="0" y2={size} stroke="#fca5a5" />
-                <line
-                    x1={halfSize}
-                    y1="0"
-                    x2={halfSize}
-                    y2={size}
-                    stroke="#fca5a5"
-                />
-                <line
-                    x1="0"
-                    y1={halfSize}
-                    x2={size}
-                    y2={halfSize}
-                    stroke="#fca5a5"
-                />
-                <line x1="0" y1="0" x2="0" y2={size} stroke="#fca5a5" />
-                <line x1="0" y1="0" x2={size} y2="0" stroke="#fca5a5" />
-                <line x1={size} y1={size} x2={size} y2="0" stroke="#fca5a5" />
-                <line x1={size} y1={size} x2="0" y2={size} stroke="#fca5a5" />
-            </svg>
+            <div class="flex flex-col items-center">
+                <span class="text-2xl">{word.pinyin}</span>
+                <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width={size}
+                    height={size}
+                    class="hanzi m-2 cursor-pointer"
+                    data-word={word.word}
+                    data-size={size}
+                >
+                    <line x1="0" y1="0" x2={size} y2={size} stroke="#fecaca" />
+                    <line x1={size} y1="0" x2="0" y2={size} stroke="#fca5a5" />
+                    <line
+                        x1={halfSize}
+                        y1="0"
+                        x2={halfSize}
+                        y2={size}
+                        stroke="#fca5a5"
+                    />
+                    <line
+                        x1="0"
+                        y1={halfSize}
+                        x2={size}
+                        y2={halfSize}
+                        stroke="#fca5a5"
+                    />
+                    <line x1="0" y1="0" x2="0" y2={size} stroke="#fca5a5" />
+                    <line x1="0" y1="0" x2={size} y2="0" stroke="#fca5a5" />
+                    <line
+                        x1={size}
+                        y1={size}
+                        x2={size}
+                        y2="0"
+                        stroke="#fca5a5"
+                    />
+                    <line
+                        x1={size}
+                        y1={size}
+                        x2="0"
+                        y2={size}
+                        stroke="#fca5a5"
+                    />
+                </svg>
+            </div>
         ))
     }
 </div>

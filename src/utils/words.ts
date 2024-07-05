@@ -9,3 +9,9 @@ export function loadAllWords(): WordDetail[] {
     });
     return wordDetails;
 }
+
+export function loadWord(word: string): WordDetail {
+    let content = fs.readFileSync(`src/data/words/${word}.json`);
+    let wordDetail: WordDetail = JSON.parse(content.toString());
+    return wordDetail;
+}
