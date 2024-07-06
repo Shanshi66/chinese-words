@@ -1,0 +1,34 @@
+{
+    "word": "起来",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "起来",
+            "translate": {
+                "english": "get up / stand up"
+            },
+            "examples": [
+                {
+                    "example": "太阳升起来了，新的一天开始了。",
+                    "translate": {
+                        "english": "The sun has risen and a new day begins."
+                    }
+                },
+                {
+                    "example": "大家团结起来，就能克服许多困难。",
+                    "translate": {
+                        "english": "When everyone unites, many difficulties can be overcome."
+                    }
+                },
+                {
+                    "example": "让我们行动起来，为实现梦想而努力奋斗。",
+                    "translate": {
+                        "english": "Let's take action and strive hard to realize our dreams."
+                    }
+                }
+            ]
+        }
+    ]
+}

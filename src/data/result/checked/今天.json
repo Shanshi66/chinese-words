@@ -1,0 +1,34 @@
+{
+    "word": "今天",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "今天",
+            "translate": {
+                "english": "today"
+            },
+            "examples": [
+                {
+                    "example": "今天真是个美好的日子，阳光明媚，让人心情愉悦。",
+                    "translate": {
+                        "english": "Today is really a beautiful day, with bright sunshine, making people feel happy."
+                    }
+                },
+                {
+                    "example": "今天我去做了一件很有意义的事情，感觉非常充实和快乐。",
+                    "translate": {
+                        "english": "Today I went to do a very meaningful thing and felt very fulfilling and happy."
+                    }
+                },
+                {
+                    "example": "今天我帮助了一位迷路的老人找到了回家的路，我非常开心。",
+                    "translate": {
+                        "english": "Today I helped an old man who got lost find his way home, and I was very happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

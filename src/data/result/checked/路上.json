@@ -1,0 +1,34 @@
+{
+    "word": "路上",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "路上",
+            "translate": {
+                "english": "on the road / on the way"
+            },
+            "examples": [
+                {
+                    "example": "我在上学的路上欢快地哼着歌，心情十分美好。",
+                    "translate": {
+                        "english": "I humming merrily on the way to school and feeling very good."
+                    }
+                },
+                {
+                    "example": "我在下班回家的路上，欣赏着沿途的美景，感到惬意极了。",
+                    "translate": {
+                        "english": "I am on the way home from work, enjoying the beautiful scenery along the way and feeling extremely comfortable."
+                    }
+                },
+                {
+                    "example": "我走在回家的路上，看到夕阳西下，美景如画，心中满是欢喜。",
+                    "translate": {
+                        "english": "I was walking on the way home and saw the setting sun, the beautiful scenery was like a painting, and my heart was full of joy."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "开会",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "开会",
+            "translate": {
+                "english": "have a meeting"
+            },
+            "examples": [
+                {
+                    "example": "我们每个月都会开会一起探讨工作中遇到的问题和分享好的经验。",
+                    "translate": {
+                        "english": "Every month we will have a meeting to discuss the problems encountered in the work and share good experience together."
+                    }
+                },
+                {
+                    "example": "领导们常常开会商量如何更好地推动项目进展。",
+                    "translate": {
+                        "english": "Leaders often hold meetings to discuss how to better promote the progress of the project."
+                    }
+                },
+                {
+                    "example": "大家开开心心地聚在一起开会，讨论怎样让团队更加出色。",
+                    "translate": {
+                        "english": "Everyone happily gets together to hold a meeting and discuss how to make the team more outstanding."
+                    }
+                }
+            ]
+        }
+    ]
+}

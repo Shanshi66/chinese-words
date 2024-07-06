@@ -1,0 +1,34 @@
+{
+    "word": "商场",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "商场",
+            "translate": {
+                "english": "shopping mall / shopping center"
+            },
+            "examples": [
+                {
+                    "example": "周末我和家人一起去商场购物，度过了愉快的时光。",
+                    "translate": {
+                        "english": "On the weekend, I went shopping in the mall with my family and had a pleasant time."
+                    }
+                },
+                {
+                    "example": "今天和朋友们在商场里买了好多喜欢的东西，真开心。",
+                    "translate": {
+                        "english": "Today, I bought a lot of favorite things in the mall with my friends. I'm really happy."
+                    }
+                },
+                {
+                    "example": "节假日商场总是热闹非凡，人们在其中享受着欢乐的购物氛围。",
+                    "translate": {
+                        "english": "During holidays and festivals, the shopping mall is always bustling with excitement, and people enjoy the joyful shopping atmosphere in it."
+                    }
+                }
+            ]
+        }
+    ]
+}

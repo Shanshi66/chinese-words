@@ -1,0 +1,30 @@
+{
+    "word": "白天",
+    "tags": [],
+    "explanations": {
+        "explanation": "白天",
+        "translate": {
+            "english": "daytime"
+        },
+        "examples": [
+            {
+                "example": "白天的时候，我们尽情地享受着阳光的温暖和美好。",
+                "translate": {
+                    "english": "During the daytime, we enjoy the warmth and beauty of the sunshine to the fullest."
+                }
+            },
+            {
+                "example": "白天努力工作，让我们离梦想更近一步。",
+                "translate": {
+                    "english": "Work hard during the day, let's get one step closer to the dream."
+                }
+            },
+            {
+                "example": "白天大家齐心协力，共同完成了一项极具挑战性的任务。",
+                "translate": {
+                    "english": "During the day, everyone worked together and completed a very challenging task together."
+                }
+            }
+        ]
+    }
+}

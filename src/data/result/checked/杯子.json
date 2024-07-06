@@ -1,0 +1,34 @@
+{
+    "word": "杯子",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "杯子",
+            "translate": {
+                "english": "cup / glass"
+            },
+            "examples": [
+                {
+                    "example": "我拿起心爱的杯子，喝了一口温暖的茶，感觉心情格外舒畅。",
+                    "translate": {
+                        "english": "I picked up my beloved cup, took a sip of warm tea, and felt extremely comfortable in mood."
+                    }
+                },
+                {
+                    "example": "我把洗净的杯子摆放在桌子上，准备为客人斟上美味的果汁。",
+                    "translate": {
+                        "english": "I placed the washed cups on the table and prepared to pour delicious juice for the guests."
+                    }
+                },
+                {
+                    "example": "我精心挑选了一个漂亮的杯子，用它来泡我最爱的咖啡，享受美好的时光。",
+                    "translate": {
+                        "english": "I carefully selected a beautiful cup, use it to make my favorite coffee, and enjoy the wonderful time."
+                    }
+                }
+            ]
+        }
+    ]
+}

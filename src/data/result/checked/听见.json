@@ -1,0 +1,34 @@
+{
+    "word": "听见",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "听见",
+            "translate": {
+                "english": "hear"
+            },
+            "examples": [
+                {
+                    "example": "我仿佛听见鸟儿在枝头欢快地歌唱。",
+                    "translate": {
+                        "english": "I seem to hear the birds singing merrily on the branch."
+                    }
+                },
+                {
+                    "example": "我走在路上，忽然听见有人在喊我的名字。",
+                    "translate": {
+                        "english": "I was walking on the road when suddenly I heard someone calling my name."
+                    }
+                },
+                {
+                    "example": "我总能在清晨听见鸟儿悦耳的叫声，那声音令人心旷神怡。",
+                    "translate": {
+                        "english": "I can always hear the pleasant chirping of birds in the early morning, and that sound is refreshing."
+                    }
+                }
+            ]
+        }
+    ]
+}

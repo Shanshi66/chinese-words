@@ -1,0 +1,34 @@
+{
+    "word": "商店",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "商店",
+            "translate": {
+                "english": "shop / store"
+            },
+            "examples": [
+                {
+                    "example": "周末我喜欢去家附近的商店逛逛，感受轻松愉悦的氛围。",
+                    "translate": {
+                        "english": "On weekends I like to stroll around the shops near my home and feel the relaxed and pleasant atmosphere."
+                    }
+                },
+                {
+                    "example": "我经常去那家商店购买各种生活用品，那里的服务很周到。",
+                    "translate": {
+                        "english": "I often go to that store to buy all kinds of daily necessities, and the service there is very considerate."
+                    }
+                },
+                {
+                    "example": "我经常去商店挑选喜欢的礼物送给朋友们。",
+                    "translate": {
+                        "english": "I often go to the store to pick out favorite gifts for my friends."
+                    }
+                }
+            ]
+        }
+    ]
+}

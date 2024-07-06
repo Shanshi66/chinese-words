@@ -1,0 +1,34 @@
+{
+    "word": "小学",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "小学",
+            "translate": {
+                "english": "primary school"
+            },
+            "examples": [
+                {
+                    "example": "我在小学的时光里收获了珍贵的友谊和难忘的回忆。",
+                    "translate": {
+                        "english": "I harvested precious friendship and unforgettable memories during the time in primary school."
+                    }
+                },
+                {
+                    "example": "我小学时的梦想就是成为一名科学家，如今正在为了这个目标而努力奋斗。",
+                    "translate": {
+                        "english": "My dream when I was in primary school was to become a scientist, and now I am striving hard for this goal."
+                    }
+                },
+                {
+                    "example": "我的小学老师对我们既耐心又和蔼，让我至今记忆犹新。",
+                    "translate": {
+                        "english": "My primary school teacher was both patient and kind to us, which still remains fresh in my memory till now."
+                    }
+                }
+            ]
+        }
+    ]
+}

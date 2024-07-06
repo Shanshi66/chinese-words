@@ -1,0 +1,34 @@
+{
+    "word": "姐姐",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "姐姐",
+            "translate": {
+                "english": "elder sister"
+            },
+            "examples": [
+                {
+                    "example": "我的姐姐总是给予我很多温暖的鼓励和支持。",
+                    "translate": {
+                        "english": "My elder sister always gives me a lot of warm encouragement and support."
+                    }
+                },
+                {
+                    "example": "我的姐姐特别开朗善良，总是给身边人带来温暖与欢乐。",
+                    "translate": {
+                        "english": "My elder sister is extremely cheerful and kind, and always brings warmth and joy to the people around."
+                    }
+                },
+                {
+                    "example": "我的姐姐就像一颗明亮的星星，总是给周围的人带来光芒和希望。",
+                    "translate": {
+                        "english": "My sister is like a bright star, always bringing light and hope to the people around."
+                    }
+                }
+            ]
+        }
+    ]
+}

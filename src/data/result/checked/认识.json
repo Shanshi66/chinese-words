@@ -1,0 +1,34 @@
+{
+    "word": "认识",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "认识",
+            "translate": {
+                "english": "know"
+            },
+            "examples": [
+                {
+                    "example": "我很高兴能在这次活动中认识许多志同道合的朋友。",
+                    "translate": {
+                        "english": "I am very glad to be able to meet many like-minded friends in this activity."
+                    }
+                },
+                {
+                    "example": "通过这次旅行，我认识了很多有趣的人，收获了难忘的经历。",
+                    "translate": {
+                        "english": "Through this trip, I met a lot of interesting people and gained unforgettable experiences."
+                    }
+                },
+                {
+                    "example": "认识你真的很开心，让我的生活增添了许多乐趣。",
+                    "translate": {
+                        "english": "Really very happy to know you, which has added a lot of fun to my life."
+                    }
+                }
+            ]
+        }
+    ]
+}

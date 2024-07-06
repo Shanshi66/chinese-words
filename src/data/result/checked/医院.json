@@ -1,0 +1,34 @@
+{
+    "word": "医院",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "医院",
+            "translate": {
+                "english": "hospital"
+            },
+            "examples": [
+                {
+                    "example": "我今天去医院看望生病的朋友，那里的医生和护士都很热情和专业。",
+                    "translate": {
+                        "english": "I went to the hospital to visit my sick friend today, and the doctors and nurses there are all very enthusiastic and professional."
+                    }
+                },
+                {
+                    "example": "我每次经过医院，都会想到那些白衣天使们为了人们的健康而辛勤付出。",
+                    "translate": {
+                        "english": "Every time I pass by the hospital, I will think of those angels in white who work hard for people's health."
+                    }
+                },
+                {
+                    "example": "在医院的每一个角落，都能感受到温暖和关爱。",
+                    "translate": {
+                        "english": "In every corner of the hospital, one can feel warmth and care."
+                    }
+                }
+            ]
+        }
+    ]
+}

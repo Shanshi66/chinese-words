@@ -1,0 +1,34 @@
+{
+    "word": "一半",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "一半",
+            "translate": {
+                "english": "half"
+            },
+            "examples": [
+                {
+                    "example": "我已经付出了一半的努力，相信再坚持一下就会取得成功。",
+                    "translate": {
+                        "english": "I have already made half of the efforts, and I believe that if I persist a little bit more, I will succeed."
+                    }
+                },
+                {
+                    "example": "我把一半的时间用来提升自己，另一半用来享受生活。",
+                    "translate": {
+                        "english": "I spend half of the time on improving myself and the other half on enjoying life."
+                    }
+                },
+                {
+                    "example": "我把蛋糕分成了一半给妈妈，另一半给爸爸，大家都很开心。",
+                    "translate": {
+                        "english": "I divided the cake into half for mother and the other half for father, and everyone was very happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

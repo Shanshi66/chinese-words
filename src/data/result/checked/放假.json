@@ -1,0 +1,34 @@
+{
+    "word": "放假",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "放假",
+            "translate": {
+                "english": "have a holiday / vacation"
+            },
+            "examples": [
+                {
+                    "example": "每次放假我都会和家人一起去游览祖国的大好河山。",
+                    "translate": {
+                        "english": "Every time I have a vacation, I will go to visit the great mountains and rivers of the motherland with my family."
+                    }
+                },
+                {
+                    "example": "每次快到放假的时候，同学们都格外兴奋和期待。",
+                    "translate": {
+                        "english": "Every time when it is almost time for the holiday, the students are extremely excited and expectant."
+                    }
+                },
+                {
+                    "example": "放假的时候，我喜欢去图书馆安静地阅读自己喜欢的书籍。",
+                    "translate": {
+                        "english": "When on vacation, I like to go to the library to read my favorite books quietly."
+                    }
+                }
+            ]
+        }
+    ]
+}

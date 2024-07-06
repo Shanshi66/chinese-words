@@ -1,0 +1,30 @@
+{
+    "word": "爱好",
+    "tags": [],
+    "explanations": {
+        "explanation": "爱好",
+        "translate": {
+            "english": "hobby"
+        },
+        "examples": [
+            {
+                "example": "培养一项爱好可以让我们的生活更加丰富多彩。",
+                "translate": {
+                    "english": "Cultivating a hobby can make our life more rich and colorful."
+                }
+            },
+            {
+                "example": "他坚持自己的爱好，每天都抽出时间来练习绘画，水平提升得很快。",
+                "translate": {
+                    "english": "He adheres to his hobby, takes time to practice painting every day, and his level improves very quickly."
+                }
+            },
+            {
+                "example": "拥有爱好是一件多么美好的事情，它能给我们带来无尽的快乐和满足感。",
+                "translate": {
+                    "english": "Having a hobby is such a wonderful thing, which can bring us endless happiness and a sense of satisfaction."
+                }
+            }
+        ]
+    }
+}

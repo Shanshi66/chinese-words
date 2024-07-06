@@ -1,0 +1,34 @@
+{
+    "word": "右边",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "右边",
+            "translate": {
+                "english": "right side"
+            },
+            "examples": [
+                {
+                    "example": "我坐在教室的右边，认真地听老师讲课。",
+                    "translate": {
+                        "english": "I sit on the right side of the classroom and listen to the teacher carefully."
+                    }
+                },
+                {
+                    "example": "我走在路上，看到一位老人在我右边缓缓前行，我连忙过去搀扶他。",
+                    "translate": {
+                        "english": "I was walking on the road and saw an old man walking slowly on my right. I hurried to go and support him."
+                    }
+                },
+                {
+                    "example": "我走在街道右边，沐浴着温暖的阳光，心情格外舒畅。",
+                    "translate": {
+                        "english": "I walk on the right side of the street, bathing in the warm sunshine, and feeling extremely comfortable."
+                    }
+                }
+            ]
+        }
+    ]
+}

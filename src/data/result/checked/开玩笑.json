@@ -1,0 +1,34 @@
+{
+    "word": "开玩笑",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "开玩笑",
+            "translate": {
+                "english": "joke"
+            },
+            "examples": [
+                {
+                    "example": "我们总是喜欢在一起开玩笑，氛围特别轻松愉快。",
+                    "translate": {
+                        "english": "We always like to joke together, and the atmosphere is particularly relaxed and pleasant."
+                    }
+                },
+                {
+                    "example": "他是个很有趣的人，总喜欢跟大家开玩笑逗乐。",
+                    "translate": {
+                        "english": "He is a very interesting person and always likes to joke and amuse everyone."
+                    }
+                },
+                {
+                    "example": "我们边开玩笑边工作，让整个过程充满了欢乐。",
+                    "translate": {
+                        "english": "We work while joking, making the whole process full of joy."
+                    }
+                }
+            ]
+        }
+    ]
+}

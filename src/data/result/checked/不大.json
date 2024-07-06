@@ -1,0 +1,34 @@
+{
+    "word": "不大",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "不大",
+            "translate": {
+                "english": "not big / not large"
+            },
+            "examples": [
+                {
+                    "example": "这道菜的味道不大符合我的口味，但我依然很开心能尝试新事物。",
+                    "translate": {
+                        "english": "The taste of this dish doesn't quite match my taste, but I am still very happy to try new things."
+                    }
+                },
+                {
+                    "example": "这次考试的成绩虽然不大理想，但我仍然会继续努力。",
+                    "translate": {
+                        "english": "Although the result of this exam is not very ideal, I will still continue to work hard."
+                    }
+                },
+                {
+                    "example": "天空中飘着不大的雪花，却给整个世界带来了一种别样的宁静与美丽。",
+                    "translate": {
+                        "english": "Small snowflakes are floating in the sky, but it brings a kind of special tranquility and beauty to the whole world."
+                    }
+                }
+            ]
+        }
+    ]
+}

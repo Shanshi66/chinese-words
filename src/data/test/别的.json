@@ -1,0 +1,30 @@
+{
+    "word": "别的",
+    "tags": [],
+    "explanations": {
+        "explanation": "别的",
+        "translate": {
+            "english": "else"
+        },
+        "examples": [
+            {
+                "example": "我们应该多去尝试别的新鲜事物，拓展自己的视野和思维。",
+                "translate": {
+                    "english": "We should try more other new things to expand our horizons and thinking."
+                }
+            },
+            {
+                "example": "我很喜欢这个地方，但我也想去看看别的美丽风景。",
+                "translate": {
+                    "english": "I like this place very much, but I also want to go to see other beautiful scenery."
+                }
+            },
+            {
+                "example": "我们不能只关注眼前，还应该去寻找别的机会来提升自己。",
+                "translate": {
+                    "english": "We cannot only focus on the present, but also should look for other opportunities to improve ourselves."
+                }
+            }
+        ]
+    }
+}

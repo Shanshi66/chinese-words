@@ -1,0 +1,34 @@
+{
+    "word": "地图",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "地图",
+            "translate": {
+                "english": "map"
+            },
+            "examples": [
+                {
+                    "example": "我仔细地看着地图，规划着接下来的美好旅程。",
+                    "translate": {
+                        "english": "I carefully looked at the map and planned the next wonderful journey."
+                    }
+                },
+                {
+                    "example": "我拿着地图，兴致勃勃地开启探索世界的精彩之旅。",
+                    "translate": {
+                        "english": "I hold the map and start the wonderful journey of exploring the world with great enthusiasm."
+                    }
+                },
+                {
+                    "example": "我和朋友们看着地图，满心期待地计划着下一次的冒险之旅。",
+                    "translate": {
+                        "english": "My friends and I looked at the map, looking forward with full hearts to planning the next adventure trip."
+                    }
+                }
+            ]
+        }
+    ]
+}

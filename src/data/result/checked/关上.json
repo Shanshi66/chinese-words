@@ -1,0 +1,34 @@
+{
+    "word": "关上",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "关上",
+            "translate": {
+                "english": "close"
+            },
+            "examples": [
+                {
+                    "example": "他轻轻地关上房门，生怕吵醒了正在睡觉的家人。",
+                    "translate": {
+                        "english": "He gently closed the door for fear of waking up the family members who were sleeping."
+                    }
+                },
+                {
+                    "example": "我缓缓地关上书本，开始了一天的美好生活。",
+                    "translate": {
+                        "english": "I slowly closed the book and started a beautiful day of life."
+                    }
+                },
+                {
+                    "example": "每当天黑时，我总会轻轻地关上窗户，准备进入甜美的梦乡。",
+                    "translate": {
+                        "english": "Whenever it gets dark, I always gently close the window and prepare to enter the sweet dreamland."
+                    }
+                }
+            ]
+        }
+    ]
+}

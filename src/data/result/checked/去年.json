@@ -1,0 +1,34 @@
+{
+    "word": "去年",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "去年",
+            "translate": {
+                "english": "last year"
+            },
+            "examples": [
+                {
+                    "example": "去年我去了很多美丽的地方，拓宽了自己的眼界。",
+                    "translate": {
+                        "english": "Last year I went to many beautiful places and broadened my horizons."
+                    }
+                },
+                {
+                    "example": "去年的经历让我收获了满满的成长和珍贵的回忆。",
+                    "translate": {
+                        "english": "Last year's experience made me gain full growth and precious memories."
+                    }
+                },
+                {
+                    "example": "去年通过自己的努力，我实现了一个又一个小目标，感到特别充实和快乐。",
+                    "translate": {
+                        "english": "Last year, through my own efforts, I achieved one small goal after another and felt particularly fulfilling and happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

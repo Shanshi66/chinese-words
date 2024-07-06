@@ -1,0 +1,34 @@
+{
+    "word": "休息",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "休息",
+            "translate": {
+                "english": "rest"
+            },
+            "examples": [
+                {
+                    "example": "忙碌了一天后，我终于可以好好地休息一下了。",
+                    "translate": {
+                        "english": "After a busy day, I can finally have a good rest."
+                    }
+                },
+                {
+                    "example": "学习之余，适当的休息能让我们更好地迎接新的挑战。",
+                    "translate": {
+                        "english": "After study, proper rest can enable us to better meet new challenges."
+                    }
+                },
+                {
+                    "example": "经过紧张的工作后，大家都需要好好休息来恢复精力。",
+                    "translate": {
+                        "english": "After intense work, everyone needs a good rest to restore energy."
+                    }
+                }
+            ]
+        }
+    ]
+}

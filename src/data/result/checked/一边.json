@@ -1,0 +1,34 @@
+{
+    "word": "一边",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "一边",
+            "translate": {
+                "english": "one side / one aspect"
+            },
+            "examples": [
+                {
+                    "example": "我一边听着音乐，一边愉快地打扫着房间。",
+                    "translate": {
+                        "english": "I'm happily cleaning the room while listening to music."
+                    }
+                },
+                {
+                    "example": "我一边哼着歌，一边快乐地漫步在小路上。",
+                    "translate": {
+                        "english": "I hummed a song while happily strolling on the path."
+                    }
+                },
+                {
+                    "example": "我一边品尝着美味的食物，一边欣赏着窗外的美景。",
+                    "translate": {
+                        "english": "I am tasting the delicious food while enjoying the beautiful scenery outside the window."
+                    }
+                }
+            ]
+        }
+    ]
+}

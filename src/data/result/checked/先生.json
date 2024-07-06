@@ -1,0 +1,34 @@
+{
+    "word": "先生",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "先生",
+            "translate": {
+                "english": "Mr. / Sir"
+            },
+            "examples": [
+                {
+                    "example": "那位先生总是彬彬有礼地与他人交流。",
+                    "translate": {
+                        "english": "That gentleman always communicates with others politely."
+                    }
+                },
+                {
+                    "example": "这位先生总是热心地帮助有困难的人。",
+                    "translate": {
+                        "english": "This gentleman always helps people in difficulty enthusiastically."
+                    }
+                },
+                {
+                    "example": "这位先生十分绅士地为女士拉开了椅子。",
+                    "translate": {
+                        "english": "This gentleman very gentlemanly pulled out the chair for the lady."
+                    }
+                }
+            ]
+        }
+    ]
+}

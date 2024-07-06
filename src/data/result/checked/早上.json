@@ -1,0 +1,34 @@
+{
+    "word": "早上",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "早上",
+            "translate": {
+                "english": "morning"
+            },
+            "examples": [
+                {
+                    "example": "早上醒来，看到窗外灿烂的阳光，心情顿时无比舒畅。",
+                    "translate": {
+                        "english": "Wake up in the morning and see the brilliant sunshine outside the window, and the mood is suddenly extremely comfortable."
+                    }
+                },
+                {
+                    "example": "早上我迎着朝阳去跑步，感觉充满了活力。",
+                    "translate": {
+                        "english": "In the morning, I go running facing the rising sun and feel full of vitality."
+                    }
+                },
+                {
+                    "example": "早上我开开心心地出门，迎接美好的一天。",
+                    "translate": {
+                        "english": "In the morning I go out happily to welcome a beautiful day."
+                    }
+                }
+            ]
+        }
+    ]
+}

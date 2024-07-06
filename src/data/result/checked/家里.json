@@ -1,0 +1,34 @@
+{
+    "word": "家里",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "家里",
+            "translate": {
+                "english": "home / household"
+            },
+            "examples": [
+                {
+                    "example": "在家里，我感受到了无尽的温暖和关爱。",
+                    "translate": {
+                        "english": "At home, I felt endless warmth and care."
+                    }
+                },
+                {
+                    "example": "每次回到家里，我都觉得特别放松和安心。",
+                    "translate": {
+                        "english": "Every time I return home, I feel extremely relaxed and at ease."
+                    }
+                },
+                {
+                    "example": "每次想起家里，我心里就充满了幸福和温馨。",
+                    "translate": {
+                        "english": "Every time I think of home, my heart is filled with happiness and warmth."
+                    }
+                }
+            ]
+        }
+    ]
+}

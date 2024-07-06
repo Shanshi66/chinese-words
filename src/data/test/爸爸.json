@@ -1,0 +1,30 @@
+{
+    "word": "爸爸",
+    "tags": [],
+    "explanations": {
+        "explanation": "爸爸",
+        "translate": {
+            "english": "father / dad"
+        },
+        "examples": [
+            {
+                "example": "我的爸爸总是用温暖的笑容鼓励我勇敢前行。",
+                "translate": {
+                    "english": "My father always encourages me to move forward bravely with a warm smile."
+                }
+            },
+            {
+                "example": "我的爸爸每天都努力工作，为我们的幸福生活拼搏着。",
+                "translate": {
+                    "english": "My father works hard every day and strives for our happy life."
+                }
+            },
+            {
+                "example": "我的爸爸就像一座巍峨的山峰，给予我坚实的依靠和无尽的力量。",
+                "translate": {
+                    "english": "My father is like a majestic mountain, giving me solid reliance and endless power."
+                }
+            }
+        ]
+    }
+}

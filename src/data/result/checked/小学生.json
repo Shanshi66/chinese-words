@@ -1,0 +1,34 @@
+{
+    "word": "小学生",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "小学生",
+            "translate": {
+                "english": "pupil"
+            },
+            "examples": [
+                {
+                    "example": "可爱的小学生们在操场上快乐地玩耍着。",
+                    "translate": {
+                        "english": "Lovely primary school students are playing happily on the playground."
+                    }
+                },
+                {
+                    "example": "小学生们在课堂上积极举手发言，展现出他们的聪明才智。",
+                    "translate": {
+                        "english": "The pupils raise their hands actively to speak in class, showing their intelligence and talent."
+                    }
+                },
+                {
+                    "example": "小学生们在图书馆里安静地阅读着有趣的书籍。",
+                    "translate": {
+                        "english": "Pupils are quietly reading interesting books in the library."
+                    }
+                }
+            ]
+        }
+    ]
+}

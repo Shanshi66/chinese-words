@@ -1,0 +1,34 @@
+{
+    "word": "学院",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "学院",
+            "translate": {
+                "english": "college / institute"
+            },
+            "examples": [
+                {
+                    "example": "我在这所环境优美的学院里度过了充实又快乐的时光。",
+                    "translate": {
+                        "english": "I spent a fulfilling and happy time in this college with a beautiful environment."
+                    }
+                },
+                {
+                    "example": "我很荣幸能在这所充满学术氛围的学院里不断提升自己。",
+                    "translate": {
+                        "english": "I am very honored to continuously improve myself in this college full of academic atmosphere."
+                    }
+                },
+                {
+                    "example": "我在朝气蓬勃的学院中积极进取，不断追求着自己的梦想。",
+                    "translate": {
+                        "english": "I am making progress actively in the vibrant college and constantly pursuing my own dream."
+                    }
+                }
+            ]
+        }
+    ]
+}

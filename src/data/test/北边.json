@@ -1,0 +1,30 @@
+{
+    "word": "北边",
+    "tags": [],
+    "explanations": {
+        "explanation": "北边",
+        "translate": {
+            "english": "north side"
+        },
+        "examples": [
+            {
+                "example": "泰山的北边有一片非常美丽的森林。",
+                "translate": {
+                    "english": "There is a very beautiful forest on the north side of Mount Tai."
+                }
+            },
+            {
+                "example": "我家的北边有一个漂亮的小公园，我经常去那里散步。",
+                "translate": {
+                    "english": "There is a beautiful small park to the north of my home, and I often go there for a walk."
+                }
+            },
+            {
+                "example": "希望在遥远的北边，也能迎来充满阳光和希望的每一天。",
+                "translate": {
+                    "english": "Hope that in the distant north, every day full of sunshine and hope can also be ushered in."
+                }
+            }
+        ]
+    }
+}

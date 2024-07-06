@@ -1,0 +1,34 @@
+{
+    "word": "中文",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "中文",
+            "translate": {
+                "english": "Chinese"
+            },
+            "examples": [
+                {
+                    "example": "我非常喜欢中文这门有着深厚底蕴和独特魅力的语言。",
+                    "translate": {
+                        "english": "I like the Chinese language very much, which has profound background and unique charm."
+                    }
+                },
+                {
+                    "example": "学习中文是一件非常有趣且有意义的事情。",
+                    "translate": {
+                        "english": "Learning Chinese is a very interesting and meaningful thing."
+                    }
+                },
+                {
+                    "example": "学好中文对于了解中国丰富多彩的文化有着重要的意义。",
+                    "translate": {
+                        "english": "Learning Chinese well has great significance for understanding China's rich and colorful culture."
+                    }
+                }
+            ]
+        }
+    ]
+}

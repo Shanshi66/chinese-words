@@ -1,0 +1,34 @@
+{
+    "word": "下雨",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "下雨",
+            "translate": {
+                "english": "rain"
+            },
+            "examples": [
+                {
+                    "example": "即便下雨也阻挡不了我愉快地出门享受生活。",
+                    "translate": {
+                        "english": "Even if it rains, it can't stop me from happily going out to enjoy life."
+                    }
+                },
+                {
+                    "example": "下雨的时候，我喜欢坐在窗边聆听雨滴落下的美妙声音。",
+                    "translate": {
+                        "english": "When it is raining, I like to sit by the window and listen to the wonderful sound of raindrops falling."
+                    }
+                },
+                {
+                    "example": "每当下雨的时候，我总喜欢泡一杯热茶，静静地欣赏窗外的雨景。",
+                    "translate": {
+                        "english": "Whenever it rains, I always like to make a cup of hot tea and quietly enjoy the rain scene outside the window."
+                    }
+                }
+            ]
+        }
+    ]
+}

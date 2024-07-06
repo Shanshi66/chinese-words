@@ -1,0 +1,34 @@
+{
+    "word": "记得",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "记得",
+            "translate": {
+                "english": "remember"
+            },
+            "examples": [
+                {
+                    "example": "我一直记得妈妈对我的爱和付出。",
+                    "translate": {
+                        "english": "I always remember the love and dedication of my mother to me."
+                    }
+                },
+                {
+                    "example": "我会永远记得和朋友们一起度过的那些快乐时光。",
+                    "translate": {
+                        "english": "I will always remember those happy times spent with friends."
+                    }
+                },
+                {
+                    "example": "我始终记得老师对我的鼓励与期望。",
+                    "translate": {
+                        "english": "I always remember the encouragement and expectation that the teacher has for me."
+                    }
+                }
+            ]
+        }
+    ]
+}

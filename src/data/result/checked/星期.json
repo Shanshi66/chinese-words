@@ -1,0 +1,34 @@
+{
+    "word": "星期",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "星期",
+            "translate": {
+                "english": "week"
+            },
+            "examples": [
+                {
+                    "example": "这个星期我过得非常充实且有意义。",
+                    "translate": {
+                        "english": "I had a very fulfilling and meaningful week."
+                    }
+                },
+                {
+                    "example": "每个星期我都会抽出时间去陪伴家人，共享温馨时光。",
+                    "translate": {
+                        "english": "Every week I will set aside time to accompany my family and share the warm moments together."
+                    }
+                },
+                {
+                    "example": "下星期我们计划去郊游，一起享受美好的大自然。",
+                    "translate": {
+                        "english": "We plan to go for an outing next week and enjoy the beautiful nature together."
+                    }
+                }
+            ]
+        }
+    ]
+}

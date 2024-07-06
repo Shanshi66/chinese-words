@@ -1,0 +1,34 @@
+{
+    "word": "下次",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "下次",
+            "translate": {
+                "english": "next time"
+            },
+            "examples": [
+                {
+                    "example": "下次见面的时候，我们一定要好好聊聊。",
+                    "translate": {
+                        "english": "When we meet next time, we must have a good chat."
+                    }
+                },
+                {
+                    "example": "我期待着下次的旅行，相信那一定会非常精彩。",
+                    "translate": {
+                        "english": "I am looking forward to the next trip and believe it will be extremely wonderful."
+                    }
+                },
+                {
+                    "example": "下次有机会，我一定要去尝试那个期待已久的新项目。",
+                    "translate": {
+                        "english": "Next time there is an opportunity, I must go and try that long-awaited new project."
+                    }
+                }
+            ]
+        }
+    ]
+}

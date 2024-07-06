@@ -1,0 +1,34 @@
+{
+    "word": "名字",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "名字",
+            "translate": {
+                "english": "name"
+            },
+            "examples": [
+                {
+                    "example": "每次看到我的名字出现在光荣榜上，我都十分自豪。",
+                    "translate": {
+                        "english": "Every time I see my name on the honor roll, I am very proud."
+                    }
+                },
+                {
+                    "example": "老师能记住每一位学生的名字，让大家都感受到了尊重和关怀。",
+                    "translate": {
+                        "english": "The teacher can remember the name of every student, making everyone feel respected and cared for."
+                    }
+                },
+                {
+                    "example": "很高兴我能拥有如此独特的名字，它伴随着我快乐成长。",
+                    "translate": {
+                        "english": "I'm very glad that I can have such a unique name, which accompanies me to grow up happily."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "有用",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "有用",
+            "translate": {
+                "english": "useful"
+            },
+            "examples": [
+                {
+                    "example": "多学习一些知识总是有用的，它能在很多时候帮助我们解决问题。",
+                    "translate": {
+                        "english": "Learning more knowledge is always useful, and it can help us solve problems at many times."
+                    }
+                },
+                {
+                    "example": "掌握一些生活小窍门是非常有用的，能让我们的日常生活更加便捷和美好。",
+                    "translate": {
+                        "english": "Mastering some small life tips is very useful, which can make our daily life more convenient and beautiful."
+                    }
+                },
+                {
+                    "example": "慷慨无私的分享自己的经验是非常有用的，那会让别人少走许多弯路。",
+                    "translate": {
+                        "english": "Generous and selfless sharing of one's own experience is very useful, which will enable others to avoid many detours."
+                    }
+                }
+            ]
+        }
+    ]
+}

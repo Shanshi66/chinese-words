@@ -1,0 +1,34 @@
+{
+    "word": "怎么",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "怎么",
+            "translate": {
+                "english": "how / what about / why"
+            },
+            "examples": [
+                {
+                    "example": "无论遇到什么困难，我们都要相信自己怎么都能克服它。",
+                    "translate": {
+                        "english": "No matter what difficulties we encounter, we should all believe that we can overcome it anyway."
+                    }
+                },
+                {
+                    "example": "无论生活怎么变幻，我们都要保持积极乐观的心态去面对。",
+                    "translate": {
+                        "english": "No matter how life changes, we all should keep a positive and optimistic attitude to face it."
+                    }
+                },
+                {
+                    "example": "不管未来道路怎么曲折，我们都要坚定信念勇往直前。",
+                    "translate": {
+                        "english": "No matter how tortuous the future path is, we all need to firmly hold on to our beliefs and move forward bravely."
+                    }
+                }
+            ]
+        }
+    ]
+}

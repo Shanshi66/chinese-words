@@ -1,0 +1,34 @@
+{
+    "word": "女朋友",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "女朋友",
+            "translate": {
+                "english": "girlfriend"
+            },
+            "examples": [
+                {
+                    "example": "我的女朋友非常善解人意，我们相处得十分融洽。",
+                    "translate": {
+                        "english": "My girlfriend is very understanding, and we get along very well."
+                    }
+                },
+                {
+                    "example": "我的女朋友既温柔又善良，和她在一起的每一天都充满了幸福。",
+                    "translate": {
+                        "english": "My girlfriend is both gentle and kind, and every day with her is filled with happiness."
+                    }
+                },
+                {
+                    "example": "我的女朋友总是给予我温暖的鼓励和支持，让我对未来充满信心。",
+                    "translate": {
+                        "english": "My girlfriend always gives me warm encouragement and support, making me full of confidence in the future."
+                    }
+                }
+            ]
+        }
+    ]
+}

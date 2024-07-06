@@ -1,0 +1,34 @@
+{
+    "word": "新年",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "新年",
+            "translate": {
+                "english": "New Year"
+            },
+            "examples": [
+                {
+                    "example": "新年到了，到处都充满了欢乐祥和的气氛。",
+                    "translate": {
+                        "english": "When the New Year arrives, everywhere is filled with a happy and peaceful atmosphere."
+                    }
+                },
+                {
+                    "example": "新年伊始，大家都怀揣着美好的憧憬和希望开启新的征程。",
+                    "translate": {
+                        "english": "At the beginning of the new year, everyone starts a new journey with beautiful visions and hopes."
+                    }
+                },
+                {
+                    "example": "新年之际，人们都开心地聚在一起憧憬着未来的美好生活。",
+                    "translate": {
+                        "english": "On the occasion of the New Year, people happily gather together and look forward to the beautiful life in the future."
+                    }
+                }
+            ]
+        }
+    ]
+}

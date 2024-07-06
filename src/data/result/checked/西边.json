@@ -1,0 +1,34 @@
+{
+    "word": "西边",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "西边",
+            "translate": {
+                "english": "west"
+            },
+            "examples": [
+                {
+                    "example": "太阳渐渐从西边落下，天空被染成了绚丽的色彩。",
+                    "translate": {
+                        "english": "The sun gradually sets in the west, and the sky is dyed with magnificent colors."
+                    }
+                },
+                {
+                    "example": "太阳从西边缓缓落下，把天边晕染得如诗如画。",
+                    "translate": {
+                        "english": "The sun slowly sets from the west, dyeing the skyline as picturesque as a poem."
+                    }
+                },
+                {
+                    "example": "夕阳西下，西边的天空出现了美丽的晚霞。",
+                    "translate": {
+                        "english": "The sun is setting and there appears beautiful afterglow in the west sky."
+                    }
+                }
+            ]
+        }
+    ]
+}

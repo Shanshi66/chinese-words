@@ -1,0 +1,34 @@
+{
+    "word": "本子",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "本子",
+            "translate": {
+                "english": "notebook"
+            },
+            "examples": [
+                {
+                    "example": "我精心挑选了一个漂亮的本子用来记录每天的美好点滴。",
+                    "translate": {
+                        "english": "I carefully selected a beautiful notebook to record the beautiful details of every day."
+                    }
+                },
+                {
+                    "example": "我把重要的知识点都记在这个本子上，它真是我的好帮手。",
+                    "translate": {
+                        "english": "I have recorded all the important knowledge points in this notebook, and it is really a good helper of mine."
+                    }
+                },
+                {
+                    "example": "我将生活中的点滴感悟认真地写在本子上，它成了我的珍贵回忆宝库。",
+                    "translate": {
+                        "english": "I carefully write down every bit of perception in life in the notebook, and it has become my precious treasure trove of memories."
+                    }
+                }
+            ]
+        }
+    ]
+}

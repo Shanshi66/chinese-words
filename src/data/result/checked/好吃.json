@@ -1,0 +1,34 @@
+{
+    "word": "好吃",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "好吃",
+            "translate": {
+                "english": "delicious / tasty"
+            },
+            "examples": [
+                {
+                    "example": "妈妈做的饭菜非常好吃，每次都让我吃得心满意足。",
+                    "translate": {
+                        "english": "The meals cooked by mother are extremely delicious, and every time it makes me eat to my heart's content."
+                    }
+                },
+                {
+                    "example": "这家餐厅的菜实在是太好吃了，吸引了很多顾客前来品尝。",
+                    "translate": {
+                        "english": "The dishes in this restaurant are really delicious, attracting many customers to come and taste."
+                    }
+                },
+                {
+                    "example": "今天尝试了一种新的美食，真的太好吃了，让人回味无穷。",
+                    "translate": {
+                        "english": "Today I tried a new kind of delicacy, and it was really delicious, leaving a memorable aftertaste."
+                    }
+                }
+            ]
+        }
+    ]
+}

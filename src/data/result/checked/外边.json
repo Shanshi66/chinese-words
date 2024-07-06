@@ -1,0 +1,34 @@
+{
+    "word": "外边",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "外边",
+            "translate": {
+                "english": "outside"
+            },
+            "examples": [
+                {
+                    "example": "当我打开门，看到外边阳光明媚，心情顿时格外舒畅。",
+                    "translate": {
+                        "english": "When I opened the door and saw that it was sunny outside, my mood suddenly became extremely pleasant."
+                    }
+                },
+                {
+                    "example": "我们一起去外边呼吸新鲜空气，享受美好的大自然吧。",
+                    "translate": {
+                        "english": "Let's go outside to breathe fresh air and enjoy the beautiful nature together."
+                    }
+                },
+                {
+                    "example": "我很喜欢在闲暇时到外边走走，感受这个世界的多彩与美好。",
+                    "translate": {
+                        "english": "I really like to go outside and walk around in my spare time to feel the colorfulness and beauty of this world."
+                    }
+                }
+            ]
+        }
+    ]
+}

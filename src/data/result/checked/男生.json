@@ -1,0 +1,34 @@
+{
+    "word": "男生",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "男生",
+            "translate": {
+                "english": "boy / man / male student"
+            },
+            "examples": [
+                {
+                    "example": "这位男生总是以积极乐观的态度面对生活中的挑战。",
+                    "translate": {
+                        "english": "This boy always faces the challenges in life with a positive and optimistic attitude."
+                    }
+                },
+                {
+                    "example": "这位男生热心地帮助老人过马路，展现出了极好的品德。",
+                    "translate": {
+                        "english": "This boy enthusiastically helps the old man cross the road, showing excellent moral character."
+                    }
+                },
+                {
+                    "example": "阳光帅气的男生在运动场上尽情挥洒着汗水，展现着青春的活力。",
+                    "translate": {
+                        "english": "The sunny and handsome boy is freely shedding sweat on the sports field, showing the vitality of youth."
+                    }
+                }
+            ]
+        }
+    ]
+}

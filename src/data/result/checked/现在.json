@@ -1,0 +1,34 @@
+{
+    "word": "现在",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "现在",
+            "translate": {
+                "english": "now"
+            },
+            "examples": [
+                {
+                    "example": "我现在充满信心和动力去迎接生活中的各种挑战。",
+                    "translate": {
+                        "english": "I am now full of confidence and motivation to meet all kinds of challenges in life."
+                    }
+                },
+                {
+                    "example": "现在阳光正好，我开心地在公园中漫步。",
+                    "translate": {
+                        "english": "Now the sunshine is just right, and I am happily strolling in the park."
+                    }
+                },
+                {
+                    "example": "现在的我努力且充实，为了梦想不断拼搏奋斗。",
+                    "translate": {
+                        "english": "Now I am diligent and fulfilling, constantly striving and struggling for the dream."
+                    }
+                }
+            ]
+        }
+    ]
+}

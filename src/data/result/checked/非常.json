@@ -1,0 +1,34 @@
+{
+    "word": "非常",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "非常",
+            "translate": {
+                "english": "very"
+            },
+            "examples": [
+                {
+                    "example": "今天的天气非常好，让人心情十分愉悦。",
+                    "translate": {
+                        "english": "Today's weather is very good, making people feel very pleasant."
+                    }
+                },
+                {
+                    "example": "这次旅行非常愉快，让我留下了难忘的记忆。",
+                    "translate": {
+                        "english": "This trip is very pleasant, leaving me with unforgettable memories."
+                    }
+                },
+                {
+                    "example": "生活中总会有非常多的惊喜等着我们去发现。",
+                    "translate": {
+                        "english": "There will always be quite a lot of surprises in life waiting for us to discover."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "好看",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "好看",
+            "translate": {
+                "english": "good-looking / nice / beautiful"
+            },
+            "examples": [
+                {
+                    "example": "她今天穿的裙子特别好看，让人眼前一亮。",
+                    "translate": {
+                        "english": "She is wearing a particularly beautiful skirt today, which makes people's eyes light up."
+                    }
+                },
+                {
+                    "example": "她笑起来的样子特别好看，让人如沐春风。",
+                    "translate": {
+                        "english": "The way she smiles is extremely good-looking, making people feel like bathing in the spring breeze."
+                    }
+                },
+                {
+                    "example": "春天里百花盛开，真的非常好看。",
+                    "translate": {
+                        "english": "In spring, a hundred flowers bloom and it is really very beautiful."
+                    }
+                }
+            ]
+        }
+    ]
+}

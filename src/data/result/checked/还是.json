@@ -1,0 +1,34 @@
+{
+    "word": "还是",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "还是",
+            "translate": {
+                "english": "still / yet"
+            },
+            "examples": [
+                {
+                    "example": "无论遇到多少困难，他还是保持着乐观的心态。",
+                    "translate": {
+                        "english": "No matter how many difficulties he encounters, he still maintains an optimistic attitude."
+                    }
+                },
+                {
+                    "example": "尽管已经取得了很大的成就，他还是不断努力提升自己。",
+                    "translate": {
+                        "english": "Although he has already made great achievements, he still keeps working hard to improve himself."
+                    }
+                },
+                {
+                    "example": "不管别人怎么说，我还是会坚持自己的梦想。",
+                    "translate": {
+                        "english": "No matter what others say, I will still stick to my own dream."
+                    }
+                }
+            ]
+        }
+    ]
+}

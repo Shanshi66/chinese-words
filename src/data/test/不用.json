@@ -1,0 +1,30 @@
+{
+    "word": "不用",
+    "tags": [],
+    "explanations": {
+        "explanation": "不用",
+        "translate": {
+            "english": "no need"
+        },
+        "examples": [
+            {
+                "example": "遇到困难时不用慌张，我们要沉稳应对。",
+                "translate": {
+                    "english": "When encountering difficulties, there is no need to panic, we should deal with them calmly."
+                }
+            },
+            {
+                "example": "公交车马上就来了，我们在这里稍等一会儿就好，不用着急。",
+                "translate": {
+                    "english": "The bus is coming soon. We just wait here for a while. There is no need to worry."
+                }
+            },
+            {
+                "example": "生活中不用总是过于担忧，要保持乐观的心态。",
+                "translate": {
+                    "english": "In life, don't always be overly worried, and keep an optimistic attitude."
+                }
+            }
+        ]
+    }
+}

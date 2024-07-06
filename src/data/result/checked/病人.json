@@ -1,0 +1,34 @@
+{
+    "word": "病人",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "病人",
+            "translate": {
+                "english": "patient"
+            },
+            "examples": [
+                {
+                    "example": "那位善良的护士总是面带微笑地照顾病人。",
+                    "translate": {
+                        "english": "That kind nurse always takes care of patients with a smile on her face."
+                    }
+                },
+                {
+                    "example": "他全心全意地为病人服务，收获了病人和家属的一致称赞。",
+                    "translate": {
+                        "english": "He serves the patients wholeheartedly and has received unanimous praise from the patients and their families."
+                    }
+                },
+                {
+                    "example": "善良的志愿者们经常来探望病人，给他们带来了温暖和快乐。",
+                    "translate": {
+                        "english": "Kind volunteers often come to visit the patients and bring them warmth and happiness."
+                    }
+                }
+            ]
+        }
+    ]
+}

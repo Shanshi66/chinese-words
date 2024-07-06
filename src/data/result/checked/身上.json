@@ -1,0 +1,34 @@
+{
+    "word": "身上",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "身上",
+            "translate": {
+                "english": "body"
+            },
+            "examples": [
+                {
+                    "example": "他的身上散发着自信的光芒。",
+                    "translate": {
+                        "english": "He emits the light of confidence from his body."
+                    }
+                },
+                {
+                    "example": "他身上那种勇往直前的精神感染了身边每一个人。",
+                    "translate": {
+                        "english": "The kind of fearless spirit on him infected everyone around him."
+                    }
+                },
+                {
+                    "example": "他的身上洋溢着青春的活力。",
+                    "translate": {
+                        "english": "He is filled with the vitality of youth."
+                    }
+                }
+            ]
+        }
+    ]
+}

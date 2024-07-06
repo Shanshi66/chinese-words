@@ -1,0 +1,34 @@
+{
+    "word": "那儿",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "那儿",
+            "translate": {
+                "english": "there"
+            },
+            "examples": [
+                {
+                    "example": "看，那儿有一群孩子正在快乐地玩耍。",
+                    "translate": {
+                        "english": "Look, there is a group of children playing happily over there."
+                    }
+                },
+                {
+                    "example": "我站在山顶眺望，那儿有一片美丽的森林郁郁葱葱。",
+                    "translate": {
+                        "english": "I stand on the top of the mountain and look out, there is a beautiful forest there lush and green."
+                    }
+                },
+                {
+                    "example": "每当我抬头看向天空，总觉得那儿有无限的可能和美好等待着我去探索。",
+                    "translate": {
+                        "english": "Whenever I look up at the sky, I always feel that there are unlimited possibilities and beauty waiting for me to explore."
+                    }
+                }
+            ]
+        }
+    ]
+}

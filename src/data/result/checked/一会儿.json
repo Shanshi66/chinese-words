@@ -1,0 +1,34 @@
+{
+    "word": "一会儿",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "一会儿",
+            "translate": {
+                "english": "a moment / a while"
+            },
+            "examples": [
+                {
+                    "example": "他一会儿看看书，一会儿听听音乐，十分惬意。",
+                    "translate": {
+                        "english": "He reads books for a while and listens to music for a while, very comfortable."
+                    }
+                },
+                {
+                    "example": "小朋友在公园里一会儿追逐蝴蝶，一会儿观察花朵，快乐无比。",
+                    "translate": {
+                        "english": "The children chase butterflies for a while and observe flowers for a while in the park, extremely happy."
+                    }
+                },
+                {
+                    "example": "小鸟在枝头一会儿唱歌，一会儿梳理羽毛，活泼又可爱。",
+                    "translate": {
+                        "english": "The little bird sings on the branch for a while and combs its feathers for a while, lively and lovely."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "工作",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "工作",
+            "translate": {
+                "english": "job / work"
+            },
+            "examples": [
+                {
+                    "example": "我非常热爱我的工作，因为它让我不断成长和进步。",
+                    "translate": {
+                        "english": "I love my job very much because it enables me to keep growing and progressing."
+                    }
+                },
+                {
+                    "example": "我的工作充满了乐趣和挑战，让我每天都过得很充实。",
+                    "translate": {
+                        "english": "My work is full of fun and challenges, which makes every day of mine fulfilling."
+                    }
+                },
+                {
+                    "example": "我的工作氛围十分融洽，同事们都很友善且互帮互助。",
+                    "translate": {
+                        "english": "My working atmosphere is very harmonious, and colleagues are all very friendly and help each other."
+                    }
+                }
+            ]
+        }
+    ]
+}

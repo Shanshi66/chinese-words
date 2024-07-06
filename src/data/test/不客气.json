@@ -1,0 +1,30 @@
+{
+    "word": "不客气",
+    "tags": [],
+    "explanations": {
+        "explanation": "不客气",
+        "translate": {
+            "english": "You're welcome."
+        },
+        "examples": [
+            {
+                "example": "帮助别人是一件快乐的事，别人感谢时我会说不客气。",
+                "translate": {
+                    "english": "Helping others is a happy thing, and when others thank me, I will say \"You're welcome\"."
+                }
+            },
+            {
+                "example": "当朋友夸我厨艺好时，我笑着说不客气。",
+                "translate": {
+                    "english": "When friends praise my good cooking skills, I smile and say \"You're welcome\"."
+                }
+            },
+            {
+                "example": "当我帮助老爷爷过马路后，他对我说谢谢，我微笑着说不客气。",
+                "translate": {
+                    "english": "When I helped the old grandpa cross the road, he said thank you to me, and I smiled and said you're welcome."
+                }
+            }
+        ]
+    }
+}

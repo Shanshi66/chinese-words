@@ -1,0 +1,34 @@
+{
+    "word": "米饭",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "米饭",
+            "translate": {
+                "english": "rice"
+            },
+            "examples": [
+                {
+                    "example": "香喷喷的米饭是我们餐桌上常见且重要的主食。",
+                    "translate": {
+                        "english": "Fragrant rice is a common and important staple food on our table."
+                    }
+                },
+                {
+                    "example": "香喷喷的米饭搭配美味的菜肴，让人胃口大开。",
+                    "translate": {
+                        "english": "Fragrant rice matched with delicious dishes makes people's appetite wide open."
+                    }
+                },
+                {
+                    "example": "香喷喷的米饭加上可口的汤羹，让人感到十分满足。",
+                    "translate": {
+                        "english": "Fragrant rice plus delicious soup makes people feel very satisfied."
+                    }
+                }
+            ]
+        }
+    ]
+}

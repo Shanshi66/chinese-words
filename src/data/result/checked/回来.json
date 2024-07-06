@@ -1,0 +1,34 @@
+{
+    "word": "回来",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "回来",
+            "translate": {
+                "english": "come back / return"
+            },
+            "examples": [
+                {
+                    "example": "奶奶去买菜了，我在门口开心地等着奶奶回来。",
+                    "translate": {
+                        "english": "Grandma has gone to buy vegetables, and I am waiting happily at the door for grandma to come back."
+                    }
+                },
+                {
+                    "example": "每次爸爸出差回来，都会给我带有趣的礼物。",
+                    "translate": {
+                        "english": "Every time my father comes back from a business trip, he will bring me interesting gifts."
+                    }
+                },
+                {
+                    "example": "我的好朋友去外地旅游了，我期待着他早日回来与我分享旅途趣事。",
+                    "translate": {
+                        "english": "My good friend has gone to travel in other places, and I am looking forward to his early return to share the interesting things during the journey with me."
+                    }
+                }
+            ]
+        }
+    ]
+}

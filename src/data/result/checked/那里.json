@@ -1,0 +1,34 @@
+{
+    "word": "那里",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "那里",
+            "translate": {
+                "english": "there"
+            },
+            "examples": [
+                {
+                    "example": "我很喜欢那里，留下了许多美好的回忆。",
+                    "translate": {
+                        "english": "I like there very much and have left many wonderful memories."
+                    }
+                },
+                {
+                    "example": "远方的那里有我一直向往的美丽风景。",
+                    "translate": {
+                        "english": "There in the distance is the beautiful scenery that I have always been longing for."
+                    }
+                },
+                {
+                    "example": "我渴望去远方的那里，探索未知的精彩世界。",
+                    "translate": {
+                        "english": "I am eager to go to the distant there and explore the unknown wonderful world."
+                    }
+                }
+            ]
+        }
+    ]
+}

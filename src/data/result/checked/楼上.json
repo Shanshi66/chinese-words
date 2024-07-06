@@ -1,0 +1,34 @@
+{
+    "word": "楼上",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "楼上",
+            "translate": {
+                "english": "upstairs"
+            },
+            "examples": [
+                {
+                    "example": "楼上的邻居总是非常热情地和我们打招呼。",
+                    "translate": {
+                        "english": "The upstairs neighbor always greets us very warmly."
+                    }
+                },
+                {
+                    "example": "我楼上住的那户人家特别友善，我们经常互相帮助。",
+                    "translate": {
+                        "english": "The family living upstairs from me is very friendly and we often help each other."
+                    }
+                },
+                {
+                    "example": "楼上的住户经常邀请我们去参加他们举办的有趣活动。",
+                    "translate": {
+                        "english": "The upstairs residents often invite us to participate in the interesting activities they hold."
+                    }
+                }
+            ]
+        }
+    ]
+}

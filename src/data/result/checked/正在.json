@@ -1,0 +1,34 @@
+{
+    "word": "正在",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "正在",
+            "translate": {
+                "english": "be doing"
+            },
+            "examples": [
+                {
+                    "example": "我们正在为了实现梦想而努力奋斗。",
+                    "translate": {
+                        "english": "We are striving hard to realize the dream."
+                    }
+                },
+                {
+                    "example": "孩子们正在公园里愉快地玩耍。",
+                    "translate": {
+                        "english": "The children are playing happily in the park."
+                    }
+                },
+                {
+                    "example": "大家正在齐心协力地完成这项重要的任务。",
+                    "translate": {
+                        "english": "Everyone is working together to complete this important task."
+                    }
+                }
+            ]
+        }
+    ]
+}

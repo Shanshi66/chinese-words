@@ -1,0 +1,34 @@
+{
+    "word": "下车",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "下车",
+            "translate": {
+                "english": "get off the vehicle"
+            },
+            "examples": [
+                {
+                    "example": "我微笑着和车上的朋友告别，然后缓缓下车，去迎接新的旅程。",
+                    "translate": {
+                        "english": "I smiled and said goodbye to the friends on the car, then got off the car slowly to welcome the new journey."
+                    }
+                },
+                {
+                    "example": "我到达目的地后开心地下车，准备开始美好的一天。",
+                    "translate": {
+                        "english": "I got off the car happily after reaching the destination, preparing to start a beautiful day."
+                    }
+                },
+                {
+                    "example": "我到站后愉快地下车，开启了充满惊喜的一天。",
+                    "translate": {
+                        "english": "After I arrived at the station, I got off happily and started a day full of surprises."
+                    }
+                }
+            ]
+        }
+    ]
+}

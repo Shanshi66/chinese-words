@@ -1,0 +1,34 @@
+{
+    "word": "男朋友",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "男朋友",
+            "translate": {
+                "english": "boyfriend"
+            },
+            "examples": [
+                {
+                    "example": "我的男朋友总是充满爱意地陪伴在我身边，给我带来很多温暖和幸福。",
+                    "translate": {
+                        "english": "My boyfriend always accompanies me affectionately by my side, bringing me a lot of warmth and happiness."
+                    }
+                },
+                {
+                    "example": "我的男朋友很优秀，总是给我带来许多惊喜与快乐。",
+                    "translate": {
+                        "english": "My boyfriend is very excellent and always brings me a lot of surprises and happiness."
+                    }
+                },
+                {
+                    "example": "我的男朋友特别体贴，总是能细心地察觉到我的情绪并给予安慰。",
+                    "translate": {
+                        "english": "My boyfriend is very considerate and can always carefully notice my emotions and give comfort."
+                    }
+                }
+            ]
+        }
+    ]
+}

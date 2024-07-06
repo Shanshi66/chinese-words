@@ -1,0 +1,34 @@
+{
+    "word": "明年",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "明年",
+            "translate": {
+                "english": "next year"
+            },
+            "examples": [
+                {
+                    "example": "我期待着明年能够实现自己的梦想，开启一段全新的旅程。",
+                    "translate": {
+                        "english": "I am looking forward to realizing my dream next year and starting a brand new journey."
+                    }
+                },
+                {
+                    "example": "我相信明年会有更多的美好等待着我们去发现和体验。",
+                    "translate": {
+                        "english": "I believe that there will be more beauties waiting for us to discover and experience next year."
+                    }
+                },
+                {
+                    "example": "我计划在明年去许多不同的地方旅行，领略各地的风土人情。",
+                    "translate": {
+                        "english": "I plan to travel to many different places next year to appreciate the local customs and practices."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "请假",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "请假",
+            "translate": {
+                "english": "ask for leave"
+            },
+            "examples": [
+                {
+                    "example": "我因为身体不舒服向领导请假并得到了批准。",
+                    "translate": {
+                        "english": "I asked for leave from the leader because I was not feeling well and got approval."
+                    }
+                },
+                {
+                    "example": "我心情愉悦地向老师请假，准备和家人一起度过愉快的假期。",
+                    "translate": {
+                        "english": "I happily ask for leave from the teacher, preparing to spend a pleasant holiday with my family."
+                    }
+                },
+                {
+                    "example": "我真诚地向老师请假，想去参加一场有意义的公益活动。",
+                    "translate": {
+                        "english": "I sincerely ask the teacher for leave and want to participate in a meaningful public welfare activity."
+                    }
+                }
+            ]
+        }
+    ]
+}

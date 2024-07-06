@@ -1,0 +1,34 @@
+{
+    "word": "多少",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "多少",
+            "translate": {
+                "english": "how many / how much"
+            },
+            "examples": [
+                {
+                    "example": "在人生的道路上，我们会遇到多少困难，但都要保持乐观积极的心态去面对。",
+                    "translate": {
+                        "english": "On the road of life, we will encounter many difficulties, but we all have to keep an optimistic and positive attitude to face them."
+                    }
+                },
+                {
+                    "example": "无论经历了多少风雨，我们都要坚定地朝着梦想前进。",
+                    "translate": {
+                        "english": "No matter how many storms we have experienced, we should firmly move forward towards the dream."
+                    }
+                },
+                {
+                    "example": "不管经历了多少挫折，我们都要勇往直前，永不放弃。",
+                    "translate": {
+                        "english": "No matter how many setbacks we have experienced, we should move forward bravely and never give up."
+                    }
+                }
+            ]
+        }
+    ]
+}

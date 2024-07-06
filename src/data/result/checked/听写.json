@@ -1,0 +1,34 @@
+{
+    "word": "听写",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "听写",
+            "translate": {
+                "english": "dictation"
+            },
+            "examples": [
+                {
+                    "example": "老师经常在课堂上给我们进行听写，以帮助我们巩固知识。",
+                    "translate": {
+                        "english": "The teacher often gives us dictation in class to help us consolidate knowledge."
+                    }
+                },
+                {
+                    "example": "每次语文老师进行听写，同学们都认真对待，努力争取好成绩。",
+                    "translate": {
+                        "english": "Every time the Chinese teacher conducts a dictation, the students all take it seriously and strive hard for good results."
+                    }
+                },
+                {
+                    "example": "在学习语文的过程中，听写是很有效的巩固知识的方法。",
+                    "translate": {
+                        "english": "In the process of learning Chinese, dictation is a very effective method to consolidate knowledge."
+                    }
+                }
+            ]
+        }
+    ]
+}

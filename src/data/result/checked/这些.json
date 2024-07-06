@@ -1,0 +1,34 @@
+{
+    "word": "这些",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "这些",
+            "translate": {
+                "english": "these / those"
+            },
+            "examples": [
+                {
+                    "example": "这些可爱的孩子们在操场上欢乐地玩耍。",
+                    "translate": {
+                        "english": "These lovely children are playing happily on the playground."
+                    }
+                },
+                {
+                    "example": "这些美丽的花朵在阳光下尽情绽放。",
+                    "translate": {
+                        "english": "These beautiful flowers bloom heartily in the sunlight."
+                    }
+                },
+                {
+                    "example": "这些勇敢的战士们在战场上英勇奋战，守护着国家和人民。",
+                    "translate": {
+                        "english": "These brave soldiers fought bravely on the battlefield, protecting the country and the people."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "生气",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "生气",
+            "translate": {
+                "english": "angry"
+            },
+            "examples": [
+                {
+                    "example": "他总是微笑面对生活，从不轻易生气。",
+                    "translate": {
+                        "english": "He always faces life with a smile and never gets angry easily."
+                    }
+                },
+                {
+                    "example": "我们应该保持平和的心态，不要轻易生气，这样生活才会更加美好。",
+                    "translate": {
+                        "english": "We should keep a peaceful mind and not get angry easily, so that life will be more beautiful."
+                    }
+                },
+                {
+                    "example": "每当我感到疲惫时，看看窗外的美景就不会再生气，心情也会变得格外舒畅。",
+                    "translate": {
+                        "english": "Whenever I feel tired, looking at the beautiful scenery outside the window will no longer make me angry, and my mood will also become extremely comfortable."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "对不起",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "对不起",
+            "translate": {
+                "english": "sorry"
+            },
+            "examples": [
+                {
+                    "example": "我不小心碰倒了他的杯子，赶紧说对不起。",
+                    "translate": {
+                        "english": "I accidentally knocked over his cup and quickly said sorry."
+                    }
+                },
+                {
+                    "example": "我急忙追上前面的人，真诚地说对不起，因为刚才无意间撞到了他。",
+                    "translate": {
+                        "english": "I hurriedly caught up with the person in front and sincerely said sorry because I accidentally bumped into him just now."
+                    }
+                },
+                {
+                    "example": "我不小心犯了一个小错误，连忙真诚地说对不起。",
+                    "translate": {
+                        "english": "I accidentally made a small mistake and hurriedly and sincerely said sorry."
+                    }
+                }
+            ]
+        }
+    ]
+}

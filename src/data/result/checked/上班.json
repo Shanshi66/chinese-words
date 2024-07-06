@@ -1,0 +1,34 @@
+{
+    "word": "上班",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "上班",
+            "translate": {
+                "english": "go to work"
+            },
+            "examples": [
+                {
+                    "example": "我每天都开开心心地去上班，以饱满的热情迎接新的工作。",
+                    "translate": {
+                        "english": "I go to work happily every day and welcome the new work with full enthusiasm."
+                    }
+                },
+                {
+                    "example": "每天迎着朝阳去上班，我都感觉充满了活力和希望。",
+                    "translate": {
+                        "english": "Go to work facing the rising sun every day, and I always feel full of energy and hope."
+                    }
+                },
+                {
+                    "example": "我每天都兴高采烈地去上班，享受着工作带来的乐趣。",
+                    "translate": {
+                        "english": "I go to work happily every day and enjoy the fun brought by the work."
+                    }
+                }
+            ]
+        }
+    ]
+}

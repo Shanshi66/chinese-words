@@ -1,0 +1,34 @@
+{
+    "word": "电脑",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "电脑",
+            "translate": {
+                "english": "computer"
+            },
+            "examples": [
+                {
+                    "example": "我每天都会利用电脑学习新的知识和技能。",
+                    "translate": {
+                        "english": "I use the computer every day to learn new knowledge and skills."
+                    }
+                },
+                {
+                    "example": "我通过电脑了解到了丰富多彩的世界。",
+                    "translate": {
+                        "english": "I learned about the rich and colorful world through the computer."
+                    }
+                },
+                {
+                    "example": "我用电脑绘制出了一幅美丽的图画，成就感满满。",
+                    "translate": {
+                        "english": "I used the computer to draw a beautiful picture and was full of a sense of accomplishment."
+                    }
+                }
+            ]
+        }
+    ]
+}

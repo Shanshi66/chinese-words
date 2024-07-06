@@ -1,0 +1,34 @@
+{
+    "word": "一样",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "一样",
+            "translate": {
+                "english": "the same"
+            },
+            "examples": [
+                {
+                    "example": "生活就像一面镜子，你对它微笑，它也会对你微笑一样。",
+                    "translate": {
+                        "english": "Life is like a mirror, if you smile at it, it will smile at you too."
+                    }
+                },
+                {
+                    "example": "我们要像鸟儿爱护自己的羽毛一样爱护我们的环境。",
+                    "translate": {
+                        "english": "We should cherish our environment just like birds cherish their own feathers."
+                    }
+                },
+                {
+                    "example": "快乐的心情和灿烂的阳光一样能给人带来温暖和希望。",
+                    "translate": {
+                        "english": "A happy mood, just like the bright sunshine, can bring warmth and hope to people."
+                    }
+                }
+            ]
+        }
+    ]
+}

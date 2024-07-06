@@ -1,0 +1,34 @@
+{
+    "word": "干净",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "干净",
+            "translate": {
+                "english": "clean"
+            },
+            "examples": [
+                {
+                    "example": "每天把房间打扫得干干净净，让人心情格外舒畅。",
+                    "translate": {
+                        "english": "Clean the room neatly every day, making people feel extremely comfortable."
+                    }
+                },
+                {
+                    "example": "天空湛蓝如洗，大地干净整洁，一切看上去都那么美好。",
+                    "translate": {
+                        "english": "The sky is as blue as washed, the earth is clean and tidy, and everything looks so beautiful."
+                    }
+                },
+                {
+                    "example": "妈妈把家里收拾得干净又整洁，充满了温馨的气息。",
+                    "translate": {
+                        "english": "Mother tidies up the home neatly and cleanly, full of warm atmosphere."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -7,18 +7,18 @@ import type { MetaData, PinyinWord } from "@/common/types";
 import Explanation from "@/components/widget/Explanation.astro";
 import { getLang, supportedLang } from "@/customize/lang";
 import { getIntlData } from "@/customize/intl";
-import { loadWord } from "@/utils/words";
+import { loadAllWords, loadWord } from "@/utils/words";
 import { allList, getListIntl } from "@/customize/list";
 
 export async function getStaticPaths() {
-    const wordFiles = fs.readdirSync("src/data/words");
+    const words = loadAllWords()
     let paths = [];
     for (let lang of supportedLang) {
-        for (let word of wordFiles) {
+        for (let word of words) {
             paths.push({
                 params: {
                     locale: lang?.locale,
-                    word: word.split(".")[0],
+                    word: word.word,
                 },
             });
         }
@@ -54,17 +54,11 @@ const metadata: MetaData = {
 ---
 
 <PageLayout metadata={metadata}>
-    <main class="max-w-screen-md mx-auto">
+    <main>
         <h1 class="text-4xl text-center text-white">{word}</h1>
         <div class="mb-20">
             <Hanzi pinyinWords={pinyinWords} />
         </div>
-
-        <!-- <div class="my-10">
-            <h2 class="text-2xl border-b-[1px] py-4 font-serif">
-                {intlData.word.information}
-            </h2>
-        </div> -->
 
         <div class="my-10">
             <h2 class="text-2xl py-4 font-serif">

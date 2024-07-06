@@ -1,0 +1,34 @@
+{
+    "word": "下班",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "下班",
+            "translate": {
+                "english": "get off work"
+            },
+            "examples": [
+                {
+                    "example": "下班后，我喜欢去公园散步放松心情。",
+                    "translate": {
+                        "english": "After work, I like to go to the park for a walk to relax."
+                    }
+                },
+                {
+                    "example": "下班之后，大家可以去做自己喜欢的事情来享受生活。",
+                    "translate": {
+                        "english": "After getting off work, everyone can do the things they like to enjoy life."
+                    }
+                },
+                {
+                    "example": "下班回到家，我会和家人一起愉快地享受晚餐时光。",
+                    "translate": {
+                        "english": "After getting off work and returning home, I will enjoy the dinner time happily with my family."
+                    }
+                }
+            ]
+        }
+    ]
+}

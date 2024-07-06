@@ -1,0 +1,34 @@
+{
+    "word": "哥哥",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "哥哥",
+            "translate": {
+                "english": "elder brother"
+            },
+            "examples": [
+                {
+                    "example": "我的哥哥特别优秀，一直是我的榜样。",
+                    "translate": {
+                        "english": "My elder brother is extremely excellent and has always been my role model."
+                    }
+                },
+                {
+                    "example": "我的哥哥总是热情地帮助身边的人，大家都很喜欢他。",
+                    "translate": {
+                        "english": "My elder brother always helps people around him passionately, and everyone likes him very much."
+                    }
+                },
+                {
+                    "example": "我的哥哥阳光开朗，总是用笑容温暖着身边的人。",
+                    "translate": {
+                        "english": "My elder brother is sunny and cheerful, and always warms the people around with a smile."
+                    }
+                }
+            ]
+        }
+    ]
+}

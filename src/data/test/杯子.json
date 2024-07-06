@@ -1,0 +1,30 @@
+{
+    "word": "杯子",
+    "tags": [],
+    "explanations": {
+        "explanation": "杯子",
+        "translate": {
+            "english": "cup"
+        },
+        "examples": [
+            {
+                "example": "我拿起精致的杯子，喝了一口温暖的咖啡，感觉十分惬意。",
+                "translate": {
+                    "english": "I picked up the delicate cup, took a sip of warm coffee, and felt very cozy."
+                }
+            },
+            {
+                "example": "我用漂亮的杯子给客人倒了一杯热气腾腾的茶，表达我的欢迎之情。",
+                "translate": {
+                    "english": "I poured a cup of steaming hot tea for the guests with a beautiful cup to express my welcome."
+                }
+            },
+            {
+                "example": "我精心挑选了一只可爱的杯子，用它来盛装我每天的快乐水。",
+                "translate": {
+                    "english": "I carefully selected a lovely cup and use it to hold my daily happy water."
+                }
+            }
+        ]
+    }
+}

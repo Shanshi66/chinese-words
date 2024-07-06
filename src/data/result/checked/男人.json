@@ -1,0 +1,34 @@
+{
+    "word": "男人",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "男人",
+            "translate": {
+                "english": "man"
+            },
+            "examples": [
+                {
+                    "example": "那位男人十分有礼貌地帮老奶奶提重物过马路。",
+                    "translate": {
+                        "english": "That man helped the old grandma carry heavy things to cross the road very politely."
+                    }
+                },
+                {
+                    "example": "那个男人积极热情地帮助小朋友找到回家的路。",
+                    "translate": {
+                        "english": "That man helps the children find their way home actively and passionately."
+                    }
+                },
+                {
+                    "example": "那位男人乐观地面对生活中的各种挑战，总是充满活力。",
+                    "translate": {
+                        "english": "That man faces all kinds of challenges in life optimistically and is always full of vitality."
+                    }
+                }
+            ]
+        }
+    ]
+}

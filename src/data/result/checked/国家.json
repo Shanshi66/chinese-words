@@ -1,0 +1,34 @@
+{
+    "word": "国家",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "国家",
+            "translate": {
+                "english": "country / nation"
+            },
+            "examples": [
+                {
+                    "example": "我们的国家越来越繁荣昌盛，人民生活幸福安康。",
+                    "translate": {
+                        "english": "Our country is becoming more and more prosperous and strong, and the people live happily and healthily."
+                    }
+                },
+                {
+                    "example": "我们的国家在不断发展进步，处处呈现出一派生机勃勃的景象。",
+                    "translate": {
+                        "english": "Our country is constantly developing and progressing, presenting a vibrant scene everywhere."
+                    }
+                },
+                {
+                    "example": "我为自己的国家取得如此巨大的成就而感到无比自豪。",
+                    "translate": {
+                        "english": "I am extremely proud of my country for achieving such tremendous achievements."
+                    }
+                }
+            ]
+        }
+    ]
+}

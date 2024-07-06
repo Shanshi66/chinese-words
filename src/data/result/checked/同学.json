@@ -1,0 +1,34 @@
+{
+    "word": "同学",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "同学",
+            "translate": {
+                "english": "classmate"
+            },
+            "examples": [
+                {
+                    "example": "我的同学们都很友善，我们在一起学习和玩耍十分开心。",
+                    "translate": {
+                        "english": "My classmates are all very friendly, and we are very happy to study and play together."
+                    }
+                },
+                {
+                    "example": "我的同学在我遇到困难时总是热情地帮助我，让我倍感温暖。",
+                    "translate": {
+                        "english": "My classmates always warmly help me when I encounter difficulties, making me feel extremely warm."
+                    }
+                },
+                {
+                    "example": "我的同学都积极向上，和他们相处让我充满了蓬勃的动力。",
+                    "translate": {
+                        "english": "My classmates are all positive and upward, and getting along with them makes me full of vigorous motivation."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "请问",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "请问",
+            "translate": {
+                "english": "please ask / inquire"
+            },
+            "examples": [
+                {
+                    "example": "请问您需要我帮忙做些什么呢？",
+                    "translate": {
+                        "english": "May I ask what you need me to do for you?"
+                    }
+                },
+                {
+                    "example": "请问您是否有时间和我一起去参加那个有趣的活动呀？",
+                    "translate": {
+                        "english": "May I ask if you have time to go with me to attend that interesting activity?"
+                    }
+                },
+                {
+                    "example": "请问我可以为你做些什么让你更开心呢？",
+                    "translate": {
+                        "english": "May I ask what I can do for you to make you happier?"
+                    }
+                }
+            ]
+        }
+    ]
+}

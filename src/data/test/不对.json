@@ -1,0 +1,30 @@
+{
+    "word": "不对",
+    "tags": [],
+    "explanations": {
+        "explanation": "不对",
+        "translate": {
+            "english": "incorrect / wrong"
+        },
+        "examples": [
+            {
+                "example": "当你发现自己的想法不对时，及时改正会收获更好的结果。",
+                "translate": {
+                    "english": "When you find that your own idea is not right, correcting it in time will gain better results."
+                }
+            },
+            {
+                "example": "遇到困难时，不要总觉得自己的方法不对，要勇于尝试和探索新路径。",
+                "translate": {
+                    "english": "When encountering difficulties, don't always feel that your own method is wrong, but be brave to try and explore new paths."
+                }
+            },
+            {
+                "example": "如果觉得自己的方向不对，那就及时调整，相信总会走向正确的道路。",
+                "translate": {
+                    "english": "If you feel that your direction is not right, then adjust it in time, and believe that you will always move towards the right path."
+                }
+            }
+        ]
+    }
+}

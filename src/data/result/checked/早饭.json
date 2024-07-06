@@ -1,0 +1,34 @@
+{
+    "word": "早饭",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "早饭",
+            "translate": {
+                "english": "breakfast"
+            },
+            "examples": [
+                {
+                    "example": "妈妈每天都会精心准备营养丰富的早饭。",
+                    "translate": {
+                        "english": "Mother prepares nutritious breakfast carefully every day."
+                    }
+                },
+                {
+                    "example": "我每天都会早起为自己做一顿美味的早饭。",
+                    "translate": {
+                        "english": "I get up early every day to make myself a delicious breakfast."
+                    }
+                },
+                {
+                    "example": "我很享受每天和家人一起吃早饭的温馨时光。",
+                    "translate": {
+                        "english": "I really enjoy the warm time of having breakfast with my family every day."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "来到",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "来到",
+            "translate": {
+                "english": "come to / arrive at"
+            },
+            "examples": [
+                {
+                    "example": "我怀着喜悦的心情来到了这个美丽的地方。",
+                    "translate": {
+                        "english": "I came to this beautiful place with a joyful mood."
+                    }
+                },
+                {
+                    "example": "他经过不懈努力来到了自己梦寐以求的学府。",
+                    "translate": {
+                        "english": "He came to the institution he had been dreaming of through unremitting efforts."
+                    }
+                },
+                {
+                    "example": "我开心地来到了那片充满希望的田野。",
+                    "translate": {
+                        "english": "I happily came to that field full of hope."
+                    }
+                }
+            ]
+        }
+    ]
+}

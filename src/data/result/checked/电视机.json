@@ -1,0 +1,34 @@
+{
+    "word": "电视机",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "电视机",
+            "translate": {
+                "english": "TV / television"
+            },
+            "examples": [
+                {
+                    "example": "我们一家人围坐在电视机前，愉快地观看精彩节目。",
+                    "translate": {
+                        "english": "Our whole family sit around the TV and happily watch the wonderful programs."
+                    }
+                },
+                {
+                    "example": "我喜欢在周末的晚上，舒服地躺在沙发上，打开电视机，享受惬意的时光。",
+                    "translate": {
+                        "english": "I like to lie comfortably on the sofa on weekend evenings, turn on the TV and enjoy the pleasant time."
+                    }
+                },
+                {
+                    "example": "晚饭后，我们一家人开心地坐在电视机前，讨论着有趣的剧情。",
+                    "translate": {
+                        "english": "After dinner, our family happily sits in front of the TV and discusses the interesting plot."
+                    }
+                }
+            ]
+        }
+    ]
+}

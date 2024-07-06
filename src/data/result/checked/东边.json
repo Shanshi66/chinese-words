@@ -1,0 +1,34 @@
+{
+    "word": "东边",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "东边",
+            "translate": {
+                "english": "east side"
+            },
+            "examples": [
+                {
+                    "example": "太阳从东边缓缓升起，给大地带来了无限的光明与希望。",
+                    "translate": {
+                        "english": "The sun slowly rises from the east, bringing unlimited light and hope to the earth."
+                    }
+                },
+                {
+                    "example": "我遥望着东边那片美丽的天空，心情格外舒畅。",
+                    "translate": {
+                        "english": "I looked afar at that beautiful sky in the east, and my mood was exceptionally relaxed and happy."
+                    }
+                },
+                {
+                    "example": "每天清晨，我都会去东边的公园散步，享受清新的空气和美丽的景色。",
+                    "translate": {
+                        "english": "Every morning, I will go for a walk in the park in the east and enjoy the fresh air and beautiful scenery."
+                    }
+                }
+            ]
+        }
+    ]
+}

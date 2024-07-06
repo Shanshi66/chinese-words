@@ -1,0 +1,34 @@
+{
+    "word": "门口",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "门口",
+            "translate": {
+                "english": "doorway"
+            },
+            "examples": [
+                {
+                    "example": "我在门口满心欢喜地迎接朋友的到来。",
+                    "translate": {
+                        "english": "I happily welcome the arrival of friends at the door."
+                    }
+                },
+                {
+                    "example": "我站在门口微笑着和邻居打招呼。",
+                    "translate": {
+                        "english": "I stood at the door, smiling and greeting the neighbor."
+                    }
+                },
+                {
+                    "example": "我每天都会在门口摆放一束鲜花，让路过的人也能感受到生活的美好。",
+                    "translate": {
+                        "english": "I will put a bunch of fresh flowers at the door every day to let the people passing by also feel the beauty of life."
+                    }
+                }
+            ]
+        }
+    ]
+}

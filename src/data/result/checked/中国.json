@@ -1,0 +1,34 @@
+{
+    "word": "中国",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "中国",
+            "translate": {
+                "english": "China"
+            },
+            "examples": [
+                {
+                    "example": "中国正以昂扬的姿态屹立在世界的东方，展现着独特的魅力与风采。",
+                    "translate": {
+                        "english": "China is standing firmly in the east of the world with a high-spirited attitude, showing unique charm and elegance."
+                    }
+                },
+                {
+                    "example": "中国人民凭借着勤劳和智慧创造了辉煌的文明成果。",
+                    "translate": {
+                        "english": "The Chinese people have created brilliant achievements of civilization with diligence and wisdom."
+                    }
+                },
+                {
+                    "example": "中国在不断发展进步中为世界带来更多机遇与福祉。",
+                    "translate": {
+                        "english": "China brings more opportunities and well-being to the world in the continuous development and progress."
+                    }
+                }
+            ]
+        }
+    ]
+}

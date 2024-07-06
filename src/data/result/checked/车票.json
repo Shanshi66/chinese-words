@@ -1,0 +1,34 @@
+{
+    "word": "车票",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "车票",
+            "translate": {
+                "english": "ticket"
+            },
+            "examples": [
+                {
+                    "example": "我拿着车票，怀着兴奋的心情踏上了愉快的旅途。",
+                    "translate": {
+                        "english": "I held the train ticket and set out on a pleasant journey with an excited mood."
+                    }
+                },
+                {
+                    "example": "我买好了车票，准备开启一段精彩的旅程。",
+                    "translate": {
+                        "english": "I have bought the train ticket and am ready to start an exciting journey."
+                    }
+                },
+                {
+                    "example": "我提前买好了车票，期待着这场充满惊喜的出行。",
+                    "translate": {
+                        "english": "I bought the ticket in advance and am looking forward to this trip full of surprises."
+                    }
+                }
+            ]
+        }
+    ]
+}

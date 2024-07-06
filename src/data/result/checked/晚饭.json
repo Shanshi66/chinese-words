@@ -1,0 +1,34 @@
+{
+    "word": "晚饭",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "晚饭",
+            "translate": {
+                "english": "dinner / supper"
+            },
+            "examples": [
+                {
+                    "example": "每天的晚饭时间是我们一家人最温馨的时刻。",
+                    "translate": {
+                        "english": "Everyday's dinner time is the warmest moment for our whole family."
+                    }
+                },
+                {
+                    "example": "今天的晚饭特别丰盛，大家吃得很开心。",
+                    "translate": {
+                        "english": "Today's dinner is particularly sumptuous, and everyone eats very happily."
+                    }
+                },
+                {
+                    "example": "妈妈精心准备的晚饭，充满了家的味道，让我感到无比幸福。",
+                    "translate": {
+                        "english": "The dinner carefully prepared by mother is full of the taste of home and makes me feel extremely happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

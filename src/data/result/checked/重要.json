@@ -1,0 +1,34 @@
+{
+    "word": "重要",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "重要",
+            "translate": {
+                "english": "important"
+            },
+            "examples": [
+                {
+                    "example": "每个人都应该意识到健康的重要性，好好爱护自己的身体。",
+                    "translate": {
+                        "english": "Everyone should realize the importance of health and take good care of their own bodies."
+                    }
+                },
+                {
+                    "example": "良好的沟通在人际关系中是非常重要的。",
+                    "translate": {
+                        "english": "Good communication is very important in interpersonal relationships."
+                    }
+                },
+                {
+                    "example": "对于学生来说，培养良好的学习习惯是非常重要的。",
+                    "translate": {
+                        "english": "For students, it is very important to cultivate good study habits."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "再见",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "再见",
+            "translate": {
+                "english": "goodbye"
+            },
+            "examples": [
+                {
+                    "example": "无论遇到什么困难，我们都要微笑着说再见，然后勇敢向前。",
+                    "translate": {
+                        "english": "No matter what difficulties we encounter, we should smile and say goodbye, and then move forward bravely."
+                    }
+                },
+                {
+                    "example": "和朋友们开心地度过了一天，我们微笑着挥手说再见，期待下一次的相聚。",
+                    "translate": {
+                        "english": "Spent a happy day with friends, we smiled and waved goodbye, looking forward to the next gathering."
+                    }
+                },
+                {
+                    "example": "和同学们愉快地玩耍后，我们微笑着说再见，约定好了下次再一起玩。",
+                    "translate": {
+                        "english": "After playing happily with the classmates, we smiled and said goodbye, and agreed to play together next time."
+                    }
+                }
+            ]
+        }
+    ]
+}

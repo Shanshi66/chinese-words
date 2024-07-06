@@ -1,0 +1,34 @@
+{
+    "word": "朋友",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "朋友",
+            "translate": {
+                "english": "friend"
+            },
+            "examples": [
+                {
+                    "example": "无论遇到什么困难，朋友们总是会在第一时间伸出援助之手。",
+                    "translate": {
+                        "english": "No matter what difficulties are encountered, friends will always extend a helping hand in the first place."
+                    }
+                },
+                {
+                    "example": "真正的朋友会在你成功时真心为你高兴。",
+                    "translate": {
+                        "english": "A true friend will be truly happy for you when you succeed."
+                    }
+                },
+                {
+                    "example": "我的朋友们都对我很友好，我们一起度过了许多欢乐的时光。",
+                    "translate": {
+                        "english": "My friends are all very friendly to me and we have spent a lot of happy times together."
+                    }
+                }
+            ]
+        }
+    ]
+}

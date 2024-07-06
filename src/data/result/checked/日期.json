@@ -1,0 +1,34 @@
+{
+    "word": "日期",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "日期",
+            "translate": {
+                "english": "date"
+            },
+            "examples": [
+                {
+                    "example": "我清楚地记得我们约定的那个重要日期。",
+                    "translate": {
+                        "english": "I clearly remember the important date we agreed on."
+                    }
+                },
+                {
+                    "example": "每一个特殊的日期都承载着我们美好的回忆和珍贵的经历。",
+                    "translate": {
+                        "english": "Every special date carries our wonderful memories and precious experiences."
+                    }
+                },
+                {
+                    "example": "我们选了一个有意义的日期举办婚礼，那将是我们幸福的开始。",
+                    "translate": {
+                        "english": "We chose a meaningful date to hold the wedding, and that will be the beginning of our happiness."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "没什么",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "没什么",
+            "translate": {
+                "english": "nothing"
+            },
+            "examples": [
+                {
+                    "example": "遇到困难别担心，这没什么大不了的，我们一定能克服。",
+                    "translate": {
+                        "english": "Don't worry when encountering difficulties. It's not a big deal. We can surely overcome it."
+                    }
+                },
+                {
+                    "example": "生活中遇到一些小挫折没什么，只要保持乐观，就一定能迎来美好的明天。",
+                    "translate": {
+                        "english": "Encountering some small setbacks in life is nothing, as long as you keep optimistic, you will definitely be able to welcome a beautiful tomorrow."
+                    }
+                },
+                {
+                    "example": "在我看来，失败了没什么，重要的是能从中汲取经验，然后继续前进。",
+                    "translate": {
+                        "english": "In my opinion, it's nothing if you fail. The important thing is to draw experience from it and then move on."
+                    }
+                }
+            ]
+        }
+    ]
+}

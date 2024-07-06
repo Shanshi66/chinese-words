@@ -1,0 +1,34 @@
+{
+    "word": "他们",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "他们",
+            "translate": {
+                "english": "they / them"
+            },
+            "examples": [
+                {
+                    "example": "他们始终保持着乐观向上的心态面对生活中的各种挑战。",
+                    "translate": {
+                        "english": "They always keep an optimistic and upward mindset to face various challenges in life."
+                    }
+                },
+                {
+                    "example": "他们致力于帮助他人，为社会带来了许多温暖和正能量。",
+                    "translate": {
+                        "english": "They are committed to helping others and have brought a lot of warmth and positive energy to the society."
+                    }
+                },
+                {
+                    "example": "他们积极乐观地对待每一件事，让周围的人都深受感染。",
+                    "translate": {
+                        "english": "They treat everything positively and optimistically, infecting the people around them deeply."
+                    }
+                }
+            ]
+        }
+    ]
+}

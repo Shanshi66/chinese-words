@@ -1,0 +1,34 @@
+{
+    "word": "不对",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "不对",
+            "translate": {
+                "english": "incorrect / wrong"
+            },
+            "examples": [
+                {
+                    "example": "遇到问题先不要着急下结论说不对，而是要认真思考和分析。",
+                    "translate": {
+                        "english": "When encountering problems, don't rush to draw a conclusion that it's not right, but seriously think and analyze."
+                    }
+                },
+                {
+                    "example": "我觉得那个答案好像不对，但我会再仔细思考确认一下。",
+                    "translate": {
+                        "english": "I think that answer seems not right, but I will think carefully and confirm it again."
+                    }
+                },
+                {
+                    "example": "我检查了一遍自己的答案，发现有一处不对的地方，便赶紧改正了过来。",
+                    "translate": {
+                        "english": "I checked my answers once and found one incorrect place, then quickly corrected it."
+                    }
+                }
+            ]
+        }
+    ]
+}

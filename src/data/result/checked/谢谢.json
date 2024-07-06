@@ -1,0 +1,34 @@
+{
+    "word": "谢谢",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "谢谢",
+            "translate": {
+                "english": "thank you"
+            },
+            "examples": [
+                {
+                    "example": "当别人帮助了我，我都会真诚地说一声谢谢。",
+                    "translate": {
+                        "english": "When others help me, I will sincerely say thank you."
+                    }
+                },
+                {
+                    "example": "当我得到朋友的礼物时，我开心地说谢谢。",
+                    "translate": {
+                        "english": "When I got the gift from my friend, I happily said thank you."
+                    }
+                },
+                {
+                    "example": "别人为我指出错误时，我会微笑着说谢谢。",
+                    "translate": {
+                        "english": "When others point out my mistakes for me, I will smile and say thank you."
+                    }
+                }
+            ]
+        }
+    ]
+}

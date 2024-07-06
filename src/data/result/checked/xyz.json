@@ -1,0 +1,34 @@
+{
+    "word": "爱好",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "爱好",
+            "translate": {
+                "english": "hobby"
+            },
+            "examples": [
+                {
+                    "example": "我的爱好是阅读，它让我的生活丰富多彩。",
+                    "translate": {
+                        "english": "My hobby is reading, and it makes my life rich and colorful."
+                    }
+                },
+                {
+                    "example": "我的爱好是绘画，它为我打开了一扇通往美好世界的大门。",
+                    "translate": {
+                        "english": "My hobby is painting, and it has opened a door for me to a beautiful world."
+                    }
+                },
+                {
+                    "example": "我的爱好是音乐，它为我带来了无尽的欢乐和感动。",
+                    "translate": {
+                        "english": "My hobby is music, which brings me endless joy and moved feelings."
+                    }
+                }
+            ]
+        }
+    ]
+}

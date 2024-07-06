@@ -1,0 +1,34 @@
+{
+    "word": "时间",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "时间",
+            "translate": {
+                "english": "time"
+            },
+            "examples": [
+                {
+                    "example": "时间就像一条奔腾不息的河流，它承载着我们美好的回忆一直向前。",
+                    "translate": {
+                        "english": "Time is like a surging river that carries our beautiful memories forward all the time."
+                    }
+                },
+                {
+                    "example": "我们应该珍惜时间，让每一刻都过得有意义。",
+                    "translate": {
+                        "english": "We should cherish the time and make every moment meaningful."
+                    }
+                },
+                {
+                    "example": "时间如白驹过隙，我们要把握当下，努力创造精彩人生。",
+                    "translate": {
+                        "english": "Time flies like a white horse passing through a gap. We should seize the present and strive to create a wonderful life."
+                    }
+                }
+            ]
+        }
+    ]
+}

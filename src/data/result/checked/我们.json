@@ -1,0 +1,34 @@
+{
+    "word": "我们",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "我们",
+            "translate": {
+                "english": "we / us"
+            },
+            "examples": [
+                {
+                    "example": "我们一起努力必然能创造更美好的未来。",
+                    "translate": {
+                        "english": "We work together and will surely be able to create a more beautiful future."
+                    }
+                },
+                {
+                    "example": "我们在前进的道路上相互扶持，共同进步。",
+                    "translate": {
+                        "english": "We support each other on the road of progress and make common progress."
+                    }
+                },
+                {
+                    "example": "我们一起怀揣着梦想，坚定地朝着目标前进。",
+                    "translate": {
+                        "english": "We carry the dream together and move forward firmly towards the goal."
+                    }
+                }
+            ]
+        }
+    ]
+}

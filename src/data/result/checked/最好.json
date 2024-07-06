@@ -1,0 +1,34 @@
+{
+    "word": "最好",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "最好",
+            "translate": {
+                "english": "best"
+            },
+            "examples": [
+                {
+                    "example": "我们要以最好的状态去迎接每一天的挑战。",
+                    "translate": {
+                        "english": "We should greet every day's challenges in the best state."
+                    }
+                },
+                {
+                    "example": "我们应该努力做到最好，去创造更加美好的未来。",
+                    "translate": {
+                        "english": "We should strive to be the best to create a more beautiful future."
+                    }
+                },
+                {
+                    "example": "我相信只要我们努力拼搏，就会拥有最好的人生。",
+                    "translate": {
+                        "english": "I believe that as long as we strive hard, we will have the best life."
+                    }
+                }
+            ]
+        }
+    ]
+}

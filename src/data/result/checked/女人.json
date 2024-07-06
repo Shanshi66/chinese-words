@@ -1,0 +1,34 @@
+{
+    "word": "女人",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "女人",
+            "translate": {
+                "english": "woman"
+            },
+            "examples": [
+                {
+                    "example": "每一个女人都有着独特的魅力和价值。",
+                    "translate": {
+                        "english": "Every woman has unique charm and value."
+                    }
+                },
+                {
+                    "example": "女人就像美丽的花朵，为世界增添了许多绚丽的色彩。",
+                    "translate": {
+                        "english": "Women are like beautiful flowers, adding a lot of brilliant colors to the world."
+                    }
+                },
+                {
+                    "example": "女人的笑容如同春日暖阳，能温暖身边每一个人。",
+                    "translate": {
+                        "english": "A woman's smile is like the warm spring sun, which can warm everyone around."
+                    }
+                }
+            ]
+        }
+    ]
+}

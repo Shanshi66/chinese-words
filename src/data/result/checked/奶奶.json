@@ -1,0 +1,34 @@
+{
+    "word": "奶奶",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "奶奶",
+            "translate": {
+                "english": "grandmother / grandma"
+            },
+            "examples": [
+                {
+                    "example": "我的奶奶总是笑容满面，非常和蔼可亲。",
+                    "translate": {
+                        "english": "My grandma always has a big smile on her face and is very kind and amiable."
+                    }
+                },
+                {
+                    "example": "我的奶奶是个特别慈祥和蔼的人，总是乐呵呵地和我们说笑。",
+                    "translate": {
+                        "english": "My grandma is a particularly kind and amiable person, always chatting and laughing with us cheerfully."
+                    }
+                },
+                {
+                    "example": "我的奶奶厨艺精湛，总是能做出美味的菜肴让大家大快朵颐。",
+                    "translate": {
+                        "english": "My grandma is an excellent cook and can always make delicious dishes for everyone to enjoy."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "爸爸",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "爸爸",
+            "translate": {
+                "english": "father / dad"
+            },
+            "examples": [
+                {
+                    "example": "我的爸爸是我成长道路上最重要的人，他一直在背后默默地支持和鼓励着我。",
+                    "translate": {
+                        "english": "My father is the most important person in my growth path, and he has been silently supporting and encouraging me behind."
+                    }
+                },
+                {
+                    "example": "我的爸爸总是以身作则，教会我许多做人的道理和生活的智慧。",
+                    "translate": {
+                        "english": "My father always sets an example by himself and teaches me a lot of principles of being a person and the wisdom of life."
+                    }
+                },
+                {
+                    "example": "我的爸爸犹如一座灯塔，照亮我前行的道路。",
+                    "translate": {
+                        "english": "My father is like a lighthouse, illuminating the path ahead of me."
+                    }
+                }
+            ]
+        }
+    ]
+}

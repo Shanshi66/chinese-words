@@ -1,0 +1,34 @@
+{
+    "word": "上学",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "上学",
+            "translate": {
+                "english": "go to school / attend school"
+            },
+            "examples": [
+                {
+                    "example": "我每天都开开心心地去上学，享受知识带来的乐趣。",
+                    "translate": {
+                        "english": "I go to school happily every day and enjoy the pleasure brought by knowledge."
+                    }
+                },
+                {
+                    "example": "我每天都怀着期待去上学，努力追求自己的梦想。",
+                    "translate": {
+                        "english": "I go to school with anticipation every day and strive to pursue my own dream."
+                    }
+                },
+                {
+                    "example": "我总是兴高采烈地去上学，和同学们一起度过快乐的时光。",
+                    "translate": {
+                        "english": "I always go to school cheerfully and spend happy time with my classmates."
+                    }
+                }
+            ]
+        }
+    ]
+}

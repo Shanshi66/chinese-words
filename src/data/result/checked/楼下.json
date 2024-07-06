@@ -1,0 +1,34 @@
+{
+    "word": "楼下",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "楼下",
+            "translate": {
+                "english": "downstairs"
+            },
+            "examples": [
+                {
+                    "example": "我在楼下遇到了一位热心的邻居，他微笑着和我打招呼。",
+                    "translate": {
+                        "english": "I met an enthusiastic neighbor downstairs, and he greeted me with a smile."
+                    }
+                },
+                {
+                    "example": "我在楼下的花园里看到了许多绽放的花朵，心情格外愉悦。",
+                    "translate": {
+                        "english": "I saw many blooming flowers in the garden downstairs, and my mood was exceptionally cheerful."
+                    }
+                },
+                {
+                    "example": "我经常会在楼下的小广场上和朋友们一起快乐地玩耍。",
+                    "translate": {
+                        "english": "I often play happily with friends in the small square downstairs."
+                    }
+                }
+            ]
+        }
+    ]
+}

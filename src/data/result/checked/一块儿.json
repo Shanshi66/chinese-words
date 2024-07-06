@@ -1,0 +1,34 @@
+{
+    "word": "一块儿",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "一块儿",
+            "translate": {
+                "english": "together"
+            },
+            "examples": [
+                {
+                    "example": "我和朋友们一块儿去郊外游玩，大家都特别开心。",
+                    "translate": {
+                        "english": "I went to play in the suburbs with my friends, and everyone was extremely happy."
+                    }
+                },
+                {
+                    "example": "我和家人一块儿度过了一个愉快的假期。",
+                    "translate": {
+                        "english": "I spent a pleasant vacation with my family."
+                    }
+                },
+                {
+                    "example": "我和同学们一块儿参加志愿者活动，收获了很多快乐和成长。",
+                    "translate": {
+                        "english": "I participated in volunteer activities together with my classmates and gained a lot of happiness and growth."
+                    }
+                }
+            ]
+        }
+    ]
+}

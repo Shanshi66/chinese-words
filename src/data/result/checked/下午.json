@@ -1,0 +1,34 @@
+{
+    "word": "下午",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "下午",
+            "translate": {
+                "english": "afternoon"
+            },
+            "examples": [
+                {
+                    "example": "今天下午阳光明媚，我和朋友们一起愉快地去公园散步。",
+                    "translate": {
+                        "english": "This afternoon the sun is shining brightly, and I went for a walk in the park happily with my friends."
+                    }
+                },
+                {
+                    "example": "下午的时光总是那么美好，我喜欢在这个时候静静地阅读一本好书。",
+                    "translate": {
+                        "english": "The afternoon time is always so beautiful, and I like to quietly read a good book at this time."
+                    }
+                },
+                {
+                    "example": "下午的天空格外湛蓝，让人心情格外舒畅。",
+                    "translate": {
+                        "english": "The sky in the afternoon is exceptionally blue, making people feel exceptionally comfortable."
+                    }
+                }
+            ]
+        }
+    ]
+}

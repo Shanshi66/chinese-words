@@ -1,0 +1,34 @@
+{
+    "word": "后天",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "后天",
+            "translate": {
+                "english": "the day after tomorrow"
+            },
+            "examples": [
+                {
+                    "example": "后天我们将去郊外愉快地踏青，享受大自然的美好。",
+                    "translate": {
+                        "english": "The day after tomorrow we will go to the suburbs to enjoy a pleasant outing and enjoy the beauty of nature."
+                    }
+                },
+                {
+                    "example": "后天的天空一定会更加湛蓝，充满希望。",
+                    "translate": {
+                        "english": "The sky of the day after tomorrow will definitely be more blue and full of hope."
+                    }
+                },
+                {
+                    "example": "后天早晨我打算早起去锻炼身体，迎接美好的一天。",
+                    "translate": {
+                        "english": "The morning after tomorrow I plan to get up early to exercise and welcome a beautiful day."
+                    }
+                }
+            ]
+        }
+    ]
+}

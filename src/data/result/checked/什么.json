@@ -1,0 +1,34 @@
+{
+    "word": "什么",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "什么",
+            "translate": {
+                "english": "what"
+            },
+            "examples": [
+                {
+                    "example": "不管遇到什么困难，我们都要保持乐观积极的心态去面对。",
+                    "translate": {
+                        "english": "No matter what difficulties we encounter, we should always maintain an optimistic and positive attitude to face them."
+                    }
+                },
+                {
+                    "example": "这究竟是什么让大家如此开心呢？",
+                    "translate": {
+                        "english": "What on earth is it that makes everyone so happy?"
+                    }
+                },
+                {
+                    "example": "生活中有什么困难都不能阻挡我们追求梦想的脚步。",
+                    "translate": {
+                        "english": "No matter what difficulties there are in life, they cannot stop our steps in pursuing our dreams."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "word": "不大",
+    "tags": [],
+    "explanations": {
+        "explanation": "不大",
+        "translate": {
+            "english": "not big"
+        },
+        "examples": [
+            {
+                "example": "这件事情难度不大，我相信我可以很好地完成。",
+                "translate": {
+                    "english": "This thing is not difficult, and I believe I can finish it very well."
+                }
+            },
+            {
+                "example": "天空中飘着不大的雨滴，带来了丝丝清凉。",
+                "translate": {
+                    "english": "Small raindrops are floating in the sky, bringing a hint of coolness."
+                }
+            },
+            {
+                "example": "她的声音不大，但足够温柔且坚定。",
+                "translate": {
+                    "english": "Her voice is not loud, but gentle and firm enough."
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "word": "高兴",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "高兴",
+            "translate": {
+                "english": "happy / glad"
+            },
+            "examples": [
+                {
+                    "example": "今天我遇到了很多开心的事，特别高兴。",
+                    "translate": {
+                        "english": "Today I encountered a lot of happy things and was extremely glad."
+                    }
+                },
+                {
+                    "example": "得知自己通过了考试，他高兴地跳了起来。",
+                    "translate": {
+                        "english": "Knowing that he had passed the exam, he happily jumped up."
+                    }
+                },
+                {
+                    "example": "放假了，我高兴地和家人一起去旅行。",
+                    "translate": {
+                        "english": "It's the holiday, and I happily go traveling with my family."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "word": "本子",
+    "tags": [],
+    "explanations": {
+        "explanation": "本子",
+        "translate": {
+            "english": "book / notebook"
+        },
+        "examples": [
+            {
+                "example": "我精心挑选了一个漂亮的本子，用来记录生活中的美好瞬间。",
+                "translate": {
+                    "english": "I carefully selected a beautiful notebook to record the beautiful moments in life."
+                }
+            },
+            {
+                "example": "我把重要的事情都记在这个本子上，随时提醒自己不要忘记。",
+                "translate": {
+                    "english": "I write down all the important things in this notebook to remind myself not to forget at any time."
+                }
+            },
+            {
+                "example": "我在本子上认真地写下自己的目标和计划，时刻激励自己不断前进。",
+                "translate": {
+                    "english": "I carefully write down my goals and plans in the notebook, always inspiring myself to keep moving forward."
+                }
+            }
+        ]
+    }
+}

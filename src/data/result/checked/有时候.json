@@ -1,0 +1,34 @@
+{
+    "word": "有时候",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "有时候",
+            "translate": {
+                "english": "sometimes"
+            },
+            "examples": [
+                {
+                    "example": "有时候，生活中的小惊喜会让我们一整天都心情愉悦。",
+                    "translate": {
+                        "english": "Sometimes, the small surprises in life can make us feel happy all day long."
+                    }
+                },
+                {
+                    "example": "有时候，抬头看看那湛蓝的天空，会感觉心情格外舒畅。",
+                    "translate": {
+                        "english": "Sometimes, looking up at the blue sky will feel extremely comfortable in mood."
+                    }
+                },
+                {
+                    "example": "有时候，一句鼓励的话语就能给人带来无尽的力量。",
+                    "translate": {
+                        "english": "Sometimes, a word of encouragement can bring endless power to people."
+                    }
+                }
+            ]
+        }
+    ]
+}

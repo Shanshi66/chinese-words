@@ -1,0 +1,34 @@
+{
+    "word": "帮忙",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "帮忙",
+            "translate": {
+                "english": "help"
+            },
+            "examples": [
+                {
+                    "example": "当别人遇到困难时，我总是很乐意帮忙。",
+                    "translate": {
+                        "english": "When others encounter difficulties, I am always very willing to help."
+                    }
+                },
+                {
+                    "example": "在朋友需要帮忙的时候，我会毫不犹豫地伸出援手。",
+                    "translate": {
+                        "english": "When friends need help, I will not hesitate to lend a helping hand."
+                    }
+                },
+                {
+                    "example": "当邻居有需要时，我总是很开心能去帮忙。",
+                    "translate": {
+                        "english": "When the neighbor is in need, I am always very happy to be able to help."
+                    }
+                }
+            ]
+        }
+    ]
+}

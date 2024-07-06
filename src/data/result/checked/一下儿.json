@@ -1,0 +1,34 @@
+{
+    "word": "一下儿",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "一下儿",
+            "translate": {
+                "english": "a moment"
+            },
+            "examples": [
+                {
+                    "example": "让我休息一下儿再继续工作。",
+                    "translate": {
+                        "english": "Let me take a rest and then continue to work."
+                    }
+                },
+                {
+                    "example": "我想思考一下儿再回答这个问题。",
+                    "translate": {
+                        "english": "I want to think for a while before answering this question."
+                    }
+                },
+                {
+                    "example": "我稍微努力一下儿就能取得更好的成绩。",
+                    "translate": {
+                        "english": "I can achieve better results with a little effort."
+                    }
+                }
+            ]
+        }
+    ]
+}

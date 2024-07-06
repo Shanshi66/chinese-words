@@ -1,0 +1,34 @@
+{
+    "word": "出去",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "出去",
+            "translate": {
+                "english": "go out"
+            },
+            "examples": [
+                {
+                    "example": "周末的时候，我想和朋友们一起出去玩耍，享受美好时光。",
+                    "translate": {
+                        "english": "On the weekend, I want to go out and play with friends and enjoy the good time."
+                    }
+                },
+                {
+                    "example": "我准备出去欣赏美丽的自然风光。",
+                    "translate": {
+                        "english": "I am going to go out to appreciate the beautiful natural scenery."
+                    }
+                },
+                {
+                    "example": "阳光明媚的日子，我们应该出去走走，看看这多彩的世界。",
+                    "translate": {
+                        "english": "On sunny days, we should go out for a walk and see this colorful world."
+                    }
+                }
+            ]
+        }
+    ]
+}

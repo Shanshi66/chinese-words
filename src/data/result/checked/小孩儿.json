@@ -1,0 +1,34 @@
+{
+    "word": "小孩儿",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "小孩儿",
+            "translate": {
+                "english": "child / kid"
+            },
+            "examples": [
+                {
+                    "example": "公园里的小孩儿都玩得特别开心快乐。",
+                    "translate": {
+                        "english": "The children in the park all play very happily."
+                    }
+                },
+                {
+                    "example": "我常常看到小区里的小孩儿在快乐地追逐嬉戏。",
+                    "translate": {
+                        "english": "I often see the children in the community happily chasing and playing."
+                    }
+                },
+                {
+                    "example": "可爱的小孩儿们在操场上尽情地奔跑嬉戏，脸上洋溢着灿烂的笑容。",
+                    "translate": {
+                        "english": "Lovely children are running and playing heartily on the playground, with bright smiles on their faces."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "汽车",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "汽车",
+            "translate": {
+                "english": "car"
+            },
+            "examples": [
+                {
+                    "example": "马路上各种各样的汽车在有序地行驶着。",
+                    "translate": {
+                        "english": "Various kinds of cars are driving orderly on the road."
+                    }
+                },
+                {
+                    "example": "在宽阔的马路上，汽车欢快地行驶着，仿佛在演奏一曲生活的赞歌。",
+                    "translate": {
+                        "english": "On the wide road, the cars are running merrily as if playing a hymn of life."
+                    }
+                },
+                {
+                    "example": "驾驶着心爱的汽车，我踏上了愉快的旅程，去探索美好的世界。",
+                    "translate": {
+                        "english": "Driving my beloved car, I embarked on a pleasant journey to explore the beautiful world."
+                    }
+                }
+            ]
+        }
+    ]
+}

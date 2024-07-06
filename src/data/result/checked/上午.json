@@ -1,0 +1,34 @@
+{
+    "word": "上午",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "上午",
+            "translate": {
+                "english": "morning"
+            },
+            "examples": [
+                {
+                    "example": "今天上午的阳光格外明媚，让人心情愉悦。",
+                    "translate": {
+                        "english": "The sunshine this morning is exceptionally bright and beautiful, making people feel happy."
+                    }
+                },
+                {
+                    "example": "今天上午我完成了一项重要任务，感觉很有成就感。",
+                    "translate": {
+                        "english": "I completed an important task this morning and felt a great sense of accomplishment."
+                    }
+                },
+                {
+                    "example": "今天上午我和朋友们进行了一场愉快的聚会。",
+                    "translate": {
+                        "english": "This morning I had a pleasant party with my friends."
+                    }
+                }
+            ]
+        }
+    ]
+}

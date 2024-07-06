@@ -1,0 +1,34 @@
+{
+    "word": "看见",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "看见",
+            "translate": {
+                "english": "see"
+            },
+            "examples": [
+                {
+                    "example": "当我抬头望向天空，看见那绚丽的彩虹横跨天际，心中满是欢喜。",
+                    "translate": {
+                        "english": "When I look up at the sky and see the gorgeous rainbow spanning across the sky, my heart is full of joy."
+                    }
+                },
+                {
+                    "example": "每次我看见那些努力奋斗的人，就备受鼓舞，充满了前进的动力。",
+                    "translate": {
+                        "english": "Every time I see those who strive hard, I am greatly inspired and filled with the motivation to move forward."
+                    }
+                },
+                {
+                    "example": "我看见阳光透过树叶的缝隙洒下来，那画面真美。",
+                    "translate": {
+                        "english": "I saw the sunlight streaming down through the gaps between the leaves, and that scene was really beautiful."
+                    }
+                }
+            ]
+        }
+    ]
+}

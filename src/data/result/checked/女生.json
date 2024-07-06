@@ -1,0 +1,34 @@
+{
+    "word": "女生",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "女生",
+            "translate": {
+                "english": "girl student / female student"
+            },
+            "examples": [
+                {
+                    "example": "这位女生总是面带微笑，给周围的人带来温暖和快乐。",
+                    "translate": {
+                        "english": "This girl always has a smile on her face and brings warmth and happiness to the people around her."
+                    }
+                },
+                {
+                    "example": "那个善良的女生积极帮助有困难的人，传递着正能量。",
+                    "translate": {
+                        "english": "That kind girl actively helps people in difficulties and conveys positive energy."
+                    }
+                },
+                {
+                    "example": "这位女生凭借自己的努力取得了优异的成绩，大家都为她感到高兴。",
+                    "translate": {
+                        "english": "This girl achieved excellent results through her own efforts, and everyone is happy for her."
+                    }
+                }
+            ]
+        }
+    ]
+}

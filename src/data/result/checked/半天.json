@@ -1,0 +1,34 @@
+{
+    "word": "半天",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "半天",
+            "translate": {
+                "english": "half a day"
+            },
+            "examples": [
+                {
+                    "example": "我等了半天，终于等到了期待已久的快递。",
+                    "translate": {
+                        "english": "I waited for a long time, and finally waited for the long-awaited courier."
+                    }
+                },
+                {
+                    "example": "我思考了半天，终于找到了解决问题的办法。",
+                    "translate": {
+                        "english": "I thought for a long time and finally found a way to solve the problem."
+                    }
+                },
+                {
+                    "example": "我忙了半天，终于完成了这项重要的任务。",
+                    "translate": {
+                        "english": "I was busy for a long time and finally finished this important task."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "妈妈",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "妈妈",
+            "translate": {
+                "english": "mother / mum"
+            },
+            "examples": [
+                {
+                    "example": "我的妈妈总是用温暖的笑容和鼓励的话语支持着我前行。",
+                    "translate": {
+                        "english": "My mother always supports me to move forward with a warm smile and encouraging words."
+                    }
+                },
+                {
+                    "example": "我的妈妈会用她满满的爱为我烹制美味的菜肴。",
+                    "translate": {
+                        "english": "My mother will use her full love to cook delicious dishes for me."
+                    }
+                },
+                {
+                    "example": "亲爱的妈妈总是无私地为我付出，给予我无尽的关爱。",
+                    "translate": {
+                        "english": "Dear mother always selflessly pays for me and gives me endless love."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "打球",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "打球",
+            "translate": {
+                "english": "play ball"
+            },
+            "examples": [
+                {
+                    "example": "周末我和朋友们一起去打球，那真是一件令人开心的事情。",
+                    "translate": {
+                        "english": "On the weekend, I go to play ball with my friends, that is really a delightful thing."
+                    }
+                },
+                {
+                    "example": "我喜欢在周末和家人一起去打球，享受欢乐的时光。",
+                    "translate": {
+                        "english": "I like to play ball with my family on weekends and enjoy the happy time."
+                    }
+                },
+                {
+                    "example": "我经常约上好友一起去打球，这既锻炼了身体又增进了我们之间的友谊。",
+                    "translate": {
+                        "english": "I often ask my friends to play ball together, which not only exercises the body but also enhances the friendship between us."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "中午",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "中午",
+            "translate": {
+                "english": "noon"
+            },
+            "examples": [
+                {
+                    "example": "中午的阳光温暖地洒在大地上，让人心情格外舒畅。",
+                    "translate": {
+                        "english": "The midday sunlight warmly sprinkles on the earth, making people feel extremely comfortable."
+                    }
+                },
+                {
+                    "example": "中午大家围坐在一起享用美味的午餐，氛围十分温馨欢乐。",
+                    "translate": {
+                        "english": "At noon, everyone sat together to enjoy the delicious lunch, and the atmosphere was very warm and joyful."
+                    }
+                },
+                {
+                    "example": "中午我们在公园的长椅上享受着悠闲的时光。",
+                    "translate": {
+                        "english": "At noon we are enjoying the leisure time on the bench in the park."
+                    }
+                }
+            ]
+        }
+    ]
+}

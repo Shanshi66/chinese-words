@@ -1,0 +1,34 @@
+{
+    "word": "坐下",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "坐下",
+            "translate": {
+                "english": "sit down"
+            },
+            "examples": [
+                {
+                    "example": "他微笑着请客人坐下，然后热情地倒上了一杯茶。",
+                    "translate": {
+                        "english": "He smiled and invited the guests to sit down, and then passionately poured a cup of tea."
+                    }
+                },
+                {
+                    "example": "小明有礼貌地请老师坐下，准备开始汇报自己的学习情况。",
+                    "translate": {
+                        "english": "Xiaoming politely asked the teacher to sit down and prepared to start reporting on his own learning situation."
+                    }
+                },
+                {
+                    "example": "大家都安静地坐下，准备聆听这场精彩的讲座。",
+                    "translate": {
+                        "english": "Everyone sit down quietly and get ready to listen to this wonderful lecture."
+                    }
+                }
+            ]
+        }
+    ]
+}

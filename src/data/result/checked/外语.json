@@ -1,0 +1,34 @@
+{
+    "word": "外语",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "外语",
+            "translate": {
+                "english": "foreign language"
+            },
+            "examples": [
+                {
+                    "example": "我努力学习外语，希望将来能有更多与世界交流的机会。",
+                    "translate": {
+                        "english": "I study foreign languages hard, hoping to have more opportunities to communicate with the world in the future."
+                    }
+                },
+                {
+                    "example": "我对学习外语充满热情，它让我能更好地了解不同的文化。",
+                    "translate": {
+                        "english": "I am full of enthusiasm for learning foreign languages, which enables me to better understand different cultures."
+                    }
+                },
+                {
+                    "example": "我正在努力学习外语，以便能够更顺畅地和外国友人沟通交流。",
+                    "translate": {
+                        "english": "I am trying hard to learn a foreign language in order to communicate with foreign friends more smoothly."
+                    }
+                }
+            ]
+        }
+    ]
+}

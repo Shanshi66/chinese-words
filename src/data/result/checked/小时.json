@@ -1,0 +1,34 @@
+{
+    "word": "小时",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "小时",
+            "translate": {
+                "english": "hour"
+            },
+            "examples": [
+                {
+                    "example": "我们花费了好几个小时才完成这项艰难的任务，但过程中收获良多。",
+                    "translate": {
+                        "english": "We spent several hours to finish this difficult task, but gained a lot in the process."
+                    }
+                },
+                {
+                    "example": "我每天都会抽出几个小时来阅读，这让我感觉特别充实和快乐。",
+                    "translate": {
+                        "english": "I will set aside a few hours every day to read, which makes me feel particularly fulfilling and happy."
+                    }
+                },
+                {
+                    "example": "我利用每天的几个小时进行体育锻炼，身体越来越好。",
+                    "translate": {
+                        "english": "I use several hours every day for physical exercise, and my body is getting better and better."
+                    }
+                }
+            ]
+        }
+    ]
+}

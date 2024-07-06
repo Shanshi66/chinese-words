@@ -1,0 +1,34 @@
+{
+    "word": "那些",
+    "tags": [
+        "hsk1"
+    ],
+    "explanations": [
+        {
+            "explanation": "那些",
+            "translate": {
+                "english": "those"
+            },
+            "examples": [
+                {
+                    "example": "那些努力奋斗的日子，会成为我们人生中最珍贵的回忆。",
+                    "translate": {
+                        "english": "Those days of hard struggle will become the most precious memories in our lives."
+                    }
+                },
+                {
+                    "example": "那些充满挑战的经历，让我们变得更加坚强和自信。",
+                    "translate": {
+                        "english": "Those challenging experiences make us become stronger and more confident."
+                    }
+                },
+                {
+                    "example": "那些美好的梦想，激励着我们不断向前奋进。",
+                    "translate": {
+                        "english": "Those beautiful dreams inspire us to keep forging ahead."
+                    }
+                }
+            ]
+        }
+    ]
+}
