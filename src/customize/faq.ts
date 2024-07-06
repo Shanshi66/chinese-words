@@ -31,15 +31,10 @@ const chineseQuestions: Question[] = [
     },
 ];
 
-interface AppFaqsData {
-    chinese: Question[];
-    english: Question[];
-}
-
 const appFaqsData = {
     chinese: chineseQuestions,
     english: englishQuestions,
-}
+};
 
 export function getFaqData(lang: Language): Question[] {
     switch (lang.locale) {

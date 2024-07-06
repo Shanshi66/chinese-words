@@ -1,5 +1,5 @@
 import type { Language } from "@/common/types";
-import { chinese, english } from "./lang";
+import { chinese } from "./lang";
 
 export interface HeaderIntlData {
     lists: string;
