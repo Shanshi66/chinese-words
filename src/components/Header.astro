@@ -3,6 +3,7 @@ import type { Language } from "@/common/types";
 import { getIntlData } from "@/customize/intl";
 import { supportedLang } from "@/customize/lang";
 import Search from "./widget/Search.vue";
+import Navigation from "./widget/Navigation.astro";
 
 interface Props {
     lang: Language;
@@ -19,60 +20,31 @@ if (pathSplit.length > 2) {
 }
 
 const intlData = getIntlData(lang);
-
-const isList = pathWithoutLang === "/lists";
-const isHome = pathWithoutLang === "/";
 ---
 
-<section>
-    <nav class="relative lg:top-0 border-b-[1px]">
-        <div class="flex flex-row items-center justify-between h-14">
-            <div>
-                <a class="ml-2 mr-4 md:text-xl font-bold" href={`/${lang.locale}`}
-                    >Chinese Words</a
+<header>
+    <nav class="md:relative lg:top-0 border-b-[1px]">
+        <div class="flex flex-row items-center justify-between py-4">
+            <div class="flex flex-row items-center">
+                <a
+                    class="ml-2 mr-4 md:text-xl font-bold"
+                    href={`/${lang.locale}`}>Chinese Words</a
                 >
-                <span class="hover:bg-gray-100 rounded p-2 mr-2">
-                    {
-                        isHome ? (
-                            <a
-                                href={`/${lang.locale}`}
-                                class=" text-blue-700 font-semibold "
-                            >
-                                {intlData.header.home}
-                            </a>
-                        ) : (
-                            <a href={`/${lang.locale}`}>
-                                {intlData.header.home}
-                            </a>
-                        )
-                    }
-                </span>
-                <span class="hover:bg-gray-100 rounded p-2">
-                    {
-                        isList ? (
-                            <a
-                                href={`/${lang.locale}/lists`}
-                                class="text-blue-700 font-semibold"
-                            >
-                                {intlData.header.lists}
-                            </a>
-                        ) : (
-                            <a href={`/${lang.locale}/lists`}>
-                                {intlData.header.lists}
-                            </a>
-                        )
-                    }
-                </span>
+                <div class="hidden md:block">
+                    <Navigation lang={lang} />
+                </div>
             </div>
-            <div class="absolute left-1/2 transform -translate-x-1/2 w-1/4">
-                <Search intlData = {intlData} lang={lang} client:load/>
-            </div>
-
-            <div>
+            <div class="flex flex-row items-center">
+                <div
+                    class="md:block md:absolute md:left-1/2 md:transform md:-translate-x-1/2 md:w-1/4"
+                >
+                    <Search intlData={intlData} lang={lang} client:load />
+                </div>
                 <select
                     name="language"
                     id="language-select"
                     data-path={`${pathWithoutLang}`}
+                    class="hidden md:block"
                 >
                     {
                         supportedLang.map((l) => (
@@ -82,22 +54,84 @@ const isHome = pathWithoutLang === "/";
                         ))
                     }
                 </select>
+                <div class="md:hidden">
+                    <button
+                        type="button"
+                        class="p-2 rounded-md"
+                        aria-controls="mobile-menu"
+                        aria-expanded="false"
+                    >
+                        <svg
+                            class="h-6 w-6"
+                            xmlns="http://www.w3.org/2000/svg"
+                            fill="none"
+                            viewBox="0 0 24 24"
+                            stroke="currentColor"
+                            aria-hidden="true"
+                        >
+                            <path
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                                stroke-width="2"
+                                d="M4 6h16M4 12h16m-7 6h7"></path>
+                        </svg>
+                    </button>
+                </div>
             </div>
         </div>
+        <div
+            class="md:hidden pb-4 flex flex-row items-center justify-between"
+            id="mobile-menu"
+        >
+            <Navigation lang={lang} />
+            <select
+                name="language"
+                id="language-select-mobile"
+                data-path={`${pathWithoutLang}`}
+            >
+                {
+                    supportedLang.map((l) => (
+                        <option value={l.locale} selected={l === lang}>
+                            {l.name}
+                        </option>
+                    ))
+                }
+            </select>
+        </div>
     </nav>
-</section>
 
-<script>
-    let languageSelect = document.getElementById("language-select");
-    if (languageSelect) {
-        languageSelect.addEventListener("change", (e) => {
-            const value = (e.target as HTMLSelectElement).value;
-            const path = languageSelect.getAttribute("data-path");
-            if (path === "/") {
-                window.location.href = `/${value}`;
-            } else {
-                window.location.href = `/${value}${path}`;
+    <script>
+        function addLanguageSelectListener(divId: string) {
+            const languageSelect = document.getElementById(divId);
+            if (languageSelect) {
+                languageSelect.addEventListener("change", (e) => {
+                    const value = (e.target as HTMLSelectElement).value;
+                    const path = languageSelect.getAttribute("data-path");
+                    if (path === "/") {
+                        window.location.href = `/${value}`;
+                    } else {
+                        window.location.href = `/${value}${path}`;
+                    }
+                });
             }
-        });
-    }
-</script>
+        }
+        function addMobileMenuListener() {
+            const menuButton = document.querySelector(
+                'button[aria-controls="mobile-menu"]'
+            );
+            const mobileMenu = document.getElementById("mobile-menu");
+            menuButton?.addEventListener("click", () => {
+                const isExpanded =
+                    menuButton.getAttribute("aria-expanded") === "true";
+                menuButton.setAttribute(
+                    "aria-expanded",
+                    (!isExpanded).toString()
+                );
+                mobileMenu?.classList.toggle("hidden");
+            });
+        }
+        addLanguageSelectListener("language-select");
+        addLanguageSelectListener("language-select-mobile");
+        addMobileMenuListener();
+    </script>
+</header>

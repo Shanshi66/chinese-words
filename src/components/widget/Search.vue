@@ -1,13 +1,13 @@
 <template>
     <div
-        class="flex flex-row items-center border-[1px] rounded p-1 border-gray-300 hover:border-gray-900"
+        class="flex flex-row items-center md:border-[1px] rounded p-1 border-gray-300 hover:border-gray-900"
         @click="openSearchModal"
     >
         <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 16 16"
             fill="currentColor"
-            class="h-4 w-4 opacity-70 mr-2"
+            class="h-5 w-5 opacity-70 mr-2"
         >
             <path
                 fill-rule="evenodd"
@@ -15,12 +15,17 @@
                 clip-rule="evenodd"
             ></path>
         </svg>
-        <span data-locale="{lang.locale}" class="text-gray-500">
+        <span
+            data-locale="{lang.locale}"
+            class="text-gray-500 hidden md:inline"
+        >
             {{ intlData.header.searchPlaceholder }}
         </span>
     </div>
     <dialog id="search-modal" class="modal modal-top">
-        <div class="modal-box w-1/3 mx-auto mt-[100px] rounded-lg bg-gray-100">
+        <div
+            class="modal-box lg:w-1/3 mx-auto mt-[100px] rounded-lg bg-gray-100"
+        >
             <SearchPanel :intlData="intlData" :lang="lang" client:load />
         </div>
         <form method="dialog" class="modal-backdrop">
