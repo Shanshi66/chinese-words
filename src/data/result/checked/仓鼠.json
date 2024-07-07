@@ -1,0 +1,32 @@
+{
+    "word": "仓鼠",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "仓鼠",
+            "translate": {
+                "english": "hamster"
+            },
+            "examples": [
+                {
+                    "example": "可爱的仓鼠在它的小窝里快乐地玩耍着。",
+                    "translate": {
+                        "english": "The cute hamster is playing happily in its small nest."
+                    }
+                },
+                {
+                    "example": "我养的那只仓鼠十分活泼可爱，给我的生活带来了很多乐趣。",
+                    "translate": {
+                        "english": "The hamster I raised is very lively and cute, and it has brought a lot of fun to my life."
+                    }
+                },
+                {
+                    "example": "我的小仓鼠有着圆滚滚的身子，非常可爱。",
+                    "translate": {
+                        "english": "My little hamster has a chubby body and is very cute."
+                    }
+                }
+            ]
+        }
+    ]
+}

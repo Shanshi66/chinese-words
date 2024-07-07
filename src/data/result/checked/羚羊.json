@@ -1,0 +1,32 @@
+{
+    "word": "羚羊",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "羚羊",
+            "translate": {
+                "english": "antelope"
+            },
+            "examples": [
+                {
+                    "example": "在广袤的草原上，羚羊们欢快地奔跑着，充满了生机与活力。",
+                    "translate": {
+                        "english": "On the vast prairie, the antelopes are running merrily, full of life and vitality."
+                    }
+                },
+                {
+                    "example": "勇敢的羚羊跨越重重险阻，向着美好的未来不断前进。",
+                    "translate": {
+                        "english": "The brave antelope crosses many difficulties and obstacles and keeps moving forward towards a beautiful future."
+                    }
+                },
+                {
+                    "example": "可爱的羚羊在美丽的大自然中自由自在地生活着，展现出一派和谐的景象。",
+                    "translate": {
+                        "english": "The lovely antelopes live freely in the beautiful nature, showing a harmonious scene."
+                    }
+                }
+            ]
+        }
+    ]
+}

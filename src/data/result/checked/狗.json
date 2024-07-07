@@ -1,0 +1,32 @@
+{
+    "word": "狗",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "狗",
+            "translate": {
+                "english": "dog"
+            },
+            "examples": [
+                {
+                    "example": "我家那可爱的狗总是能给我带来无尽的欢乐。",
+                    "translate": {
+                        "english": "The lovely dog in my family can always bring me endless joy."
+                    }
+                },
+                {
+                    "example": "我在路上遇到一只可爱的狗，它欢快地冲我摇着尾巴。",
+                    "translate": {
+                        "english": "I met a cute dog on the road, and it wagged its tail at me happily."
+                    }
+                },
+                {
+                    "example": "我和朋友在公园散步时遇到一只活泼的狗，它的快乐感染了我们每一个人。",
+                    "translate": {
+                        "english": "When I was taking a walk with my friends in the park, we met a lively dog and its happiness infected each one of us."
+                    }
+                }
+            ]
+        }
+    ]
+}

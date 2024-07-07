@@ -1,0 +1,32 @@
+{
+    "word": "乌龟",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "乌龟",
+            "translate": {
+                "english": "tortoise"
+            },
+            "examples": [
+                {
+                    "example": "可爱的乌龟在池塘里悠闲地游来游去。",
+                    "translate": {
+                        "english": "The lovely turtle is swimming leisurely to and fro in the pond."
+                    }
+                },
+                {
+                    "example": "那只乌龟缓慢但坚定地向前爬着，仿佛有着自己明确的目标。",
+                    "translate": {
+                        "english": "That turtle is crawling forward slowly but firmly, as if it has its own definite goal."
+                    }
+                },
+                {
+                    "example": "我养的乌龟特别活泼可爱，给我的生活带来了很多乐趣。",
+                    "translate": {
+                        "english": "The turtle I keep is particularly lively and lovely, which has brought a lot of joy to my life."
+                    }
+                }
+            ]
+        }
+    ]
+}

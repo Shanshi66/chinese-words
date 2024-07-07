@@ -1,0 +1,32 @@
+{
+    "word": "蚊子",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "蚊子",
+            "translate": {
+                "english": "mosquito"
+            },
+            "examples": [
+                {
+                    "example": "夏天来了，讨厌的蚊子又开始活跃起来，但我们可以想办法减少它们的干扰，依然能开心地享受生活。",
+                    "translate": {
+                        "english": "Summer is coming, the annoying mosquitoes start to be active again, but we can find ways to reduce their interference and still enjoy life happily."
+                    }
+                },
+                {
+                    "example": "我们虽然讨厌蚊子，但可以采取一些措施来防蚊，这样依然能度过一个美好的夏天。",
+                    "translate": {
+                        "english": "Although we dislike mosquitoes, we can take some measures to prevent mosquitoes, so we can still have a wonderful summer."
+                    }
+                },
+                {
+                    "example": "夏天到了，尽管有蚊子的困扰，但我们点上蚊香，依然能愉快地在院子里乘凉。",
+                    "translate": {
+                        "english": "Summer has come, although there is the annoyance of mosquitoes, but we light mosquito-repellent incense and can still enjoy乘凉 happily in the yard."
+                    }
+                }
+            ]
+        }
+    ]
+}

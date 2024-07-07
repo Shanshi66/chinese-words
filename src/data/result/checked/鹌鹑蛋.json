@@ -1,0 +1,34 @@
+{
+    "word": "鹌鹑蛋",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "鹌鹑蛋",
+            "translate": {
+                "english": "quail egg"
+            },
+            "examples": [
+                {
+                    "example": "妈妈买了一些鹌鹑蛋，准备给我们做一顿美味又营养的菜肴。",
+                    "translate": {
+                        "english": "Mother bought some quail eggs and is going to make a delicious and nutritious dish for us."
+                    }
+                },
+                {
+                    "example": "今天的午餐有香喷喷的鹌鹑蛋，真是令人开心呀。",
+                    "translate": {
+                        "english": "Today's lunch has delicious quail eggs, it's really delightful."
+                    }
+                },
+                {
+                    "example": "我特别喜欢吃那道用鹌鹑蛋做的糖醋鹌鹑蛋，味道好极了。",
+                    "translate": {
+                        "english": "I particularly like to eat that sweet and sour quail eggs dish made with quail eggs, and it tastes extremely delicious."
+                    }
+                }
+            ]
+        }
+    ]
+}

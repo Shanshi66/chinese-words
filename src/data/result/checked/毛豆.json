@@ -1,0 +1,34 @@
+{
+    "word": "毛豆",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "毛豆",
+            "translate": {
+                "english": "green soy bean"
+            },
+            "examples": [
+                {
+                    "example": "晚餐时我们开心地吃着美味的毛豆，享受着惬意的时光。",
+                    "translate": {
+                        "english": "During dinner, we happily ate delicious green soybeans and enjoyed the pleasant time."
+                    }
+                },
+                {
+                    "example": "夏天的夜晚，一家人围坐在院子里，一边剥着毛豆一边聊天，十分温馨快乐。",
+                    "translate": {
+                        "english": "On a summer night, the whole family sits around in the yard, chatting while shelling green soybeans, very warm and happy."
+                    }
+                },
+                {
+                    "example": "妈妈今天煮了一锅毛豆，那味道让我回味无穷。",
+                    "translate": {
+                        "english": "Mom cooked a pot of green soybeans today, and the taste made me have endless aftertastes."
+                    }
+                }
+            ]
+        }
+    ]
+}

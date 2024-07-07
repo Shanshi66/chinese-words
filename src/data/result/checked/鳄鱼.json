@@ -1,0 +1,32 @@
+{
+    "word": "鳄鱼",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "鳄鱼",
+            "translate": {
+                "english": "crocodile"
+            },
+            "examples": [
+                {
+                    "example": "在动物园里，鳄鱼安静地趴在那里，吸引了很多小朋友好奇的目光。",
+                    "translate": {
+                        "english": "In the zoo, the crocodile lies there quietly, attracting the curious eyes of many children."
+                    }
+                },
+                {
+                    "example": "小朋友们在自然博物馆里看到鳄鱼标本，都对这种古老的生物充满了好奇和惊叹。",
+                    "translate": {
+                        "english": "Children see the crocodile specimen in the nature museum and are all full of curiosity and amazement about this ancient creature."
+                    }
+                },
+                {
+                    "example": "在水族馆里，鳄鱼悠然地游动着，展现出独特的魅力。",
+                    "translate": {
+                        "english": "In the aquarium, the crocodile is swimming leisurely, showing unique charm."
+                    }
+                }
+            ]
+        }
+    ]
+}

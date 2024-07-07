@@ -1,0 +1,34 @@
+{
+    "word": "苦菊",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "苦菊",
+            "translate": {
+                "english": "bitter chrysanthemum"
+            },
+            "examples": [
+                {
+                    "example": "我今天买了一把水灵灵的苦菊，准备做一道清爽的菜肴。",
+                    "translate": {
+                        "english": "I bought a fresh and tender endive today and am going to make a refreshing dish."
+                    }
+                },
+                {
+                    "example": "我妈妈用苦菊做了一道色香味俱佳的凉拌菜，大家都很喜欢。",
+                    "translate": {
+                        "english": "My mother made a cold dish with chicory that has excellent color, aroma and taste, and everyone likes it very much."
+                    }
+                },
+                {
+                    "example": "我在市场看到水灵灵的苦菊，想着用它做沙拉一定很棒。",
+                    "translate": {
+                        "english": "I saw fresh and tender chicory in the market and thought it would be great to make salad with it."
+                    }
+                }
+            ]
+        }
+    ]
+}

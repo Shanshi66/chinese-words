@@ -1,0 +1,34 @@
+{
+    "word": "萝卜",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "萝卜",
+            "translate": {
+                "english": "radish"
+            },
+            "examples": [
+                {
+                    "example": "今天妈妈买了好多萝卜，准备做美味的萝卜汤。",
+                    "translate": {
+                        "english": "Today mother bought a lot of radishes and is going to make delicious radish soup."
+                    }
+                },
+                {
+                    "example": "可爱的小兔子开心地吃着新鲜的萝卜。",
+                    "translate": {
+                        "english": "The lovely little rabbit is happily eating the fresh radish."
+                    }
+                },
+                {
+                    "example": "菜地里的萝卜茁壮成长，一片生机勃勃的景象。",
+                    "translate": {
+                        "english": "The radishes in the vegetable field thrive茁壮成长, presenting a vibrant scene."
+                    }
+                }
+            ]
+        }
+    ]
+}

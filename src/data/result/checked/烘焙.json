@@ -1,0 +1,34 @@
+{
+    "word": "烘焙",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "烘焙",
+            "translate": {
+                "english": "bake"
+            },
+            "examples": [
+                {
+                    "example": "我喜欢在周末的时候进行烘焙，做出各种美味的点心。",
+                    "translate": {
+                        "english": "I like to bake on weekends and make all kinds of delicious pastries."
+                    }
+                },
+                {
+                    "example": "我和朋友们一起享受烘焙的乐趣，做出了香甜可口的蛋糕。",
+                    "translate": {
+                        "english": "I enjoyed the fun of baking with my friends and made sweet and delicious cakes."
+                    }
+                },
+                {
+                    "example": "妈妈正在厨房开心地进行烘焙，准备给我们一个美味的惊喜。",
+                    "translate": {
+                        "english": "Mother is happily baking in the kitchen, preparing to give us a delicious surprise."
+                    }
+                }
+            ]
+        }
+    ]
+}

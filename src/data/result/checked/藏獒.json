@@ -1,0 +1,32 @@
+{
+    "word": "藏獒",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "藏獒",
+            "translate": {
+                "english": "Tibetan Mastiff"
+            },
+            "examples": [
+                {
+                    "example": "那只威武雄壮的藏獒忠诚地守护着它的家。",
+                    "translate": {
+                        "english": "That mighty and majestic Tibetan mastiff loyally guards its home."
+                    }
+                },
+                {
+                    "example": "藏獒那威风凛凛的样子真让人赞叹不已。",
+                    "translate": {
+                        "english": "The majestic appearance of the Tibetan mastiff really makes people amazed."
+                    }
+                },
+                {
+                    "example": "可爱的藏獒欢快地和小朋友玩耍着。",
+                    "translate": {
+                        "english": "The lovely Tibetan mastiff is playing happily with children."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "豆浆",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "豆浆",
+            "translate": {
+                "english": "soy milk"
+            },
+            "examples": [
+                {
+                    "example": "每天早上喝一杯豆浆，让我一整天都充满活力。",
+                    "translate": {
+                        "english": "Drinking a cup of soybean milk every morning makes me full of energy for the whole day."
+                    }
+                },
+                {
+                    "example": "妈妈每天都会为我精心准备美味的豆浆，这让我感到特别幸福。",
+                    "translate": {
+                        "english": "Mother prepares delicious soybean milk elaborately for me every day, which makes me feel extremely happy."
+                    }
+                },
+                {
+                    "example": "我喜欢在早餐时喝一杯甜甜的豆浆，感受生活的美好。",
+                    "translate": {
+                        "english": "I like to drink a cup of sweet soybean milk at breakfast and feel the beauty of life."
+                    }
+                }
+            ]
+        }
+    ]
+}

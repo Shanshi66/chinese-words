@@ -1,0 +1,34 @@
+{
+    "word": "椰子",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "椰子",
+            "translate": {
+                "english": "coconut"
+            },
+            "examples": [
+                {
+                    "example": "海边的椰树上挂满了成熟的椰子，十分诱人。",
+                    "translate": {
+                        "english": "The coconut trees by the seaside are hung with mature coconuts, which are very attractive."
+                    }
+                },
+                {
+                    "example": "我捧着新鲜的椰子，感受着它带来的热带风情和快乐。",
+                    "translate": {
+                        "english": "I hold a fresh coconut and feel the tropical flavor and happiness it brings."
+                    }
+                },
+                {
+                    "example": "我漫步在海边，手捧着美味的椰子，享受着惬意的时光。",
+                    "translate": {
+                        "english": "I stroll along the seaside, holding a delicious coconut in my hand, enjoying a pleasant time."
+                    }
+                }
+            ]
+        }
+    ]
+}

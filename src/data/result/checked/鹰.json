@@ -1,0 +1,32 @@
+{
+    "word": "鹰",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "鹰",
+            "translate": {
+                "english": "eagle"
+            },
+            "examples": [
+                {
+                    "example": "那只鹰在蔚蓝的天空中自由翱翔，展现着它的雄姿。",
+                    "translate": {
+                        "english": "That eagle is soaring freely in the blue sky, showing its majestic posture."
+                    }
+                },
+                {
+                    "example": "勇敢的鹰在广阔的天空中尽情地飞翔，去追寻自己的梦想。",
+                    "translate": {
+                        "english": "The brave eagle freely flies in the vast sky to pursue its own dream."
+                    }
+                },
+                {
+                    "example": "勇敢的鹰向着远方奋飞，充满了对未知世界的探索勇气。",
+                    "translate": {
+                        "english": "The brave eagle soars towards the distance, full of the courage to explore the unknown world."
+                    }
+                }
+            ]
+        }
+    ]
+}

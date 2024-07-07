@@ -1,0 +1,34 @@
+{
+    "word": "牛腩",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "牛腩",
+            "translate": {
+                "english": "beef brisket"
+            },
+            "examples": [
+                {
+                    "example": "妈妈做的西红柿牛腩特别美味，让人吃了还想吃。",
+                    "translate": {
+                        "english": "The tomato brisket made by mother is particularly delicious, making people want to eat it again and again."
+                    }
+                },
+                {
+                    "example": "我今天亲自下厨做了一道红烧牛腩，家人都赞不绝口。",
+                    "translate": {
+                        "english": "I cooked a braised beef brisket myself today, and the family members were all full of praise."
+                    }
+                },
+                {
+                    "example": "我和朋友们去餐馆品尝了美味的牛腩煲，大家都很开心。",
+                    "translate": {
+                        "english": "I went to the restaurant with my friends to taste the delicious beef brisket pot, and everyone was very happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

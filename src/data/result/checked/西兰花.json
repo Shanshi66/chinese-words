@@ -1,0 +1,34 @@
+{
+    "word": "西兰花",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "西兰花",
+            "translate": {
+                "english": "broccoli"
+            },
+            "examples": [
+                {
+                    "example": "我今天买了一颗西兰花，准备做一顿美味又健康的晚餐。",
+                    "translate": {
+                        "english": "I bought a broccoli today and prepare to make a delicious and healthy dinner."
+                    }
+                },
+                {
+                    "example": "妈妈做的西兰花炒虾仁，色香味俱佳，让人垂涎欲滴。",
+                    "translate": {
+                        "english": "The stir-fried shrimps with broccoli made by mother has excellent color, aroma and taste, making people salivate."
+                    }
+                },
+                {
+                    "example": "我很喜欢西兰花，它富含营养，对身体很有益处。",
+                    "translate": {
+                        "english": "I like broccoli very much. It is rich in nutrients and is very beneficial to the body."
+                    }
+                }
+            ]
+        }
+    ]
+}

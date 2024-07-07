@@ -1,0 +1,32 @@
+{
+    "word": "蝴蝶",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "蝴蝶",
+            "translate": {
+                "english": "butterfly"
+            },
+            "examples": [
+                {
+                    "example": "美丽的蝴蝶在花丛中自由自在地翩翩起舞。",
+                    "translate": {
+                        "english": "Beautiful butterflies are dancing freely among the flowers."
+                    }
+                },
+                {
+                    "example": "阳光明媚的日子里，蝴蝶欢快地在花丛间穿梭嬉戏。",
+                    "translate": {
+                        "english": "On sunny days, butterflies shuttle and play merrily among the flowers."
+                    }
+                },
+                {
+                    "example": "那色彩斑斓的蝴蝶在盛开的花朵旁快乐地飞舞。",
+                    "translate": {
+                        "english": "The colorful butterflies are flying happily beside the blooming flowers."
+                    }
+                }
+            ]
+        }
+    ]
+}

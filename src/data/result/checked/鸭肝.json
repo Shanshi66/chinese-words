@@ -1,0 +1,34 @@
+{
+    "word": "鸭肝",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "鸭肝",
+            "translate": {
+                "english": "duck liver"
+            },
+            "examples": [
+                {
+                    "example": "今天妈妈做的这道菜用了鸭肝，味道十分鲜美。",
+                    "translate": {
+                        "english": "Today, the dish made by mother uses duck liver and tastes extremely delicious."
+                    }
+                },
+                {
+                    "example": "厨师精心制作的这道鸭肝料理色香味俱佳，让人赞不绝口。",
+                    "translate": {
+                        "english": "This duck liver dish carefully made by the chef has excellent color, aroma and taste, which makes people praise it constantly."
+                    }
+                },
+                {
+                    "example": "我很喜欢吃那道用鸭肝制作的精致菜肴，口感细腻且令人难忘。",
+                    "translate": {
+                        "english": "I really like to eat that delicate dish made of duck liver, with a delicate texture and unforgettable."
+                    }
+                }
+            ]
+        }
+    ]
+}

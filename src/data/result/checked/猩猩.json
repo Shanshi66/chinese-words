@@ -1,0 +1,32 @@
+{
+    "word": "猩猩",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "猩猩",
+            "translate": {
+                "english": "orangutan"
+            },
+            "examples": [
+                {
+                    "example": "动物园里的猩猩聪明又可爱，总是能给游客们带来许多欢乐。",
+                    "translate": {
+                        "english": "The orangutans in the zoo are smart and lovely, and always can bring a lot of joy to the tourists."
+                    }
+                },
+                {
+                    "example": "可爱的猩猩在森林中愉快地玩耍着。",
+                    "translate": {
+                        "english": "The lovely orangutan is playing happily in the forest."
+                    }
+                },
+                {
+                    "example": "可爱的猩猩友好地和伙伴们打闹嬉戏。",
+                    "translate": {
+                        "english": "The lovely orangutan plays and frolics friendly with its partners."
+                    }
+                }
+            ]
+        }
+    ]
+}

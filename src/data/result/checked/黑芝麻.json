@@ -1,0 +1,34 @@
+{
+    "word": "黑芝麻",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "黑芝麻",
+            "translate": {
+                "english": "black sesame"
+            },
+            "examples": [
+                {
+                    "example": "妈妈每天都会给我准备一杯黑芝麻糊，真的太美味了。",
+                    "translate": {
+                        "english": "Mother prepares a cup of black sesame paste for me every day. It's really delicious."
+                    }
+                },
+                {
+                    "example": "我喜欢吃黑芝麻汤圆，那香甜的味道让人回味无穷。",
+                    "translate": {
+                        "english": "I like to eat black sesame glutinous rice balls, and the sweet taste is memorable."
+                    }
+                },
+                {
+                    "example": "我早上喝的黑芝麻豆浆，营养又美味。",
+                    "translate": {
+                        "english": "I drank black sesame soybean milk in the morning, which is nutritious and delicious."
+                    }
+                }
+            ]
+        }
+    ]
+}

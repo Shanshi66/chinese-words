@@ -1,0 +1,32 @@
+{
+    "word": "水蛭",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "水蛭",
+            "translate": {
+                "english": "leech"
+            },
+            "examples": [
+                {
+                    "example": "田野里的水蛭虽然样子奇怪，但也是大自然生态的一部分呢。",
+                    "translate": {
+                        "english": "The leeches in the field, although looking strange, are also a part of the natural ecosystem."
+                    }
+                },
+                {
+                    "example": "爷爷在给我讲他年轻时候的故事，其中就有水蛭吸在他腿上的趣事。",
+                    "translate": {
+                        "english": "Grandpa is telling me the story of his young age, among which there is an interesting story of a leech sucking on his leg."
+                    }
+                },
+                {
+                    "example": "今天在生物课上，我了解到了水蛭独特的生物特性和它在医学上的应用价值。",
+                    "translate": {
+                        "english": "Today in the biology class, I learned about the unique biological characteristics of the leech and its application value in medicine."
+                    }
+                }
+            ]
+        }
+    ]
+}

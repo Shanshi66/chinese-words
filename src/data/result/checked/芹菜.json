@@ -1,0 +1,34 @@
+{
+    "word": "芹菜",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "芹菜",
+            "translate": {
+                "english": "celery"
+            },
+            "examples": [
+                {
+                    "example": "妈妈做的芹菜炒肉色香味俱佳，我特别爱吃。",
+                    "translate": {
+                        "english": "The celery fried meat made by mother has excellent color, aroma and taste, and I especially like to eat it."
+                    }
+                },
+                {
+                    "example": "今天的午餐有芹菜，那清爽的味道让我很是喜欢。",
+                    "translate": {
+                        "english": "Today's lunch has celery, and that refreshing taste makes me quite like it."
+                    }
+                },
+                {
+                    "example": "我做了一道芹菜炒虾仁，家人都吃得很开心。",
+                    "translate": {
+                        "english": "I made a dish of celery fried with shrimps, and the family enjoyed it very much."
+                    }
+                }
+            ]
+        }
+    ]
+}

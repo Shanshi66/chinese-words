@@ -1,0 +1,32 @@
+{
+    "word": "燕子",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "燕子",
+            "translate": {
+                "english": "swallow"
+            },
+            "examples": [
+                {
+                    "example": "春天来了，燕子欢快地在蓝天下飞舞。",
+                    "translate": {
+                        "english": "Spring comes, and the swallows are flying merrily under the blue sky."
+                    }
+                },
+                {
+                    "example": "可爱的燕子在电线杆上快乐地歌唱。",
+                    "translate": {
+                        "english": "The lovely swallow is singing happily on the electric pole."
+                    }
+                },
+                {
+                    "example": "可爱的燕子欢快地穿梭在蓝天白云之间。",
+                    "translate": {
+                        "english": "The lovely swallow shuttles merrily between the blue sky and white clouds."
+                    }
+                }
+            ]
+        }
+    ]
+}

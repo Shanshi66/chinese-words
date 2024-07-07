@@ -1,0 +1,34 @@
+{
+    "word": "瓠瓜",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "瓠瓜",
+            "translate": {
+                "english": "gourd"
+            },
+            "examples": [
+                {
+                    "example": "菜地里的瓠瓜长得十分茂盛，真是一幅生机勃勃的景象。",
+                    "translate": {
+                        "english": "The bottle gourds in the vegetable field grow extremely vigorously, really a vibrant scene."
+                    }
+                },
+                {
+                    "example": "妈妈今天用瓠瓜做了一道美味可口的菜肴。",
+                    "translate": {
+                        "english": "Mother made a delicious dish with bottle gourd today."
+                    }
+                },
+                {
+                    "example": "我家院子里种的瓠瓜结出了一个个可爱的果实。",
+                    "translate": {
+                        "english": "The bottle gourds planted in my yard have produced lovely fruits one after another."
+                    }
+                }
+            ]
+        }
+    ]
+}

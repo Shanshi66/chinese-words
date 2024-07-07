@@ -1,0 +1,34 @@
+{
+    "word": "胡萝卜",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "胡萝卜",
+            "translate": {
+                "english": "carrot"
+            },
+            "examples": [
+                {
+                    "example": "我今天买了很多胡萝卜，准备做一顿美味又营养的晚餐。",
+                    "translate": {
+                        "english": "I bought a lot of carrots today and am going to make a delicious and nutritious dinner."
+                    }
+                },
+                {
+                    "example": "小兔子开心地吃着胡萝卜，那模样可爱极了。",
+                    "translate": {
+                        "english": "The little rabbit is eating the carrot happily, and that appearance is extremely cute."
+                    }
+                },
+                {
+                    "example": "小朋友们在画画课上用彩色铅笔认真地画着胡萝卜。",
+                    "translate": {
+                        "english": "Children are drawing carrots carefully with colored pencils in the drawing class."
+                    }
+                }
+            ]
+        }
+    ]
+}

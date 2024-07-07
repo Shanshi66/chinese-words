@@ -1,0 +1,32 @@
+{
+    "word": "海龟",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "海龟",
+            "translate": {
+                "english": "sea turtle"
+            },
+            "examples": [
+                {
+                    "example": "那只海龟在大海中自由自在地遨游着，充满了生机与活力。",
+                    "translate": {
+                        "english": "That turtle is swimming freely in the vast sea, full of vitality and energy."
+                    }
+                },
+                {
+                    "example": "我的梦想是像海龟一样在广阔的海洋中勇敢地探索。",
+                    "translate": {
+                        "english": "My dream is to explore bravely in the vast ocean like a sea turtle."
+                    }
+                },
+                {
+                    "example": "可爱的海龟在蓝色的海洋里快乐地游弋。",
+                    "translate": {
+                        "english": "Lovely sea turtles swim happily in the blue ocean."
+                    }
+                }
+            ]
+        }
+    ]
+}

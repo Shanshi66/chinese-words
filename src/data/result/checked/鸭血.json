@@ -1,0 +1,34 @@
+{
+    "word": "鸭血",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "鸭血",
+            "translate": {
+                "english": "duck blood"
+            },
+            "examples": [
+                {
+                    "example": "今天妈妈用鸭血做了一道美味又营养的菜肴。",
+                    "translate": {
+                        "english": "Today mother made a delicious and nutritious dish with duck blood."
+                    }
+                },
+                {
+                    "example": "我很喜欢去小吃街吃那碗加了鸭血的粉丝汤。",
+                    "translate": {
+                        "english": "I really like to go to the snack street to eat that bowl of vermicelli soup with duck blood."
+                    }
+                },
+                {
+                    "example": "鸭血粉丝汤是南京的特色美食之一，很多游客都很喜欢。",
+                    "translate": {
+                        "english": "Duck blood and vermicelli soup is one of the characteristic delicacies in Nanjing, and many tourists like it very much."
+                    }
+                }
+            ]
+        }
+    ]
+}

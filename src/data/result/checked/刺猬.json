@@ -1,0 +1,32 @@
+{
+    "word": "刺猬",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "刺猬",
+            "translate": {
+                "english": "hedgehog"
+            },
+            "examples": [
+                {
+                    "example": "可爱的刺猬在树林里快乐地探索着它的小世界。",
+                    "translate": {
+                        "english": "The lovely hedgehog is happily exploring its little world in the forest."
+                    }
+                },
+                {
+                    "example": "那只刺猬在草地上欢快地跑来跑去，十分可爱有趣。",
+                    "translate": {
+                        "english": "That hedgehog runs around merrily on the grass, very cute and interesting."
+                    }
+                },
+                {
+                    "example": "刺猬虽然浑身带刺，但它也是大自然中可爱而有趣的生灵。",
+                    "translate": {
+                        "english": "Although the hedgehog is covered with thorns all over, it is also a cute and interesting creature in nature."
+                    }
+                }
+            ]
+        }
+    ]
+}

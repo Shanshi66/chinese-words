@@ -1,0 +1,32 @@
+{
+    "word": "青蛙",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "青蛙",
+            "translate": {
+                "english": "frog"
+            },
+            "examples": [
+                {
+                    "example": "池塘边的青蛙欢快地唱着歌，给夏日增添了许多生机与活力。",
+                    "translate": {
+                        "english": "The frogs by the pond are singing cheerfully, adding a lot of vitality and vigor to the summer."
+                    }
+                },
+                {
+                    "example": "可爱的青蛙在荷叶上快乐地跳来跳去。",
+                    "translate": {
+                        "english": "The lovely frog is jumping happily on the lotus leaf."
+                    }
+                },
+                {
+                    "example": "青蛙在雨后的池塘里开心地玩耍，那模样可爱极了。",
+                    "translate": {
+                        "english": "Frogs are playing happily in the pond after the rain, and that appearance is extremely lovely."
+                    }
+                }
+            ]
+        }
+    ]
+}

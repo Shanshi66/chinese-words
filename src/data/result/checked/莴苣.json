@@ -1,0 +1,34 @@
+{
+    "word": "莴苣",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "莴苣",
+            "translate": {
+                "english": "lettuce"
+            },
+            "examples": [
+                {
+                    "example": "我在菜地里精心种植的莴苣长得十分茂盛，让人看着满心欢喜。",
+                    "translate": {
+                        "english": "The lettuce that I carefully planted in the vegetable field grows very lushly, making people feel filled with joy when looking at it."
+                    }
+                },
+                {
+                    "example": "我在市场买了一些新鲜的莴苣，准备回家做一道美味的菜肴。",
+                    "translate": {
+                        "english": "I bought some fresh lettuce in the market and am going to make a delicious dish at home."
+                    }
+                },
+                {
+                    "example": "我家阳台上种植的莴苣，在阳光照耀下，绿得格外耀眼。",
+                    "translate": {
+                        "english": "The lettuce planted on my balcony is extremely dazzlingly green under the sunshine."
+                    }
+                }
+            ]
+        }
+    ]
+}

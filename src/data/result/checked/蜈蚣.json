@@ -1,0 +1,32 @@
+{
+    "word": "蜈蚣",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "蜈蚣",
+            "translate": {
+                "english": "centipede"
+            },
+            "examples": [
+                {
+                    "example": "那只五彩斑斓的蜈蚣在草丛中自在地爬行着。",
+                    "translate": {
+                        "english": "That colorful centipede is crawling freely in the grass."
+                    }
+                },
+                {
+                    "example": "一只小小的蜈蚣努力地在花园的小道上向前爬行，仿佛充满了对未知世界的探索勇气。",
+                    "translate": {
+                        "english": "A little centipede is crawling forward hard on the path in the garden, as if it is full of the courage to explore the unknown world."
+                    }
+                },
+                {
+                    "example": "可爱的小蜈蚣在温暖的阳光下快乐地蠕动着。",
+                    "translate": {
+                        "english": "The lovely little centipede is wriggling happily in the warm sunlight."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "word": "霸王龙",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "霸王龙",
+            "translate": {
+                "english": "Tyrannosaurus rex"
+            },
+            "examples": [
+                {
+                    "example": "小朋友在博物馆里看到霸王龙的模型，兴奋得手舞足蹈。",
+                    "translate": {
+                        "english": "Children see the model of Tyrannosaurus Rex in the museum and are so excited that they dance excitedly."
+                    }
+                },
+                {
+                    "example": "霸王龙虽然曾经是陆地霸主，但也成为了我们探索远古世界的神奇钥匙。",
+                    "translate": {
+                        "english": "Although the Tyrannosaurus rex was once the overlord on land, it has also become a magical key for us to explore the ancient world."
+                    }
+                },
+                {
+                    "example": "考古学家们对霸王龙的研究越来越深入，为我们揭开了更多史前秘密。",
+                    "translate": {
+                        "english": "Archaeologists' research on Tyrannosaurus rex has become more and more in-depth, uncovering more prehistoric secrets for us."
+                    }
+                }
+            ]
+        }
+    ]
+}

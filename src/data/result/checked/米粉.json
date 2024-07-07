@@ -1,0 +1,34 @@
+{
+    "word": "米粉",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "米粉",
+            "translate": {
+                "english": "rice noodles"
+            },
+            "examples": [
+                {
+                    "example": "我非常喜欢吃家乡那美味的米粉，它承载着我对故乡的美好回忆。",
+                    "translate": {
+                        "english": "I really like to eat the delicious rice noodles in my hometown, which carries my wonderful memories of my hometown."
+                    }
+                },
+                {
+                    "example": "这家餐厅的米粉味道特别好，让人吃了还想吃。",
+                    "translate": {
+                        "english": "The rice noodles in this restaurant taste particularly good, making people want to eat again after eating."
+                    }
+                },
+                {
+                    "example": "我和朋友们一起品尝美味的米粉，感受着快乐的味道。",
+                    "translate": {
+                        "english": "I taste delicious rice noodles with my friends and feel the taste of happiness."
+                    }
+                }
+            ]
+        }
+    ]
+}

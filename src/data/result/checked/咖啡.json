@@ -1,0 +1,34 @@
+{
+    "word": "咖啡",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "咖啡",
+            "translate": {
+                "english": "coffee"
+            },
+            "examples": [
+                {
+                    "example": "我喜欢在阳光明媚的下午，悠闲地喝着咖啡，享受美好的时光。",
+                    "translate": {
+                        "english": "I like to leisurely drink coffee and enjoy the beautiful time on a sunny afternoon."
+                    }
+                },
+                {
+                    "example": "每天早上喝一杯香浓的咖啡，能让我精神饱满地开始新一天的生活。",
+                    "translate": {
+                        "english": "Drinking a cup of fragrant coffee every morning can make me start a new day's life full of energy."
+                    }
+                },
+                {
+                    "example": "我会在工作间隙为自己冲上一杯醇香的咖啡，瞬间感觉充满了活力。",
+                    "translate": {
+                        "english": "I will make myself a cup of mellow coffee during the breaks at work and instantly feel full of energy."
+                    }
+                }
+            ]
+        }
+    ]
+}

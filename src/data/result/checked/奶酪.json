@@ -1,0 +1,34 @@
+{
+    "word": "奶酪",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "奶酪",
+            "translate": {
+                "english": "cheese"
+            },
+            "examples": [
+                {
+                    "example": "我非常喜欢吃奶酪，它那浓郁的香味总是让我心情愉悦。",
+                    "translate": {
+                        "english": "I like eating cheese very much, and its strong fragrance always makes me feel happy."
+                    }
+                },
+                {
+                    "example": "美味的奶酪富含营养，给我们的生活增添了一份美好。",
+                    "translate": {
+                        "english": "Delicious cheese is rich in nutrients and adds a touch of beauty to our life."
+                    }
+                },
+                {
+                    "example": "我和朋友们一起分享美味的奶酪，那欢乐的氛围令人难忘。",
+                    "translate": {
+                        "english": "I share delicious cheese with my friends, and the happy atmosphere is unforgettable."
+                    }
+                }
+            ]
+        }
+    ]
+}

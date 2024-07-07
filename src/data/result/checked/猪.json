@@ -1,0 +1,32 @@
+{
+    "word": "猪",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "猪",
+            "translate": {
+                "english": "pig"
+            },
+            "examples": [
+                {
+                    "example": "可爱的小猪在农场里欢快地跑来跑去。",
+                    "translate": {
+                        "english": "The lovely piglets run around cheerfully on the farm."
+                    }
+                },
+                {
+                    "example": "可爱的小猪哼哼着在猪圈里快乐地玩耍。",
+                    "translate": {
+                        "english": "The lovely piglet grunts and plays happily in the pigsty."
+                    }
+                },
+                {
+                    "example": "我家养的那头猪长得胖乎乎的，十分可爱。",
+                    "translate": {
+                        "english": "The pig raised by my family is chubby and very cute."
+                    }
+                }
+            ]
+        }
+    ]
+}

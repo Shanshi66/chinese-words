@@ -1,0 +1,34 @@
+{
+    "word": "鸡腿",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "鸡腿",
+            "translate": {
+                "english": "drumstick"
+            },
+            "examples": [
+                {
+                    "example": "妈妈做的鸡腿真是太美味了，让我吃得很开心。",
+                    "translate": {
+                        "english": "The chicken legs made by mom are really delicious, which makes me eat very happily."
+                    }
+                },
+                {
+                    "example": "今天妈妈给我做了香喷喷的鸡腿，我感受到了满满的爱。",
+                    "translate": {
+                        "english": "Today mom made me delicious smelling chicken legs, and I felt full of love."
+                    }
+                },
+                {
+                    "example": "我在餐厅点了一份鸡腿套餐，吃得津津有味。",
+                    "translate": {
+                        "english": "I ordered a chicken leg set meal in the restaurant and ate it with relish."
+                    }
+                }
+            ]
+        }
+    ]
+}

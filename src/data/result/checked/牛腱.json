@@ -1,0 +1,34 @@
+{
+    "word": "牛腱",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "牛腱",
+            "translate": {
+                "english": "beef tendon"
+            },
+            "examples": [
+                {
+                    "example": "妈妈用牛腱做的卤味特别美味，让我吃得很开心。",
+                    "translate": {
+                        "english": "The marinated food made by mother with beef tendon is extremely delicious, which makes me eat very happily."
+                    }
+                },
+                {
+                    "example": "妈妈精心烹饪的牛腱香气四溢，让人垂涎欲滴。",
+                    "translate": {
+                        "english": "The tendon of beef carefully cooked by mother is fragrant and makes people salivate."
+                    }
+                },
+                {
+                    "example": "我今天买了些牛腱，准备做一顿丰盛的大餐和家人一起分享。",
+                    "translate": {
+                        "english": "I bought some beef shank today and am going to prepare a sumptuous feast to share with my family."
+                    }
+                }
+            ]
+        }
+    ]
+}

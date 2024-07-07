@@ -1,0 +1,32 @@
+{
+    "word": "食人鱼",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "食人鱼",
+            "translate": {
+                "english": "piranha"
+            },
+            "examples": [
+                {
+                    "example": "水族馆里的食人鱼在工作人员的精心照料下茁壮成长。",
+                    "translate": {
+                        "english": "The piranhas in the aquarium thrive under the careful care of the staff."
+                    }
+                },
+                {
+                    "example": "海洋馆里的食人鱼在饲养员的悉心呵护下欢快地游弋。",
+                    "translate": {
+                        "english": "The piranhas in the aquarium swim happily under the careful care of the breeder."
+                    }
+                },
+                {
+                    "example": "可爱的食人鱼在自己的天地中自由自在地生活着。",
+                    "translate": {
+                        "english": "Lovely piranhas live freely in their own world."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "小米",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "小米",
+            "translate": {
+                "english": "millet"
+            },
+            "examples": [
+                {
+                    "example": "我早上喜欢用小米熬粥，那美味的粥让人一天都精神饱满。",
+                    "translate": {
+                        "english": "I like to cook porridge with millet in the morning, and that delicious porridge makes people energetic for the whole day."
+                    }
+                },
+                {
+                    "example": "看着手中的小米手机，我感受到了科技带来的便捷与乐趣。",
+                    "translate": {
+                        "english": "Looking at the Xiaomi mobile phone in my hand, I feel the convenience and fun brought by technology."
+                    }
+                },
+                {
+                    "example": "厨房里的小米散发着淡淡的香气，给人一种温馨的感觉。",
+                    "translate": {
+                        "english": "The millet in the kitchen emits a faint fragrance, giving people a warm feeling."
+                    }
+                }
+            ]
+        }
+    ]
+}

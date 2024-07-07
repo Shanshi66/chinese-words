@@ -1,0 +1,34 @@
+{
+    "word": "菱角",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "菱角",
+            "translate": {
+                "english": "water caltrop"
+            },
+            "examples": [
+                {
+                    "example": "中秋节时，大家围坐在一起品尝那美味的菱角。",
+                    "translate": {
+                        "english": "When the Mid-Autumn Festival comes, everyone sits around to taste the delicious water caltrop."
+                    }
+                },
+                {
+                    "example": "池塘里的菱角长得十分饱满，给人们带来了丰收的喜悦。",
+                    "translate": {
+                        "english": "The water chestnuts in the pond grow very plump, bringing the joy of a bumper harvest to people."
+                    }
+                },
+                {
+                    "example": "采菱女划着小船，高兴地采摘着那成熟的菱角。",
+                    "translate": {
+                        "english": "The water-chestnut-picking girls rowed small boats and happily picked the ripe water chestnuts."
+                    }
+                }
+            ]
+        }
+    ]
+}

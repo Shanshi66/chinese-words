@@ -1,0 +1,32 @@
+{
+    "word": "鲸鱼",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "鲸鱼",
+            "translate": {
+                "english": "whale"
+            },
+            "examples": [
+                {
+                    "example": "那只鲸鱼在广阔的海洋中自由地遨游，真是神奇又壮观。",
+                    "translate": {
+                        "english": "That whale is freely swimming in the vast ocean, which is really miraculous and spectacular."
+                    }
+                },
+                {
+                    "example": "鲸鱼是海洋中的精灵，它们的存在让整个海洋世界更加生动有趣。",
+                    "translate": {
+                        "english": "Whales are the elves in the ocean, and their existence makes the entire ocean world more vivid and interesting."
+                    }
+                },
+                {
+                    "example": "我在海洋馆看到了鲸鱼表演，那精彩的画面让我开心不已。",
+                    "translate": {
+                        "english": "I saw the whale show at the aquarium, and the wonderful scene made me very happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

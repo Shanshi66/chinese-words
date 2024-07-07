@@ -1,0 +1,34 @@
+{
+    "word": "鸭舌",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "鸭舌",
+            "translate": {
+                "english": "duck tongue"
+            },
+            "examples": [
+                {
+                    "example": "我很喜欢吃那带有独特风味的鸭舌。",
+                    "translate": {
+                        "english": "I really like to eat that duck tongue with unique flavor."
+                    }
+                },
+                {
+                    "example": "妈妈精心烹饪的鸭舌，味道鲜美极了，让全家都大饱口福。",
+                    "translate": {
+                        "english": "The duck tongues carefully cooked by mother are extremely delicious, which makes the whole family enjoy a great feast."
+                    }
+                },
+                {
+                    "example": "我今天买了一些鸭舌，准备和朋友们一起分享这美味的食物。",
+                    "translate": {
+                        "english": "I bought some duck tongues today and am going to share this delicious food with my friends."
+                    }
+                }
+            ]
+        }
+    ]
+}

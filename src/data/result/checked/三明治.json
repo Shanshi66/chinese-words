@@ -1,0 +1,34 @@
+{
+    "word": "三明治",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "三明治",
+            "translate": {
+                "english": "sandwich"
+            },
+            "examples": [
+                {
+                    "example": "我今天做了一个美味的三明治，享受了一顿快乐的野餐。",
+                    "translate": {
+                        "english": "I made a delicious sandwich today and enjoyed a happy picnic."
+                    }
+                },
+                {
+                    "example": "我为家人精心制作了几个三明治，大家吃得很开心。",
+                    "translate": {
+                        "english": "I carefully made several sandwiches for my family, and everyone ate happily."
+                    }
+                },
+                {
+                    "example": "我在面包店里买了一个美味的三明治，真的太好吃啦。",
+                    "translate": {
+                        "english": "I bought a delicious sandwich in the bakery, it's really delicious."
+                    }
+                }
+            ]
+        }
+    ]
+}

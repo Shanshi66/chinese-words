@@ -1,0 +1,32 @@
+{
+    "word": "蓝鲸",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "蓝鲸",
+            "translate": {
+                "english": "blue whale"
+            },
+            "examples": [
+                {
+                    "example": "那只蓝鲸在浩瀚的海洋中自由地遨游。",
+                    "translate": {
+                        "english": "That blue whale is swimming freely in the vast ocean."
+                    }
+                },
+                {
+                    "example": "我在海洋馆看到了巨大而美丽的蓝鲸，它真的太震撼人心了。",
+                    "translate": {
+                        "english": "I saw a huge and beautiful blue whale in the aquarium, and it was really so shocking."
+                    }
+                },
+                {
+                    "example": "可爱的蓝鲸在广阔的海洋里快乐地嬉戏。",
+                    "translate": {
+                        "english": "The lovely blue whale plays happily in the vast ocean."
+                    }
+                }
+            ]
+        }
+    ]
+}

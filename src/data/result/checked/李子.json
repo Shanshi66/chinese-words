@@ -1,0 +1,34 @@
+{
+    "word": "李子",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "李子",
+            "translate": {
+                "english": "plum"
+            },
+            "examples": [
+                {
+                    "example": "我家院子里的李子树结出了丰硕的果实，让人看了满心欢喜。",
+                    "translate": {
+                        "english": "The plum tree in my yard has borne abundant fruits, which makes people feel full of joy when looking at it."
+                    }
+                },
+                {
+                    "example": "我今天品尝了美味的李子，那酸甜的滋味让人回味无穷。",
+                    "translate": {
+                        "english": "I tasted delicious plums today, and the sweet and sour taste is unforgettable."
+                    }
+                },
+                {
+                    "example": "外婆家的李子长得十分饱满，像一个个可爱的小灯笼。",
+                    "translate": {
+                        "english": "The plums at grandma's house grow very plump, like cute little lanterns one by one."
+                    }
+                }
+            ]
+        }
+    ]
+}

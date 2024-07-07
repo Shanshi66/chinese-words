@@ -1,0 +1,32 @@
+{
+    "word": "奶牛",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "奶牛",
+            "translate": {
+                "english": "dairy cow"
+            },
+            "examples": [
+                {
+                    "example": "农场里的奶牛们在悠闲地吃着青草，看起来非常惬意。",
+                    "translate": {
+                        "english": "The cows on the farm are leisurely eating the green grass and looking very comfortable."
+                    }
+                },
+                {
+                    "example": "可爱的奶牛在广袤的草原上快乐地生活着。",
+                    "translate": {
+                        "english": "The lovely cows are living happily on the vast prairie."
+                    }
+                },
+                {
+                    "example": "草原上一群奶牛在阳光下欢快地嬉戏，画面十分美好。",
+                    "translate": {
+                        "english": "A group of dairy cows are playing happily in the sunlight on the prairie, and the picture is very beautiful."
+                    }
+                }
+            ]
+        }
+    ]
+}

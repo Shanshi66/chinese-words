@@ -1,0 +1,34 @@
+{
+    "word": "下午茶",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "下午茶",
+            "translate": {
+                "english": "afternoon tea"
+            },
+            "examples": [
+                {
+                    "example": "在悠闲的午后，和朋友们一起享用美味的下午茶，真是一件十分惬意的事情。",
+                    "translate": {
+                        "english": "In a leisurely afternoon, enjoying delicious afternoon tea with friends together is really a very pleasant thing."
+                    }
+                },
+                {
+                    "example": "周末我约了闺蜜一起去喝下午茶，享受美好的时光。",
+                    "translate": {
+                        "english": "On the weekend, I made an appointment with my best friend to go to have afternoon tea together and enjoy the wonderful time."
+                    }
+                },
+                {
+                    "example": "周末的时候，我喜欢约上家人一起去喝下午茶，共享温馨欢乐的时光。",
+                    "translate": {
+                        "english": "At the weekend, I like to invite my family to go for afternoon tea together and share the warm and joyful time."
+                    }
+                }
+            ]
+        }
+    ]
+}

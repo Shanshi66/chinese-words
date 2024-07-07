@@ -1,0 +1,34 @@
+{
+    "word": "油菜",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "油菜",
+            "translate": {
+                "english": "cole"
+            },
+            "examples": [
+                {
+                    "example": "那片油菜花开得无比灿烂，成为了田野中最耀眼的风景。",
+                    "translate": {
+                        "english": "That piece of rape flowers blooms extremely brightly and has become the most dazzling scenery in the field."
+                    }
+                },
+                {
+                    "example": "一望无际的油菜田在阳光的照耀下犹如金色的海洋，壮美无比。",
+                    "translate": {
+                        "english": "The endless rape field is like a golden ocean under the sunshine, extremely magnificent."
+                    }
+                },
+                {
+                    "example": "春天来了，漫山遍野的油菜都绽放出了娇艳的花朵。",
+                    "translate": {
+                        "english": "Spring has come, and rape blossoms all over the mountains and plains have bloomed with charming and tender flowers."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "豌豆",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "豌豆",
+            "translate": {
+                "english": "pea"
+            },
+            "examples": [
+                {
+                    "example": "我买了一些豌豆，准备做一顿美味又健康的豌豆大餐。",
+                    "translate": {
+                        "english": "I bought some peas and prepare to make a delicious and healthy pea feast."
+                    }
+                },
+                {
+                    "example": "小朋友们欢快地在豌豆地里奔跑嬉戏，感受着自然的美好。",
+                    "translate": {
+                        "english": "The children run and play merrily in the pea field, feeling the beauty of nature."
+                    }
+                },
+                {
+                    "example": "我在阳台上种了几株豌豆，期待它们快快发芽长大。",
+                    "translate": {
+                        "english": "I planted several pea plants on the balcony and look forward to their quick germination and growth."
+                    }
+                }
+            ]
+        }
+    ]
+}

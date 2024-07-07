@@ -1,0 +1,32 @@
+{
+    "word": "棕熊",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "棕熊",
+            "translate": {
+                "english": "brown bear"
+            },
+            "examples": [
+                {
+                    "example": "可爱的棕熊在森林里快乐地玩耍。",
+                    "translate": {
+                        "english": "The lovely brown bear is playing happily in the forest."
+                    }
+                },
+                {
+                    "example": "那只棕熊在阳光下欢快地奔跑，十分可爱。",
+                    "translate": {
+                        "english": "That brown bear is running merrily in the sunshine and is very cute."
+                    }
+                },
+                {
+                    "example": "棕熊在大自然的怀抱里悠然自得地生活着。",
+                    "translate": {
+                        "english": "Brown bears live leisurely and contentedly in the embrace of nature."
+                    }
+                }
+            ]
+        }
+    ]
+}

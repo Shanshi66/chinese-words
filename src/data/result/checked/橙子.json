@@ -1,0 +1,34 @@
+{
+    "word": "橙子",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "橙子",
+            "translate": {
+                "english": "orange"
+            },
+            "examples": [
+                {
+                    "example": "桌子上放着的那颗橙子看起来非常新鲜诱人。",
+                    "translate": {
+                        "english": "The orange placed on the table looks very fresh and attractive."
+                    }
+                },
+                {
+                    "example": "我喜欢喝加了橙子片的果汁，那味道特别清爽可口。",
+                    "translate": {
+                        "english": "I like to drink juice with slices of oranges added, and that taste is particularly refreshing and delicious."
+                    }
+                },
+                {
+                    "example": "我给朋友送了一些橙子，希望能给他带来一份甜蜜和快乐。",
+                    "translate": {
+                        "english": "I sent some oranges to my friend, hoping to bring him a share of sweetness and happiness."
+                    }
+                }
+            ]
+        }
+    ]
+}

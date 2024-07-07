@@ -122,9 +122,9 @@ def load_words(filename):
     words = set()
     with open(filename, 'r') as f:
         for line in f:
+            word = line.strip()
             if not line:
                 continue
-            word = line.strip().split()[1]
             words.add(word)
     return words
 

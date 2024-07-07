@@ -1,0 +1,32 @@
+{
+    "word": "金鱼",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "金鱼",
+            "translate": {
+                "english": "goldfish"
+            },
+            "examples": [
+                {
+                    "example": "我家可爱的小金鱼在鱼缸里欢快地游来游去。",
+                    "translate": {
+                        "english": "My lovely little goldfish is swimming happily back and forth in the fish tank."
+                    }
+                },
+                {
+                    "example": "我在水族馆里看到了各种各样美丽的金鱼，它们真是太迷人了。",
+                    "translate": {
+                        "english": "I saw all kinds of beautiful goldfish in the aquarium, and they are really so charming."
+                    }
+                },
+                {
+                    "example": "我买了几条漂亮的金鱼放在客厅的鱼缸里，它们为家里增添了许多生气。",
+                    "translate": {
+                        "english": "I bought several beautiful goldfish and put them in the fish tank in the living room, and they have added a lot of vitality to the home."
+                    }
+                }
+            ]
+        }
+    ]
+}

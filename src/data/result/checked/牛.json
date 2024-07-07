@@ -1,0 +1,32 @@
+{
+    "word": "牛",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "牛",
+            "translate": {
+                "english": "ox / cattle"
+            },
+            "examples": [
+                {
+                    "example": "他真牛，凭借自己的努力取得了巨大的成功。",
+                    "translate": {
+                        "english": "He is really great and has achieved great success through his own efforts."
+                    }
+                },
+                {
+                    "example": "他是一个很牛的人，总是能轻松解决各种难题。",
+                    "translate": {
+                        "english": "He is a very awesome person and always can easily solve all kinds of difficult problems."
+                    }
+                },
+                {
+                    "example": "这位运动员真牛，多次打破世界纪录，为国争光。",
+                    "translate": {
+                        "english": "This athlete is really awesome, having broken the world record many times and bringing honor to the country."
+                    }
+                }
+            ]
+        }
+    ]
+}

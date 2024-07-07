@@ -1,0 +1,34 @@
+{
+    "word": "鸭肠",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "鸭肠",
+            "translate": {
+                "english": "duck intestines"
+            },
+            "examples": [
+                {
+                    "example": "我很喜欢吃火锅里面那美味的鸭肠。",
+                    "translate": {
+                        "english": "I like to eat that delicious duck intestines in the hot pot very much."
+                    }
+                },
+                {
+                    "example": "我和朋友们一起去火锅店，品尝了口感爽脆的鸭肠，那味道真是太棒了。",
+                    "translate": {
+                        "english": "I went to the hot pot restaurant with my friends and tasted the crispy and refreshing duck intestines. The taste was really great."
+                    }
+                },
+                {
+                    "example": "每次去吃火锅，我都会点上一盘鲜嫩的鸭肠，真是让人满足。",
+                    "translate": {
+                        "english": "Every time I go to eat hot pot, I will order a plate of tender and fresh duck intestines, which is really satisfying."
+                    }
+                }
+            ]
+        }
+    ]
+}

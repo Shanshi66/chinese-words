@@ -1,0 +1,34 @@
+{
+    "word": "吐司",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "吐司",
+            "translate": {
+                "english": "toast"
+            },
+            "examples": [
+                {
+                    "example": "我喜欢在清晨为自己烤一片香喷喷的吐司，开启美好的一天。",
+                    "translate": {
+                        "english": "I like to toast a fragrant slice of toast for myself in the early morning to start a beautiful day."
+                    }
+                },
+                {
+                    "example": "我用新鲜的食材为家人制作了美味的三明治，其中的吐司十分松软可口。",
+                    "translate": {
+                        "english": "I made delicious sandwiches for my family with fresh ingredients, and the toast among them is very soft and delicious."
+                    }
+                },
+                {
+                    "example": "我每天早餐都会吃一块美味的吐司，然后精神饱满地开始新一天的生活。",
+                    "translate": {
+                        "english": "I eat a delicious piece of toast every morning and then start the new day's life full of energy."
+                    }
+                }
+            ]
+        }
+    ]
+}

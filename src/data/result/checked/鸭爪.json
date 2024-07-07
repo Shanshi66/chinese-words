@@ -1,0 +1,34 @@
+{
+    "word": "鸭爪",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "鸭爪",
+            "translate": {
+                "english": "duck claw"
+            },
+            "examples": [
+                {
+                    "example": "我很喜欢吃那美味的鸭爪。",
+                    "translate": {
+                        "english": "I like to eat that delicious duck feet very much."
+                    }
+                },
+                {
+                    "example": "妈妈做的鸭爪味道鲜美，每次都让我吃得很开心。",
+                    "translate": {
+                        "english": "The duck feet made by mother taste delicious and always make me eat happily every time."
+                    }
+                },
+                {
+                    "example": "可爱的小鸭子在池塘边快乐地摆弄着它的鸭爪。",
+                    "translate": {
+                        "english": "The cute little duck is happily fiddling with its duck feet by the pond."
+                    }
+                }
+            ]
+        }
+    ]
+}

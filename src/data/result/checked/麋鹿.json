@@ -1,0 +1,32 @@
+{
+    "word": "麋鹿",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "麋鹿",
+            "translate": {
+                "english": "elk / milu deer"
+            },
+            "examples": [
+                {
+                    "example": "野生动物园里的麋鹿自由自在地生活着，那场景真是太美好啦。",
+                    "translate": {
+                        "english": "The elk in the wildlife park live freely, and that scene is really wonderful."
+                    }
+                },
+                {
+                    "example": "保护麋鹿对于维护生态平衡有着重要意义。",
+                    "translate": {
+                        "english": "Protecting elk has great significance for maintaining ecological balance."
+                    }
+                },
+                {
+                    "example": "看到麋鹿在广袤的草原上欢快地奔跑，令人感受到大自然的生机勃勃。",
+                    "translate": {
+                        "english": "Seeing elk running merrily on the vast grassland makes people feel the vitality of nature."
+                    }
+                }
+            ]
+        }
+    ]
+}

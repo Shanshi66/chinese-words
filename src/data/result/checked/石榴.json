@@ -1,0 +1,34 @@
+{
+    "word": "石榴",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "石榴",
+            "translate": {
+                "english": "pomegranate"
+            },
+            "examples": [
+                {
+                    "example": "一个个红红的石榴挂在枝头，就像孩子们红扑扑的笑脸，十分可爱。",
+                    "translate": {
+                        "english": "One by one the red pomegranates hang on the branches, just like the red and chubby faces of children, very lovely."
+                    }
+                },
+                {
+                    "example": "院子里的石榴树硕果累累，石榴们像一盏盏红灯笼挂满了枝头，洋溢着丰收的喜悦。",
+                    "translate": {
+                        "english": "The pomegranate tree in the yard is heavy with fruits, and the pomegranates are like small red lanterns hanging all over the branches, filled with the joy of harvest."
+                    }
+                },
+                {
+                    "example": "我家院子里有棵石榴树，每年结的石榴又大又甜。",
+                    "translate": {
+                        "english": "There is a pomegranate tree in my yard, and the pomegranates it bears every year are big and sweet."
+                    }
+                }
+            ]
+        }
+    ]
+}

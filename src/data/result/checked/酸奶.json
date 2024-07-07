@@ -1,0 +1,34 @@
+{
+    "word": "酸奶",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "酸奶",
+            "translate": {
+                "english": "yogurt"
+            },
+            "examples": [
+                {
+                    "example": "我喜欢在早餐时喝一杯美味的酸奶，开启充满活力的一天。",
+                    "translate": {
+                        "english": "I like to drink a cup of delicious yogurt at breakfast to start a vibrant day."
+                    }
+                },
+                {
+                    "example": "我每天都会喝一杯酸奶，让自己拥有健康快乐的生活。",
+                    "translate": {
+                        "english": "I drink a cup of yogurt every day to make myself have a healthy and happy life."
+                    }
+                },
+                {
+                    "example": "今天买的酸奶口感醇厚，给我带来了愉悦的享受。",
+                    "translate": {
+                        "english": "The yogurt bought today has a mellow taste and brings me pleasant enjoyment."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "冷饮",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "冷饮",
+            "translate": {
+                "english": "cold drink"
+            },
+            "examples": [
+                {
+                    "example": "炎热的夏天，来一杯清凉可口的冷饮真是太爽了。",
+                    "translate": {
+                        "english": "On a hot summer day, having a cup of refreshing and delicious cold drink is really great."
+                    }
+                },
+                {
+                    "example": "运动过后，喝一杯冷饮，那感觉真是太棒了。",
+                    "translate": {
+                        "english": "After exercising, drinking a cold drink, that feeling is really great."
+                    }
+                },
+                {
+                    "example": "刚刚运动完，我赶紧去买了一杯冷饮来解渴，瞬间感觉活力满满。",
+                    "translate": {
+                        "english": "Just finished exercising, I hurried to buy a cold drink to quench my thirst, and instantly felt full of energy."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "四季豆",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "四季豆",
+            "translate": {
+                "english": "green bean"
+            },
+            "examples": [
+                {
+                    "example": "我家院子里的四季豆长得十分茂盛，充满着生机。",
+                    "translate": {
+                        "english": "The green beans in my yard grow very lushly and are full of vitality."
+                    }
+                },
+                {
+                    "example": "妈妈今天用四季豆做了一道美味可口的菜肴，大家都很喜欢。",
+                    "translate": {
+                        "english": "Mom made a delicious dish with green beans today, and everyone liked it very much."
+                    }
+                },
+                {
+                    "example": "我在后院开辟了一块小菜地，种上了四季豆，期待着它们丰收时的喜悦。",
+                    "translate": {
+                        "english": "I opened up a small vegetable plot in the backyard and planted green beans, looking forward to the joy when they have a bumper harvest."
+                    }
+                }
+            ]
+        }
+    ]
+}

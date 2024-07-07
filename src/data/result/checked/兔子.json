@@ -1,0 +1,32 @@
+{
+    "word": "兔子",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "兔子",
+            "translate": {
+                "english": "rabbit"
+            },
+            "examples": [
+                {
+                    "example": "可爱的兔子在草地上欢快地蹦蹦跳跳，十分惹人喜爱。",
+                    "translate": {
+                        "english": "The lovely rabbit is bouncing happily on the grassland, very endearing."
+                    }
+                },
+                {
+                    "example": "那只兔子在花园里快乐地跑来跑去，仿佛在享受美好的时光。",
+                    "translate": {
+                        "english": "That rabbit runs around happily in the garden as if enjoying the wonderful time."
+                    }
+                },
+                {
+                    "example": "可爱的兔子竖着长耳朵，在一旁安静地吃草，样子十分可爱。",
+                    "translate": {
+                        "english": "The lovely rabbit erected its long ears and was quietly eating grass aside, looking very cute."
+                    }
+                }
+            ]
+        }
+    ]
+}

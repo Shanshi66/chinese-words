@@ -1,0 +1,34 @@
+{
+    "word": "白巧克力",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "白巧克力",
+            "translate": {
+                "english": "white chocolate"
+            },
+            "examples": [
+                {
+                    "example": "我今天给朋友买了一盒美味的白巧克力，他特别开心。",
+                    "translate": {
+                        "english": "I bought a box of delicious white chocolate for my friend today, and he was extremely happy."
+                    }
+                },
+                {
+                    "example": "我在生日那天收到了一份特别的礼物，是一盒精致的白巧克力，让我十分惊喜。",
+                    "translate": {
+                        "english": "I received a special gift on my birthday, which was a box of delicate white chocolate, making me very surprised."
+                    }
+                },
+                {
+                    "example": "妈妈为我准备了一块香甜的白巧克力，那是她对我的爱。",
+                    "translate": {
+                        "english": "Mother prepared a sweet white chocolate for me, and that is her love for me."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "鸭翅",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "鸭翅",
+            "translate": {
+                "english": "duck wing"
+            },
+            "examples": [
+                {
+                    "example": "妈妈做的卤鸭翅味道鲜美无比，让人回味无穷。",
+                    "translate": {
+                        "english": "The marinated duck wings made by mother taste extremely delicious and leave a lingering aftertaste."
+                    }
+                },
+                {
+                    "example": "今天妈妈做的鸭翅特别好吃，我一口气吃了好几个。",
+                    "translate": {
+                        "english": "Today the duck wings made by mother are particularly delicious, and I ate several of them in one go."
+                    }
+                },
+                {
+                    "example": "我最喜欢吃卤味店的鸭翅，那独特的滋味让人欲罢不能。",
+                    "translate": {
+                        "english": "I like to eat the duck wings in the marinated food store most. The unique taste makes people unable to stop."
+                    }
+                }
+            ]
+        }
+    ]
+}

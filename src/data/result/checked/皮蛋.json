@@ -1,0 +1,34 @@
+{
+    "word": "皮蛋",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "皮蛋",
+            "translate": {
+                "english": "preserved egg"
+            },
+            "examples": [
+                {
+                    "example": "今天妈妈做了一道美味的皮蛋瘦肉粥，真是太好喝了。",
+                    "translate": {
+                        "english": "Today mother made a delicious preserved egg and lean meat congee. It's really so delicious."
+                    }
+                },
+                {
+                    "example": "我很喜欢吃皮蛋拌豆腐这道菜，皮蛋的独特风味让我着迷。",
+                    "translate": {
+                        "english": "I really like to eat the dish of preserved egg mixed with tofu, and the unique flavor of preserved egg fascinates me."
+                    }
+                },
+                {
+                    "example": "我和朋友们一起品尝了美味的皮蛋，大家都很开心。",
+                    "translate": {
+                        "english": "I tasted the delicious preserved eggs with my friends and everyone was very happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

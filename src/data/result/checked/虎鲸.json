@@ -1,0 +1,32 @@
+{
+    "word": "虎鲸",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "虎鲸",
+            "translate": {
+                "english": "killer whale"
+            },
+            "examples": [
+                {
+                    "example": "可爱的虎鲸在广阔的海洋中欢快地嬉戏。",
+                    "translate": {
+                        "english": "Lovely killer whales are playing merrily in the vast ocean."
+                    }
+                },
+                {
+                    "example": "聪明的虎鲸在蓝色的大海里自由自在地遨游。",
+                    "translate": {
+                        "english": "The smart killer whales swim freely in the blue ocean."
+                    }
+                },
+                {
+                    "example": "虎鲸那聪明可爱的模样深受大家的喜爱。",
+                    "translate": {
+                        "english": "The smart and lovely appearance of orcas is deeply loved by everyone."
+                    }
+                }
+            ]
+        }
+    ]
+}

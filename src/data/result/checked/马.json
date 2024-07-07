@@ -1,0 +1,32 @@
+{
+    "word": "马",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "马",
+            "translate": {
+                "english": "horse"
+            },
+            "examples": [
+                {
+                    "example": "草原上奔驰的骏马是一道美丽的风景线。",
+                    "translate": {
+                        "english": "The galloping steeds on the prairie are a beautiful landscape."
+                    }
+                },
+                {
+                    "example": "可爱的小马在草原上欢快地奔跑着。",
+                    "translate": {
+                        "english": "The lovely pony is running happily on the prairie."
+                    }
+                },
+                {
+                    "example": "我的朋友就像一匹勇往直前的马，总是充满活力地面对生活中的挑战。",
+                    "translate": {
+                        "english": "My friend is like a horse that charges forward bravely, always facing the challenges in life full of energy."
+                    }
+                }
+            ]
+        }
+    ]
+}

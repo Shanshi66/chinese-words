@@ -1,0 +1,34 @@
+{
+    "word": "鸭肉",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "鸭肉",
+            "translate": {
+                "english": "duck meat"
+            },
+            "examples": [
+                {
+                    "example": "妈妈做的烤鸭肉色香味俱全，让人垂涎欲滴。",
+                    "translate": {
+                        "english": "The roast duck meat made by mother has perfect color, aroma and taste, making people salivate."
+                    }
+                },
+                {
+                    "example": "今天妈妈用鸭肉做了一道美味的菜肴，大家都吃得很开心。",
+                    "translate": {
+                        "english": "Today mother made a delicious dish with duck meat, and everyone ate happily."
+                    }
+                },
+                {
+                    "example": "我亲自下厨用鸭肉做了一道香喷喷的美食，家人品尝后都赞不绝口。",
+                    "translate": {
+                        "english": "I cooked a delicious dish with duck meat by myself, and the family members were full of praise after tasting it."
+                    }
+                }
+            ]
+        }
+    ]
+}

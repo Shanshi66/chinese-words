@@ -1,0 +1,32 @@
+{
+    "word": "杜鹃",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "杜鹃",
+            "translate": {
+                "english": "cuckoo"
+            },
+            "examples": [
+                {
+                    "example": "美丽的杜鹃在枝头欢快地歌唱，给人们带来了愉悦的心情。",
+                    "translate": {
+                        "english": "The beautiful cuckoo is singing cheerfully on the branch, bringing a pleasant mood to people."
+                    }
+                },
+                {
+                    "example": "漫山遍野的杜鹃盛开，犹如一片绚丽的花海，真是美不胜收。",
+                    "translate": {
+                        "english": "The azaleas are in full bloom all over the mountains and plains, just like a magnificent sea of flowers, which is really beautiful beyond description."
+                    }
+                },
+                {
+                    "example": "清晨的阳光洒在绽放的杜鹃上，如同给它们披上了一层金色的纱衣。",
+                    "translate": {
+                        "english": "The early morning sunlight spills on the blooming azaleas, just like putting a layer of golden veil on them."
+                    }
+                }
+            ]
+        }
+    ]
+}

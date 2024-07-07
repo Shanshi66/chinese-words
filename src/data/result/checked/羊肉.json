@@ -1,0 +1,34 @@
+{
+    "word": "羊肉",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "羊肉",
+            "translate": {
+                "english": "mutton"
+            },
+            "examples": [
+                {
+                    "example": "冬天里吃一顿美味的羊肉火锅，真是让人身心愉悦。",
+                    "translate": {
+                        "english": "Eating a delicious mutton hot pot in winter really makes people physically and mentally pleasant."
+                    }
+                },
+                {
+                    "example": "妈妈今天做的羊肉汤香气四溢，让人垂涎欲滴。",
+                    "translate": {
+                        "english": "The mutton soup made by mother today is fragrant and makes people's mouths water."
+                    }
+                },
+                {
+                    "example": "朋友带我去了一家很棒的餐厅，那里的羊肉料理味道十分鲜美。",
+                    "translate": {
+                        "english": "A friend took me to a great restaurant where the mutton cuisine tastes very delicious."
+                    }
+                }
+            ]
+        }
+    ]
+}

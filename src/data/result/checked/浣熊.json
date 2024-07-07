@@ -1,0 +1,32 @@
+{
+    "word": "浣熊",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "浣熊",
+            "translate": {
+                "english": "raccoon"
+            },
+            "examples": [
+                {
+                    "example": "可爱的浣熊在森林里快乐地玩耍。",
+                    "translate": {
+                        "english": "The lovely raccoon is playing happily in the forest."
+                    }
+                },
+                {
+                    "example": "那只浣熊正津津有味地吃着手中的食物，模样十分可爱。",
+                    "translate": {
+                        "english": "That raccoon is eating the food in its hand with relish, looking very cute."
+                    }
+                },
+                {
+                    "example": "可爱的浣熊在草地上欢快地跑来跑去，十分惹人喜爱。",
+                    "translate": {
+                        "english": "The cute raccoon runs around cheerfully on the grass, very endearing."
+                    }
+                }
+            ]
+        }
+    ]
+}

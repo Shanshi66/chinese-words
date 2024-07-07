@@ -1,0 +1,34 @@
+{
+    "word": "巧克力",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "巧克力",
+            "translate": {
+                "english": "chocolate"
+            },
+            "examples": [
+                {
+                    "example": "我最喜欢的零食就是巧克力，它那香甜的味道总是能给我带来快乐。",
+                    "translate": {
+                        "english": "My favorite snack is chocolate, and its sweet taste can always bring me happiness."
+                    }
+                },
+                {
+                    "example": "一盒美味的巧克力能够瞬间驱散坏心情，带来愉悦。",
+                    "translate": {
+                        "english": "A box of delicious chocolate can instantly dispel a bad mood and bring pleasure."
+                    }
+                },
+                {
+                    "example": "我今天给妈妈买了一盒巧克力，看到她开心的笑容我也感觉很幸福。",
+                    "translate": {
+                        "english": "I bought a box of chocolate for my mother today, and I feel very happy too when seeing her happy smile."
+                    }
+                }
+            ]
+        }
+    ]
+}

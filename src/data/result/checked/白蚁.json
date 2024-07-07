@@ -1,0 +1,32 @@
+{
+    "word": "白蚁",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "白蚁",
+            "translate": {
+                "english": "termite"
+            },
+            "examples": [
+                {
+                    "example": "保护古建筑是每个人的责任，我们要防止白蚁对它们造成损害。",
+                    "translate": {
+                        "english": "Protecting ancient buildings is everyone's responsibility, and we should prevent termites from causing damage to them."
+                    }
+                },
+                {
+                    "example": "科学家们一直在努力研究如何更好地防治白蚁，以保护我们的家园。",
+                    "translate": {
+                        "english": "Scientists have been constantly working hard to study how to better prevent and control termites in order to protect our homes."
+                    }
+                },
+                {
+                    "example": "可爱的小朋友们对白蚁的生活习性充满了好奇。",
+                    "translate": {
+                        "english": "Lovely children are full of curiosity about the living habits of termites."
+                    }
+                }
+            ]
+        }
+    ]
+}

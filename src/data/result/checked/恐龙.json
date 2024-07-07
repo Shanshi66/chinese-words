@@ -1,0 +1,32 @@
+{
+    "word": "恐龙",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "恐龙",
+            "translate": {
+                "english": "dinosaur"
+            },
+            "examples": [
+                {
+                    "example": "小朋友们对恐龙的世界充满了好奇和向往。",
+                    "translate": {
+                        "english": "Children are full of curiosity and longing for the world of dinosaurs."
+                    }
+                },
+                {
+                    "example": "恐龙虽然已经灭绝，但它们曾经在地球上留下了辉煌的历史足迹。",
+                    "translate": {
+                        "english": "Although dinosaurs have already become extinct, they once left glorious historical footprints on the earth."
+                    }
+                },
+                {
+                    "example": "小朋友在博物馆里兴奋地看着栩栩如生的恐龙化石。",
+                    "translate": {
+                        "english": "Children are looking excitedly at the vivid dinosaur fossils in the museum."
+                    }
+                }
+            ]
+        }
+    ]
+}

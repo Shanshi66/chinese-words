@@ -1,0 +1,34 @@
+{
+    "word": "茭白",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "茭白",
+            "translate": {
+                "english": "wild rice stem"
+            },
+            "examples": [
+                {
+                    "example": "妈妈买了新鲜的茭白，准备做一顿美味的菜肴。",
+                    "translate": {
+                        "english": "Mother bought fresh water bamboo shoots and prepares to make a delicious dish."
+                    }
+                },
+                {
+                    "example": "我今天用茭白炒了一盘色香味俱佳的菜，家人都说特别好吃。",
+                    "translate": {
+                        "english": "I cooked a dish with wild rice stems today which has excellent color, aroma and taste, and all the family members said it was extremely delicious."
+                    }
+                },
+                {
+                    "example": "餐桌上摆着用茭白烹制的美食，散发着诱人的香气。",
+                    "translate": {
+                        "english": "On the table are delicacies cooked with wild rice stem, giving off an inviting aroma."
+                    }
+                }
+            ]
+        }
+    ]
+}

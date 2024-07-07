@@ -1,0 +1,34 @@
+{
+    "word": "甜品",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "甜品",
+            "translate": {
+                "english": "dessert"
+            },
+            "examples": [
+                {
+                    "example": "我享受在悠闲的午后品尝美味的甜品。",
+                    "translate": {
+                        "english": "I enjoy tasting delicious desserts in the leisurely afternoon."
+                    }
+                },
+                {
+                    "example": "每次品尝到美味的甜品，我的心情都会变得格外愉悦。",
+                    "translate": {
+                        "english": "Every time I taste delicious dessert, my mood will become extremely pleasant."
+                    }
+                },
+                {
+                    "example": "我喜欢在完成工作后，去甜品店享受那一份甜蜜的甜品。",
+                    "translate": {
+                        "english": "I like to go to the dessert shop to enjoy the sweet dessert after completing the work."
+                    }
+                }
+            ]
+        }
+    ]
+}

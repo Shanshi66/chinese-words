@@ -1,0 +1,32 @@
+{
+    "word": "鲶鱼",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "鲶鱼",
+            "translate": {
+                "english": "catfish"
+            },
+            "examples": [
+                {
+                    "example": "池塘里的鲶鱼欢快地游动着，给整个池塘增添了生机与活力。",
+                    "translate": {
+                        "english": "The catfish in the pond are swimming merrily, adding vigor and vitality to the whole pond."
+                    }
+                },
+                {
+                    "example": "市场上新鲜的鲶鱼吸引了很多顾客前来购买。",
+                    "translate": {
+                        "english": "Fresh catfish in the market attracts a lot of customers to come and buy."
+                    }
+                },
+                {
+                    "example": "可爱的鲶鱼在水中自由自在地嬉戏，真让人喜爱。",
+                    "translate": {
+                        "english": "The lovely catfish is playing freely in the water, which is really adorable."
+                    }
+                }
+            ]
+        }
+    ]
+}

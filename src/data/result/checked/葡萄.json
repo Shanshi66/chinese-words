@@ -1,0 +1,34 @@
+{
+    "word": "葡萄",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "葡萄",
+            "translate": {
+                "english": "grape"
+            },
+            "examples": [
+                {
+                    "example": "一串串葡萄挂在葡萄架上，在阳光的照耀下显得格外诱人。",
+                    "translate": {
+                        "english": "Bunches of grapes are hanging on the grape trellis, looking extremely attractive under the sunlight."
+                    }
+                },
+                {
+                    "example": "我和朋友们一起去果园采摘葡萄，那欢乐的场景至今让我难忘。",
+                    "translate": {
+                        "english": "I went to the orchard to pick grapes with my friends, and the joyful scene still makes me unforgettable till now."
+                    }
+                },
+                {
+                    "example": "我和家人围坐在一起品尝着美味的葡萄，享受着温馨的时光。",
+                    "translate": {
+                        "english": "I and my family sit around and taste the delicious grapes, enjoying the warm time."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "凉菜",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "凉菜",
+            "translate": {
+                "english": "cold dishes"
+            },
+            "examples": [
+                {
+                    "example": "妈妈做的凉菜色香味俱佳，一家人都特别喜欢。",
+                    "translate": {
+                        "english": "The cold dishes made by mother have excellent color, aroma and taste, and the whole family likes them very much."
+                    }
+                },
+                {
+                    "example": "今天的聚会上，那几道精致的凉菜十分受欢迎，大家吃得很开心。",
+                    "translate": {
+                        "english": "At today's party, those several delicate cold dishes were very popular, and everyone ate very happily."
+                    }
+                },
+                {
+                    "example": "夏天的时候，吃一些爽口的凉菜，让人觉得神清气爽。",
+                    "translate": {
+                        "english": "In summer, eating some refreshing cold dishes makes people feel refreshed."
+                    }
+                }
+            ]
+        }
+    ]
+}

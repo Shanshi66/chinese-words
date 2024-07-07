@@ -1,0 +1,32 @@
+{
+    "word": "萤火虫",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "萤火虫",
+            "translate": {
+                "english": "firefly"
+            },
+            "examples": [
+                {
+                    "example": "夜晚的田野里闪烁着点点萤火虫的光芒，如同梦幻般美丽。",
+                    "translate": {
+                        "english": "In the field at night, there are twinkling lights of fireflies, as beautiful as a dream."
+                    }
+                },
+                {
+                    "example": "夏日的夜晚，萤火虫在草丛中欢快地飞舞，犹如点点繁星坠落人间。",
+                    "translate": {
+                        "english": "On summer nights, fireflies dance merrily in the grass, just like countless stars falling to the earth."
+                    }
+                },
+                {
+                    "example": "夏天的夜晚，萤火虫像小精灵般在树林中穿梭飞舞，给人们带来无尽的欢乐。",
+                    "translate": {
+                        "english": "On summer nights, fireflies shuttle and flutter like little elves in the woods, bringing endless joy to people."
+                    }
+                }
+            ]
+        }
+    ]
+}

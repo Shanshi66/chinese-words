@@ -1,0 +1,34 @@
+{
+    "word": "蕨菜",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "蕨菜",
+            "translate": {
+                "english": "bracken"
+            },
+            "examples": [
+                {
+                    "example": "春天到了，山上的蕨菜长得十分茂盛，吸引了很多人去采摘。",
+                    "translate": {
+                        "english": "Spring has come, and the bracken on the mountains grows very lushly, attracting many people to go pick."
+                    }
+                },
+                {
+                    "example": "周末我们一家人去郊外游玩，惊喜地发现那里有很多鲜嫩的蕨菜。",
+                    "translate": {
+                        "english": "On the weekend, our family went to the suburbs to play and were pleasantly surprised to find that there were a lot of tender fiddleheads there."
+                    }
+                },
+                {
+                    "example": "我们在山林中愉快地采摘着鲜嫩的蕨菜，感受着大自然的美好馈赠。",
+                    "translate": {
+                        "english": "We are happily picking the tender fiddleheads in the mountain forest, feeling the wonderful gift of nature."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "火龙果",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "火龙果",
+            "translate": {
+                "english": "pitaya"
+            },
+            "examples": [
+                {
+                    "example": "我很喜欢吃火龙果，它清甜可口又富含营养。",
+                    "translate": {
+                        "english": "I like to eat pitaya very much. It is sweet, delicious and rich in nutrition."
+                    }
+                },
+                {
+                    "example": "火龙果那独特的外形和美味的果肉，总是能给人带来愉悦的享受。",
+                    "translate": {
+                        "english": "The unique shape and delicious pulp of the pitaya always bring pleasant enjoyment to people."
+                    }
+                },
+                {
+                    "example": "火龙果色彩鲜艳，为我们的生活增添了一抹亮丽的风景。",
+                    "translate": {
+                        "english": "The pitaya is brightly colored, adding a beautiful sight to our life."
+                    }
+                }
+            ]
+        }
+    ]
+}

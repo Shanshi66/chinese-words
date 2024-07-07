@@ -1,0 +1,34 @@
+{
+    "word": "红椒",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "红椒",
+            "translate": {
+                "english": "red pepper"
+            },
+            "examples": [
+                {
+                    "example": "那盘色彩鲜艳的红椒炒肉让人看了就很有食欲。",
+                    "translate": {
+                        "english": "That plate of colorful fried meat with red peppers makes people feel very appetizing when looking at it."
+                    }
+                },
+                {
+                    "example": "妈妈用红椒做的剁椒鱼头味道十分鲜美。",
+                    "translate": {
+                        "english": "The chopped fish head made by mother with red peppers tastes very delicious."
+                    }
+                },
+                {
+                    "example": "我用红椒搭配各种食材，烹饪出了美味又好看的菜肴。",
+                    "translate": {
+                        "english": "I used red peppers to match with various ingredients and cooked delicious and good-looking dishes."
+                    }
+                }
+            ]
+        }
+    ]
+}

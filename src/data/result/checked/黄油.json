@@ -1,0 +1,34 @@
+{
+    "word": "黄油",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "黄油",
+            "translate": {
+                "english": "butter"
+            },
+            "examples": [
+                {
+                    "example": "我用黄油煎了一份美味的牛排，真是太香了。",
+                    "translate": {
+                        "english": "I fried a delicious steak with butter. It's really so fragrant."
+                    }
+                },
+                {
+                    "example": "我用黄油涂抹面包，那香甜的味道让我的心情都变得格外美好。",
+                    "translate": {
+                        "english": "I spread butter on bread, and the sweet smell makes my mood exceptionally beautiful."
+                    }
+                },
+                {
+                    "example": "我用黄油做了一些小饼干，那浓郁的奶香弥漫在整个房间里。",
+                    "translate": {
+                        "english": "I made some small cookies with butter, and the rich milk fragrance permeated the whole room."
+                    }
+                }
+            ]
+        }
+    ]
+}

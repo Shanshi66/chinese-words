@@ -1,0 +1,32 @@
+{
+    "word": "海象",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "海象",
+            "translate": {
+                "english": "walrus"
+            },
+            "examples": [
+                {
+                    "example": "可爱的海象在冰面上快乐地玩耍着。",
+                    "translate": {
+                        "english": "The lovely walrus is playing happily on the ice surface."
+                    }
+                },
+                {
+                    "example": "那只海象在海洋中自在地畅游，展现着生命的活力与美好。",
+                    "translate": {
+                        "english": "That walrus is swimming freely in the ocean, showing the vitality and beauty of life."
+                    }
+                },
+                {
+                    "example": "聪明可爱的海象在海洋馆里为观众们带来了精彩的表演。",
+                    "translate": {
+                        "english": "The smart and lovely walrus brought wonderful performances to the audience in the aquarium."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "word": "猎豹",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "猎豹",
+            "translate": {
+                "english": "cheetah"
+            },
+            "examples": [
+                {
+                    "example": "那只猎豹在草原上尽情奔跑，展现着生命的活力与美好。",
+                    "translate": {
+                        "english": "That cheetah runs freely on the grassland, showing the vitality and beauty of life."
+                    }
+                },
+                {
+                    "example": "勇敢的猎豹在广阔的原野上自由驰骋，绽放着生命的光彩。",
+                    "translate": {
+                        "english": "The brave cheetah gallops freely in the vast wilderness, blooming the brilliance of life."
+                    }
+                },
+                {
+                    "example": "可爱的猎豹在丛林中欢快地穿梭，彰显着生命的灵动与活力。",
+                    "translate": {
+                        "english": "The lovely cheetah shuttles merrily in the jungle, showing the flexibility and vitality of life."
+                    }
+                }
+            ]
+        }
+    ]
+}

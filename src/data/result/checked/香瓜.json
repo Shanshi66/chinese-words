@@ -1,0 +1,34 @@
+{
+    "word": "香瓜",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "香瓜",
+            "translate": {
+                "english": "muskmelon"
+            },
+            "examples": [
+                {
+                    "example": "我买了一个香甜可口的香瓜，和家人一起开心地分享。",
+                    "translate": {
+                        "english": "I bought a sweet and delicious muskmelon and shared it happily with my family."
+                    }
+                },
+                {
+                    "example": "我和朋友一起品尝着甜蜜多汁的香瓜，享受着美好的时光。",
+                    "translate": {
+                        "english": "I am tasting the sweet and juicy melon with my friends and enjoying the wonderful time."
+                    }
+                },
+                {
+                    "example": "果园里的香瓜个个饱满，散发着诱人的香气。",
+                    "translate": {
+                        "english": "The melons in the orchard are all plump and emit an alluring aroma."
+                    }
+                }
+            ]
+        }
+    ]
+}

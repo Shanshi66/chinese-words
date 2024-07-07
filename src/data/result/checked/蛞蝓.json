@@ -1,0 +1,32 @@
+{
+    "word": "蛞蝓",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "蛞蝓",
+            "translate": {
+                "english": "slug"
+            },
+            "examples": [
+                {
+                    "example": "我在花园里惊喜地发现了一只可爱的蛞蝓在慢悠悠地爬行。",
+                    "translate": {
+                        "english": "I was surprised to find a cute slug crawling slowly in the garden."
+                    }
+                },
+                {
+                    "example": "那只蛞蝓慢悠悠地在菜叶上爬着，好似在享受美好的时光。",
+                    "translate": {
+                        "english": "That slug is creeping slowly on the vegetable leaf, as if enjoying the wonderful time."
+                    }
+                },
+                {
+                    "example": "我在雨后的草丛边看到一只蛞蝓在缓缓地移动，有趣极了。",
+                    "translate": {
+                        "english": "I saw a slug moving slowly by the grass after the rain, which was extremely interesting."
+                    }
+                }
+            ]
+        }
+    ]
+}

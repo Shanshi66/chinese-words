@@ -1,0 +1,34 @@
+{
+    "word": "木瓜",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "木瓜",
+            "translate": {
+                "english": "papaya"
+            },
+            "examples": [
+                {
+                    "example": "我今天买的木瓜又大又甜，真是令人开心。",
+                    "translate": {
+                        "english": "The papaya I bought today is big and sweet, which is really delightful."
+                    }
+                },
+                {
+                    "example": "我经常用木瓜来制作各种美味又营养的甜品。",
+                    "translate": {
+                        "english": "I often use papaya to make all kinds of delicious and nutritious desserts."
+                    }
+                },
+                {
+                    "example": "我给妈妈做了一道用木瓜制成的精致甜点，妈妈很开心。",
+                    "translate": {
+                        "english": "I made an exquisite dessert made of papaya for my mother, and my mother was very happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

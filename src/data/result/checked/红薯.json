@@ -1,0 +1,34 @@
+{
+    "word": "红薯",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "红薯",
+            "translate": {
+                "english": "sweet potato"
+            },
+            "examples": [
+                {
+                    "example": "街头香喷喷的烤红薯，给这个寒冷的冬天增添了一份温暖与甜蜜。",
+                    "translate": {
+                        "english": "The fragrant roasted sweet potatoes on the street add a touch of warmth and sweetness to this cold winter."
+                    }
+                },
+                {
+                    "example": "我今天在街上买了一个红薯，吃起来香甜可口，让我心情特别好。",
+                    "translate": {
+                        "english": "I bought a sweet potato in the street today. It tastes sweet and delicious, which makes me feel extremely good."
+                    }
+                },
+                {
+                    "example": "我烤了一锅红薯，那香甜的味道弥漫在整个屋子里，让人感到无比幸福。",
+                    "translate": {
+                        "english": "I baked a pot of sweet potatoes, and the sweet and fragrant smell permeated the whole house, making people feel extremely happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

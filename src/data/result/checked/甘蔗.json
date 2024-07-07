@@ -1,0 +1,34 @@
+{
+    "word": "甘蔗",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "甘蔗",
+            "translate": {
+                "english": "sugar cane"
+            },
+            "examples": [
+                {
+                    "example": "我很喜欢吃甘蔗，那甜甜的味道让人心情愉悦。",
+                    "translate": {
+                        "english": "I like eating sugarcane very much, and the sweet taste makes people feel happy."
+                    }
+                },
+                {
+                    "example": "他扛着一捆甘蔗，脸上洋溢着丰收的喜悦。",
+                    "translate": {
+                        "english": "He carried a bundle of sugar cane on his shoulder, with the joy of a bountiful harvest on his face."
+                    }
+                },
+                {
+                    "example": "孩子们在甘蔗地里快乐地奔跑嬉戏，享受着美好的时光。",
+                    "translate": {
+                        "english": "Children are running and playing happily in the sugarcane field, enjoying the wonderful time."
+                    }
+                }
+            ]
+        }
+    ]
+}

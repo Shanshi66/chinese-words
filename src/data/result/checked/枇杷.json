@@ -1,0 +1,34 @@
+{
+    "word": "枇杷",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "枇杷",
+            "translate": {
+                "english": "loquat"
+            },
+            "examples": [
+                {
+                    "example": "门前的枇杷树结满了黄澄澄的枇杷，让人看了心生欢喜。",
+                    "translate": {
+                        "english": "The loquat tree in front of the door is full of yellow loquats, which makes people feel happy when looking at it."
+                    }
+                },
+                {
+                    "example": "我家后院有棵枇杷树，每年都会结出又大又甜的枇杷，让我们享受丰收的喜悦。",
+                    "translate": {
+                        "english": "There is a loquat tree in my backyard, and every year it bears big and sweet loquats, allowing us to enjoy the joy of harvest."
+                    }
+                },
+                {
+                    "example": "我和家人一起坐在枇杷树下乘凉，享受着美好的时光。",
+                    "translate": {
+                        "english": "I sit under the loquat tree to enjoy the cool with my family and enjoy the wonderful time."
+                    }
+                }
+            ]
+        }
+    ]
+}

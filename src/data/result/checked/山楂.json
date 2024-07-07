@@ -1,0 +1,34 @@
+{
+    "word": "山楂",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "山楂",
+            "translate": {
+                "english": "hawthorn"
+            },
+            "examples": [
+                {
+                    "example": "我今天买了一些山楂，准备做美味的山楂糕。",
+                    "translate": {
+                        "english": "I bought some hawthorns today and am going to make delicious hawthorn cake."
+                    }
+                },
+                {
+                    "example": "那棵山楂树上挂满了红彤彤的山楂，十分诱人。",
+                    "translate": {
+                        "english": "The hawthorn tree is covered with bright red hawthorns, which is very attractive."
+                    }
+                },
+                {
+                    "example": "我和朋友们一起去果园采摘山楂，大家都玩得十分开心。",
+                    "translate": {
+                        "english": "I went to the orchard to pick hawthorn with my friends, and everyone had a great time."
+                    }
+                }
+            ]
+        }
+    ]
+}

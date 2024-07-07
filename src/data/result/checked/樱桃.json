@@ -1,0 +1,34 @@
+{
+    "word": "樱桃",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "樱桃",
+            "translate": {
+                "english": "cherry"
+            },
+            "examples": [
+                {
+                    "example": "红红的樱桃挂在枝头，像一个个可爱的小灯笼，让人感到生活充满了美好与希望。",
+                    "translate": {
+                        "english": "The bright red cherries hang on the branches, like lovely little lanterns one by one, making people feel that life is full of beauty and hope."
+                    }
+                },
+                {
+                    "example": "我今天去果园采摘，看到那一颗颗饱满的樱桃，心情格外愉悦。",
+                    "translate": {
+                        "english": "I went to the orchard to pick today, and seeing those plump cherries one by one, I felt extremely happy."
+                    }
+                },
+                {
+                    "example": "我咬了一口甜甜的樱桃，感受到了生活的幸福滋味。",
+                    "translate": {
+                        "english": "I took a bite of the sweet cherry and felt the happy taste of life."
+                    }
+                }
+            ]
+        }
+    ]
+}

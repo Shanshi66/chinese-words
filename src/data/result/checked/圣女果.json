@@ -1,0 +1,34 @@
+{
+    "word": "圣女果",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "圣女果",
+            "translate": {
+                "english": "cherry tomato"
+            },
+            "examples": [
+                {
+                    "example": "那盘圣女果红通通的，看起来非常可口，让人心情愉悦。",
+                    "translate": {
+                        "english": "That plate of cherry tomatoes is bright red, looks very delicious and makes people feel happy."
+                    }
+                },
+                {
+                    "example": "我喜欢在午后享用一些圣女果，那酸甜的味道让人感到十分惬意。",
+                    "translate": {
+                        "english": "I like to enjoy some cherry tomatoes in the afternoon, and the sweet and sour taste makes people feel very cozy."
+                    }
+                },
+                {
+                    "example": "我在阳台上种了几盆圣女果，每天看着它们一点点长大，真是充满了成就感。",
+                    "translate": {
+                        "english": "I planted several pots of cherry tomatoes on the balcony, and seeing them grow up little by little every day is really full of a sense of accomplishment."
+                    }
+                }
+            ]
+        }
+    ]
+}

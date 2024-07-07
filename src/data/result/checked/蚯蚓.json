@@ -1,0 +1,32 @@
+{
+    "word": "蚯蚓",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "蚯蚓",
+            "translate": {
+                "english": "earthworm"
+            },
+            "examples": [
+                {
+                    "example": "我和小伙伴们在花园里玩，偶然发现了几条蚯蚓，它们正努力地松土呢。",
+                    "translate": {
+                        "english": "I was playing in the garden with my little friends and happened to find several earthworms, and they were working hard to loosen the soil."
+                    }
+                },
+                {
+                    "example": "雨后的泥土中，蚯蚓欢快地扭动着身躯，仿佛在为大地的复苏而欢呼雀跃。",
+                    "translate": {
+                        "english": "In the soil after the rain, the earthworms twist their bodies merrily, as if cheering for the recovery of the earth."
+                    }
+                },
+                {
+                    "example": "可爱的小蚯蚓在土壤里快乐地钻来钻去，为土地的肥沃贡献着自己的力量。",
+                    "translate": {
+                        "english": "The lovely little earthworm drills around happily in the soil, contributing its own strength to the fertility of the land."
+                    }
+                }
+            ]
+        }
+    ]
+}

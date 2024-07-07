@@ -1,0 +1,34 @@
+{
+    "word": "宵夜",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "宵夜",
+            "translate": {
+                "english": "midnight snack / late night snack"
+            },
+            "examples": [
+                {
+                    "example": "晚上和朋友们一起吃宵夜真是一件开心的事情。",
+                    "translate": {
+                        "english": "Eating midnight snack with friends at night is really a happy thing."
+                    }
+                },
+                {
+                    "example": "忙完一天的工作后，和家人一起享受美味的宵夜真是幸福。",
+                    "translate": {
+                        "english": "After finishing a day's work, it is really happy to enjoy delicious late-night snacks with the family."
+                    }
+                },
+                {
+                    "example": "劳累了一天，回到家吃上一顿美味的宵夜，感觉所有疲惫都消散了。",
+                    "translate": {
+                        "english": "After a tired day, returning home to eat a delicious midnight snack, feeling that all the fatigue has dissipated."
+                    }
+                }
+            ]
+        }
+    ]
+}

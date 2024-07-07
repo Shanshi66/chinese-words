@@ -1,0 +1,34 @@
+{
+    "word": "刀豆",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "刀豆",
+            "translate": {
+                "english": "sword bean"
+            },
+            "examples": [
+                {
+                    "example": "今天妈妈做了美味的刀豆炒肉，一家人吃得很开心。",
+                    "translate": {
+                        "english": "Today mother made delicious fried meat with sword beans, and the whole family ate very happily."
+                    }
+                },
+                {
+                    "example": "我在菜市场买了一些新鲜的刀豆，准备做一道美味的菜肴。",
+                    "translate": {
+                        "english": "I bought some fresh sword beans in the vegetable market and am going to make a delicious dish."
+                    }
+                },
+                {
+                    "example": "我在自家的菜园里种了一些刀豆，期待着它们茁壮成长。",
+                    "translate": {
+                        "english": "I planted some sword beans in my own vegetable garden and am looking forward to their thriving growth."
+                    }
+                }
+            ]
+        }
+    ]
+}

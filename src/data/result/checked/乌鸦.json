@@ -1,0 +1,32 @@
+{
+    "word": "乌鸦",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "乌鸦",
+            "translate": {
+                "english": "crow"
+            },
+            "examples": [
+                {
+                    "example": "那只乌鸦欢快地唱着歌，像是在表达对生活的热爱。",
+                    "translate": {
+                        "english": "That crow is singing merrily as if expressing love for life."
+                    }
+                },
+                {
+                    "example": "乌鸦虽然外表乌黑，但它也有独特的魅力和智慧。",
+                    "translate": {
+                        "english": "Although the crow has a black appearance, it also has unique charm and wisdom."
+                    }
+                },
+                {
+                    "example": "乌鸦站在枝头，静静地欣赏着美丽的夕阳，仿佛在享受这宁静而美好的时刻。",
+                    "translate": {
+                        "english": "The crow stands on the branch, quietly enjoying the beautiful sunset as if enjoying this peaceful and beautiful moment."
+                    }
+                }
+            ]
+        }
+    ]
+}

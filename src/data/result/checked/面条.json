@@ -1,0 +1,34 @@
+{
+    "word": "面条",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "面条",
+            "translate": {
+                "english": "noodles"
+            },
+            "examples": [
+                {
+                    "example": "妈妈做的面条味道鲜美，每次我都吃得津津有味。",
+                    "translate": {
+                        "english": "The noodles made by mom taste delicious, and every time I eat them with relish."
+                    }
+                },
+                {
+                    "example": "我和朋友们一起品尝美味的面条，大家都吃得很开心。",
+                    "translate": {
+                        "english": "I and my friends taste the delicious noodles together, and everyone eats very happily."
+                    }
+                },
+                {
+                    "example": "今天我自己尝试做了面条，吃起来特别有成就感。",
+                    "translate": {
+                        "english": "Today I tried to make noodles by myself, and it felt particularly fulfilling to eat."
+                    }
+                }
+            ]
+        }
+    ]
+}

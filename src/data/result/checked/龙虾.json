@@ -1,0 +1,32 @@
+{
+    "word": "龙虾",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "龙虾",
+            "translate": {
+                "english": "lobster"
+            },
+            "examples": [
+                {
+                    "example": "我和家人在海边享受美好的假期，还吃到了美味的龙虾。",
+                    "translate": {
+                        "english": "My family and I are enjoying a wonderful vacation by the seaside and have also eaten delicious lobsters."
+                    }
+                },
+                {
+                    "example": "我和朋友们一起去餐厅品尝美味的龙虾，大家都很开心。",
+                    "translate": {
+                        "english": "I went to the restaurant with my friends to taste the delicious lobster and everyone was very happy."
+                    }
+                },
+                {
+                    "example": "今天和朋友们聚餐，点了一大盆龙虾，真是太美味了，大家都吃得很开心。",
+                    "translate": {
+                        "english": "Have a dinner party with friends today, ordered a big basin of lobsters, it's really delicious, everyone ate happily."
+                    }
+                }
+            ]
+        }
+    ]
+}

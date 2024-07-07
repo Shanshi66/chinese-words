@@ -1,0 +1,32 @@
+{
+    "word": "蜻蜓",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "蜻蜓",
+            "translate": {
+                "english": "dragonfly"
+            },
+            "examples": [
+                {
+                    "example": "夏日的午后，蜻蜓在花丛间欢快地飞舞。",
+                    "translate": {
+                        "english": "On a summer afternoon, dragonflies are flying merrily among the flowers."
+                    }
+                },
+                {
+                    "example": "阳光下，蜻蜓轻盈地舞动着翅膀，为美丽的大自然增添了一份灵动。",
+                    "translate": {
+                        "english": "In the sunlight, the dragonfly flutters its wings gracefully, adding a touch of agility to the beautiful nature."
+                    }
+                },
+                {
+                    "example": "微风中，一只可爱的蜻蜓停在了荷叶上，仿佛在欣赏周围的美景。",
+                    "translate": {
+                        "english": "In the gentle breeze, a lovely dragonfly landed on the lotus leaf, as if enjoying the beautiful scenery around."
+                    }
+                }
+            ]
+        }
+    ]
+}

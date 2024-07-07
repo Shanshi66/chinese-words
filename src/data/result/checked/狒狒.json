@@ -1,0 +1,32 @@
+{
+    "word": "狒狒",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "狒狒",
+            "translate": {
+                "english": "baboon"
+            },
+            "examples": [
+                {
+                    "example": "可爱的狒狒在森林中欢快地玩耍。",
+                    "translate": {
+                        "english": "The lovely baboon is playing cheerfully in the forest."
+                    }
+                },
+                {
+                    "example": "聪明可爱的狒狒正在和小伙伴们愉快地玩耍呢。",
+                    "translate": {
+                        "english": "The clever and lovely baboon is playing happily with its little friends."
+                    }
+                },
+                {
+                    "example": "聪明活泼的狒狒在树枝上欢快地跳动着。",
+                    "translate": {
+                        "english": "The clever and lively baboon is jumping cheerfully on the branch."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "word": "蜗牛",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "蜗牛",
+            "translate": {
+                "english": "snail"
+            },
+            "examples": [
+                {
+                    "example": "我要像蜗牛一样一步一个脚印，稳步走向成功的彼岸。",
+                    "translate": {
+                        "english": "I will walk steadily step by step like a snail and move towards the shore of success steadily."
+                    }
+                },
+                {
+                    "example": "蜗牛虽慢，但它始终坚持不懈地向着目标前进。",
+                    "translate": {
+                        "english": "The snail is slow, but it always perseveres in moving forward towards the goal."
+                    }
+                },
+                {
+                    "example": "蜗牛背着自己的小房子，不慌不忙地享受着美好的旅程。",
+                    "translate": {
+                        "english": "The snail carries its small house on its back and leisurely enjoys the wonderful journey."
+                    }
+                }
+            ]
+        }
+    ]
+}

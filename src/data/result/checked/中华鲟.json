@@ -1,0 +1,32 @@
+{
+    "word": "中华鲟",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "中华鲟",
+            "translate": {
+                "english": "Chinese sturgeon"
+            },
+            "examples": [
+                {
+                    "example": "可爱的中华鲟是我国特有的珍稀鱼类，我们要好好保护它们。",
+                    "translate": {
+                        "english": "The lovely Chinese sturgeon is a unique rare fish species in our country, and we should protect them well."
+                    }
+                },
+                {
+                    "example": "中华鲟在长江中自由地游弋，展现着生命的活力与美好。",
+                    "translate": {
+                        "english": "The Chinese sturgeon swims freely in the Yangtze River, showing the vitality and beauty of life."
+                    }
+                },
+                {
+                    "example": "许多人致力于保护中华鲟，让这种珍贵的生物得以在自然环境中继续生存繁衍。",
+                    "translate": {
+                        "english": "Many people are committed to protecting Chinese sturgeon, so that this precious species can continue to survive and reproduce in the natural environment."
+                    }
+                }
+            ]
+        }
+    ]
+}

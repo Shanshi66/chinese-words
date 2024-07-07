@@ -1,0 +1,34 @@
+{
+    "word": "香肠",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "香肠",
+            "translate": {
+                "english": "sausage"
+            },
+            "examples": [
+                {
+                    "example": "我烤了些美味的香肠，准备和朋友们一起分享。",
+                    "translate": {
+                        "english": "I baked some delicious sausages and am ready to share them with my friends."
+                    }
+                },
+                {
+                    "example": "看着那一串串美味的香肠挂在架子上，让人感受到了生活的美好。",
+                    "translate": {
+                        "english": "Looking at that string of delicious sausages hanging on the shelf makes people feel the beauty of life."
+                    }
+                },
+                {
+                    "example": "过年时妈妈总会灌很多美味的香肠，全家都很开心能吃到这样的美食。",
+                    "translate": {
+                        "english": "During the Chinese New Year, mother always makes a lot of delicious sausages, and the whole family is very happy to eat such delicious food."
+                    }
+                }
+            ]
+        }
+    ]
+}

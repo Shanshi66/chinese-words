@@ -1,0 +1,34 @@
+{
+    "word": "意大利面",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "意大利面",
+            "translate": {
+                "english": "pasta"
+            },
+            "examples": [
+                {
+                    "example": "我很喜欢吃美味的意大利面，它总是能带给我愉悦的感觉。",
+                    "translate": {
+                        "english": "I like to eat delicious spaghetti very much, and it always brings me pleasant feelings."
+                    }
+                },
+                {
+                    "example": "我和朋友们一起品尝美味的意大利面，度过了一段欢乐的时光。",
+                    "translate": {
+                        "english": "I spent a happy time with my friends while tasting delicious pasta."
+                    }
+                },
+                {
+                    "example": "我经常自己动手做美味的意大利面，享受烹饪带来的乐趣。",
+                    "translate": {
+                        "english": "I often make delicious pasta by myself and enjoy the fun brought by cooking."
+                    }
+                }
+            ]
+        }
+    ]
+}

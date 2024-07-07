@@ -1,0 +1,32 @@
+{
+    "word": "绵羊",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "绵羊",
+            "translate": {
+                "english": "sheep"
+            },
+            "examples": [
+                {
+                    "example": "草原上的绵羊悠闲地吃着青草，场面十分惬意。",
+                    "translate": {
+                        "english": "The sheep on the grassland are eating the green grass leisurely, and the scene is very pleasant."
+                    }
+                },
+                {
+                    "example": "可爱的绵羊在一望无际的草原上欢快地奔跑着。",
+                    "translate": {
+                        "english": "Lovely sheep are running merrily on the endless grassland."
+                    }
+                },
+                {
+                    "example": "那片草原上可爱的绵羊欢快地嬉戏着，让人感受到生命的活力与美好。",
+                    "translate": {
+                        "english": "The cute sheep on that prairie are playing merrily, making people feel the vitality and beauty of life."
+                    }
+                }
+            ]
+        }
+    ]
+}

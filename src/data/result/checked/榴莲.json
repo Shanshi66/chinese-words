@@ -1,0 +1,34 @@
+{
+    "word": "榴莲",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "榴莲",
+            "translate": {
+                "english": "durian"
+            },
+            "examples": [
+                {
+                    "example": "我很喜欢吃榴莲，那独特的味道让我陶醉。",
+                    "translate": {
+                        "english": "I like eating durian very much, and that unique flavor makes me intoxicated."
+                    }
+                },
+                {
+                    "example": "榴莲那醉人的香气总是让我忍不住想要品尝它的美味。",
+                    "translate": {
+                        "english": "The intoxicating aroma of durian always makes me unable to resist wanting to taste its deliciousness."
+                    }
+                },
+                {
+                    "example": "每次路过水果店，我都忍不住去挑选一个美味的榴莲。",
+                    "translate": {
+                        "english": "Every time I pass by the fruit store, I can't help but go to pick a delicious durian."
+                    }
+                }
+            ]
+        }
+    ]
+}

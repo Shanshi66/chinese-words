@@ -1,0 +1,34 @@
+{
+    "word": "果冻",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "果冻",
+            "translate": {
+                "english": "jelly"
+            },
+            "examples": [
+                {
+                    "example": "我喜欢吃那口感爽滑的果冻，它总能给我带来甜蜜的满足感。",
+                    "translate": {
+                        "english": "I like eating that smooth-tasting jelly, which always brings me sweet satisfaction."
+                    }
+                },
+                {
+                    "example": "小朋友看到那色彩缤纷的果冻，开心得直笑。",
+                    "translate": {
+                        "english": "The little child saw the colorful jelly and laughed happily."
+                    }
+                },
+                {
+                    "example": "我给妹妹买了一盒果冻，看着她吃得那么开心，我也感到很快乐。",
+                    "translate": {
+                        "english": "I bought a box of jelly for my sister. Watching her eat so happily, I also felt very happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

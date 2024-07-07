@@ -1,0 +1,34 @@
+{
+    "word": "素鸡",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "素鸡",
+            "translate": {
+                "english": "vegetarian chicken"
+            },
+            "examples": [
+                {
+                    "example": "我今天尝试做了一道美味的素鸡，味道非常不错。",
+                    "translate": {
+                        "english": "I tried to make a delicious vegetarian chicken today, and the taste is very good."
+                    }
+                },
+                {
+                    "example": "我用新鲜的食材制作了素鸡，家人们都很喜欢。",
+                    "translate": {
+                        "english": "I made vegetarian chicken with fresh ingredients, and the family members all liked it very much."
+                    }
+                },
+                {
+                    "example": "妈妈做的素鸡色香味俱佳，让人回味无穷。",
+                    "translate": {
+                        "english": "The vegetarian chicken made by mother has excellent color, aroma and taste, leaving a memorable aftertaste."
+                    }
+                }
+            ]
+        }
+    ]
+}

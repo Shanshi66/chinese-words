@@ -1,0 +1,34 @@
+{
+    "word": "红豆",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "红豆",
+            "translate": {
+                "english": "red bean"
+            },
+            "examples": [
+                {
+                    "example": "我将一颗颗红豆精心地镶嵌在糕点上，让这份糕点充满了甜蜜的气息。",
+                    "translate": {
+                        "english": "I carefully inlaid the red beans one by one on the pastry, making this pastry full of sweet atmosphere."
+                    }
+                },
+                {
+                    "example": "我把红豆煮成粥，与家人一起分享这份美味和温馨。",
+                    "translate": {
+                        "english": "I cook red beans into porridge and share this deliciousness and warmth with my family."
+                    }
+                },
+                {
+                    "example": "我送了她一串红豆手链，希望给她带来好运和幸福。",
+                    "translate": {
+                        "english": "I gave her a string of red bean bracelets, hoping to bring her good luck and happiness."
+                    }
+                }
+            ]
+        }
+    ]
+}

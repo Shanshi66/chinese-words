@@ -1,0 +1,34 @@
+{
+    "word": "柴鸡",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "柴鸡",
+            "translate": {
+                "english": "free-range chicken"
+            },
+            "examples": [
+                {
+                    "example": "今天妈妈买了一只柴鸡，准备给我们做一顿美味的大餐。",
+                    "translate": {
+                        "english": "Today mother bought a free-range chicken and is going to prepare a delicious big meal for us."
+                    }
+                },
+                {
+                    "example": "在乡村的农家小院，一群快乐的孩子正在追逐那只活泼的柴鸡。",
+                    "translate": {
+                        "english": "In the rural farmhouse courtyard, a group of happy children are chasing that lively free-range chicken."
+                    }
+                },
+                {
+                    "example": "奶奶在院子里养了一群柴鸡，每天都能收获新鲜的鸡蛋。",
+                    "translate": {
+                        "english": "Grandma raises a group of free-range chickens in the yard and can harvest fresh eggs every day."
+                    }
+                }
+            ]
+        }
+    ]
+}

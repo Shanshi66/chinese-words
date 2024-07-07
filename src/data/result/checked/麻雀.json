@@ -1,0 +1,32 @@
+{
+    "word": "麻雀",
+    "tags": ["animal"],
+    "explanations": [
+        {
+            "explanation": "麻雀",
+            "translate": {
+                "english": "sparrow"
+            },
+            "examples": [
+                {
+                    "example": "可爱的麻雀在枝头欢快地歌唱，仿佛在为美好的生活欢呼。",
+                    "translate": {
+                        "english": "The lovely sparrow is singing merrily on the branch, as if cheering for the wonderful life."
+                    }
+                },
+                {
+                    "example": "清晨，一群活泼的麻雀在树林中叽叽喳喳，为新的一天带来无限生机。",
+                    "translate": {
+                        "english": "In the early morning, a group of lively sparrows are chirping in the woods, bringing infinite vitality to the new day."
+                    }
+                },
+                {
+                    "example": "小巧玲珑的麻雀在天空中自由自在地翱翔，向人们展示着生命的活力。",
+                    "translate": {
+                        "english": "The small and exquisite sparrow soars freely in the sky, showing people the vitality of life."
+                    }
+                }
+            ]
+        }
+    ]
+}

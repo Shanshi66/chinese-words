@@ -1,0 +1,34 @@
+{
+    "word": "牛蒡",
+    "tags": [
+        "food"
+    ],
+    "explanations": [
+        {
+            "explanation": "牛蒡",
+            "translate": {
+                "english": "burdock"
+            },
+            "examples": [
+                {
+                    "example": "妈妈用牛蒡为我们做了一道美味又营养的菜肴。",
+                    "translate": {
+                        "english": "Mother made a delicious and nutritious dish with burdock for us."
+                    }
+                },
+                {
+                    "example": "勤劳的妈妈将牛蒡精心烹饪，做成了让大家都赞不绝口的美食。",
+                    "translate": {
+                        "english": "The diligent mother carefully cooked the burdock and made it into delicious food that everyone praised."
+                    }
+                },
+                {
+                    "example": "勤劳的农民伯伯种植出了优质的牛蒡，为人们的健康生活增添了一份助力。",
+                    "translate": {
+                        "english": "Hardworking peasant uncles grow high-quality burdock, adding a boost to people's healthy life."
+                    }
+                }
+            ]
+        }
+    ]
+}
