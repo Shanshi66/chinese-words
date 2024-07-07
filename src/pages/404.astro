@@ -1,0 +1,32 @@
+---
+import { getIntlData } from "@/customize/intl";
+import { getLang, supportedLang } from "@/customize/lang";
+import PageLayout from "@/layouts/PageLayout.astro";
+
+export async function getStaticPaths() {
+    return supportedLang.map((lang) => {
+        return {
+            params: {
+                locale: lang?.locale,
+            },
+        };
+    });
+}
+
+const { locale } = Astro.params;
+
+const lang = getLang(locale);
+
+const intlData = getIntlData(lang);
+
+const metadata = {
+    title: intlData.site.title,
+    description:  intlData.site.description,
+    lang: lang,
+};
+---
+
+<PageLayout metadata={metadata}>
+    <h1 class="text-6xl text-center my-20">404</h1>
+    <p class="text-center text-xl">Page not found</p>
+</PageLayout>
