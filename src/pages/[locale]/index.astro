@@ -4,6 +4,7 @@ import FAQ from "@/components/FAQ.astro";
 import Facts from "@/components/Facts.astro";
 import Hero from "@/components/Hero.astro";
 import WordList from "@/components/WordList.astro";
+import { getIntlData } from "@/customize/intl";
 import { getLang, supportedLang } from "@/customize/lang";
 import PageLayout from "@/layouts/PageLayout.astro";
 
@@ -21,10 +22,13 @@ const { locale } = Astro.params;
 
 const lang = getLang(locale);
 
+const intlData = getIntlData(lang);
+
 const metadata: MetaData = {
-	title: "Chinese Words",
-	description: "Chinese Words",
+	title: intlData.site.title,
+    description:  intlData.site.description,
 	lang: lang,
+	canonical: "/",
 };
 ---
 

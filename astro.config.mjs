@@ -9,5 +9,6 @@ export default defineConfig({
   routing: {
     prefixDefaultLocale: true
   },
-  trailingSlash: "never"
+  trailingSlash: "never",
+  site: "https://chinesewords.co"
 });

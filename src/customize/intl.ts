@@ -1,6 +1,11 @@
 import type { Language } from "@/common/types";
 import { chinese } from "./lang";
 
+export interface SiteIntlData {
+    title: string;
+    description: string;
+}
+
 export interface HeaderIntlData {
     lists: string;
     home: string;
@@ -27,6 +32,7 @@ interface ListIntlData {
 }
 
 interface WordIntlData {
+    description: string;
     information: string;
     explanation: string;
     writing: string;
@@ -35,6 +41,7 @@ interface WordIntlData {
 }
 
 export interface IntlData {
+    site: SiteIntlData;
     header: HeaderIntlData;
     home: HomeIntlData;
     lists: ListIntlData;
@@ -42,6 +49,11 @@ export interface IntlData {
 }
 
 export const englishIntlData: IntlData = {
+    site: {
+        title: "Chinese Words - Find And Learn Chinese Words",
+        description:
+            "Find Chinese words used in different scenarios. Learn how to use, write, and pronounce Chinese words.",
+    },
     header: {
         lists: "Lists",
         home: "Home",
@@ -67,6 +79,7 @@ export const englishIntlData: IntlData = {
             "Collect Chinese words in different scenarios and purposes, and organize them into lists for targeted learning",
     },
     word: {
+        description: "pinyin, writing, explanation and examples",
         information: "Information",
         explanation: "Explanations",
         writing: "Writing",
@@ -76,6 +89,10 @@ export const englishIntlData: IntlData = {
 };
 
 export const chineseIntlData: IntlData = {
+    site: {
+        title: "中文词 - 查找并学习中文词",
+        description: "查找不同场景下使用的中文词，学习如何使用、写、发音中文词",
+    },
     header: {
         lists: "列表",
         home: "首页",
@@ -101,6 +118,7 @@ export const chineseIntlData: IntlData = {
             "收集不同场景、不同用途下的中文单词，整理成列表，方便针对性学习",
     },
     word: {
+        description: "拼音、写法、解释和例句",
         information: "基本信息",
         explanation: "解释",
         writing: "写法",
