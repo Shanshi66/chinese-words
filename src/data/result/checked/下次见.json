@@ -1,0 +1,34 @@
+{
+    "word": "下次见",
+    "tags": [
+        "daily"
+    ],
+    "explanations": [
+        {
+            "explanation": "下次见",
+            "translate": {
+                "english": "see you next time"
+            },
+            "examples": [
+                {
+                    "example": "我们愉快地结束了这次聚会，纷纷说着下次见。",
+                    "translate": {
+                        "english": "We happily ended this party and said goodbye to each other one after another."
+                    }
+                },
+                {
+                    "example": "今天的活动非常精彩，让我们期待下次见，再次共享美好时光。",
+                    "translate": {
+                        "english": "Today's activity is extremely wonderful. Let's look forward to seeing each other next time and sharing good times again."
+                    }
+                },
+                {
+                    "example": "分别的时候，我们微笑着挥手说下次见，内心满是对再相逢的憧憬。",
+                    "translate": {
+                        "english": "When parting, we smiled and waved goodbye, saying \"see you next time\", with hearts full of longing for meeting again."
+                    }
+                }
+            ]
+        }
+    ]
+}

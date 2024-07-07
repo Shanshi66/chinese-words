@@ -1,0 +1,34 @@
+{
+    "word": "谈生意",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "谈生意",
+            "translate": {
+                "english": "do business"
+            },
+            "examples": [
+                {
+                    "example": "他和合作伙伴在轻松愉快的氛围中谈生意，进展十分顺利。",
+                    "translate": {
+                        "english": "He and his partner are doing business in a relaxed and pleasant atmosphere, and the progress is very smooth."
+                    }
+                },
+                {
+                    "example": "他凭借着出色的口才和敏锐的商业头脑，成功地与客户谈生意并达成合作。",
+                    "translate": {
+                        "english": "He successfully negotiated business and reached cooperation with clients by virtue of his excellent eloquence and acute business acumen."
+                    }
+                },
+                {
+                    "example": "我们在友好和谐的环境下谈生意，双方都很愉快。",
+                    "translate": {
+                        "english": "We do business in a friendly and harmonious environment, and both sides are very happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

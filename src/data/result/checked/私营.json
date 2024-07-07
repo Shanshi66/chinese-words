@@ -1,0 +1,34 @@
+{
+    "word": "私营",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "私营",
+            "translate": {
+                "english": "private"
+            },
+            "examples": [
+                {
+                    "example": "私营企业为社会经济的发展做出了很大贡献。",
+                    "translate": {
+                        "english": "Private enterprises have made great contributions to the development of the social economy."
+                    }
+                },
+                {
+                    "example": "很多私营店铺凭借优质的服务和良好的口碑吸引了大量顾客。",
+                    "translate": {
+                        "english": "Many private shops have attracted a large number of customers by virtue of high-quality services and good reputations."
+                    }
+                },
+                {
+                    "example": "如今有许多有活力的私营公司，为人们提供了多样的就业机会。",
+                    "translate": {
+                        "english": "Nowadays there are many dynamic private companies that provide people with diverse employment opportunities."
+                    }
+                }
+            ]
+        }
+    ]
+}

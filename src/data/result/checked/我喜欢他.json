@@ -1,0 +1,34 @@
+{
+    "word": "我喜欢他",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "我喜欢他",
+            "translate": {
+                "english": "I like him."
+            },
+            "examples": [
+                {
+                    "example": "我喜欢他那积极向上的生活态度，让我也对生活充满了热情和期待。",
+                    "translate": {
+                        "english": "I like his positive attitude towards life, which makes me also full of enthusiasm and anticipation for life."
+                    }
+                },
+                {
+                    "example": "我喜欢他乐于助人的优秀品质。",
+                    "translate": {
+                        "english": "I like his excellent quality of being willing to help others."
+                    }
+                },
+                {
+                    "example": "我喜欢他时常挂在脸上的温暖笑容。",
+                    "translate": {
+                        "english": "I like the warm smile that he often hangs on his face."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "早安",
+    "tags": [
+        "daily"
+    ],
+    "explanations": [
+        {
+            "explanation": "早安",
+            "translate": {
+                "english": "Good morning."
+            },
+            "examples": [
+                {
+                    "example": "每天醒来我都会和家人互道一声早安，然后开启美好的一天。",
+                    "translate": {
+                        "english": "Every day when I wake up, I will say good morning to each other with my family and then start a beautiful day."
+                    }
+                },
+                {
+                    "example": "我微笑着和每一位遇到的人说早安，心情格外舒畅。",
+                    "translate": {
+                        "english": "I smile and say good morning to every person I meet, and I feel extremely comfortable."
+                    }
+                },
+                {
+                    "example": "我喜欢每天对身边的人说早安，感觉特别温暖。",
+                    "translate": {
+                        "english": "I like to say good morning to the people around me every day, and it feels extremely warm."
+                    }
+                }
+            ]
+        }
+    ]
+}

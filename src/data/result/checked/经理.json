@@ -1,0 +1,34 @@
+{
+    "word": "经理",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "经理",
+            "translate": {
+                "english": "manager"
+            },
+            "examples": [
+                {
+                    "example": "我们的经理总是能以积极的态度鼓励员工不断进步。",
+                    "translate": {
+                        "english": "Our manager can always encourage employees to make continuous progress with a positive attitude."
+                    }
+                },
+                {
+                    "example": "我的经理不仅工作能力出众，还特别谦逊有礼，深受大家的喜爱。",
+                    "translate": {
+                        "english": "My manager is not only outstanding in work ability, but also particularly modest and polite, and is deeply loved by everyone."
+                    }
+                },
+                {
+                    "example": "我们的经理像一位亲切的导师，引导着大家共同迈向成功。",
+                    "translate": {
+                        "english": "Our manager is like a kind mentor, guiding everyone to move towards success together."
+                    }
+                }
+            ]
+        }
+    ]
+}

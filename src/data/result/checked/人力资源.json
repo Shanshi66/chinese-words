@@ -1,0 +1,34 @@
+{
+    "word": "人力资源",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "人力资源",
+            "translate": {
+                "english": "human resources"
+            },
+            "examples": [
+                {
+                    "example": "公司充分利用人力资源，使各项业务都蓬勃发展。",
+                    "translate": {
+                        "english": "The company makes full use of human resources to make all businesses thrive."
+                    }
+                },
+                {
+                    "example": "我们应该重视人力资源的开发和培养，以提升团队的整体实力。",
+                    "translate": {
+                        "english": "We should attach great importance to the development and cultivation of human resources in order to enhance the overall strength of the team."
+                    }
+                },
+                {
+                    "example": "企业通过不断优化人力资源配置，开启了创新发展的新篇章。",
+                    "translate": {
+                        "english": "By continuously optimizing the allocation of human resources, the enterprise has opened a new chapter of innovative development."
+                    }
+                }
+            ]
+        }
+    ]
+}

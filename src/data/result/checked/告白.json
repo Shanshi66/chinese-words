@@ -1,0 +1,34 @@
+{
+    "word": "告白",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "告白",
+            "translate": {
+                "english": "confession"
+            },
+            "examples": [
+                {
+                    "example": "在美丽的晚霞下，他勇敢地向心爱的女孩告白，眼神里满是真挚。",
+                    "translate": {
+                        "english": "Under the beautiful sunset glow, he bravely confessed to the beloved girl, with eyes full of sincerity."
+                    }
+                },
+                {
+                    "example": "他精心策划了一场浪漫的告白，女孩感动得热泪盈眶。",
+                    "translate": {
+                        "english": "He carefully planned a romantic confession and the girl was moved to tears."
+                    }
+                },
+                {
+                    "example": "她终于鼓起勇气向心爱的人告白，脸上洋溢着幸福的笑容。",
+                    "translate": {
+                        "english": "She finally summoned up the courage to confess to the beloved one, with a happy smile on her face."
+                    }
+                }
+            ]
+        }
+    ]
+}

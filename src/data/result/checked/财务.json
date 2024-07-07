@@ -1,0 +1,34 @@
+{
+    "word": "财务",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "财务",
+            "translate": {
+                "english": "finance / financial affairs"
+            },
+            "examples": [
+                {
+                    "example": "我的财务状况通过合理规划变得越来越好。",
+                    "translate": {
+                        "english": "My financial situation has become better and better through reasonable planning."
+                    }
+                },
+                {
+                    "example": "通过不断学习财务知识，他成功地打理好了自己的个人财务。",
+                    "translate": {
+                        "english": "By continuously learning financial knowledge, he successfully managed his personal finances well."
+                    }
+                },
+                {
+                    "example": "他在财务方面有着出色的天赋，将自己的资产打理得井井有条。",
+                    "translate": {
+                        "english": "He has excellent talent in the financial aspect and manages his assets in an orderly manner."
+                    }
+                }
+            ]
+        }
+    ]
+}

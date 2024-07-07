@@ -1,0 +1,34 @@
+{
+    "word": "友好",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "友好",
+            "translate": {
+                "english": "friendly"
+            },
+            "examples": [
+                {
+                    "example": "我的邻居们都非常友好，我们经常互相帮助。",
+                    "translate": {
+                        "english": "My neighbors are all very friendly and we often help each other."
+                    }
+                },
+                {
+                    "example": "无论走到哪里，友好的态度都能为我们赢得更多的朋友和机会。",
+                    "translate": {
+                        "english": "No matter where we go, a friendly attitude can win us more friends and opportunities."
+                    }
+                },
+                {
+                    "example": "友好的笑容就像冬日里的暖阳，能温暖每个人的心。",
+                    "translate": {
+                        "english": "Friendly smiles are like the warm sun in winter, which can warm everyone's heart."
+                    }
+                }
+            ]
+        }
+    ]
+}

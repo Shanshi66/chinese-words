@@ -1,0 +1,34 @@
+{
+    "word": "麻烦您",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "麻烦您",
+            "translate": {
+                "english": "trouble / bother "
+            },
+            "examples": [
+                {
+                    "example": "麻烦您帮我递一下那本书，谢谢。",
+                    "translate": {
+                        "english": "Could you please pass me that book? Thank you."
+                    }
+                },
+                {
+                    "example": "麻烦您帮我指一下去车站的路好吗，非常感谢！",
+                    "translate": {
+                        "english": "Could you please show me the way to the station? Thank you very much!"
+                    }
+                },
+                {
+                    "example": "麻烦您帮我开一下门，真是太感谢了！",
+                    "translate": {
+                        "english": "Please help me open the door. Thank you very much indeed!"
+                    }
+                }
+            ]
+        }
+    ]
+}

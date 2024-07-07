@@ -1,0 +1,34 @@
+{
+    "word": "营销",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "营销",
+            "translate": {
+                "english": "marketing"
+            },
+            "examples": [
+                {
+                    "example": "这家公司的营销团队想出了很多富有创意的营销方案。",
+                    "translate": {
+                        "english": "The marketing team of this company came up with many creative marketing plans."
+                    }
+                },
+                {
+                    "example": "这位营销人员用他的热情和专业成功打动了众多客户。",
+                    "translate": {
+                        "english": "This marketer successfully impressed a large number of clients with his enthusiasm and professionalism."
+                    }
+                },
+                {
+                    "example": "通过有效的营销手段，企业的产品迅速打开了市场，赢得了消费者的喜爱。",
+                    "translate": {
+                        "english": "Through effective marketing means, the enterprise's products quickly opened the market and won the love of consumers."
+                    }
+                }
+            ]
+        }
+    ]
+}

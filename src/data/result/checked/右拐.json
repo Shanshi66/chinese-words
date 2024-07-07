@@ -1,0 +1,34 @@
+{
+    "word": "右拐",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "右拐",
+            "translate": {
+                "english": "turn right"
+            },
+            "examples": [
+                {
+                    "example": "前方路口请右拐，便能看到那片美丽的花海，真是令人惊喜。",
+                    "translate": {
+                        "english": "Turn right at the front intersection, then you can see that beautiful flower sea. It is really a pleasant surprise."
+                    }
+                },
+                {
+                    "example": "我们沿着街道直行，到了交叉路口再右拐就能到达目的地了。",
+                    "translate": {
+                        "english": "We go straight along the street, and then turn right at the intersection to reach the destination."
+                    }
+                },
+                {
+                    "example": "当你走到这条街的尽头右拐，就会发现一个充满欢乐的小广场。",
+                    "translate": {
+                        "english": "When you walk to the end of this street and turn right, you will find a small square full of joy."
+                    }
+                }
+            ]
+        }
+    ]
+}

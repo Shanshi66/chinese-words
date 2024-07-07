@@ -1,0 +1,34 @@
+{
+    "word": "付款",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "付款",
+            "translate": {
+                "english": "payment"
+            },
+            "examples": [
+                {
+                    "example": "我很开心地完成了付款，买到了自己心仪已久的物品。",
+                    "translate": {
+                        "english": "I happily completed the payment and bought the item that I had been longing for for a long time."
+                    }
+                },
+                {
+                    "example": "当我付款后拿到心仪的商品时，心里充满了喜悦。",
+                    "translate": {
+                        "english": "When I got the desired commodity after payment, my heart was filled with joy."
+                    }
+                },
+                {
+                    "example": "我顺利完成付款，开启了愉快的购物之旅。",
+                    "translate": {
+                        "english": "I successfully completed the payment and started a pleasant shopping journey."
+                    }
+                }
+            ]
+        }
+    ]
+}

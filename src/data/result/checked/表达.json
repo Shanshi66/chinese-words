@@ -1,0 +1,34 @@
+{
+    "word": "表达",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "表达",
+            "translate": {
+                "english": "express"
+            },
+            "examples": [
+                {
+                    "example": "我希望能够准确地表达自己内心的想法和感受。",
+                    "translate": {
+                        "english": "I hope to be able to accurately express my inner thoughts and feelings."
+                    }
+                },
+                {
+                    "example": "我会勇敢地表达自己的观点，让别人更好地了解我。",
+                    "translate": {
+                        "english": "I will bravely express my own views to make others better understand me."
+                    }
+                },
+                {
+                    "example": "我们应该善于运用合适的方式来表达自己对他人的感激之情。",
+                    "translate": {
+                        "english": "We should be good at using appropriate ways to express our gratitude to others."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "地铁站",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "地铁站",
+            "translate": {
+                "english": "subway station"
+            },
+            "examples": [
+                {
+                    "example": "每天我都会经过那个热闹的地铁站，感受着城市的活力。",
+                    "translate": {
+                        "english": "Every day I will pass by that busy subway station and feel the vitality of the city."
+                    }
+                },
+                {
+                    "example": "我喜欢在地铁站内观察来来往往的人群，感受生活的美好。",
+                    "translate": {
+                        "english": "I like to observe the people coming and going in the subway station and feel the beauty of life."
+                    }
+                },
+                {
+                    "example": "我在地铁站里帮助了一位迷路的老人找到正确的出口，心里特别开心。",
+                    "translate": {
+                        "english": "I helped a lost old man find the correct exit in the subway station and was extremely happy in my heart."
+                    }
+                }
+            ]
+        }
+    ]
+}

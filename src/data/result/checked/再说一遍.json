@@ -1,0 +1,34 @@
+{
+    "word": "再说一遍",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "再说一遍",
+            "translate": {
+                "english": "repeat once more / again"
+            },
+            "examples": [
+                {
+                    "example": "对不起，我没听清楚，请你再说一遍可以吗？",
+                    "translate": {
+                        "english": "Sorry, I didn't hear clearly. Could you say it again, please?"
+                    }
+                },
+                {
+                    "example": "老师耐心地对小明说：“刚才的重点我再说一遍，你可要认真听呀。”",
+                    "translate": {
+                        "english": "The teacher said to Xiaoming patiently, \"I will repeat the key points just now. You must listen carefully.\""
+                    }
+                },
+                {
+                    "example": "有些复杂的问题没听明白时，我会礼貌地请对方再说一遍。",
+                    "translate": {
+                        "english": "When some complicated questions are not understood clearly, I will politely ask the other party to say it again."
+                    }
+                }
+            ]
+        }
+    ]
+}

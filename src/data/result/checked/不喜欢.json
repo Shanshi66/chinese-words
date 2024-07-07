@@ -1,0 +1,34 @@
+{
+    "word": "不喜欢",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "不喜欢",
+            "translate": {
+                "english": "dislike"
+            },
+            "examples": [
+                {
+                    "example": "尽管他一开始不喜欢这项运动，但尝试之后却深深爱上了。",
+                    "translate": {
+                        "english": "Although he didn't like this sport at the beginning, he deeply fell in love with it after trying."
+                    }
+                },
+                {
+                    "example": "我以前不喜欢读书，但现在却发现阅读是如此有趣和有益。",
+                    "translate": {
+                        "english": "I didn't like reading before, but now I find that reading is so interesting and beneficial."
+                    }
+                },
+                {
+                    "example": "我以前不喜欢和陌生人交流，但现在却发现这是结识新朋友的好方式。",
+                    "translate": {
+                        "english": "I didn't like to communicate with strangers before, but now I find this is a good way to meet new friends."
+                    }
+                }
+            ]
+        }
+    ]
+}

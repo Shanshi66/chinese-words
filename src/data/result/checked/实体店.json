@@ -1,0 +1,34 @@
+{
+    "word": "实体店",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "实体店",
+            "translate": {
+                "english": "physical store"
+            },
+            "examples": [
+                {
+                    "example": "如今虽然电商很发达，但实体店依然有它独特的魅力和优势。",
+                    "translate": {
+                        "english": "Nowadays, although e-commerce is very developed, physical stores still have their unique charm and advantages."
+                    }
+                },
+                {
+                    "example": "我喜欢逛实体店，在那里可以真切地感受商品的质地和细节，享受愉悦的购物体验。",
+                    "translate": {
+                        "english": "I like visiting physical stores, where I can truly feel the texture and details of the goods and enjoy a pleasant shopping experience."
+                    }
+                },
+                {
+                    "example": "实体店为顾客们提供了一个可以亲身感受和体验商品的优良场所。",
+                    "translate": {
+                        "english": "Physical stores provide an excellent place for customers to personally feel and experience the goods."
+                    }
+                }
+            ]
+        }
+    ]
+}

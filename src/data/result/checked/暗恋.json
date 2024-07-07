@@ -1,0 +1,34 @@
+{
+    "word": "暗恋",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "暗恋",
+            "translate": {
+                "english": "unrequited love"
+            },
+            "examples": [
+                {
+                    "example": "我曾默默暗恋隔壁班的那个阳光男孩，那段时光充满了美好的回忆。",
+                    "translate": {
+                        "english": "I once secretly had a crush on that sunny boy in the next class, and that period of time was filled with beautiful memories."
+                    }
+                },
+                {
+                    "example": "我一直把那段暗恋藏在心底，它是我青春中最珍贵的秘密。",
+                    "translate": {
+                        "english": "I have always hidden that secret love at the bottom of my heart, and it is the most precious secret in my youth."
+                    }
+                },
+                {
+                    "example": "我不曾宣之于口的暗恋，也是我人生中一段难忘且美好的经历。",
+                    "translate": {
+                        "english": "The secret love that I have never spoken out is also an unforgettable and beautiful experience in my life."
+                    }
+                }
+            ]
+        }
+    ]
+}

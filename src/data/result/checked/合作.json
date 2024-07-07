@@ -1,0 +1,34 @@
+{
+    "word": "合作",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "合作",
+            "translate": {
+                "english": "cooperate / collaboration"
+            },
+            "examples": [
+                {
+                    "example": "团队成员们通过紧密合作，成功地完成了这个具有挑战性的项目。",
+                    "translate": {
+                        "english": "The team members successfully completed this challenging project through close cooperation."
+                    }
+                },
+                {
+                    "example": "大家齐心协力地合作，共同打造了美好未来。",
+                    "translate": {
+                        "english": "Everyone cooperated wholeheartedly to jointly create a beautiful future."
+                    }
+                },
+                {
+                    "example": "同学们相互合作，一起把教室打扫得干干净净。",
+                    "translate": {
+                        "english": "Students cooperate with each other and clean the classroom spotlessly together."
+                    }
+                }
+            ]
+        }
+    ]
+}

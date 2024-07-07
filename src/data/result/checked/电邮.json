@@ -1,0 +1,34 @@
+{
+    "word": "电邮",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "电邮",
+            "translate": {
+                "english": "email / e-mail"
+            },
+            "examples": [
+                {
+                    "example": "我通过电邮与远方的朋友保持着密切的联系，分享着彼此的生活点滴。",
+                    "translate": {
+                        "english": "I keep in close touch with distant friends by email, sharing the bits and pieces of each other's lives."
+                    }
+                },
+                {
+                    "example": "我经常用电邮和国外的合作伙伴沟通交流工作事宜。",
+                    "translate": {
+                        "english": "I often communicate with foreign partners by e-mail about work matters."
+                    }
+                },
+                {
+                    "example": "我每天都会查看电邮，及时处理重要的信息，保持与他人高效的沟通。",
+                    "translate": {
+                        "english": "I check emails every day, deal with important information in time, and maintain efficient communication with others."
+                    }
+                }
+            ]
+        }
+    ]
+}

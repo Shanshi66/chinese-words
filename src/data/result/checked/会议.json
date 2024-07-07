@@ -1,0 +1,34 @@
+{
+    "word": "会议",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "会议",
+            "translate": {
+                "english": "meeting / conference"
+            },
+            "examples": [
+                {
+                    "example": "这次会议让我们更加明确了未来的发展方向和目标。",
+                    "translate": {
+                        "english": "This meeting made us more clearly understand the future development direction and goals."
+                    }
+                },
+                {
+                    "example": "大家在会议上积极发言，为项目的成功出谋划策。",
+                    "translate": {
+                        "english": "Everyone actively spoke at the meeting and offered suggestions for the success of the project."
+                    }
+                },
+                {
+                    "example": "在这次重要的会议中，大家碰撞出了许多极具创意的火花。",
+                    "translate": {
+                        "english": "In this important meeting, everyone collided with many extremely creative sparks."
+                    }
+                }
+            ]
+        }
+    ]
+}

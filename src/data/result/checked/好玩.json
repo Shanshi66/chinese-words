@@ -1,0 +1,34 @@
+{
+    "word": "好玩",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "好玩",
+            "translate": {
+                "english": "fun"
+            },
+            "examples": [
+                {
+                    "example": "这次旅行真是太好玩了，我们都玩得很开心。",
+                    "translate": {
+                        "english": "This trip is really so much fun, and we all had a great time."
+                    }
+                },
+                {
+                    "example": "周末和朋友们一起去游乐场，那里的游乐项目都非常好玩。",
+                    "translate": {
+                        "english": "Go to the amusement park with friends on the weekend, and the amusement items there are all very interesting."
+                    }
+                },
+                {
+                    "example": "那部新上映的电影超级好玩，大家看得十分投入。",
+                    "translate": {
+                        "english": "That newly released movie is extremely fun and everyone watches it very devotedly."
+                    }
+                }
+            ]
+        }
+    ]
+}

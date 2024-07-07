@@ -1,0 +1,34 @@
+{
+    "word": "丢了",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "丢了",
+            "translate": {
+                "english": "lost"
+            },
+            "examples": [
+                {
+                    "example": "我不小心丢了钥匙，但我相信一定能找回来的。",
+                    "translate": {
+                        "english": "I carelessly lost my key, but I believe I can definitely find it back."
+                    }
+                },
+                {
+                    "example": "我虽然丢了很重要的东西，但我相信通过努力一定能重新拥有。",
+                    "translate": {
+                        "english": "Although I have lost something very important, I believe that through hard work I will surely be able to regain it."
+                    }
+                },
+                {
+                    "example": "我在公园游玩时不小心丢了帽子，但我保持乐观相信一定能找到它。",
+                    "translate": {
+                        "english": "I carelessly lost my hat when playing in the park, but I remain optimistic and believe that I can definitely find it."
+                    }
+                }
+            ]
+        }
+    ]
+}

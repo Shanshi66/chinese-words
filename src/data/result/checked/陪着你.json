@@ -1,0 +1,34 @@
+{
+    "word": "陪着你",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "陪着你",
+            "translate": {
+                "english": "accompany with you"
+            },
+            "examples": [
+                {
+                    "example": "无论何时何地，我都会陪着你一起度过困难与美好。",
+                    "translate": {
+                        "english": "No matter when and where, I will accompany you through difficulties and good times."
+                    }
+                },
+                {
+                    "example": "不管未来道路如何，我都会坚定地陪着你一路前行。",
+                    "translate": {
+                        "english": "No matter how the future path is, I will firmly accompany you all the way forward."
+                    }
+                },
+                {
+                    "example": "无论风雨彩虹，我都会毅然陪着你追逐梦想。",
+                    "translate": {
+                        "english": "No matter it is wind and rain or rainbow, I will resolutely accompany you to chase your dream."
+                    }
+                }
+            ]
+        }
+    ]
+}

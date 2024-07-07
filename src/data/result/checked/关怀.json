@@ -1,0 +1,34 @@
+{
+    "word": "关怀",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "关怀",
+            "translate": {
+                "english": "care"
+            },
+            "examples": [
+                {
+                    "example": "老师无微不至的关怀让我们感受到了家的温暖。",
+                    "translate": {
+                        "english": "The meticulous care of the teacher makes us feel the warmth of home."
+                    }
+                },
+                {
+                    "example": "朋友的关怀如同冬日的暖阳，让人倍感温暖。",
+                    "translate": {
+                        "english": "The care of friends is like the warm sunshine in winter, making people feel extremely warm."
+                    }
+                },
+                {
+                    "example": "领导对员工的关怀，激发了大家更大的工作热情。",
+                    "translate": {
+                        "english": "The care of the leaders for the employees has inspired everyone's greater work enthusiasm."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "酒店",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "酒店",
+            "translate": {
+                "english": "hotel"
+            },
+            "examples": [
+                {
+                    "example": "我在那家温馨的酒店里度过了非常愉快的时光。",
+                    "translate": {
+                        "english": "I spent a very pleasant time in that warm hotel."
+                    }
+                },
+                {
+                    "example": "出差时我会选择舒适的酒店来确保有良好的休息环境。",
+                    "translate": {
+                        "english": "When on a business trip, I will choose a comfortable hotel to ensure a good resting environment."
+                    }
+                },
+                {
+                    "example": "每次旅行我都会选择干净整洁的酒店，让自己能得到很好的休息。",
+                    "translate": {
+                        "english": "Every time I travel, I will choose a clean and tidy hotel to enable myself to get a good rest."
+                    }
+                }
+            ]
+        }
+    ]
+}

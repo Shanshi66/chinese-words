@@ -1,0 +1,34 @@
+{
+    "word": "合同",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "合同",
+            "translate": {
+                "english": "contract"
+            },
+            "examples": [
+                {
+                    "example": "我们仔细研究合同的每一项条款，确保双方的权益都能得到保障。",
+                    "translate": {
+                        "english": "We carefully study every clause of the contract to ensure that the rights and interests of both parties can be guaranteed."
+                    }
+                },
+                {
+                    "example": "我们愉快地签署了合同，对未来的合作充满信心。",
+                    "translate": {
+                        "english": "We signed the contract happily and were full of confidence in the future cooperation."
+                    }
+                },
+                {
+                    "example": "我认真地阅读并签订了这份合同，期待着与对方开启一段美好的合作旅程。",
+                    "translate": {
+                        "english": "I carefully read and signed this contract, looking forward to starting a wonderful cooperative journey with the other party."
+                    }
+                }
+            ]
+        }
+    ]
+}

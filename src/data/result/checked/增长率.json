@@ -1,0 +1,34 @@
+{
+    "word": "增长率",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "增长率",
+            "translate": {
+                "english": "growth rate"
+            },
+            "examples": [
+                {
+                    "example": "今年公司的业绩增长率非常可观，大家都格外高兴。",
+                    "translate": {
+                        "english": "The performance growth rate of the company this year is very considerable, and everyone is exceptionally happy."
+                    }
+                },
+                {
+                    "example": "我国经济的增长率一直保持在稳定的水平，人民的生活也越来越好。",
+                    "translate": {
+                        "english": "The growth rate of our country's economy has been maintained at a stable level, and the life of the people is getting better and better."
+                    }
+                },
+                {
+                    "example": "我国各行业的增长率持续上升，展现出蓬勃的发展态势。",
+                    "translate": {
+                        "english": "The growth rate of various industries in our country continues to rise, showing a vigorous development trend."
+                    }
+                }
+            ]
+        }
+    ]
+}

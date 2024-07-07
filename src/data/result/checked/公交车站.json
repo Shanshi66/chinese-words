@@ -1,0 +1,34 @@
+{
+    "word": "公交车站",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "公交车站",
+            "translate": {
+                "english": "bus stop / bus station"
+            },
+            "examples": [
+                {
+                    "example": "我在公交车站耐心地等待着回家的那班车。",
+                    "translate": {
+                        "english": "I am waiting patiently at the bus stop for the bus that goes home."
+                    }
+                },
+                {
+                    "example": "每天我都会在公交车站期待着新一天的开始。",
+                    "translate": {
+                        "english": "Every day I will wait at the bus stop looking forward to the beginning of a new day."
+                    }
+                },
+                {
+                    "example": "在公交车站，人们有序地排队上车，展现出良好的文明素养。",
+                    "translate": {
+                        "english": "At the bus stop, people queue up to get on the bus orderly, showing good civilized qualities."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "处理",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "处理",
+            "translate": {
+                "english": "deal with"
+            },
+            "examples": [
+                {
+                    "example": "我会认真处理好每一件事情，让大家都满意。",
+                    "translate": {
+                        "english": "I will handle every thing carefully to make everyone satisfied."
+                    }
+                },
+                {
+                    "example": "他总是能够妥善处理各种复杂的问题。",
+                    "translate": {
+                        "english": "He is always able to properly handle all kinds of complex problems."
+                    }
+                },
+                {
+                    "example": "当遇到困难时，他总能冷静地处理，找到最佳解决办法。",
+                    "translate": {
+                        "english": "When encountering difficulties, he can always deal with them calmly and find the best solution."
+                    }
+                }
+            ]
+        }
+    ]
+}

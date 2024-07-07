@@ -1,0 +1,34 @@
+{
+    "word": "企业",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "企业",
+            "translate": {
+                "english": "enterprise / company"
+            },
+            "examples": [
+                {
+                    "example": "许多优秀的企业为社会的发展做出了巨大贡献。",
+                    "translate": {
+                        "english": "Many excellent enterprises have made great contributions to the development of society."
+                    }
+                },
+                {
+                    "example": "众多充满活力的企业给人们的生活带来了极大便利。",
+                    "translate": {
+                        "english": "A large number of vibrant enterprises have brought great convenience to people's lives."
+                    }
+                },
+                {
+                    "example": "成功的企业总是不断创新，积极回馈社会，为大家带来美好与希望。",
+                    "translate": {
+                        "english": "Successful enterprises always keep innovating continuously, actively give back to the society, and bring beauty and hope to everyone."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "终点站",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "终点站",
+            "translate": {
+                "english": "terminal station"
+            },
+            "examples": [
+                {
+                    "example": "人生没有所谓的终点站，我们应一直保持前进的姿态，去追寻梦想。",
+                    "translate": {
+                        "english": "There is no so-called terminus in life. We should always keep the posture of moving forward to pursue our dreams."
+                    }
+                },
+                {
+                    "example": "无论前方的道路多么漫长，我们都要坚信美好就在下一个转角，而不是把现在当成人生的终点站。",
+                    "translate": {
+                        "english": "No matter how long the road ahead is, we should firmly believe that the beauty is just around the next corner, rather than regarding the present as the destination of life."
+                    }
+                },
+                {
+                    "example": "每一次旅程都有起点，但我们不应畏惧，因为那不是人生的终点站，而是新的开始。",
+                    "translate": {
+                        "english": "Every journey has a starting point, but we should not be afraid, because that is not the terminal station of life, but a new beginning."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "谢谢你",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "谢谢你",
+            "translate": {
+                "english": "thank you"
+            },
+            "examples": [
+                {
+                    "example": "当别人给予我帮助时，我总会真诚地说：“谢谢你。”",
+                    "translate": {
+                        "english": "When others offer me help, I will always sincerely say: \"Thank you.\""
+                    }
+                },
+                {
+                    "example": "我迷路时一位热心人帮我指路，我真诚地对他说：“谢谢你。”",
+                    "translate": {
+                        "english": "When I was lost, an enthusiastic person showed me the way, and I sincerely said to him, \"Thank you.\""
+                    }
+                },
+                {
+                    "example": "我取得好成绩时，真诚地对老师说：“谢谢你。”",
+                    "translate": {
+                        "english": "When I got good grades, I sincerely said to the teacher: \"Thank you.\""
+                    }
+                }
+            ]
+        }
+    ]
+}

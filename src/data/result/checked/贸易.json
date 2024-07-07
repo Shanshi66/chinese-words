@@ -1,0 +1,34 @@
+{
+    "word": "贸易",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "贸易",
+            "translate": {
+                "english": "trade"
+            },
+            "examples": [
+                {
+                    "example": "随着国际贸易的不断发展，各国之间的经济联系日益紧密。",
+                    "translate": {
+                        "english": "With the continuous development of international trade, the economic ties among countries are increasingly close."
+                    }
+                },
+                {
+                    "example": "中国积极开展对外贸易，与世界各国共享发展机遇。",
+                    "translate": {
+                        "english": "China actively conducts foreign trade and shares development opportunities with countries all over the world."
+                    }
+                },
+                {
+                    "example": "国际贸易的繁荣促进了世界各国的友好交流与合作。",
+                    "translate": {
+                        "english": "The prosperity of international trade promotes friendly exchanges and cooperation among countries all over the world."
+                    }
+                }
+            ]
+        }
+    ]
+}

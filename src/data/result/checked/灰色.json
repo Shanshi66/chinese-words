@@ -1,0 +1,34 @@
+{
+    "word": "灰色",
+    "tags": [
+        "color"
+    ],
+    "explanations": [
+        {
+            "explanation": "灰色",
+            "translate": {
+                "english": "gray"
+            },
+            "examples": [
+                {
+                    "example": "雨后的天空出现了一道灰色的彩虹，给这个世界增添了一份别样的美丽。",
+                    "translate": {
+                        "english": "After the rain, a gray rainbow appeared in the sky, adding a special kind of beauty to this world."
+                    }
+                },
+                {
+                    "example": "他穿着那件灰色的外套，显得格外精神且帅气。",
+                    "translate": {
+                        "english": "He is wearing that gray coat, looking extremely energetic and handsome."
+                    }
+                },
+                {
+                    "example": "那只灰色的小猫在阳光下伸着懒腰，看起来十分可爱。",
+                    "translate": {
+                        "english": "That grey little cat is stretching itself in the sunlight and looks very cute."
+                    }
+                }
+            ]
+        }
+    ]
+}

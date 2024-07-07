@@ -1,0 +1,34 @@
+{
+    "word": "多少钱",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "多少钱",
+            "translate": {
+                "english": "how much money"
+            },
+            "examples": [
+                {
+                    "example": "我很有礼貌地询问老板这件商品多少钱。",
+                    "translate": {
+                        "english": "I asked the boss very politely how much this commodity cost."
+                    }
+                },
+                {
+                    "example": "我开心地问这件漂亮衣服多少钱。",
+                    "translate": {
+                        "english": "I happily ask how much this beautiful dress is."
+                    }
+                },
+                {
+                    "example": "我微笑着询问服务员这顿美味的饭菜多少钱。",
+                    "translate": {
+                        "english": "I smiled and asked the waiter how much this delicious meal cost."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "当地",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "当地",
+            "translate": {
+                "english": "local"
+            },
+            "examples": [
+                {
+                    "example": "当地的居民都很热情友好，让我感受到了浓浓的温暖。",
+                    "translate": {
+                        "english": "The local residents are all very warm and friendly, which makes me feel a strong warmth."
+                    }
+                },
+                {
+                    "example": "游览当地的美景让我心情格外舒畅。",
+                    "translate": {
+                        "english": "Touring the local beautiful scenery makes me feel extremely comfortable."
+                    }
+                },
+                {
+                    "example": "当地的美食令人流连忘返。",
+                    "translate": {
+                        "english": "The local delicacies are so fascinating that people linger and forget to leave."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "市值",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "市值",
+            "translate": {
+                "english": "market value"
+            },
+            "examples": [
+                {
+                    "example": "这家公司经过多年发展，市值不断攀升，取得了令人瞩目的成绩。",
+                    "translate": {
+                        "english": "After years of development, the market value of this company has been continuously rising and has achieved remarkable results."
+                    }
+                },
+                {
+                    "example": "这家企业通过不断创新和努力，市值逐年递增，展现出了强大的发展潜力。",
+                    "translate": {
+                        "english": "This enterprise, through continuous innovation and efforts, has its market value increasing year by year, showing strong development potential."
+                    }
+                },
+                {
+                    "example": "随着企业的良好运营，其市值稳步增长，前景一片光明。",
+                    "translate": {
+                        "english": "With the good operation of the enterprise, its market value has steadily increased and the prospects are very bright."
+                    }
+                }
+            ]
+        }
+    ]
+}

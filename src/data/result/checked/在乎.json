@@ -1,0 +1,34 @@
+{
+    "word": "在乎",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "在乎",
+            "translate": {
+                "english": "care about"
+            },
+            "examples": [
+                {
+                    "example": "我们应该在乎那些真正关爱我们的人，并珍惜与他们在一起的时光。",
+                    "translate": {
+                        "english": "We should care about those who really care about us and cherish the time spent with them."
+                    }
+                },
+                {
+                    "example": "我很在乎朋友们的感受，总是尽力去理解和支持他们。",
+                    "translate": {
+                        "english": "I care very much about the feelings of my friends and always try my best to understand and support them."
+                    }
+                },
+                {
+                    "example": "我非常在乎我们之间的友谊，会一直用心去维护。",
+                    "translate": {
+                        "english": "I care very much about the friendship between us and will always maintain it with heart."
+                    }
+                }
+            ]
+        }
+    ]
+}

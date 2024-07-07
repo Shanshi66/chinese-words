@@ -1,0 +1,34 @@
+{
+    "word": "感情",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "感情",
+            "translate": {
+                "english": "emotion / feeling"
+            },
+            "examples": [
+                {
+                    "example": "我们之间有着深厚的感情，无论遇到什么困难都会携手共度。",
+                    "translate": {
+                        "english": "We have a deep affection between us, and we will go through whatever difficulties hand in hand."
+                    }
+                },
+                {
+                    "example": "我们要珍惜与朋友之间的感情，共同创造美好的回忆。",
+                    "translate": {
+                        "english": "We should cherish the feelings between friends and create beautiful memories together."
+                    }
+                },
+                {
+                    "example": "真诚的交流能加深彼此的感情，让友谊更加长久。",
+                    "translate": {
+                        "english": "Sincere communication can deepen each other's feelings and make the friendship last longer."
+                    }
+                }
+            ]
+        }
+    ]
+}

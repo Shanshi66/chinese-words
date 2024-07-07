@@ -1,0 +1,34 @@
+{
+    "word": "成交",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "成交",
+            "translate": {
+                "english": "close a deal / transaction"
+            },
+            "examples": [
+                {
+                    "example": "今天的谈判非常顺利，我们最终成功成交。",
+                    "translate": {
+                        "english": "Today's negotiation went very smoothly and we finally succeeded in closing the deal."
+                    }
+                },
+                {
+                    "example": "通过大家的共同努力，这次的项目顺利成交，每个人都特别高兴。",
+                    "translate": {
+                        "english": "Through the joint efforts of everyone, this project was successfully concluded, and everyone was extremely happy."
+                    }
+                },
+                {
+                    "example": "这次的交易十分愉快，双方顺利成交，真是皆大欢喜。",
+                    "translate": {
+                        "english": "This transaction is very pleasant. Both sides closed the deal smoothly. It's really a happy ending for all."
+                    }
+                }
+            ]
+        }
+    ]
+}

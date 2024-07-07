@@ -1,0 +1,34 @@
+{
+    "word": "开心",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "开心",
+            "translate": {
+                "english": "happy  /  glad"
+            },
+            "examples": [
+                {
+                    "example": "每天都能做自己喜欢的事情真的很开心。",
+                    "translate": {
+                        "english": "Doing the things one likes every day is really very happy."
+                    }
+                },
+                {
+                    "example": "和好朋友一起玩耍总是那么开心。",
+                    "translate": {
+                        "english": "Playing with good friends is always so happy."
+                    }
+                },
+                {
+                    "example": "今天和家人一起去郊游，大家都很开心。",
+                    "translate": {
+                        "english": "Go on an outing with family today and everyone is very happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

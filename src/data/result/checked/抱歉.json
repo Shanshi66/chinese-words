@@ -1,0 +1,34 @@
+{
+    "word": "抱歉",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "抱歉",
+            "translate": {
+                "english": "sorry / apologize"
+            },
+            "examples": [
+                {
+                    "example": "真的很抱歉给您带来了困扰，我会尽快解决问题的。",
+                    "translate": {
+                        "english": "Really very sorry to have brought you trouble, I will solve the problem as soon as possible."
+                    }
+                },
+                {
+                    "example": "我不小心犯了错误，赶紧向对方说抱歉。",
+                    "translate": {
+                        "english": "I made a mistake carelessly and quickly said sorry to the other party."
+                    }
+                },
+                {
+                    "example": "我为我的迟到向大家表示抱歉，希望没有耽误大家太多时间。",
+                    "translate": {
+                        "english": "I apologize to everyone for my being late and hope I haven't delayed everyone too much time."
+                    }
+                }
+            ]
+        }
+    ]
+}

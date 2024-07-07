@@ -1,0 +1,34 @@
+{
+    "word": "结帐",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "结帐",
+            "translate": {
+                "english": "check out"
+            },
+            "examples": [
+                {
+                    "example": "购物结束后，我很有礼貌地去柜台结帐。",
+                    "translate": {
+                        "english": "After shopping, I went to the counter to checkout politely."
+                    }
+                },
+                {
+                    "example": "吃完饭后，我微笑着去前台结帐。",
+                    "translate": {
+                        "english": "After having a meal, I smiled and went to the front desk to pay the bill."
+                    }
+                },
+                {
+                    "example": "我在超市选完商品后，便有序地去结帐。",
+                    "translate": {
+                        "english": "After I finish selecting goods in the supermarket, I will go to checkout orderly."
+                    }
+                }
+            ]
+        }
+    ]
+}

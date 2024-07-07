@@ -1,0 +1,34 @@
+{
+    "word": "拜拜",
+    "tags": [
+        "daily"
+    ],
+    "explanations": [
+        {
+            "explanation": "拜拜",
+            "translate": {
+                "english": "bye / goodbye"
+            },
+            "examples": [
+                {
+                    "example": "和朋友们愉快地玩耍了一天后，我们开心地说了拜拜，各自回家。",
+                    "translate": {
+                        "english": "After playing happily with friends for a whole day, we said goodbye happily and went home respectively."
+                    }
+                },
+                {
+                    "example": "每次和家人分别时，我都会微笑着说拜拜，然后期待着下次的团聚。",
+                    "translate": {
+                        "english": "Every time I part with my family, I will smile and say goodbye, and then look forward to the next reunion."
+                    }
+                },
+                {
+                    "example": "和同学们结束了愉快的聚会后，我们微笑着说了拜拜，期待着下一次的相聚。",
+                    "translate": {
+                        "english": "After having a pleasant party with classmates, we smiled and said goodbye, looking forward to the next gathering."
+                    }
+                }
+            ]
+        }
+    ]
+}

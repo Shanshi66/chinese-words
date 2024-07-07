@@ -1,0 +1,34 @@
+{
+    "word": "买票",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "买票",
+            "translate": {
+                "english": "buy tickets"
+            },
+            "examples": [
+                {
+                    "example": "我提前到车站买票，以便能顺利踏上愉快的旅程。",
+                    "translate": {
+                        "english": "I arrive at the station in advance to buy tickets so as to embark on a pleasant journey smoothly."
+                    }
+                },
+                {
+                    "example": "我们提前去排队买票，期待着接下来精彩的演出。",
+                    "translate": {
+                        "english": "We went to queue up to buy tickets in advance, looking forward to the wonderful performance next."
+                    }
+                },
+                {
+                    "example": "我早早地去排队买票，准备去观看那场期待已久的精彩球赛。",
+                    "translate": {
+                        "english": "I went to queue up early to buy tickets, preparing to watch that highly anticipated wonderful football game."
+                    }
+                }
+            ]
+        }
+    ]
+}

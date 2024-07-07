@@ -1,0 +1,34 @@
+{
+    "word": "媳妇",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "媳妇",
+            "translate": {
+                "english": "wife"
+            },
+            "examples": [
+                {
+                    "example": "我的媳妇温柔善良，把家里打理得井井有条。",
+                    "translate": {
+                        "english": "My wife is gentle and kind, and manages the family in an orderly manner."
+                    }
+                },
+                {
+                    "example": "我的媳妇心灵手巧，总是能把普通的食材变成美味的佳肴。",
+                    "translate": {
+                        "english": "My wife is clever and dexterous, and always can turn ordinary ingredients into delicious dishes."
+                    }
+                },
+                {
+                    "example": "我的媳妇聪明伶俐，总是能给我带来很多惊喜。",
+                    "translate": {
+                        "english": "My wife is smart and clever, and always can bring me a lot of surprises."
+                    }
+                }
+            ]
+        }
+    ]
+}

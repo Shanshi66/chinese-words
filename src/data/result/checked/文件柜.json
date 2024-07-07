@@ -1,0 +1,34 @@
+{
+    "word": "文件柜",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "文件柜",
+            "translate": {
+                "english": "file cabinet"
+            },
+            "examples": [
+                {
+                    "example": "办公室里的文件柜被整理得井井有条，方便大家查找资料。",
+                    "translate": {
+                        "english": "The filing cabinets in the office are neatly organized to facilitate everyone's search for materials."
+                    }
+                },
+                {
+                    "example": "那个崭新的文件柜里整整齐齐地摆放着各种重要文件。",
+                    "translate": {
+                        "english": "All kinds of important documents are neatly placed in that brand-new filing cabinet."
+                    }
+                },
+                {
+                    "example": "我的房间里放着一个文件柜，它默默守护着我的重要资料。",
+                    "translate": {
+                        "english": "There is a filing cabinet in my room, which silently guards my important materials."
+                    }
+                }
+            ]
+        }
+    ]
+}

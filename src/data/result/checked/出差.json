@@ -1,0 +1,34 @@
+{
+    "word": "出差",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "出差",
+            "translate": {
+                "english": "business trip"
+            },
+            "examples": [
+                {
+                    "example": "我的爸爸经常出差，但他总会给我们带有趣的礼物回来。",
+                    "translate": {
+                        "english": "My father often goes on business trips, but he always brings interesting gifts back for us."
+                    }
+                },
+                {
+                    "example": "我的同事这次出差去了远方，他说一定会完成工作任务满载而归。",
+                    "translate": {
+                        "english": "My colleague went on a business trip to a distant place this time, and he said that he would definitely complete the work task and return with a full load."
+                    }
+                },
+                {
+                    "example": "我的同事下周要出差去外地参加一个重要会议。",
+                    "translate": {
+                        "english": "My colleague will go on a business trip to another place to attend an important meeting next week."
+                    }
+                }
+            ]
+        }
+    ]
+}

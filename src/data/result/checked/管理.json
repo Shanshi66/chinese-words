@@ -1,0 +1,34 @@
+{
+    "word": "管理",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "管理",
+            "translate": {
+                "english": "manage / administrate"
+            },
+            "examples": [
+                {
+                    "example": "公司的管理层一直在努力提升员工们的工作效率和满意度。",
+                    "translate": {
+                        "english": "The management of the company has been constantly trying to improve the work efficiency and satisfaction of the employees."
+                    }
+                },
+                {
+                    "example": "他在管理团队方面有着独特的方法和出色的能力。",
+                    "translate": {
+                        "english": "He has unique methods and excellent abilities in managing the team."
+                    }
+                },
+                {
+                    "example": "他把自己的学习时间管理得井井有条，成绩也有了显著提高。",
+                    "translate": {
+                        "english": "He manages his study time in an orderly manner, and his grades have also significantly improved."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "书架",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "书架",
+            "translate": {
+                "english": "bookshelf"
+            },
+            "examples": [
+                {
+                    "example": "我的房间里有一个漂亮的书架，上面摆满了我喜欢的各类书籍。",
+                    "translate": {
+                        "english": "There is a beautiful bookshelf in my room, which is filled with all kinds of books that I like."
+                    }
+                },
+                {
+                    "example": "这个新买的书架结实又美观，为我的书房增添了不少光彩。",
+                    "translate": {
+                        "english": "This newly bought bookshelf is solid and beautiful, adding a lot of luster to my study."
+                    }
+                },
+                {
+                    "example": "爷爷亲手做的书架精致又实用，让我的书籍有了一个温馨的“家”。",
+                    "translate": {
+                        "english": "The bookshelf made by grandpa himself is delicate and practical, giving my books a warm \"home\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

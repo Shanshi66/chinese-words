@@ -1,0 +1,34 @@
+{
+    "word": "帮帮我",
+    "tags": [
+        "daily"
+    ],
+    "explanations": [
+        {
+            "explanation": "帮帮我",
+            "translate": {
+                "english": "help me"
+            },
+            "examples": [
+                {
+                    "example": "当我遇到困难时，朋友总会及时地说：“让我来帮帮我。”",
+                    "translate": {
+                        "english": "When I encounter difficulties, friends always say in time: \"Let me help me.\""
+                    }
+                },
+                {
+                    "example": "在我迷茫不知如何前行时，善良的邻居微笑着说：“让我来帮帮我。”",
+                    "translate": {
+                        "english": "When I was confused and didn't know how to move forward, the kind neighbor smiled and said, \"Let me help me.\""
+                    }
+                },
+                {
+                    "example": "我在搬重物时有点力不从心，这时路过的大哥热心地说：“让我来帮帮我。”",
+                    "translate": {
+                        "english": "When I was moving heavy objects and feeling a bit powerless, the big brother who passed by said warmly, \"Let me help you.\""
+                    }
+                }
+            ]
+        }
+    ]
+}

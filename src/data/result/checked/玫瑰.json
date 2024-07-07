@@ -1,0 +1,34 @@
+{
+    "word": "玫瑰",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "玫瑰",
+            "translate": {
+                "english": "rose"
+            },
+            "examples": [
+                {
+                    "example": "她手捧着娇艳的玫瑰，脸上洋溢着幸福的笑容。",
+                    "translate": {
+                        "english": "She is holding delicate and charming roses in her hand, with a happy smile on her face."
+                    }
+                },
+                {
+                    "example": "情人节那天，他送给她一大束玫瑰，表达了深深的爱意。",
+                    "translate": {
+                        "english": "On Valentine's Day, he gave her a large bouquet of roses to express deep love."
+                    }
+                },
+                {
+                    "example": "她在清晨的阳光中修剪着玫瑰，那画面美丽又温馨。",
+                    "translate": {
+                        "english": "She is pruning the roses in the early morning sunlight, and that picture is beautiful and warm."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "青色",
+    "tags": [
+        "color"
+    ],
+    "explanations": [
+        {
+            "explanation": "青色",
+            "translate": {
+                "english": "cyan"
+            },
+            "examples": [
+                {
+                    "example": "那片青色的稻田在微风中轻轻摇曳，呈现出一派生机勃勃的景象。",
+                    "translate": {
+                        "english": "That patch of cyan paddy field sways gently in the breeze, presenting a scene full of vitality."
+                    }
+                },
+                {
+                    "example": "远处的山峦笼罩在青色的雾气中，宛如一幅美丽的水墨画。",
+                    "translate": {
+                        "english": "The distant mountains are shrouded in cyan mist, just like a beautiful ink painting."
+                    }
+                },
+                {
+                    "example": "雨后的天空中出现了一抹动人的青色，如诗如画般美丽。",
+                    "translate": {
+                        "english": "In the sky after the rain, there appeared a touching cyan color, as beautiful as a poem or a painting."
+                    }
+                }
+            ]
+        }
+    ]
+}

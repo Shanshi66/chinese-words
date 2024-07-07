@@ -1,0 +1,34 @@
+{
+    "word": "称呼",
+    "tags": [
+        "daily"
+    ],
+    "explanations": [
+        {
+            "explanation": "称呼",
+            "translate": {
+                "english": "address / title"
+            },
+            "examples": [
+                {
+                    "example": "在与人交往中，恰当的称呼能瞬间拉近彼此的距离。",
+                    "translate": {
+                        "english": "In interpersonal communication, an appropriate title can instantly shorten the distance between each other."
+                    }
+                },
+                {
+                    "example": "我们应该尊重他人，礼貌地使用恰当的称呼。",
+                    "translate": {
+                        "english": "We should respect others and use appropriate titles politely."
+                    }
+                },
+                {
+                    "example": "每次见面时，我们都亲切地使用合适的称呼来打招呼。",
+                    "translate": {
+                        "english": "Every time we meet, we affectionately use appropriate greetings to say hello."
+                    }
+                }
+            ]
+        }
+    ]
+}

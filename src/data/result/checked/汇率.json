@@ -1,0 +1,34 @@
+{
+    "word": "汇率",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "汇率",
+            "translate": {
+                "english": "exchange rate"
+            },
+            "examples": [
+                {
+                    "example": "最近汇率的波动比较稳定，这有利于经济的健康发展。",
+                    "translate": {
+                        "english": "Recently, the fluctuation of the exchange rate is relatively stable, which is conducive to the healthy development of the economy."
+                    }
+                },
+                {
+                    "example": "合理的汇率机制对于国际贸易的顺利开展有着重要的促进作用。",
+                    "translate": {
+                        "english": "A reasonable exchange rate mechanism has an important promoting effect on the smooth development of international trade."
+                    }
+                },
+                {
+                    "example": "汇率的适当调整对国家的进出口贸易有着积极的影响。",
+                    "translate": {
+                        "english": "Appropriate adjustment of the exchange rate has a positive impact on a country's import and export trade."
+                    }
+                }
+            ]
+        }
+    ]
+}

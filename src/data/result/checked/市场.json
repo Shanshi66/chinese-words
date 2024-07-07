@@ -1,0 +1,34 @@
+{
+    "word": "市场",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "市场",
+            "translate": {
+                "english": "market"
+            },
+            "examples": [
+                {
+                    "example": "如今的市场充满活力与机遇，人们都积极投身其中实现自我价值。",
+                    "translate": {
+                        "english": "Today's market is full of vitality and opportunities, and people are all actively engaged in it to realize their self-worth."
+                    }
+                },
+                {
+                    "example": "开放的市场为无数创业者提供了广阔的舞台去追逐梦想。",
+                    "translate": {
+                        "english": "The open market provides a broad stage for countless entrepreneurs to pursue their dreams."
+                    }
+                },
+                {
+                    "example": "繁荣的市场中商品琳琅满目，人们在这里享受着便捷的购物体验。",
+                    "translate": {
+                        "english": "In the prosperous market, goods are dazzling, and people enjoy a convenient shopping experience here."
+                    }
+                }
+            ]
+        }
+    ]
+}

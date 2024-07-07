@@ -1,0 +1,34 @@
+{
+    "word": "下午好",
+    "tags": [
+        "daily"
+    ],
+    "explanations": [
+        {
+            "explanation": "下午好",
+            "translate": {
+                "english": "Good afternoon."
+            },
+            "examples": [
+                {
+                    "example": "每天下班我都会笑着和同事们说下午好。",
+                    "translate": {
+                        "english": "Every day after work I will smile and say good afternoon to my colleagues."
+                    }
+                },
+                {
+                    "example": "当下午的阳光洒满窗前，我微笑着对朋友说下午好。",
+                    "translate": {
+                        "english": "When the afternoon sunshine spills over the window, I smile and say good afternoon to my friend."
+                    }
+                },
+                {
+                    "example": "今天下午好开心，和朋友们一起度过了美好的时光。",
+                    "translate": {
+                        "english": "This afternoon is so happy, and spent a wonderful time with friends."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "素食者",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "素食者",
+            "translate": {
+                "english": "vegetarian"
+            },
+            "examples": [
+                {
+                    "example": "那位素食者始终保持着健康的生活方式和积极乐观的心态。",
+                    "translate": {
+                        "english": "That vegetarian always keeps a healthy lifestyle and a positive and optimistic attitude."
+                    }
+                },
+                {
+                    "example": "这位善良的素食者经常向身边人分享健康饮食的重要性。",
+                    "translate": {
+                        "english": "This kind-hearted vegetarian often shares the importance of a healthy diet with people around."
+                    }
+                },
+                {
+                    "example": "那位素食者用自己的行动影响和带动了身边很多人加入到健康饮食的行列中来。",
+                    "translate": {
+                        "english": "That vegetarian influenced and drove many people around with his own actions to join the ranks of healthy eating."
+                    }
+                }
+            ]
+        }
+    ]
+}

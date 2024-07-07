@@ -1,0 +1,34 @@
+{
+    "word": "投资",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "投资",
+            "translate": {
+                "english": "investment"
+            },
+            "examples": [
+                {
+                    "example": "合理的投资可以让我们的财富不断增长。",
+                    "translate": {
+                        "english": "Reasonable investment can make our wealth continuously increase."
+                    }
+                },
+                {
+                    "example": "他经过深思熟虑后进行了理性的投资，收获了不错的回报。",
+                    "translate": {
+                        "english": "He made a rational investment after careful consideration and reaped good returns."
+                    }
+                },
+                {
+                    "example": "积极进行合理投资，能够为未来的生活增添更多的保障。",
+                    "translate": {
+                        "english": "Actively making rational investment can add more guarantees to the future life."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "优惠",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "优惠",
+            "translate": {
+                "english": "discount"
+            },
+            "examples": [
+                {
+                    "example": "这次商家推出的优惠活动，真是让顾客们得到了实实在在的好处。",
+                    "translate": {
+                        "english": "The preferential activities launched by this merchant this time really allow customers to get tangible benefits."
+                    }
+                },
+                {
+                    "example": "这次的购物之旅非常愉快，商家提供了很多优惠，让我感觉特别划算。",
+                    "translate": {
+                        "english": "This shopping trip was very pleasant, and the merchants provided a lot of discounts, making me feel especially cost-effective."
+                    }
+                },
+                {
+                    "example": "这次超市的优惠力度很大，吸引了众多顾客前来购物。",
+                    "translate": {
+                        "english": "The preferential strength of this supermarket is very great, attracting a large number of customers to come shopping."
+                    }
+                }
+            ]
+        }
+    ]
+}

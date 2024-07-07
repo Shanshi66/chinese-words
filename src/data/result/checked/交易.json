@@ -1,0 +1,34 @@
+{
+    "word": "交易",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "交易",
+            "translate": {
+                "english": "trade / transaction"
+            },
+            "examples": [
+                {
+                    "example": "在公平公正的环境下进行交易，能让双方都获得满意的结果。",
+                    "translate": {
+                        "english": "Conducting transactions in a fair and just environment can enable both parties to obtain satisfactory results."
+                    }
+                },
+                {
+                    "example": "我们通过诚信的交易建立了良好的合作关系，这让彼此都受益良多。",
+                    "translate": {
+                        "english": "We have established a good cooperative relationship through honest transactions, which has benefited both sides a lot."
+                    }
+                },
+                {
+                    "example": "通过这次愉快的交易，我们彼此都收获了珍贵的友谊。",
+                    "translate": {
+                        "english": "Through this pleasant transaction, we both harvested precious friendship from each other."
+                    }
+                }
+            ]
+        }
+    ]
+}

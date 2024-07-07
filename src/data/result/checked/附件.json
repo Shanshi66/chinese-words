@@ -1,0 +1,34 @@
+{
+    "word": "附件",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "附件",
+            "translate": {
+                "english": "attachment"
+            },
+            "examples": [
+                {
+                    "example": "我在邮件里添加了相关附件，以便对方能更清楚地了解信息。",
+                    "translate": {
+                        "english": "I added relevant attachments in the email so that the other party can understand the information more clearly."
+                    }
+                },
+                {
+                    "example": "我认真地整理了文件并附上相关附件，然后及时发送给了合作伙伴。",
+                    "translate": {
+                        "english": "I carefully sorted the documents and attached relevant attachments, and then sent them to the partner in a timely manner."
+                    }
+                },
+                {
+                    "example": "我给朋友发邮件时附上了相关附件，期望能给他带来帮助。",
+                    "translate": {
+                        "english": "When I sent an email to my friend, I attached relevant attachments, expecting to bring him help."
+                    }
+                }
+            ]
+        }
+    ]
+}

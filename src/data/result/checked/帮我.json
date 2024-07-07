@@ -1,0 +1,34 @@
+{
+    "word": "帮我",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "帮我",
+            "translate": {
+                "english": "help / assist"
+            },
+            "examples": [
+                {
+                    "example": "别人遇到困难的时候，我总是很乐意帮我所能地去帮助他们。",
+                    "translate": {
+                        "english": "When others encounter difficulties, I am always willing to help them as much as I can."
+                    }
+                },
+                {
+                    "example": "在我迷茫的时候，朋友们总是及时地帮我找到前进的方向。",
+                    "translate": {
+                        "english": "When I am confused, friends always help me find the way forward in time."
+                    }
+                },
+                {
+                    "example": "当我不知所措的时候，老师总是耐心地帮我分析问题找到解决办法。",
+                    "translate": {
+                        "english": "When I am at a loss, the teacher always patiently helps me analyze the problem and find a solution."
+                    }
+                }
+            ]
+        }
+    ]
+}

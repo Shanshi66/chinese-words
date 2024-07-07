@@ -1,0 +1,34 @@
+{
+    "word": "谈判",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "谈判",
+            "translate": {
+                "english": "negotiation"
+            },
+            "examples": [
+                {
+                    "example": "双方通过友好的谈判，成功达成了合作协议。",
+                    "translate": {
+                        "english": "Both sides successfully reached a cooperation agreement through friendly negotiations."
+                    }
+                },
+                {
+                    "example": "在这次艰难的谈判中，双方都展现出了极大的诚意与智慧，最终找到了共赢的解决方案。",
+                    "translate": {
+                        "english": "In this difficult negotiation, both sides have shown great sincerity and wisdom, and finally found a win-win solution."
+                    }
+                },
+                {
+                    "example": "商务代表们凭借卓越的沟通技巧，使这次谈判进行得十分顺利和愉快。",
+                    "translate": {
+                        "english": "Business representatives, with their excellent communication skills, made this negotiation go very smoothly and pleasantly."
+                    }
+                }
+            ]
+        }
+    ]
+}

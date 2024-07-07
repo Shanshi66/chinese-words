@@ -1,0 +1,34 @@
+{
+    "word": "材料",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "材料",
+            "translate": {
+                "english": "material"
+            },
+            "examples": [
+                {
+                    "example": "他认真地准备着各种材料，以确保项目能够顺利进行。",
+                    "translate": {
+                        "english": "He is carefully preparing all kinds of materials to ensure that the project can proceed smoothly."
+                    }
+                },
+                {
+                    "example": "建筑工人精心挑选着材料，为建造坚固的大厦奠定基础。",
+                    "translate": {
+                        "english": "Construction workers carefully select materials to lay the foundation for building a solid building."
+                    }
+                },
+                {
+                    "example": "老师为我们准备了丰富的材料，帮助我们更好地理解知识。",
+                    "translate": {
+                        "english": "The teacher prepared abundant materials for us to help us better understand the knowledge."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "跳舞",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "跳舞",
+            "translate": {
+                "english": "dance"
+            },
+            "examples": [
+                {
+                    "example": "我喜欢在周末的时候去广场跳舞，享受快乐时光。",
+                    "translate": {
+                        "english": "I like to go to the square to dance at the weekend and enjoy the happy time."
+                    }
+                },
+                {
+                    "example": "她在舞台上尽情跳舞，展现出迷人的风采和自信的笑容。",
+                    "translate": {
+                        "english": "She danced heartily on the stage, showing charming demeanor and confident smile."
+                    }
+                },
+                {
+                    "example": "孩子们在公园里欢快地跳舞，脸上洋溢着幸福的笑容。",
+                    "translate": {
+                        "english": "The children are dancing merrily in the park, with happy smiles on their faces."
+                    }
+                }
+            ]
+        }
+    ]
+}

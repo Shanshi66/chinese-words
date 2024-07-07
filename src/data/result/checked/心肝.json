@@ -1,0 +1,34 @@
+{
+    "word": "心肝",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "心肝",
+            "translate": {
+                "english": "darling / sweetheart"
+            },
+            "examples": [
+                {
+                    "example": "可爱的小孩子就像父母的心肝宝贝。",
+                    "translate": {
+                        "english": "Cute children are just like the apple of their parents' eyes."
+                    }
+                },
+                {
+                    "example": "妈妈总是说我是她的心肝。",
+                    "translate": {
+                        "english": "Mother always says that I am the apple of her eye."
+                    }
+                },
+                {
+                    "example": "我的爸爸妈妈是我最心爱的人，他们也是我的心肝。",
+                    "translate": {
+                        "english": "My father and mother are the people I love most, and they are also my darlings."
+                    }
+                }
+            ]
+        }
+    ]
+}

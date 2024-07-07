@@ -1,0 +1,34 @@
+{
+    "word": "慢点",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "慢点",
+            "translate": {
+                "english": "slowly"
+            },
+            "examples": [
+                {
+                    "example": "走路慢点，这样能更好地欣赏沿途的风景。",
+                    "translate": {
+                        "english": "Walk slower so that you can better appreciate the scenery along the way."
+                    }
+                },
+                {
+                    "example": "我们做事慢点没关系，只要认真负责，就一定能把事情做好。",
+                    "translate": {
+                        "english": "It doesn't matter if we do things slowly, as long as we are serious and responsible, we will definitely be able to do things well."
+                    }
+                },
+                {
+                    "example": "干活的时候慢点，注意安全才是最重要的。",
+                    "translate": {
+                        "english": "Work slowly when working and pay attention to safety is the most important thing."
+                    }
+                }
+            ]
+        }
+    ]
+}

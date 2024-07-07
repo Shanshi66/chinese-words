@@ -1,0 +1,34 @@
+{
+    "word": "在哪",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "在哪",
+            "translate": {
+                "english": "where"
+            },
+            "examples": [
+                {
+                    "example": "无论你在哪，我都会一直牵挂着你。",
+                    "translate": {
+                        "english": "No matter where you are, I will always be concerned about you."
+                    }
+                },
+                {
+                    "example": "不论你在哪，快乐都会常伴你左右。",
+                    "translate": {
+                        "english": "No matter where you are, happiness will always be by your side."
+                    }
+                },
+                {
+                    "example": "无论你在哪，我相信你都能追逐到属于自己的梦想。",
+                    "translate": {
+                        "english": "Wherever you are, I believe you can pursue your own dream."
+                    }
+                }
+            ]
+        }
+    ]
+}

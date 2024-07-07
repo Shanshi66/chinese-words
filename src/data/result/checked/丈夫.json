@@ -1,0 +1,34 @@
+{
+    "word": "丈夫",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "丈夫",
+            "translate": {
+                "english": "husband"
+            },
+            "examples": [
+                {
+                    "example": "我的丈夫总是无微不至地关心我，让我感到无比幸福。",
+                    "translate": {
+                        "english": "My husband always takes great care of me attentively and makes me feel extremely happy."
+                    }
+                },
+                {
+                    "example": "我的丈夫积极上进，努力为我们的家庭创造更好的生活。",
+                    "translate": {
+                        "english": "My husband is aggressive and progressive, and tries hard to create a better life for our family."
+                    }
+                },
+                {
+                    "example": "我的丈夫每天都会给我一个温暖的拥抱，让我倍感幸福。",
+                    "translate": {
+                        "english": "My husband gives me a warm hug every day, making me feel extremely happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

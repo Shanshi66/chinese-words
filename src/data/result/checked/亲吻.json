@@ -1,0 +1,34 @@
+{
+    "word": "亲吻",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "亲吻",
+            "translate": {
+                "english": "kiss"
+            },
+            "examples": [
+                {
+                    "example": "宝宝可爱的模样让人忍不住亲吻他的小脸蛋。",
+                    "translate": {
+                        "english": "The cute appearance of the baby makes people unable to resist kissing his little face."
+                    }
+                },
+                {
+                    "example": "恋人在夕阳下甜蜜地亲吻，那画面美好得让人陶醉。",
+                    "translate": {
+                        "english": "The lovers sweetly kiss under the setting sun, and that picture is so beautiful that it makes people intoxicated."
+                    }
+                },
+                {
+                    "example": "当比赛取得胜利时，队员们激动地拥抱并亲吻彼此。",
+                    "translate": {
+                        "english": "When the game is won, the team members excitedly hug and kiss each other."
+                    }
+                }
+            ]
+        }
+    ]
+}

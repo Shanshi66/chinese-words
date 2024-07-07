@@ -1,0 +1,34 @@
+{
+    "word": "情人节",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "情人节",
+            "translate": {
+                "english": "Valentine's Day"
+            },
+            "examples": [
+                {
+                    "example": "情人节那天，情侣们都沉浸在浪漫欢乐的氛围中，脸上洋溢着幸福的笑容。",
+                    "translate": {
+                        "english": "On Valentine's Day, couples are all immersed in a romantic and joyous atmosphere, with happy smiles on their faces."
+                    }
+                },
+                {
+                    "example": "在情人节这一天，我精心为爱人准备了一份惊喜，共同度过了美好的时光。",
+                    "translate": {
+                        "english": "On Valentine's Day, I carefully prepared a surprise for my lover and spent a wonderful time together."
+                    }
+                },
+                {
+                    "example": "情人节的时候，大家都用自己的方式向心爱之人表达着美好的情感。",
+                    "translate": {
+                        "english": "On Valentine's Day, everyone expresses the beautiful emotions to the person they love in their own way."
+                    }
+                }
+            ]
+        }
+    ]
+}

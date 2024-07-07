@@ -1,0 +1,34 @@
+{
+    "word": "打印机",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "打印机",
+            "translate": {
+                "english": "printer"
+            },
+            "examples": [
+                {
+                    "example": "办公室的打印机一直在高效地为大家服务。",
+                    "translate": {
+                        "english": "The printer in the office has been serving everyone efficiently all the time."
+                    }
+                },
+                {
+                    "example": "我新买的打印机工作起来又快又好，帮了我很大的忙。",
+                    "translate": {
+                        "english": "The newly bought printer of mine works fast and well, and has helped me a lot."
+                    }
+                },
+                {
+                    "example": "那台打印机吐出的纸张上印满了清晰漂亮的字迹。",
+                    "translate": {
+                        "english": "The paper spit out by that printer is printed full of clear and beautiful handwriting."
+                    }
+                }
+            ]
+        }
+    ]
+}

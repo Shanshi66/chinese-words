@@ -1,0 +1,34 @@
+{
+    "word": "发誓",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "发誓",
+            "translate": {
+                "english": "swear / vow"
+            },
+            "examples": [
+                {
+                    "example": "我发誓一定要通过自己的努力实现梦想。",
+                    "translate": {
+                        "english": "I swear that I must realize my dream through my own efforts."
+                    }
+                },
+                {
+                    "example": "我发誓会尽自己最大的努力让家人生活得更加幸福。",
+                    "translate": {
+                        "english": "I swear that I will do my best to make my family live a happier life."
+                    }
+                },
+                {
+                    "example": "我发誓要努力提升自己，成为更好的人。",
+                    "translate": {
+                        "english": "I swear to strive to improve myself and become a better person."
+                    }
+                }
+            ]
+        }
+    ]
+}

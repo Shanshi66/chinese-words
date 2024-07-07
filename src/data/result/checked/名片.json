@@ -1,0 +1,34 @@
+{
+    "word": "名片",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "名片",
+            "translate": {
+                "english": "business card"
+            },
+            "examples": [
+                {
+                    "example": "我微笑着递上自己的名片，期待着与对方开启一段愉快的合作之旅。",
+                    "translate": {
+                        "english": "I smiled and handed over my business card, looking forward to starting a pleasant cooperation journey with the other party."
+                    }
+                },
+                {
+                    "example": "他礼貌地递出名片，并热情地向对方介绍自己的业务。",
+                    "translate": {
+                        "english": "He politely handed out his business card and passionately introduced his business to the other party."
+                    }
+                },
+                {
+                    "example": "他精心设计了自己的名片，展现出独特的个人风格。",
+                    "translate": {
+                        "english": "He elaborately designed his business card, showing a unique personal style."
+                    }
+                }
+            ]
+        }
+    ]
+}

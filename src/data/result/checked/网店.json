@@ -1,0 +1,34 @@
+{
+    "word": "网店",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "网店",
+            "translate": {
+                "english": "online store / online shop"
+            },
+            "examples": [
+                {
+                    "example": "在经营网店的过程中，我收获了很多快乐和满足。",
+                    "translate": {
+                        "english": "In the process of operating an online store, I have gained a lot of happiness and satisfaction."
+                    }
+                },
+                {
+                    "example": "我通过努力经营网店，实现了自己的小目标，真的很有成就感。",
+                    "translate": {
+                        "english": "I achieved my small goal by running the online store hard and really felt a great sense of accomplishment."
+                    }
+                },
+                {
+                    "example": "我用心经营的网店生意越来越好，这让我特别开心。",
+                    "translate": {
+                        "english": "The business of the online store that I manage carefully is getting better and better, which makes me particularly happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

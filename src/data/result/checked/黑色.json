@@ -1,0 +1,34 @@
+{
+    "word": "黑色",
+    "tags": [
+        "color"
+    ],
+    "explanations": [
+        {
+            "explanation": "黑色",
+            "translate": {
+                "english": "black"
+            },
+            "examples": [
+                {
+                    "example": "我有一件漂亮的黑色连衣裙，穿上它让我显得格外优雅自信。",
+                    "translate": {
+                        "english": "I have a beautiful black dress, and wearing it makes me look exceptionally elegant and confident."
+                    }
+                },
+                {
+                    "example": "黑色的夜空挂满了璀璨的星星，那景象真是美不胜收。",
+                    "translate": {
+                        "english": "The black night sky is studded with bright stars, and that scene is really beautiful beyond description."
+                    }
+                },
+                {
+                    "example": "那只黑色的小狗活泼可爱，给我们带来了很多欢乐。",
+                    "translate": {
+                        "english": "That black little dog is lively and cute, and has brought us a lot of joy."
+                    }
+                }
+            ]
+        }
+    ]
+}

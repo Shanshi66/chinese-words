@@ -1,0 +1,34 @@
+{
+    "word": "交货",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "交货",
+            "translate": {
+                "english": "delivery"
+            },
+            "examples": [
+                {
+                    "example": "我们一定会按照约定准时交货，让客户满意。",
+                    "translate": {
+                        "english": "We will definitely deliver the goods on time as agreed and make the customers satisfied."
+                    }
+                },
+                {
+                    "example": "这次的交货过程十分顺利，大家都很开心。",
+                    "translate": {
+                        "english": "The delivery process of this time is very smooth, and everyone is very happy."
+                    }
+                },
+                {
+                    "example": "我们提前完成了生产任务，确保了交货日期不延误，客户对此非常赞赏。",
+                    "translate": {
+                        "english": "We completed the production task ahead of schedule, ensuring that the delivery date was not delayed, and the customer appreciated this very much."
+                    }
+                }
+            ]
+        }
+    ]
+}

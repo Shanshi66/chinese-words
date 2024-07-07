@@ -1,0 +1,34 @@
+{
+    "word": "能力",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "能力",
+            "translate": {
+                "english": "ability"
+            },
+            "examples": [
+                {
+                    "example": "只要不断努力提升自己，我们就能获得更强的能力去实现梦想。",
+                    "translate": {
+                        "english": "As long as we continuously strive to improve ourselves, we can obtain stronger abilities to realize our dreams."
+                    }
+                },
+                {
+                    "example": "他凭借自己卓越的能力，成功解决了一个又一个难题。",
+                    "translate": {
+                        "english": "He successfully solved one difficult problem after another with his outstanding ability."
+                    }
+                },
+                {
+                    "example": "他充分发挥自己的能力，出色地完成了这项艰巨的任务。",
+                    "translate": {
+                        "english": "He fully exerted his ability and excellently completed this arduous task."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "运输",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "运输",
+            "translate": {
+                "english": "transport"
+            },
+            "examples": [
+                {
+                    "example": "便捷的运输系统让货物可以快速到达全国各地。",
+                    "translate": {
+                        "english": "The convenient transportation system enables goods to reach all parts of the country quickly."
+                    }
+                },
+                {
+                    "example": "现代化的运输方式大大提高了人们生活的便利性。",
+                    "translate": {
+                        "english": "Modern means of transportation have greatly improved the convenience of people's lives."
+                    }
+                },
+                {
+                    "example": "运输行业的不断发展，为经济增长做出了重要贡献。",
+                    "translate": {
+                        "english": "The continuous development of the transportation industry has made important contributions to economic growth."
+                    }
+                }
+            ]
+        }
+    ]
+}

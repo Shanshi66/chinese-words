@@ -1,0 +1,34 @@
+{
+    "word": "信任",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "信任",
+            "translate": {
+                "english": "trust"
+            },
+            "examples": [
+                {
+                    "example": "朋友之间的信任是非常珍贵的财富。",
+                    "translate": {
+                        "english": "Trust between friends is a very precious wealth."
+                    }
+                },
+                {
+                    "example": "老师对学生充分的信任能够激发学生的无限潜能。",
+                    "translate": {
+                        "english": "Full trust of teachers in students can stimulate the unlimited potential of students."
+                    }
+                },
+                {
+                    "example": "当我们彼此信任时，任何困难都能携手勇敢面对。",
+                    "translate": {
+                        "english": "When we trust each other, any difficulty can be faced bravely hand in hand."
+                    }
+                }
+            ]
+        }
+    ]
+}

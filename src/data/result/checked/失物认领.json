@@ -1,0 +1,34 @@
+{
+    "word": "失物认领",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "失物认领",
+            "translate": {
+                "english": "lost and found"
+            },
+            "examples": [
+                {
+                    "example": "在学校的失物认领处，丢失物品的同学都顺利找回了属于自己的东西。",
+                    "translate": {
+                        "english": "At the lost and found office of the school, the classmates who lost items have all successfully retrieved the things that belong to them."
+                    }
+                },
+                {
+                    "example": "我在公交车上捡到一个钱包，交给了司机师傅以便进行失物认领。",
+                    "translate": {
+                        "english": "I picked up a wallet on the bus and handed it to the driver for the lost and found."
+                    }
+                },
+                {
+                    "example": "当有人在商场广播说有失物认领时，一位女士高兴地跑过去领回了自己丢失的项链。",
+                    "translate": {
+                        "english": "When someone said on the shopping mall radio that there was a lost item to claim, a lady happily ran over to claim back her lost necklace."
+                    }
+                }
+            ]
+        }
+    ]
+}

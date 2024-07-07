@@ -1,0 +1,34 @@
+{
+    "word": "有意思",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "有意思",
+            "translate": {
+                "english": "interesting"
+            },
+            "examples": [
+                {
+                    "example": "这本书真的很有意思，让我爱不释手。",
+                    "translate": {
+                        "english": "This book is really very interesting, making me reluctant to put it down."
+                    }
+                },
+                {
+                    "example": "这次的旅行非常有意思，给我们留下了难忘的回忆。",
+                    "translate": {
+                        "english": "This trip is very interesting and has left us unforgettable memories."
+                    }
+                },
+                {
+                    "example": "和朋友们一起做游戏真的很有意思，大家都特别开心。",
+                    "translate": {
+                        "english": "Playing games together with friends is really very interesting and everyone is extremely happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

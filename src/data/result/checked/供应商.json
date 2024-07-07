@@ -1,0 +1,34 @@
+{
+    "word": "供应商",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "供应商",
+            "translate": {
+                "english": "supplier"
+            },
+            "examples": [
+                {
+                    "example": "我们与可靠的供应商保持着长期友好的合作关系。",
+                    "translate": {
+                        "english": "We maintain a long-term and friendly cooperative relationship with reliable suppliers."
+                    }
+                },
+                {
+                    "example": "我们十分感谢供应商提供的优质产品和贴心服务。",
+                    "translate": {
+                        "english": "We are very grateful to the suppliers for providing high-quality products and considerate services."
+                    }
+                },
+                {
+                    "example": "我们和供应商携手合作，共同开创了美好的未来。",
+                    "translate": {
+                        "english": "We work hand in hand with the supplier to jointly create a beautiful future."
+                    }
+                }
+            ]
+        }
+    ]
+}

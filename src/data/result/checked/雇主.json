@@ -1,0 +1,34 @@
+{
+    "word": "雇主",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "雇主",
+            "translate": {
+                "english": "employer"
+            },
+            "examples": [
+                {
+                    "example": "我的雇主是一位非常友善且通情达理的人，我很庆幸能与他一起工作。",
+                    "translate": {
+                        "english": "My employer is a very friendly and reasonable person, and I am very glad to be able to work with him."
+                    }
+                },
+                {
+                    "example": "我的雇主常常鼓励我们不断进取，给予我们很多提升的机会。",
+                    "translate": {
+                        "english": "My employer often encourages us to keep making progress and gives us a lot of opportunities for improvement."
+                    }
+                },
+                {
+                    "example": "我的雇主总是以积极乐观的态度对待工作，营造了良好的工作氛围。",
+                    "translate": {
+                        "english": "My employer always treats work with a positive and optimistic attitude, creating a good working atmosphere."
+                    }
+                }
+            ]
+        }
+    ]
+}

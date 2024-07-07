@@ -1,0 +1,34 @@
+{
+    "word": "我想要",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "我想要",
+            "translate": {
+                "english": "I want"
+            },
+            "examples": [
+                {
+                    "example": "我想要通过自己的努力去实现梦想，让生活更加精彩。",
+                    "translate": {
+                        "english": "I want to realize my dream through my own efforts to make life more wonderful."
+                    }
+                },
+                {
+                    "example": "我想要在未来的日子里不断提升自己，遇见更好的自己。",
+                    "translate": {
+                        "english": "I want to continuously improve myself in the future days and meet a better self."
+                    }
+                },
+                {
+                    "example": "我想要用我的乐观积极去感染身边每一个人。",
+                    "translate": {
+                        "english": "I want to infect everyone around me with my optimism and positivity."
+                    }
+                }
+            ]
+        }
+    ]
+}

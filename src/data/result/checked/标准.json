@@ -1,0 +1,34 @@
+{
+    "word": "标准",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "标准",
+            "translate": {
+                "english": "standard"
+            },
+            "examples": [
+                {
+                    "example": "他总是以最高标准来要求自己，不断进步。",
+                    "translate": {
+                        "english": "He always demands himself with the highest standards and keeps making progress."
+                    }
+                },
+                {
+                    "example": "这位老师用严格且合理的标准来评判学生们的作业。",
+                    "translate": {
+                        "english": "This teacher judges the students' homework with strict and reasonable standards."
+                    }
+                },
+                {
+                    "example": "我们应该以更高的标准来提升自己的专业能力。",
+                    "translate": {
+                        "english": "We should improve our professional ability with a higher standard."
+                    }
+                }
+            ]
+        }
+    ]
+}

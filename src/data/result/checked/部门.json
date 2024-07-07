@@ -1,0 +1,34 @@
+{
+    "word": "部门",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "部门",
+            "translate": {
+                "english": "department"
+            },
+            "examples": [
+                {
+                    "example": "公司的各个部门相互配合，共同推动着业务的良好发展。",
+                    "translate": {
+                        "english": "Each department of the company cooperates with each other to jointly promote the good development of the business."
+                    }
+                },
+                {
+                    "example": "我们公司的不同部门齐心协力，为实现共同的目标而努力奋斗。",
+                    "translate": {
+                        "english": "The different departments of our company work together in unison and strive hard to achieve the common goal."
+                    }
+                },
+                {
+                    "example": "我们公司的各个部门紧密合作，创造了出色的业绩。",
+                    "translate": {
+                        "english": "All departments of our company cooperate closely and create excellent achievements."
+                    }
+                }
+            ]
+        }
+    ]
+}

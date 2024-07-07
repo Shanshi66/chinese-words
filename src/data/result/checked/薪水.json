@@ -1,0 +1,34 @@
+{
+    "word": "薪水",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "薪水",
+            "translate": {
+                "english": "salary / pay / wages"
+            },
+            "examples": [
+                {
+                    "example": "他努力工作，就是为了能获得更高的薪水来改善生活。",
+                    "translate": {
+                        "english": "He works hard just to be able to obtain a higher salary to improve life."
+                    }
+                },
+                {
+                    "example": "凭借自己的努力，他获得了丰厚的薪水，生活也过得越来越滋润。",
+                    "translate": {
+                        "english": "With his own efforts, he got a丰厚 salary and his life is getting better and better."
+                    }
+                },
+                {
+                    "example": "我的努力付出得到了回报，薪水也随之增长，这让我感到十分欣慰。",
+                    "translate": {
+                        "english": "My hard work has been rewarded, and the salary has also increased accordingly, which makes me feel very gratified."
+                    }
+                }
+            ]
+        }
+    ]
+}

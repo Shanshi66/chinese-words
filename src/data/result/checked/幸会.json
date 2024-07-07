@@ -1,0 +1,35 @@
+{
+    "word": "幸会",
+    "tags": [
+        "business",
+        "daily"
+    ],
+    "explanations": [
+        {
+            "explanation": "幸会",
+            "translate": {
+                "english": "pleased to meet you"
+            },
+            "examples": [
+                {
+                    "example": "很荣幸能在这里与各位幸会，希望我们都能度过美好的时光。",
+                    "translate": {
+                        "english": "It is a great honor to be here to meet you all. I hope we all can have a wonderful time."
+                    }
+                },
+                {
+                    "example": "今天很幸运能在这里与您幸会，真是太开心了。",
+                    "translate": {
+                        "english": "It's very lucky to have the chance to meet you here today. I'm really so happy."
+                    }
+                },
+                {
+                    "example": "此次活动中得以幸会诸多行业精英，真是让我受益匪浅。",
+                    "translate": {
+                        "english": "It is really a great benefit to me to have the honor to meet many industry elites in this activity."
+                    }
+                }
+            ]
+        }
+    ]
+}

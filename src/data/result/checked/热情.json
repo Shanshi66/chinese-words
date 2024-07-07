@@ -1,0 +1,34 @@
+{
+    "word": "热情",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "热情",
+            "translate": {
+                "english": "enthusiasm"
+            },
+            "examples": [
+                {
+                    "example": "他总是以热情的态度对待每一个人，让人感觉非常温暖。",
+                    "translate": {
+                        "english": "He always treats everyone with an enthusiastic attitude, making people feel very warm."
+                    }
+                },
+                {
+                    "example": "他那热情的笑容如阳光般灿烂，让人不禁心情愉悦。",
+                    "translate": {
+                        "english": "His warm smile is as bright as the sunshine, which makes people can't help feeling cheerful."
+                    }
+                },
+                {
+                    "example": "志愿者们用热情的服务赢得了大家的一致称赞。",
+                    "translate": {
+                        "english": "The volunteers won the unanimous praise of everyone with passionate service."
+                    }
+                }
+            ]
+        }
+    ]
+}

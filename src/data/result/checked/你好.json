@@ -1,0 +1,35 @@
+{
+    "word": "你好",
+    "tags": [
+        "daily",
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "你好",
+            "translate": {
+                "english": "hello / hi"
+            },
+            "examples": [
+                {
+                    "example": "当我遇到新朋友时，总会微笑着说“你好”，开启一段美好的友谊。",
+                    "translate": {
+                        "english": "When I meet new friends, I always smile and say \"Hello\" to start a beautiful friendship."
+                    }
+                },
+                {
+                    "example": "走在路上，我热情地和每一位遇到的人打招呼说“你好”，心情格外舒畅。",
+                    "translate": {
+                        "english": "Walking on the road, I greeted every person I met enthusiastically and said \"Hello\", and I felt extremely comfortable."
+                    }
+                },
+                {
+                    "example": "每天早上我都会跟邻居说一声“你好”，让一天都充满阳光和温暖。",
+                    "translate": {
+                        "english": "Every morning I will say \"Hello\" to the neighbor, making the whole day full of sunshine and warmth."
+                    }
+                }
+            ]
+        }
+    ]
+}

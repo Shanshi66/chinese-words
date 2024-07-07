@@ -1,0 +1,34 @@
+{
+    "word": "晚安",
+    "tags": [
+        "daily"
+    ],
+    "explanations": [
+        {
+            "explanation": "晚安",
+            "translate": {
+                "english": "Good night."
+            },
+            "examples": [
+                {
+                    "example": "每晚睡觉前妈妈都会温柔地和我说晚安。",
+                    "translate": {
+                        "english": "Every night before going to bed, mother will gently say good night to me."
+                    }
+                },
+                {
+                    "example": "和朋友道完晚安后，我甜蜜地进入了梦乡。",
+                    "translate": {
+                        "english": "After saying good night to my friends, I sweetly fell asleep."
+                    }
+                },
+                {
+                    "example": "我微笑着对远方的朋友道了一声晚安，希望他做个好梦。",
+                    "translate": {
+                        "english": "I smiled and said good night to the distant friend, hoping that he would have a good dream."
+                    }
+                }
+            ]
+        }
+    ]
+}

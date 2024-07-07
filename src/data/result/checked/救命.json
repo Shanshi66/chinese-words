@@ -1,0 +1,35 @@
+{
+    "word": "救命",
+    "tags": [
+        "daily",
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "救命",
+            "translate": {
+                "english": "help"
+            },
+            "examples": [
+                {
+                    "example": "当有人遇到危险喊出“救命”时，许多勇敢善良的人纷纷伸出援手相助。",
+                    "translate": {
+                        "english": "When someone shouts \"help\" when encountering danger, many brave and kind people rush to offer their help."
+                    }
+                },
+                {
+                    "example": "当小孩不慎落水呼救“救命”时，一位勇敢的青年立刻跳水施救。",
+                    "translate": {
+                        "english": "When the child accidentally fell into the water and shouted \"help\", a brave young man immediately dived into the water to rescue."
+                    }
+                },
+                {
+                    "example": "在危急时刻，他大声喊着“救命”，幸好有位热心人士快速跑来帮助他。",
+                    "translate": {
+                        "english": "In a critical moment, he shouted loudly \"help\", fortunately, a warm-hearted person ran quickly to help him."
+                    }
+                }
+            ]
+        }
+    ]
+}

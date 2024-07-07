@@ -1,0 +1,34 @@
+{
+    "word": "团队",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "团队",
+            "translate": {
+                "english": "team / group"
+            },
+            "examples": [
+                {
+                    "example": "我们的团队齐心协力，共同向着目标努力前进。",
+                    "translate": {
+                        "english": "Our team works together with one heart and one mind, and makes joint efforts to move forward towards the goal."
+                    }
+                },
+                {
+                    "example": "我们的团队充满了活力和创造力，总是能出色地完成各种任务。",
+                    "translate": {
+                        "english": "Our team is full of vitality and creativity, and always can excellently complete various tasks."
+                    }
+                },
+                {
+                    "example": "我们的团队就像一个温暖的大家庭，大家相互帮助，共同进步。",
+                    "translate": {
+                        "english": "Our team is like a warm big family, and everyone helps each other and makes progress together."
+                    }
+                }
+            ]
+        }
+    ]
+}

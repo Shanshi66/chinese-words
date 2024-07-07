@@ -1,0 +1,34 @@
+{
+    "word": "计算器",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "计算器",
+            "translate": {
+                "english": "calculator"
+            },
+            "examples": [
+                {
+                    "example": "我用计算器快速且准确地计算出了这道难题的答案。",
+                    "translate": {
+                        "english": "I used the calculator to quickly and accurately calculate the answer to this difficult problem."
+                    }
+                },
+                {
+                    "example": "我的计算器帮我快速完成了复杂数据的运算，真是个得力的小助手。",
+                    "translate": {
+                        "english": "My calculator helped me quickly complete the calculation of complex data. It is really a powerful little assistant."
+                    }
+                },
+                {
+                    "example": "我用计算器轻松地处理着各种数据，工作效率大大提高了。",
+                    "translate": {
+                        "english": "I am dealing with all kinds of data easily with a calculator, and the work efficiency has been greatly improved."
+                    }
+                }
+            ]
+        }
+    ]
+}

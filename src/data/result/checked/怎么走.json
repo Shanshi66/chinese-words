@@ -1,0 +1,34 @@
+{
+    "word": "怎么走",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "怎么走",
+            "translate": {
+                "english": "how to go"
+            },
+            "examples": [
+                {
+                    "example": "我不知道去图书馆的路怎么走，所以我向路人询问。",
+                    "translate": {
+                        "english": "I don't know how to get to the library, so I ask passers-by."
+                    }
+                },
+                {
+                    "example": "当我们在陌生的地方迷路时，不要担心，礼貌地去问路人应该怎么走就行啦。",
+                    "translate": {
+                        "english": "When we get lost in a strange place, don't worry, just politely ask passers-by how to go."
+                    }
+                },
+                {
+                    "example": "我初到这座城市，碰到一位热心的老人家，便礼貌地询问他去景点的路怎么走。",
+                    "translate": {
+                        "english": "When I first arrived in this city, I met an enthusiastic old man, and then I politely asked him how to get to the scenic spots."
+                    }
+                }
+            ]
+        }
+    ]
+}

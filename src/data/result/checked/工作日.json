@@ -1,0 +1,34 @@
+{
+    "word": "工作日",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "工作日",
+            "translate": {
+                "english": "working day"
+            },
+            "examples": [
+                {
+                    "example": "每个工作日的早晨，我都会精神饱满地去迎接新的挑战。",
+                    "translate": {
+                        "english": "Every weekday morning, I will go to meet new challenges full of energy."
+                    }
+                },
+                {
+                    "example": "工作日里，大家都在各自的岗位上勤奋努力地工作着，为实现梦想而拼搏。",
+                    "translate": {
+                        "english": "During the working days, everyone is working hard in their respective positions, striving for the realization of their dreams."
+                    }
+                },
+                {
+                    "example": "在工作日，我总是充满热情地投入到工作中，享受充实的一天。",
+                    "translate": {
+                        "english": "On weekdays, I always throw myself into the work with enthusiasm and enjoy a fulfilling day."
+                    }
+                }
+            ]
+        }
+    ]
+}

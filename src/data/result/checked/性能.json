@@ -1,0 +1,34 @@
+{
+    "word": "性能",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "性能",
+            "translate": {
+                "english": "performance"
+            },
+            "examples": [
+                {
+                    "example": "这款新手机的性能非常出色，给我的生活带来了很多便利。",
+                    "translate": {
+                        "english": "The performance of this new mobile phone is extremely excellent, which has brought a lot of conveniences to my life."
+                    }
+                },
+                {
+                    "example": "这辆汽车的性能十分卓越，让驾驶体验更为舒适和流畅。",
+                    "translate": {
+                        "english": "The performance of this car is extremely excellent, making the driving experience more comfortable and smooth."
+                    }
+                },
+                {
+                    "example": "这款电脑的性能超棒，让我的工作效率大幅提高。",
+                    "translate": {
+                        "english": "The performance of this computer is excellent, which greatly improves my work efficiency."
+                    }
+                }
+            ]
+        }
+    ]
+}

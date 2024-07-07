@@ -1,0 +1,34 @@
+{
+    "word": "晚上好",
+    "tags": [
+        "daily"
+    ],
+    "explanations": [
+        {
+            "explanation": "晚上好",
+            "translate": {
+                "english": "Good evening."
+            },
+            "examples": [
+                {
+                    "example": "每天傍晚我都会微笑着和邻居们说晚上好。",
+                    "translate": {
+                        "english": "Every evening I will smile and say good evening to the neighbors."
+                    }
+                },
+                {
+                    "example": "我走进商店，热情地和店员说晚上好。",
+                    "translate": {
+                        "english": "I walked into the shop and said good evening warmly to the clerk."
+                    }
+                },
+                {
+                    "example": "我出门散步遇到熟人，都会亲切地说声晚上好。",
+                    "translate": {
+                        "english": "When I go out for a walk and meet an acquaintance, I will kindly say good evening."
+                    }
+                }
+            ]
+        }
+    ]
+}

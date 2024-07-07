@@ -1,0 +1,34 @@
+{
+    "word": "城市",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "城市",
+            "translate": {
+                "english": "city"
+            },
+            "examples": [
+                {
+                    "example": "美丽的城市里充满着和谐与欢乐的气息。",
+                    "translate": {
+                        "english": "The beautiful city is filled with an atmosphere of harmony and joy."
+                    }
+                },
+                {
+                    "example": "这座城市处处都展现着蓬勃向上的活力。",
+                    "translate": {
+                        "english": "Everywhere in this city shows vigorous and upward vitality."
+                    }
+                },
+                {
+                    "example": "我喜欢在阳光明媚的日子里漫步于这座美丽而充满活力的城市。",
+                    "translate": {
+                        "english": "I like to stroll in this beautiful and vibrant city on sunny days."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "要求",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "要求",
+            "translate": {
+                "english": "requirement / demand"
+            },
+            "examples": [
+                {
+                    "example": "老师总是合理地要求我们认真学习，这让我们不断进步。",
+                    "translate": {
+                        "english": "The teacher always reasonably asks us to study hard, which makes us make continuous progress."
+                    }
+                },
+                {
+                    "example": "父母总是以温和的方式要求我养成良好的习惯，让我受益无穷。",
+                    "translate": {
+                        "english": "Parents always ask me to develop good habits in a gentle way, which benefits me a lot."
+                    }
+                },
+                {
+                    "example": "妈妈总是合理地要求我按时吃饭睡觉，让我拥有健康的身体。",
+                    "translate": {
+                        "english": "Mother always reasonably asks me to eat and sleep on time, so that I have a healthy body."
+                    }
+                }
+            ]
+        }
+    ]
+}

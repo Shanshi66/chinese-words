@@ -1,0 +1,34 @@
+{
+    "word": "厕所",
+    "tags": [
+        "daily"
+    ],
+    "explanations": [
+        {
+            "explanation": "厕所",
+            "translate": {
+                "english": "toilet / lavatory"
+            },
+            "examples": [
+                {
+                    "example": "公共厕所每天都有专人打扫，非常干净整洁。",
+                    "translate": {
+                        "english": "The public toilets are cleaned by special personnel every day and are very clean and tidy."
+                    }
+                },
+                {
+                    "example": "干净整洁的厕所让人使用起来心情格外愉悦。",
+                    "translate": {
+                        "english": "A clean and tidy toilet makes people feel extremely pleasant when using it."
+                    }
+                },
+                {
+                    "example": "我家的厕所总是被收拾得干净清爽，让人感到很舒适。",
+                    "translate": {
+                        "english": "The toilet in my home is always tidied up clean and refreshing, making people feel very comfortable."
+                    }
+                }
+            ]
+        }
+    ]
+}

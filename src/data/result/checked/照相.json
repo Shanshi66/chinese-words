@@ -1,0 +1,34 @@
+{
+    "word": "照相",
+    "tags": [
+        "travel"
+    ],
+    "explanations": [
+        {
+            "explanation": "照相",
+            "translate": {
+                "english": "take a picture / photograph"
+            },
+            "examples": [
+                {
+                    "example": "每次出去游玩我们都喜欢用相机照相，记录下那些美好的瞬间。",
+                    "translate": {
+                        "english": "Every time we go out to play, we all like to take pictures with the camera to record those beautiful moments."
+                    }
+                },
+                {
+                    "example": "我和朋友们一起去旅游，一路上开心地谈笑、照相，留下了许多难忘的回忆。",
+                    "translate": {
+                        "english": "I went traveling with my friends, happily chatting and laughing and taking pictures along the way, leaving many unforgettable memories."
+                    }
+                },
+                {
+                    "example": "我们在美丽的花园里快乐地照相，定格下幸福的时刻。",
+                    "translate": {
+                        "english": "We happily take pictures in the beautiful garden to freeze the happy moments."
+                    }
+                }
+            ]
+        }
+    ]
+}

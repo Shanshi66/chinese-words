@@ -1,0 +1,34 @@
+{
+    "word": "友谊",
+    "tags": [
+        "love"
+    ],
+    "explanations": [
+        {
+            "explanation": "友谊",
+            "translate": {
+                "english": "friendship"
+            },
+            "examples": [
+                {
+                    "example": "真正的友谊能够经受住时间的考验，长久地陪伴我们。",
+                    "translate": {
+                        "english": "True friendship can stand the test of time and accompany us for a long time."
+                    }
+                },
+                {
+                    "example": "真挚的友谊如阳光般温暖着我们的心灵。",
+                    "translate": {
+                        "english": "Sincere friendship warms our hearts like sunshine."
+                    }
+                },
+                {
+                    "example": "真挚的友谊让我们的生活充满了欢乐与温暖。",
+                    "translate": {
+                        "english": "Sincere friendship fills our life with joy and warmth."
+                    }
+                }
+            ]
+        }
+    ]
+}

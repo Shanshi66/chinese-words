@@ -1,0 +1,34 @@
+{
+    "word": "相机",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "相机",
+            "translate": {
+                "english": "camera"
+            },
+            "examples": [
+                {
+                    "example": "今天我带着相机去记录下了生活中许多美好的瞬间。",
+                    "translate": {
+                        "english": "Today I took the camera to record many beautiful moments in life."
+                    }
+                },
+                {
+                    "example": "我用相机定格了一个个温馨而欢乐的场景，留作永恒的纪念。",
+                    "translate": {
+                        "english": "I used the camera to freeze-frame one by one warm and joyous scene as an eternal souvenir."
+                    }
+                },
+                {
+                    "example": "旅行的时候我总会带上相机，来捕捉那些迷人的风景和有趣的故事。",
+                    "translate": {
+                        "english": "When traveling, I always bring a camera to capture those charming landscapes and interesting stories."
+                    }
+                }
+            ]
+        }
+    ]
+}

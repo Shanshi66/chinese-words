@@ -1,0 +1,34 @@
+{
+    "word": "服务",
+    "tags": [
+        "business"
+    ],
+    "explanations": [
+        {
+            "explanation": "服务",
+            "translate": {
+                "english": "service"
+            },
+            "examples": [
+                {
+                    "example": "工作人员始终热情地为每一位顾客提供优质的服务。",
+                    "translate": {
+                        "english": "The staff always enthusiastically provide high-quality service to every customer."
+                    }
+                },
+                {
+                    "example": "志愿者们尽心尽力地为大家提供暖心的服务。",
+                    "translate": {
+                        "english": "The volunteers do their best to provide warm-hearted service for everyone."
+                    }
+                },
+                {
+                    "example": "优质的服务能让人们的生活更加便利和美好。",
+                    "translate": {
+                        "english": "High-quality service can make people's lives more convenient and beautiful."
+                    }
+                }
+            ]
+        }
+    ]
+}
