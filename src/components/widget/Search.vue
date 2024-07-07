@@ -1,6 +1,6 @@
 <template>
     <div
-        class="flex flex-row items-center md:border-[1px] rounded p-1 border-gray-300 hover:border-gray-900"
+        class="flex flex-row items-center lg:border-[1px] rounded p-1 border-gray-300 hover:border-gray-900"
         @click="openSearchModal"
     >
         <svg

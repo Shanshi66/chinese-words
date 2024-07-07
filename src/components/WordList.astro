@@ -18,7 +18,7 @@ const intl = getIntlData(lang);
         <h2 class="text-2xl font-bold md:text-4xl text-center mb-10">
             {intl.home.wordListTitle}
         </h2>
-        <div class="grid gap-5 lg:grid-cols-3 md:grid-cols-1">
+        <div class="grid gap-5 lg:grid-cols-3 md:grid-cols-2 grid-cols-1">
             {homeList.map((word) => <ListCard lang={lang} detail={word} />)}
         </div>
     </div>
