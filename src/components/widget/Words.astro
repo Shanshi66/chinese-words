@@ -9,11 +9,11 @@ interface Props {
 const { words, lang } = Astro.props;
 ---
 
-<div class="grid grid-cols-5 md:grid-cols-10">
+<div class="grid grid-cols-4 md:grid-cols-8">
     {
         words.map((word) => (
             <a
-                class="block hover:text-blue-700 m-2 text-xl"
+                class="block hover:text-blue-700 m-2 md:text-xl"
                 href={`/${lang.locale}/words/${word.word}`}
             >
                 {word.word}
