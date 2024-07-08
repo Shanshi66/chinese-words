@@ -1,44 +1,57 @@
 ---
 import type { MetaData as MetaDataType } from "@/common/types";
+import GoogleAnalysis from "@/components/GoogleAnalysis.astro";
 export interface Props {
-	metadata: MetaDataType;
+    metadata: MetaDataType;
 }
 
 const { metadata } = Astro.props;
 
-let host = Astro.site?.host
-if (host && host.endsWith('/')) {
-	host = host.slice(0, -1)
+let host = Astro.site?.host;
+if (host && host.endsWith("/")) {
+    host = host.slice(0, -1);
 }
-let canonical = `${host}${metadata.canonical}`
-if (canonical && canonical.endsWith('/')) {
-	canonical =  canonical.slice(0, -1)
+let canonical = `${host}${metadata.canonical}`;
+if (canonical && canonical.endsWith("/")) {
+    canonical = canonical.slice(0, -1);
 }
 ---
 
 <!doctype html>
 <html lang={metadata.lang.locale}>
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<!-- favicon -->
-		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-		<link rel="manifest" href="/site.webmanifest">
-		<!-- title & description -->
-		<title>{metadata.title}</title>
-		<meta name="description" content={metadata.description} />
-		<!-- canonical link -->
-		 {
-			metadata.canonical ? (
-				<link rel="canonical" href={canonical} />
-			) : null
-		 }
-		 <!-- sitemap -->
-		 <link rel="sitemap" href="/sitemap-index.xml" />
-	</head>
-	<body class="font-serif max-w-screen-xl mx-auto min-h-screen px-4">
-		<slot />
-	</body>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+        <!-- favicon -->
+        <link
+            rel="apple-touch-icon"
+            sizes="180x180"
+            href="/apple-touch-icon.png"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="/favicon-32x32.png"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+            href="/favicon-16x16.png"
+        />
+        <link rel="manifest" href="/site.webmanifest" />
+        <!-- title & description -->
+        <title>{metadata.title}</title>
+        <meta name="description" content={metadata.description} />
+        <!-- canonical link -->
+        {metadata.canonical ? <link rel="canonical" href={canonical} /> : null}
+        <!-- sitemap -->
+        <link rel="sitemap" href="/sitemap-index.xml" />
+        <!-- google -->
+        <GoogleAnalysis />
+    </head>
+    <body class="font-serif max-w-screen-xl mx-auto min-h-screen px-4">
+        <slot />
+    </body>
 </html>
