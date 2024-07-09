@@ -8,6 +8,7 @@ export interface SiteIntlData {
 
 export interface HeaderIntlData {
     lists: string;
+    blog: string;
     home: string;
     searchPlaceholder: string;
     searchHint: string;
@@ -31,6 +32,11 @@ interface ListIntlData {
     description: string;
 }
 
+interface BlogIntlData {
+    title: string;
+    description: string;
+}
+
 interface WordIntlData {
     description: string;
     information: string;
@@ -45,6 +51,7 @@ export interface IntlData {
     header: HeaderIntlData;
     home: HomeIntlData;
     lists: ListIntlData;
+    blog: BlogIntlData;
     word: WordIntlData;
 }
 
@@ -56,6 +63,7 @@ export const englishIntlData: IntlData = {
     },
     header: {
         lists: "Lists",
+        blog: "Blog",
         home: "Home",
         searchPlaceholder: "Search",
         searchHint: "Search by pinyin or characters",
@@ -78,6 +86,11 @@ export const englishIntlData: IntlData = {
         description:
             "Collect Chinese words in different scenarios and purposes, and organize them into lists for targeted learning",
     },
+    blog: {
+        title: "Share interesting Chinese content",
+        description:
+            "Website updates, Chinese learning tips, interesting Chinese content sharing, etc",
+    },
     word: {
         description: "pinyin, writing, explanation and examples",
         information: "Information",
@@ -96,6 +109,7 @@ export const chineseIntlData: IntlData = {
     header: {
         lists: "列表",
         home: "首页",
+        blog: "博客",
         searchPlaceholder: "搜索",
         searchHint: "通过拼音或汉字搜索",
         searchResult: "搜索结果",
@@ -116,6 +130,10 @@ export const chineseIntlData: IntlData = {
         title: "中文词分类表",
         description:
             "收集不同场景、不同用途下的中文单词，整理成列表，方便针对性学习",
+    },
+    blog: {
+        title: "分享有趣的中文内容",
+        description: "网站收录更新，中文学习技巧，有趣的中文内容分享等等",
     },
     word: {
         description: "拼音、写法、解释和例句",

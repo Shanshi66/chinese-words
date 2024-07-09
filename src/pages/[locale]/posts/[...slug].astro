@@ -1,0 +1,34 @@
+---
+import type { MetaData } from "@/common/types";
+import { getLang, supportedLang } from "@/customize/lang";
+import PageLayout from "@/layouts/PageLayout.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+    const posts = await getCollection("posts");
+    for (let lang of supportedLang) {
+        return posts.map((post) => ({
+            params: { slug: post.slug, locale: lang.locale },
+            props: { post },
+        }));
+    }
+}
+
+const { post } = Astro.props;
+const { locale, slug } = Astro.params;
+const { Content } = await post.render();
+
+const lang = getLang(locale);
+
+const metadata: MetaData = {
+    title: `${post.data.title}`,
+    description: `${post.data.description}`,
+    lang: lang,
+};
+---
+
+<PageLayout metadata={metadata}>
+    <div class="prose prose-lg mx-auto">
+        <Content />
+    </div>
+</PageLayout>

@@ -19,6 +19,7 @@ if (pathSplit.length > 2) {
 const intlData = getIntlData(lang);
 
 const isList = pathWithoutLang === "/lists";
+const isBlog = pathWithoutLang === "/blog";
 const isHome = pathWithoutLang === "/";
 ---
 
@@ -48,6 +49,20 @@ const isHome = pathWithoutLang === "/";
                 </a>
             ) : (
                 <a href={`/${lang.locale}/lists`}>{intlData.header.lists}</a>
+            )
+        }
+    </span>
+    <span class="hover:bg-gray-100 rounded p-2">
+        {
+            isBlog ? (
+                <a
+                    href={`/${lang.locale}/blog`}
+                    class="text-blue-700 font-semibold"
+                >
+                    {intlData.header.blog}
+                </a>
+            ) : (
+                <a href={`/${lang.locale}/blog`}>{intlData.header.blog}</a>
             )
         }
     </span>
