@@ -1,5 +1,5 @@
 ---
-import type { Language } from "@/common/types";
+import type { Language, LanguagePath } from "@/common/types";
 import { getIntlData } from "@/customize/intl";
 import { supportedLang } from "@/customize/lang";
 import Search from "./widget/Search.vue";
@@ -7,19 +7,28 @@ import Navigation from "./widget/Navigation.astro";
 
 interface Props {
     lang: Language;
+    langPaths?: LanguagePath[];
 }
 
-const { lang } = Astro.props;
-const pathSplit = Astro.url.pathname.split("/");
-
-let pathWithoutLang = "";
-if (pathSplit.length > 2) {
-    pathWithoutLang = `/${pathSplit.slice(2).join("/")}`;
-} else {
-    pathWithoutLang = "/";
-}
+const { lang, langPaths } = Astro.props;
 
 const intlData = getIntlData(lang);
+
+function getLangUrl(lang: Language): string {
+    let path: string = "";
+    if (langPaths) {
+        path = langPaths.find((langPath) => langPath.lang === lang)?.path ?? "";
+    }
+    if (path === "") {
+        const pathSplit = Astro.url.pathname.split("/");
+        if (pathSplit.length > 2) {
+            path = `/${pathSplit.slice(2).join("/")}`;
+        } else {
+            path = "";
+        }
+    }
+    return `/${lang.locale}${path}`;
+}
 ---
 
 <header>
@@ -43,12 +52,15 @@ const intlData = getIntlData(lang);
                 <select
                     name="language"
                     id="language-select"
-                    data-path={`${pathWithoutLang}`}
                     class="hidden md:block"
                 >
                     {
                         supportedLang.map((l) => (
-                            <option value={l.locale} selected={l === lang}>
+                            <option
+                                value={l.locale}
+                                selected={l === lang}
+                                data-path={getLangUrl(l)}
+                            >
                                 {l.name}
                             </option>
                         ))
@@ -84,14 +96,14 @@ const intlData = getIntlData(lang);
             id="mobile-menu"
         >
             <Navigation lang={lang} />
-            <select
-                name="language"
-                id="language-select-mobile"
-                data-path={`${pathWithoutLang}`}
-            >
+            <select name="language" id="language-select-mobile">
                 {
                     supportedLang.map((l) => (
-                        <option value={l.locale} selected={l === lang}>
+                        <option
+                            value={l.locale}
+                            selected={l === lang}
+                            data-path={getLangUrl(l)}
+                        >
                             {l.name}
                         </option>
                     ))
@@ -101,17 +113,14 @@ const intlData = getIntlData(lang);
     </nav>
 
     <script>
-        function addLanguageSelectListener(divId: string) {
-            const languageSelect = document.getElementById(divId);
+        function addLanguageSelectListener(id: string) {
+            const languageSelect = document.getElementById(id);
             if (languageSelect) {
                 languageSelect.addEventListener("change", (e) => {
-                    const value = (e.target as HTMLSelectElement).value;
-                    const path = languageSelect.getAttribute("data-path");
-                    if (path === "/") {
-                        window.location.href = `/${value}`;
-                    } else {
-                        window.location.href = `/${value}${path}`;
-                    }
+                    let elem = e.target as HTMLSelectElement;
+                    let option = elem.options[elem.selectedIndex];
+                    let path = option.getAttribute("data-path");
+                    window.location.href = `${path}`;
                 });
             }
         }

@@ -1,21 +1,38 @@
 ---
-import type { MetaData } from "@/common/types";
+import type { MetaData, LanguagePath } from "@/common/types";
 import { getLang, supportedLang } from "@/customize/lang";
 import PageLayout from "@/layouts/PageLayout.astro";
 import { getCollection } from "astro:content";
 
 export async function getStaticPaths() {
     const posts = await getCollection("posts");
+    let ret = [];
+    let langPaths: LanguagePath[] = [];
     for (let lang of supportedLang) {
-        return posts.map((post) => ({
-            params: { slug: post.slug, locale: lang.locale },
-            props: { post },
-        }));
+        for (let post of posts) {
+            if (post.id.startsWith(lang.locale)) {
+                langPaths.push({
+                    lang: lang,
+                    path: `/posts/${post.slug}`,
+                });
+            }
+        }
     }
+    for (let lang of supportedLang) {
+        for (let post of posts) {
+            if (post.id.startsWith(lang.locale)) {
+                ret.push({
+                    params: { slug: post.slug, locale: lang.locale },
+                    props: { post, langPaths },
+                });
+            }
+        }
+    }
+    return ret;
 }
 
-const { post } = Astro.props;
-const { locale, slug } = Astro.params;
+const { post, langPaths } = Astro.props;
+const { locale } = Astro.params;
 const { Content } = await post.render();
 
 const lang = getLang(locale);
@@ -24,6 +41,7 @@ const metadata: MetaData = {
     title: `${post.data.title}`,
     description: `${post.data.description}`,
     lang: lang,
+    langPaths: langPaths,
 };
 ---
 

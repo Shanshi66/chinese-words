@@ -11,13 +11,13 @@ import { loadAllWords, loadWord } from "@/utils/words";
 import { allList, getListIntl } from "@/customize/list";
 
 export async function getStaticPaths() {
-    const words = loadAllWords()
+    const words = loadAllWords();
     let paths = [];
     for (let lang of supportedLang) {
         for (let word of words) {
             paths.push({
                 params: {
-                    locale: lang?.locale,
+                    locale: lang.locale,
                     word: word.word,
                 },
             });
@@ -43,7 +43,7 @@ for (let i = 0; i < word.length; i++) {
 let wordDetail = loadWord(word);
 
 let relatedList = allList.filter((list) =>
-    list.tags.some((tag) => wordDetail.tags.includes(tag)),
+    list.tags.some((tag) => wordDetail.tags.includes(tag))
 );
 
 const metadata: MetaData = {

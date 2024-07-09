@@ -13,7 +13,7 @@ const { metadata } = Astro.props;
 ---
 
 <Layout metadata={metadata}>
-    <Header lang={metadata.lang} />
+    <Header lang={metadata.lang} langPaths={metadata.langPaths} />
     <main>
         <slot />
     </main>

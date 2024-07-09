@@ -3,6 +3,12 @@ export interface MetaData {
     canonical?: string;
     description: string;
     lang: Language;
+    langPaths?: LanguagePath[];
+}
+
+export interface LanguagePath {
+    lang: Language;
+    path: string;
 }
 
 export interface PinyinWord {

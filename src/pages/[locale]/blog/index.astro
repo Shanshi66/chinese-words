@@ -10,7 +10,7 @@ export async function getStaticPaths() {
     return supportedLang.map((lang) => {
         return {
             params: {
-                locale: lang?.locale,
+                locale: lang.locale,
             },
         };
     });
