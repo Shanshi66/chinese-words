@@ -1,5 +1,6 @@
 ---
 import type { MetaData, LanguagePath } from "@/common/types";
+import Prose from "@/components/widget/Prose.astro";
 import { getLang, supportedLang } from "@/customize/lang";
 import PageLayout from "@/layouts/PageLayout.astro";
 import { getCollection } from "astro:content";
@@ -46,7 +47,9 @@ const metadata: MetaData = {
 ---
 
 <PageLayout metadata={metadata}>
-    <div class="prose prose-lg mx-auto">
-        <Content />
+    <div class="mt-10 md:mt-16 md:w-[800px] md:mx-auto">
+        <Prose>
+            <Content />
+        </Prose>
     </div>
 </PageLayout>

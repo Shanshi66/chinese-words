@@ -1,6 +1,6 @@
 ---
-title: Thirty Thousand Miles of Chang'an - Sing by Yunxiao Li
-description: The Yue Opera performer Li Yunxiao combined the singing style of drama to perform the theme song of 《Thirty Thousand Miles of Chang'an》, which is very impressive.
+title: Thirty Thousand Miles of Chang'an - Yunxiao Li
+description: The Yue Opera performer Li Yunxiao combined the singing style of drama to perform the theme song of 《Thirty Thousand Miles of Chang'an》.
 cover:
     url: "/src/content/posts/images/liyunxiao.jpg"
     alt: "liyunxiao"
@@ -9,4 +9,141 @@ tags: ["astro", "blogging", "learning in public", "successes"]
 slug: enliyunxiao
 ---
 
-After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
+import Youtube from "@/components/widget/Youtube.astro";
+import PinyinWords from "@/components/widget/PinyinWords.astro";
+
+# {frontmatter.title}
+
+<Youtube>
+    <iframe
+        class="mx-auto aspect-video w-full md:w-[600px] lg:w-[700px]"
+        src="https://www.youtube.com/embed/cUuSe64T988?si=j8yEcxz50iTyw6nL"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen
+    ></iframe>
+</Youtube>
+
+<h2 class="text-center">Lyrics</h2>
+
+<div class="my-4 flex flex-col items-center">
+    <div class="my-2"> 
+        <PinyinWords word="月下灯笼挂枝头" />
+    </div>
+    <div class="my-2"> 
+        <PinyinWords word="喧闹绕上楼外楼" />
+    </div>
+    <div class="my-2"> 
+        <PinyinWords word="商贩吆喝挑货走" />
+    </div>
+    <div class="my-2"> 
+        <PinyinWords word="戏台上唱起折柳" />
+    </div>
+
+    <div class="my-2">
+        <PinyinWords word="有人提笔需醉酒" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="玉壶倾下黄河奔流" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="还有人呼朋唤友" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="为听话本聚茶楼" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="有少女在回眸" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="问谁有憾事留" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="火树银花今宵同载游" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="船压满天星斗" />
+    </div>
+
+    <div class="my-2">
+        <PinyinWords word="少年忙觥筹问功名谁收" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="又题诗词十余首" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="梦里白玉京化作绕指柔" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="琼浆酿出万户侯" />
+    </div>
+
+    <div class="my-2">
+        <PinyinWords word="鱼龙舞星宿问谜题谁抽" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="还有人举着沙漏" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="若能拔头筹" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="青砚配红袖" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="此番长安烟火当入画轴" />
+    </div>
+
+    <div class="my-2">
+        <PinyinWords word="花萼楼前雨露新" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="长安城里太平人" />
+    </div>
+
+    <div class="my-2">
+        <PinyinWords word="人生得意须尽欢来译" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="莫使金樽长空对月明" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="高歌一曲" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="请君也为我倾耳倾听" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="盼知何时是归期" />
+    </div>
+
+    <div class="my-2">
+        <PinyinWords word="千岩万转漫漫长路不定" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="但愿千愁长醉不复醒" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="南风一扫胡尘静" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="西入长安到日尽" />
+    </div>
+
+    <div class="my-2">
+        <PinyinWords word="将进酒杯莫停" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="惟有饮者留其名" />
+    </div>
+
+    <div class="my-2">
+        <PinyinWords word="将进酒杯莫停" />
+    </div>
+    <div class="my-2">
+        <PinyinWords word="惟有饮者留其名" />
+    </div>
+
+</div>
