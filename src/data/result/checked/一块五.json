@@ -1,0 +1,34 @@
+{
+    "word": "一块五",
+    "tags": [
+        "price"
+    ],
+    "explanations": [
+        {
+            "explanation": "一块五",
+            "translate": {
+                "english": "one yuan and fifty cents"
+            },
+            "examples": [
+                {
+                    "example": "我买了一个棒棒糖，花了一块五，心里美滋滋的。",
+                    "translate": {
+                        "english": "I bought a lollipop and spent one yuan and fifty cents, feeling very pleased."
+                    }
+                },
+                {
+                    "example": "我用一块五买了一支铅笔，感觉很划算。",
+                    "translate": {
+                        "english": "I bought a pencil with one yuan and fifty cents and felt it was a very good deal."
+                    }
+                },
+                {
+                    "example": "我用一块五买了一本很有趣的书，真是物超所值。",
+                    "translate": {
+                        "english": "I bought a very interesting book with one yuan and fifty cents, and it is really a great value for money."
+                    }
+                }
+            ]
+        }
+    ]
+}

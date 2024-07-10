@@ -1,0 +1,34 @@
+{
+    "word": "一百元",
+    "tags": [
+        "price"
+    ],
+    "explanations": [
+        {
+            "explanation": "一百元",
+            "translate": {
+                "english": "one hundred yuan"
+            },
+            "examples": [
+                {
+                    "example": "我用一百元买了一本很有意义的书，感觉收获满满。",
+                    "translate": {
+                        "english": "I bought a very meaningful book with one hundred yuan and felt full of gains."
+                    }
+                },
+                {
+                    "example": "我用一百元给妈妈买了一束鲜花，妈妈特别开心。",
+                    "translate": {
+                        "english": "I used one hundred yuan to buy a bunch of flowers for my mother, and my mother was extremely happy."
+                    }
+                },
+                {
+                    "example": "我用一百元请朋友吃了一顿美味的晚餐，大家都很开心。",
+                    "translate": {
+                        "english": "I spent one hundred yuan treating my friends to a delicious dinner and everyone was very happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

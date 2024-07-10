@@ -1,0 +1,34 @@
+{
+    "word": "十万元",
+    "tags": [
+        "price"
+    ],
+    "explanations": [
+        {
+            "explanation": "十万元",
+            "translate": {
+                "english": "one hundred thousand yuan"
+            },
+            "examples": [
+                {
+                    "example": "我通过自己的努力工作，终于攒够了十万元，这让我非常有成就感。",
+                    "translate": {
+                        "english": "I finally saved up one hundred thousand yuan through my own hard work, which made me feel a great sense of accomplishment."
+                    }
+                },
+                {
+                    "example": "我打算用这十万元去实现自己一直以来的梦想，开启一段精彩的旅程。",
+                    "translate": {
+                        "english": "I plan to use this one hundred thousand yuan to realize my long-cherished dream and start a wonderful journey."
+                    }
+                },
+                {
+                    "example": "我用辛勤工作攒下的十万元给父母买了一份贴心的礼物，他们特别开心。",
+                    "translate": {
+                        "english": "I used the 100,000 yuan saved from hard work to buy a considerate gift for my parents, and they were extremely happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

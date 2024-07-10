@@ -150,12 +150,27 @@ export const numberList: IntlListDetail = {
     english: {
         title: "Numbers",
         description:
-            "Chinese words for numbers, including basic numbers, ordinal numbers, fractions, percentages, prices, etc.",
+            "Chinese words for numbers, including basic numbers, ordinal numbers, fractions, percentages, etc.",
     },
     chinese: {
         title: "数字",
         description:
             "汉语中数字相关词汇, 包括基本数字、序数、分数、百分数、价格等",
+    },
+};
+
+export const priceList: IntlListDetail = {
+    name: "price",
+    imgPath: "/src/assets/images/price.jpg",
+    url: "/lists/price",
+    tags: ["price"],
+    english: {
+        title: "Price",
+        description: "Chinese words for price",
+    },
+    chinese: {
+        title: "价格",
+        description: "汉语中价格相关词汇",
     },
 };
 
@@ -256,7 +271,9 @@ export const basicLists: IntlListDetail[] = [
     numberList,
     foodList,
     animalList,
+    priceList,
 ];
+
 export const scenarioLists: IntlListDetail[] = [
     businessList,
     loveList,
