@@ -16,12 +16,24 @@
         "pinyin": "gong zuo ri"
     },
     {
+        "word": "发现",
+        "pinyin": "fa xian"
+    },
+    {
+        "word": "通过",
+        "pinyin": "tong guo"
+    },
+    {
         "word": "业务",
         "pinyin": "ye wu"
     },
     {
         "word": "中国",
         "pinyin": "zhong guo"
+    },
+    {
+        "word": "西医",
+        "pinyin": "xi yi"
     },
     {
         "word": "有用",
@@ -36,8 +48,20 @@
         "pinyin": "pei gen"
     },
     {
+        "word": "筷子",
+        "pinyin": "kuai zi"
+    },
+    {
+        "word": "草地",
+        "pinyin": "cao di"
+    },
+    {
         "word": "鸭肉",
         "pinyin": "ya rou"
+    },
+    {
+        "word": "教师",
+        "pinyin": "jiao shi"
     },
     {
         "word": "本子",
@@ -56,8 +80,16 @@
         "pinyin": "lang man"
     },
     {
+        "word": "晚餐",
+        "pinyin": "wan can"
+    },
+    {
         "word": "苦菊",
         "pinyin": "ku ju"
+    },
+    {
+        "word": "游客",
+        "pinyin": "you ke"
     },
     {
         "word": "榴莲",
@@ -88,8 +120,16 @@
         "pinyin": "shi bu shi"
     },
     {
+        "word": "取得",
+        "pinyin": "qu de"
+    },
+    {
         "word": "课文",
         "pinyin": "ke wen"
+    },
+    {
+        "word": "多数",
+        "pinyin": "duo shu"
     },
     {
         "word": "生产力",
@@ -124,6 +164,10 @@
         "pinyin": "fu pen zi"
     },
     {
+        "word": "健康",
+        "pinyin": "jian kang"
+    },
+    {
         "word": "处理",
         "pinyin": "chu li"
     },
@@ -136,12 +180,32 @@
         "pinyin": "du juan"
     },
     {
+        "word": "东南",
+        "pinyin": "dong nan"
+    },
+    {
+        "word": "心中",
+        "pinyin": "xin zhong"
+    },
+    {
         "word": "爱好",
         "pinyin": "ai hao"
     },
     {
+        "word": "海边",
+        "pinyin": "hai bian"
+    },
+    {
         "word": "跳舞",
         "pinyin": "tiao wu"
+    },
+    {
+        "word": "一般",
+        "pinyin": "yi ban"
+    },
+    {
+        "word": "比如说",
+        "pinyin": "bi ru shuo"
     },
     {
         "word": "下雨",
@@ -156,12 +220,32 @@
         "pinyin": "an lian"
     },
     {
+        "word": "主要",
+        "pinyin": "zhu yao"
+    },
+    {
         "word": "教学楼",
         "pinyin": "jiao xue lou"
     },
     {
+        "word": "多云",
+        "pinyin": "duo yun"
+    },
+    {
+        "word": "这么",
+        "pinyin": "zhe me"
+    },
+    {
+        "word": "生词",
+        "pinyin": "sheng ci"
+    },
+    {
         "word": "迷人",
         "pinyin": "mi ren"
+    },
+    {
+        "word": "关机",
+        "pinyin": "guan ji"
     },
     {
         "word": "芝麻",
@@ -170,6 +254,10 @@
     {
         "word": "回来",
         "pinyin": "hui lai"
+    },
+    {
+        "word": "午睡",
+        "pinyin": "wu shui"
     },
     {
         "word": "员工",
@@ -184,12 +272,36 @@
         "pinyin": "xia ci jian"
     },
     {
+        "word": "干活儿",
+        "pinyin": "gan huo er"
+    },
+    {
+        "word": "下周",
+        "pinyin": "xia zhou"
+    },
+    {
         "word": "帮忙",
         "pinyin": "bang mang"
     },
     {
         "word": "谢谢你",
         "pinyin": "xie xie ni"
+    },
+    {
+        "word": "普通",
+        "pinyin": "pu tong"
+    },
+    {
+        "word": "方法",
+        "pinyin": "fang fa"
+    },
+    {
+        "word": "组成",
+        "pinyin": "zu cheng"
+    },
+    {
+        "word": "流利",
+        "pinyin": "liu li"
     },
     {
         "word": "鸭蛋",
@@ -200,8 +312,16 @@
         "pinyin": "yong bao"
     },
     {
+        "word": "司机",
+        "pinyin": "si ji"
+    },
+    {
         "word": "星期",
         "pinyin": "xing qi"
+    },
+    {
+        "word": "认为",
+        "pinyin": "ren wei"
     },
     {
         "word": "有感觉",
@@ -214,6 +334,14 @@
     {
         "word": "狗",
         "pinyin": "gou"
+    },
+    {
+        "word": "画家",
+        "pinyin": "hua jia"
+    },
+    {
+        "word": "班长",
+        "pinyin": "ban zhang"
     },
     {
         "word": "汽车",
@@ -240,20 +368,56 @@
         "pinyin": "ling jiao"
     },
     {
+        "word": "所以",
+        "pinyin": "suo yi"
+    },
+    {
+        "word": "正常",
+        "pinyin": "zheng chang"
+    },
+    {
         "word": "人事处",
         "pinyin": "ren shi chu"
+    },
+    {
+        "word": "照顾",
+        "pinyin": "zhao gu"
+    },
+    {
+        "word": "球队",
+        "pinyin": "qiu dui"
+    },
+    {
+        "word": "南方",
+        "pinyin": "nan fang"
+    },
+    {
+        "word": "住院",
+        "pinyin": "zhu yuan"
     },
     {
         "word": "红色",
         "pinyin": "hong se"
     },
     {
+        "word": "假期",
+        "pinyin": "jia qi"
+    },
+    {
         "word": "爷爷",
         "pinyin": "ye ye"
     },
     {
+        "word": "差不多",
+        "pinyin": "cha bu duo"
+    },
+    {
         "word": "早饭",
         "pinyin": "zao fan"
+    },
+    {
+        "word": "随便",
+        "pinyin": "sui bian"
     },
     {
         "word": "玉米",
@@ -296,6 +460,10 @@
         "pinyin": "bao zi"
     },
     {
+        "word": "语言",
+        "pinyin": "yu yan"
+    },
+    {
         "word": "女朋友",
         "pinyin": "nv peng you"
     },
@@ -316,8 +484,16 @@
         "pinyin": "shang bian"
     },
     {
+        "word": "平时",
+        "pinyin": "ping shi"
+    },
+    {
         "word": "商店",
         "pinyin": "shang dian"
+    },
+    {
+        "word": "里头",
+        "pinyin": "li tou"
     },
     {
         "word": "这里",
@@ -326,6 +502,10 @@
     {
         "word": "学院",
         "pinyin": "xue yuan"
+    },
+    {
+        "word": "放心",
+        "pinyin": "fang xin"
     },
     {
         "word": "请假",
@@ -344,16 +524,32 @@
         "pinyin": "qing wen"
     },
     {
+        "word": "检查",
+        "pinyin": "jian cha"
+    },
+    {
         "word": "小朋友",
         "pinyin": "xiao peng you"
+    },
+    {
+        "word": "姓名",
+        "pinyin": "xing ming"
     },
     {
         "word": "面条儿",
         "pinyin": "mian tiao er"
     },
     {
+        "word": "计算机",
+        "pinyin": "ji suan ji"
+    },
+    {
         "word": "老人",
         "pinyin": "lao ren"
+    },
+    {
+        "word": "零下",
+        "pinyin": "ling xia"
     },
     {
         "word": "中学",
@@ -368,20 +564,44 @@
         "pinyin": "di fang"
     },
     {
+        "word": "有一点儿",
+        "pinyin": "you yi dian er"
+    },
+    {
         "word": "壁虎",
         "pinyin": "bi hu"
+    },
+    {
+        "word": "图片",
+        "pinyin": "tu pian"
     },
     {
         "word": "丢了",
         "pinyin": "diu le"
     },
     {
+        "word": "合适",
+        "pinyin": "he shi"
+    },
+    {
         "word": "病人",
         "pinyin": "bing ren"
     },
     {
+        "word": "说明",
+        "pinyin": "shuo ming"
+    },
+    {
+        "word": "练习",
+        "pinyin": "lian xi"
+    },
+    {
         "word": "拜拜",
         "pinyin": "bai bai"
+    },
+    {
+        "word": "关心",
+        "pinyin": "guan xin"
     },
     {
         "word": "素食者",
@@ -392,8 +612,24 @@
         "pinyin": "zeng zhang lv"
     },
     {
+        "word": "对面",
+        "pinyin": "dui mian"
+    },
+    {
         "word": "部门",
         "pinyin": "bu men"
+    },
+    {
+        "word": "受到",
+        "pinyin": "shou dao"
+    },
+    {
+        "word": "好久",
+        "pinyin": "hao jiu"
+    },
+    {
+        "word": "拿出",
+        "pinyin": "na chu"
     },
     {
         "word": "黄色",
@@ -408,6 +644,10 @@
         "pinyin": "fei fei"
     },
     {
+        "word": "地球",
+        "pinyin": "di qiu"
+    },
+    {
         "word": "果汁",
         "pinyin": "guo zhi"
     },
@@ -420,12 +660,28 @@
         "pinyin": "kao shi"
     },
     {
+        "word": "过去",
+        "pinyin": "guo qu"
+    },
+    {
         "word": "市值",
         "pinyin": "shi zhi"
     },
     {
         "word": "西兰花",
         "pinyin": "xi lan hua"
+    },
+    {
+        "word": "如果",
+        "pinyin": "ru guo"
+    },
+    {
+        "word": "这时候",
+        "pinyin": "zhe shi hou"
+    },
+    {
+        "word": "直接",
+        "pinyin": "zhi jie"
     },
     {
         "word": "工作",
@@ -440,8 +696,24 @@
         "pinyin": "huo tui"
     },
     {
+        "word": "笔记",
+        "pinyin": "bi ji"
+    },
+    {
+        "word": "日子",
+        "pinyin": "ri zi"
+    },
+    {
+        "word": "而且",
+        "pinyin": "er qie"
+    },
+    {
         "word": "这些",
         "pinyin": "zhe xie"
+    },
+    {
+        "word": "许多",
+        "pinyin": "xu duo"
     },
     {
         "word": "半天",
@@ -460,12 +732,44 @@
         "pinyin": "bo cai"
     },
     {
+        "word": "青年",
+        "pinyin": "qing nian"
+    },
+    {
+        "word": "清楚",
+        "pinyin": "qing chu"
+    },
+    {
+        "word": "它们",
+        "pinyin": "ta men"
+    },
+    {
         "word": "甘蓝",
         "pinyin": "gan lan"
     },
     {
         "word": "老虎",
         "pinyin": "lao hu"
+    },
+    {
+        "word": "休假",
+        "pinyin": "xiu jia"
+    },
+    {
+        "word": "点头",
+        "pinyin": "dian tou"
+    },
+    {
+        "word": "教学",
+        "pinyin": "jiao xue"
+    },
+    {
+        "word": "怎么办",
+        "pinyin": "zen me ban"
+    },
+    {
+        "word": "最近",
+        "pinyin": "zui jin"
     },
     {
         "word": "冰淇淋",
@@ -512,12 +816,32 @@
         "pinyin": "wen jian"
     },
     {
+        "word": "少数",
+        "pinyin": "shao shu"
+    },
+    {
+        "word": "球场",
+        "pinyin": "qiu chang"
+    },
+    {
+        "word": "自行车",
+        "pinyin": "zi xing che"
+    },
+    {
         "word": "蚂蚁",
         "pinyin": "ma yi"
     },
     {
+        "word": "西南",
+        "pinyin": "xi nan"
+    },
+    {
         "word": "巧克力",
         "pinyin": "qiao ke li"
+    },
+    {
+        "word": "特点",
+        "pinyin": "te dian"
     },
     {
         "word": "狮子",
@@ -528,8 +852,24 @@
         "pinyin": "ban nian"
     },
     {
+        "word": "中小学",
+        "pinyin": "zhong xiao xue"
+    },
+    {
         "word": "唯一",
         "pinyin": "wei yi"
+    },
+    {
+        "word": "水平",
+        "pinyin": "shui ping"
+    },
+    {
+        "word": "商量",
+        "pinyin": "shang liang"
+    },
+    {
+        "word": "广场",
+        "pinyin": "guang chang"
     },
     {
         "word": "一下儿",
@@ -560,6 +900,10 @@
         "pinyin": "ma lan"
     },
     {
+        "word": "观点",
+        "pinyin": "guan dian"
+    },
+    {
         "word": "城市化",
         "pinyin": "cheng shi hua"
     },
@@ -580,6 +924,18 @@
         "pinyin": "ya tui"
     },
     {
+        "word": "使用",
+        "pinyin": "shi yong"
+    },
+    {
+        "word": "北方",
+        "pinyin": "bei fang"
+    },
+    {
+        "word": "不一会儿",
+        "pinyin": "bu yi hui er"
+    },
+    {
         "word": "肥肠",
         "pinyin": "fei chang"
     },
@@ -594,6 +950,14 @@
     {
         "word": "早上好",
         "pinyin": "zao shang hao"
+    },
+    {
+        "word": "不过",
+        "pinyin": "bu guo"
+    },
+    {
+        "word": "小说",
+        "pinyin": "xiao shuo"
     },
     {
         "word": "回到",
@@ -614,6 +978,14 @@
     {
         "word": "南瓜",
         "pinyin": "nan gua"
+    },
+    {
+        "word": "得出",
+        "pinyin": "de chu"
+    },
+    {
+        "word": "感动",
+        "pinyin": "gan dong"
     },
     {
         "word": "电视",
@@ -640,12 +1012,36 @@
         "pinyin": "nv er"
     },
     {
+        "word": "交通",
+        "pinyin": "jiao tong"
+    },
+    {
+        "word": "满意",
+        "pinyin": "man yi"
+    },
+    {
         "word": "谈生意",
         "pinyin": "tan sheng yi"
     },
     {
+        "word": "年轻",
+        "pinyin": "nian qing"
+    },
+    {
+        "word": "人口",
+        "pinyin": "ren kou"
+    },
+    {
         "word": "鸭肝",
         "pinyin": "ya gan"
+    },
+    {
+        "word": "晴天",
+        "pinyin": "qing tian"
+    },
+    {
+        "word": "排队",
+        "pinyin": "pai dui"
     },
     {
         "word": "在哪里",
@@ -654,6 +1050,10 @@
     {
         "word": "刺猬",
         "pinyin": "ci wei"
+    },
+    {
+        "word": "气温",
+        "pinyin": "qi wen"
     },
     {
         "word": "蝎子",
@@ -672,6 +1072,10 @@
         "pinyin": "jing yu"
     },
     {
+        "word": "夏天",
+        "pinyin": "xia tian"
+    },
+    {
         "word": "不是",
         "pinyin": "bu shi"
     },
@@ -684,8 +1088,28 @@
         "pinyin": "jue cai"
     },
     {
+        "word": "后来",
+        "pinyin": "hou lai"
+    },
+    {
         "word": "羊",
         "pinyin": "yang"
+    },
+    {
+        "word": "快餐",
+        "pinyin": "kuai can"
+    },
+    {
+        "word": "全身",
+        "pinyin": "quan shen"
+    },
+    {
+        "word": "不满",
+        "pinyin": "bu man"
+    },
+    {
+        "word": "好多",
+        "pinyin": "hao duo"
     },
     {
         "word": "长颈鹿",
@@ -698,6 +1122,10 @@
     {
         "word": "马路",
         "pinyin": "ma lu"
+    },
+    {
+        "word": "有空儿",
+        "pinyin": "you kong er"
     },
     {
         "word": "瘦肉",
@@ -720,12 +1148,24 @@
         "pinyin": "xing qi ri"
     },
     {
+        "word": "只能",
+        "pinyin": "zhi neng"
+    },
+    {
         "word": "在家",
         "pinyin": "zai jia"
     },
     {
         "word": "那边",
         "pinyin": "na bian"
+    },
+    {
+        "word": "画儿",
+        "pinyin": "hua er"
+    },
+    {
+        "word": "老王",
+        "pinyin": "lao wang"
     },
     {
         "word": "鸭翅",
@@ -736,8 +1176,16 @@
         "pinyin": "mei shi er"
     },
     {
+        "word": "笔记本",
+        "pinyin": "bi ji ben"
+    },
+    {
         "word": "猪肚",
         "pinyin": "zhu du"
+    },
+    {
+        "word": "路边",
+        "pinyin": "lu bian"
     },
     {
         "word": "无私",
@@ -748,12 +1196,36 @@
         "pinyin": "nv hai er"
     },
     {
+        "word": "找出",
+        "pinyin": "zhao chu"
+    },
+    {
+        "word": "快点儿",
+        "pinyin": "kuai dian er"
+    },
+    {
+        "word": "不久",
+        "pinyin": "bu jiu"
+    },
+    {
         "word": "酸菜",
         "pinyin": "suan cai"
     },
     {
+        "word": "应该",
+        "pinyin": "ying gai"
+    },
+    {
+        "word": "难看",
+        "pinyin": "nan kan"
+    },
+    {
         "word": "小学生",
         "pinyin": "xiao xue sheng"
+    },
+    {
+        "word": "商人",
+        "pinyin": "shang ren"
     },
     {
         "word": "李子",
@@ -768,6 +1240,14 @@
         "pinyin": "yan zi"
     },
     {
+        "word": "周末",
+        "pinyin": "zhou mo"
+    },
+    {
+        "word": "实现",
+        "pinyin": "shi xian"
+    },
+    {
         "word": "医生",
         "pinyin": "yi sheng"
     },
@@ -780,12 +1260,24 @@
         "pinyin": "guo dong"
     },
     {
+        "word": "照片",
+        "pinyin": "zhao pian"
+    },
+    {
         "word": "小孩儿",
         "pinyin": "xiao hai er"
     },
     {
         "word": "你好",
         "pinyin": "ni hao"
+    },
+    {
+        "word": "例如",
+        "pinyin": "li ru"
+    },
+    {
+        "word": "送给",
+        "pinyin": "song gei"
     },
     {
         "word": "回家",
@@ -804,6 +1296,34 @@
         "pinyin": "ke hu"
     },
     {
+        "word": "出口",
+        "pinyin": "chu kou"
+    },
+    {
+        "word": "手表",
+        "pinyin": "shou biao"
+    },
+    {
+        "word": "走过",
+        "pinyin": "zou guo"
+    },
+    {
+        "word": "见到",
+        "pinyin": "jian dao"
+    },
+    {
+        "word": "信心",
+        "pinyin": "xin xin"
+    },
+    {
+        "word": "正好",
+        "pinyin": "zheng hao"
+    },
+    {
+        "word": "行人",
+        "pinyin": "xing ren"
+    },
+    {
         "word": "紫苏",
         "pinyin": "zi su"
     },
@@ -820,16 +1340,32 @@
         "pinyin": "sheng ri"
     },
     {
+        "word": "笑话儿",
+        "pinyin": "xiao hua er"
+    },
+    {
         "word": "生病",
         "pinyin": "sheng bing"
+    },
+    {
+        "word": "公司",
+        "pinyin": "gong si"
     },
     {
         "word": "小学",
         "pinyin": "xiao xue"
     },
     {
+        "word": "身边",
+        "pinyin": "shen bian"
+    },
+    {
         "word": "香椿",
         "pinyin": "xiang chun"
+    },
+    {
+        "word": "部分",
+        "pinyin": "bu fen"
     },
     {
         "word": "人力资源",
@@ -840,8 +1376,16 @@
         "pinyin": "xiao shou"
     },
     {
+        "word": "作文",
+        "pinyin": "zuo wen"
+    },
+    {
         "word": "青蛙",
         "pinyin": "qing wa"
+    },
+    {
+        "word": "晚报",
+        "pinyin": "wan bao"
     },
     {
         "word": "乌冬面",
@@ -856,6 +1400,10 @@
         "pinyin": "zen me zou"
     },
     {
+        "word": "体育",
+        "pinyin": "ti yu"
+    },
+    {
         "word": "下边",
         "pinyin": "xia bian"
     },
@@ -864,8 +1412,40 @@
         "pinyin": "na er"
     },
     {
+        "word": "为什么",
+        "pinyin": "wei shen me"
+    },
+    {
+        "word": "常见",
+        "pinyin": "chang jian"
+    },
+    {
         "word": "介绍",
         "pinyin": "jie shao"
+    },
+    {
+        "word": "星星",
+        "pinyin": "xing xing"
+    },
+    {
+        "word": "单位",
+        "pinyin": "dan wei"
+    },
+    {
+        "word": "公共汽车",
+        "pinyin": "gong gong qi che"
+    },
+    {
+        "word": "平等",
+        "pinyin": "ping deng"
+    },
+    {
+        "word": "中级",
+        "pinyin": "zhong ji"
+    },
+    {
+        "word": "客人",
+        "pinyin": "ke ren"
     },
     {
         "word": "研究",
@@ -876,8 +1456,16 @@
         "pinyin": "wu ya"
     },
     {
+        "word": "西方",
+        "pinyin": "xi fang"
+    },
+    {
         "word": "报价",
         "pinyin": "bao jia"
+    },
+    {
+        "word": "早晨",
+        "pinyin": "zao chen"
     },
     {
         "word": "没关系",
@@ -886,6 +1474,18 @@
     {
         "word": "炼乳",
         "pinyin": "lian ru"
+    },
+    {
+        "word": "完成",
+        "pinyin": "wan cheng"
+    },
+    {
+        "word": "碰见",
+        "pinyin": "peng jian"
+    },
+    {
+        "word": "银行卡",
+        "pinyin": "yin hang ka"
     },
     {
         "word": "好吃",
@@ -900,8 +1500,16 @@
         "pinyin": "zhong hua xun"
     },
     {
+        "word": "全部",
+        "pinyin": "quan bu"
+    },
+    {
         "word": "明天",
         "pinyin": "ming tian"
+    },
+    {
+        "word": "正是",
+        "pinyin": "zheng shi"
     },
     {
         "word": "黄油",
@@ -914,6 +1522,26 @@
     {
         "word": "莴苣",
         "pinyin": "wo ju"
+    },
+    {
+        "word": "意思",
+        "pinyin": "yi si"
+    },
+    {
+        "word": "公里",
+        "pinyin": "gong li"
+    },
+    {
+        "word": "好处",
+        "pinyin": "hao chu"
+    },
+    {
+        "word": "相同",
+        "pinyin": "xiang tong"
+    },
+    {
+        "word": "态度",
+        "pinyin": "tai du"
     },
     {
         "word": "财务",
@@ -936,8 +1564,16 @@
         "pinyin": "hua ye cai"
     },
     {
+        "word": "听讲",
+        "pinyin": "ting jiang"
+    },
+    {
         "word": "鸡心",
         "pinyin": "ji xin"
+    },
+    {
+        "word": "地铁",
+        "pinyin": "di tie"
     },
     {
         "word": "布丁",
@@ -946,6 +1582,10 @@
     {
         "word": "常常",
         "pinyin": "chang chang"
+    },
+    {
+        "word": "句子",
+        "pinyin": "ju zi"
     },
     {
         "word": "新年",
@@ -960,6 +1600,14 @@
         "pinyin": "xing qi tian"
     },
     {
+        "word": "同时",
+        "pinyin": "tong shi"
+    },
+    {
+        "word": "报纸",
+        "pinyin": "bao zhi"
+    },
+    {
         "word": "玫瑰",
         "pinyin": "mei gui"
     },
@@ -968,8 +1616,24 @@
         "pinyin": "yi jian zhong qing"
     },
     {
+        "word": "那么",
+        "pinyin": "na me"
+    },
+    {
+        "word": "常用",
+        "pinyin": "chang yong"
+    },
+    {
         "word": "黄花菜",
         "pinyin": "huang hua cai"
+    },
+    {
+        "word": "放下",
+        "pinyin": "fang xia"
+    },
+    {
+        "word": "想法",
+        "pinyin": "xiang fa"
     },
     {
         "word": "文件夹",
@@ -982,6 +1646,18 @@
     {
         "word": "明年",
         "pinyin": "ming nian"
+    },
+    {
+        "word": "凉快",
+        "pinyin": "liang kuai"
+    },
+    {
+        "word": "多久",
+        "pinyin": "duo jiu"
+    },
+    {
+        "word": "春节",
+        "pinyin": "chun jie"
     },
     {
         "word": "好听",
@@ -1020,8 +1696,16 @@
         "pinyin": "che shang"
     },
     {
+        "word": "新闻",
+        "pinyin": "xin wen"
+    },
+    {
         "word": "鸽子",
         "pinyin": "ge zi"
+    },
+    {
+        "word": "咱们",
+        "pinyin": "zan men"
     },
     {
         "word": "妈妈",
@@ -1038,6 +1722,10 @@
     {
         "word": "猫头鹰",
         "pinyin": "mao tou ying"
+    },
+    {
+        "word": "提出",
+        "pinyin": "ti chu"
     },
     {
         "word": "奶粉",
@@ -1064,16 +1752,40 @@
         "pinyin": "xin ren"
     },
     {
+        "word": "站住",
+        "pinyin": "zhan zhu"
+    },
+    {
+        "word": "只要",
+        "pinyin": "zhi yao"
+    },
+    {
+        "word": "主人",
+        "pinyin": "zhu ren"
+    },
+    {
         "word": "动作",
         "pinyin": "dong zuo"
+    },
+    {
+        "word": "科学家",
+        "pinyin": "ke xue jia"
     },
     {
         "word": "加班",
         "pinyin": "jia ban"
     },
     {
+        "word": "已经",
+        "pinyin": "yi jing"
+    },
+    {
         "word": "进去",
         "pinyin": "jin qu"
+    },
+    {
+        "word": "小时候",
+        "pinyin": "xiao shi hou"
     },
     {
         "word": "蛋糕",
@@ -1082,6 +1794,14 @@
     {
         "word": "有些",
         "pinyin": "you xie"
+    },
+    {
+        "word": "人们",
+        "pinyin": "ren men"
+    },
+    {
+        "word": "分开",
+        "pinyin": "fen kai"
     },
     {
         "word": "路上",
@@ -1096,12 +1816,28 @@
         "pinyin": "xiao chi"
     },
     {
+        "word": "花园",
+        "pinyin": "hua yuan"
+    },
+    {
+        "word": "饺子",
+        "pinyin": "jiao zi"
+    },
+    {
         "word": "鸡胸",
         "pinyin": "ji xiong"
     },
     {
+        "word": "道路",
+        "pinyin": "dao lu"
+    },
+    {
         "word": "黑巧克力",
         "pinyin": "hei qiao ke li"
+    },
+    {
+        "word": "课堂",
+        "pinyin": "ke tang"
     },
     {
         "word": "我爱他",
@@ -1114,6 +1850,14 @@
     {
         "word": "北豆腐",
         "pinyin": "bei dou fu"
+    },
+    {
+        "word": "机会",
+        "pinyin": "ji hui"
+    },
+    {
+        "word": "可能",
+        "pinyin": "ke neng"
     },
     {
         "word": "扁豆",
@@ -1148,6 +1892,10 @@
         "pinyin": "hai ma"
     },
     {
+        "word": "请客",
+        "pinyin": "qing ke"
+    },
+    {
         "word": "紫薯",
         "pinyin": "zi shu"
     },
@@ -1156,12 +1904,24 @@
         "pinyin": "chai ji"
     },
     {
+        "word": "夜里",
+        "pinyin": "ye li"
+    },
+    {
         "word": "怎么",
         "pinyin": "zen me"
     },
     {
+        "word": "上周",
+        "pinyin": "shang zhou"
+    },
+    {
         "word": "牛油果",
         "pinyin": "niu you guo"
+    },
+    {
+        "word": "老年",
+        "pinyin": "lao nian"
     },
     {
         "word": "芝士",
@@ -1170,6 +1930,22 @@
     {
         "word": "鸭肠",
         "pinyin": "ya chang"
+    },
+    {
+        "word": "笑话",
+        "pinyin": "xiao hua"
+    },
+    {
+        "word": "不太",
+        "pinyin": "bu tai"
+    },
+    {
+        "word": "字典",
+        "pinyin": "zi dian"
+    },
+    {
+        "word": "出院",
+        "pinyin": "chu yuan"
     },
     {
         "word": "藏獒",
@@ -1184,6 +1960,10 @@
         "pinyin": "qi zi"
     },
     {
+        "word": "一共",
+        "pinyin": "yi gong"
+    },
+    {
         "word": "五花肉",
         "pinyin": "wu hua rou"
     },
@@ -1192,8 +1972,20 @@
         "pinyin": "wo niu"
     },
     {
+        "word": "等于",
+        "pinyin": "deng yu"
+    },
+    {
+        "word": "坏人",
+        "pinyin": "huai ren"
+    },
+    {
         "word": "猎豹",
         "pinyin": "lie bao"
+    },
+    {
+        "word": "小心",
+        "pinyin": "xiao xin"
     },
     {
         "word": "公交车站",
@@ -1232,6 +2024,10 @@
         "pinyin": "zhu"
     },
     {
+        "word": "秋天",
+        "pinyin": "qiu tian"
+    },
+    {
         "word": "我想要",
         "pinyin": "wo xiang yao"
     },
@@ -1264,6 +2060,10 @@
         "pinyin": "mao"
     },
     {
+        "word": "东方",
+        "pinyin": "dong fang"
+    },
+    {
         "word": "面条",
         "pinyin": "mian tiao"
     },
@@ -1272,12 +2072,28 @@
         "pinyin": "xin shui"
     },
     {
+        "word": "重新",
+        "pinyin": "chong xin"
+    },
+    {
+        "word": "太阳",
+        "pinyin": "tai yang"
+    },
+    {
         "word": "推荐",
         "pinyin": "tui jian"
     },
     {
+        "word": "相信",
+        "pinyin": "xiang xin"
+    },
+    {
         "word": "问题",
         "pinyin": "wen ti"
+    },
+    {
+        "word": "面前",
+        "pinyin": "mian qian"
     },
     {
         "word": "电话",
@@ -1296,8 +2112,16 @@
         "pinyin": "gao xing"
     },
     {
+        "word": "多么",
+        "pinyin": "duo me"
+    },
+    {
         "word": "前边",
         "pinyin": "qian bian"
+    },
+    {
+        "word": "忽然",
+        "pinyin": "hu ran"
     },
     {
         "word": "图书馆",
@@ -1324,6 +2148,10 @@
         "pinyin": "shu dian"
     },
     {
+        "word": "干杯",
+        "pinyin": "gan bei"
+    },
+    {
         "word": "准备",
         "pinyin": "zhun bei"
     },
@@ -1344,16 +2172,36 @@
         "pinyin": "le pai"
     },
     {
+        "word": "食物",
+        "pinyin": "shi wu"
+    },
+    {
         "word": "猪骨",
         "pinyin": "zhu gu"
+    },
+    {
+        "word": "出现",
+        "pinyin": "chu xian"
     },
     {
         "word": "便当",
         "pinyin": "bian dang"
     },
     {
+        "word": "全国",
+        "pinyin": "quan guo"
+    },
+    {
         "word": "腊肉",
         "pinyin": "la rou"
+    },
+    {
+        "word": "顺利",
+        "pinyin": "shun li"
+    },
+    {
+        "word": "月份",
+        "pinyin": "yue fen"
     },
     {
         "word": "牛肉",
@@ -1362,6 +2210,10 @@
     {
         "word": "心肝",
         "pinyin": "xin gan"
+    },
+    {
+        "word": "外卖",
+        "pinyin": "wai mai"
     },
     {
         "word": "麻烦您",
@@ -1384,8 +2236,24 @@
         "pinyin": "ling yang"
     },
     {
+        "word": "重视",
+        "pinyin": "zhong shi"
+    },
+    {
+        "word": "接到",
+        "pinyin": "jie dao"
+    },
+    {
         "word": "明恋",
         "pinyin": "ming lian"
+    },
+    {
+        "word": "想起",
+        "pinyin": "xiang qi"
+    },
+    {
+        "word": "高级",
+        "pinyin": "gao ji"
     },
     {
         "word": "左边",
@@ -1404,8 +2272,16 @@
         "pinyin": "ya xue"
     },
     {
+        "word": "出门",
+        "pinyin": "chu men"
+    },
+    {
         "word": "椰子",
         "pinyin": "ye zi"
+    },
+    {
+        "word": "日报",
+        "pinyin": "ri bao"
     },
     {
         "word": "丘比特",
@@ -1416,12 +2292,32 @@
         "pinyin": "qing ren"
     },
     {
+        "word": "一点点",
+        "pinyin": "yi dian dian"
+    },
+    {
+        "word": "同样",
+        "pinyin": "tong yang"
+    },
+    {
+        "word": "广告",
+        "pinyin": "guang gao"
+    },
+    {
         "word": "土豆",
         "pinyin": "tu dou"
     },
     {
         "word": "付款",
         "pinyin": "fu kuan"
+    },
+    {
+        "word": "接下来",
+        "pinyin": "jie xia lai"
+    },
+    {
+        "word": "到处",
+        "pinyin": "dao chu"
     },
     {
         "word": "营销",
@@ -1436,6 +2332,18 @@
         "pinyin": "xing zi"
     },
     {
+        "word": "能够",
+        "pinyin": "neng gou"
+    },
+    {
+        "word": "准确",
+        "pinyin": "zhun que"
+    },
+    {
+        "word": "流行",
+        "pinyin": "liu xing"
+    },
+    {
         "word": "面包",
         "pinyin": "mian bao"
     },
@@ -1448,8 +2356,16 @@
         "pinyin": "hai shi"
     },
     {
+        "word": "方向",
+        "pinyin": "fang xiang"
+    },
+    {
         "word": "xyz",
         "pinyin": "xyz"
+    },
+    {
+        "word": "比如",
+        "pinyin": "bi ru"
     },
     {
         "word": "下课",
@@ -1460,8 +2376,16 @@
         "pinyin": "mi lu"
     },
     {
+        "word": "举行",
+        "pinyin": "ju xing"
+    },
+    {
         "word": "杏仁",
         "pinyin": "xing ren"
+    },
+    {
+        "word": "院长",
+        "pinyin": "yuan zhang"
     },
     {
         "word": "来到",
@@ -1484,12 +2408,24 @@
         "pinyin": "pang bian"
     },
     {
+        "word": "旅游",
+        "pinyin": "lv you"
+    },
+    {
         "word": "百香果",
         "pinyin": "bai xiang guo"
     },
     {
         "word": "当地",
         "pinyin": "dang di"
+    },
+    {
+        "word": "今后",
+        "pinyin": "jin hou"
+    },
+    {
+        "word": "收入",
+        "pinyin": "shou ru"
     },
     {
         "word": "复印机",
@@ -1506,6 +2442,10 @@
     {
         "word": "甜品",
         "pinyin": "tian pin"
+    },
+    {
+        "word": "方便",
+        "pinyin": "fang bian"
     },
     {
         "word": "大学生",
@@ -1536,6 +2476,10 @@
         "pinyin": "bu da"
     },
     {
+        "word": "心情",
+        "pinyin": "xin qing"
+    },
+    {
         "word": "西洋菜",
         "pinyin": "xi yang cai"
     },
@@ -1550,6 +2494,10 @@
     {
         "word": "还是",
         "pinyin": "hai shi"
+    },
+    {
+        "word": "队长",
+        "pinyin": "dui zhang"
     },
     {
         "word": "幸福",
@@ -1568,6 +2516,10 @@
         "pinyin": "wan er"
     },
     {
+        "word": "打算",
+        "pinyin": "da suan"
+    },
+    {
         "word": "放学",
         "pinyin": "fang xue"
     },
@@ -1580,12 +2532,24 @@
         "pinyin": "zhuo mu niao"
     },
     {
+        "word": "停车",
+        "pinyin": "ting che"
+    },
+    {
         "word": "茭白",
         "pinyin": "jiao bai"
     },
     {
+        "word": "变成",
+        "pinyin": "bian cheng"
+    },
+    {
         "word": "洗手间",
         "pinyin": "xi shou jian"
+    },
+    {
+        "word": "有点儿",
+        "pinyin": "you dian er"
     },
     {
         "word": "休息",
@@ -1596,12 +2560,32 @@
         "pinyin": "yue bing"
     },
     {
+        "word": "公斤",
+        "pinyin": "gong jin"
+    },
+    {
         "word": "餐厅",
         "pinyin": "can ting"
     },
     {
+        "word": "短信",
+        "pinyin": "duan xin"
+    },
+    {
         "word": "孩子",
         "pinyin": "hai zi"
+    },
+    {
+        "word": "作用",
+        "pinyin": "zuo yong"
+    },
+    {
+        "word": "味道",
+        "pinyin": "wei dao"
+    },
+    {
+        "word": "中心",
+        "pinyin": "zhong xin"
     },
     {
         "word": "热情",
@@ -1620,12 +2604,32 @@
         "pinyin": "lan mei"
     },
     {
+        "word": "但是",
+        "pinyin": "dan shi"
+    },
+    {
         "word": "萝卜",
         "pinyin": "luo bo"
     },
     {
+        "word": "空气",
+        "pinyin": "kong qi"
+    },
+    {
+        "word": "也许",
+        "pinyin": "ye xu"
+    },
+    {
+        "word": "然后",
+        "pinyin": "ran hou"
+    },
+    {
         "word": "男生",
         "pinyin": "nan sheng"
+    },
+    {
+        "word": "答应",
+        "pinyin": "da ying"
     },
     {
         "word": "三明治",
@@ -1644,6 +2648,14 @@
         "pinyin": "ji de"
     },
     {
+        "word": "个子",
+        "pinyin": "ge zi"
+    },
+    {
+        "word": "收到",
+        "pinyin": "shou dao"
+    },
+    {
         "word": "蝙蝠",
         "pinyin": "bian fu"
     },
@@ -1660,6 +2672,18 @@
         "pinyin": "kan bing"
     },
     {
+        "word": "中餐",
+        "pinyin": "zhong can"
+    },
+    {
+        "word": "入口",
+        "pinyin": "ru kou"
+    },
+    {
+        "word": "银行",
+        "pinyin": "yin hang"
+    },
+    {
         "word": "关上",
         "pinyin": "guan shang"
     },
@@ -1672,12 +2696,40 @@
         "pinyin": "tan pan"
     },
     {
+        "word": "周年",
+        "pinyin": "zhou nian"
+    },
+    {
+        "word": "做法",
+        "pinyin": "zuo fa"
+    },
+    {
         "word": "还有",
         "pinyin": "hai you"
     },
     {
         "word": "谢谢",
         "pinyin": "xie xie"
+    },
+    {
+        "word": "懂得",
+        "pinyin": "dong de"
+    },
+    {
+        "word": "欢迎",
+        "pinyin": "huan ying"
+    },
+    {
+        "word": "意见",
+        "pinyin": "yi jian"
+    },
+    {
+        "word": "饭馆",
+        "pinyin": "fan guan"
+    },
+    {
+        "word": "角度",
+        "pinyin": "jiao du"
     },
     {
         "word": "楼下",
@@ -1700,12 +2752,24 @@
         "pinyin": "qing se"
     },
     {
+        "word": "感觉",
+        "pinyin": "gan jue"
+    },
+    {
         "word": "橘子",
         "pinyin": "ju zi"
     },
     {
+        "word": "温度",
+        "pinyin": "wen du"
+    },
+    {
         "word": "火车",
         "pinyin": "huo che"
+    },
+    {
+        "word": "有人",
+        "pinyin": "you ren"
     },
     {
         "word": "中午",
@@ -1716,8 +2780,16 @@
         "pinyin": "pi dan"
     },
     {
+        "word": "真正",
+        "pinyin": "zhen zheng"
+    },
+    {
         "word": "桑葚",
         "pinyin": "sang shen"
+    },
+    {
+        "word": "晚会",
+        "pinyin": "wan hui"
     },
     {
         "word": "柿子",
@@ -1726,6 +2798,14 @@
     {
         "word": "承诺",
         "pinyin": "cheng nuo"
+    },
+    {
+        "word": "开学",
+        "pinyin": "kai xue"
+    },
+    {
+        "word": "音节",
+        "pinyin": "yin jie"
     },
     {
         "word": "豆腐皮",
@@ -1748,8 +2828,16 @@
         "pinyin": "dong gua"
     },
     {
+        "word": "实际",
+        "pinyin": "shi ji"
+    },
+    {
         "word": "水蛭",
         "pinyin": "shui zhi"
+    },
+    {
+        "word": "结果",
+        "pinyin": "jie guo"
     },
     {
         "word": "女生",
@@ -1760,8 +2848,16 @@
         "pinyin": "jing li"
     },
     {
+        "word": "超过",
+        "pinyin": "chao guo"
+    },
+    {
         "word": "樱桃",
         "pinyin": "ying tao"
+    },
+    {
+        "word": "早就",
+        "pinyin": "zao jiu"
     },
     {
         "word": "中学生",
@@ -1772,20 +2868,68 @@
         "pinyin": "qing zuo"
     },
     {
+        "word": "走进",
+        "pinyin": "zou jin"
+    },
+    {
         "word": "牛排",
         "pinyin": "niu pai"
+    },
+    {
+        "word": "普通话",
+        "pinyin": "pu tong hua"
     },
     {
         "word": "下班",
         "pinyin": "xia ban"
     },
     {
+        "word": "旅行",
+        "pinyin": "lv xing"
+    },
+    {
+        "word": "名称",
+        "pinyin": "ming cheng"
+    },
+    {
         "word": "他们",
         "pinyin": "ta men"
     },
     {
+        "word": "出国",
+        "pinyin": "chu guo"
+    },
+    {
+        "word": "名单",
+        "pinyin": "ming dan"
+    },
+    {
+        "word": "不但",
+        "pinyin": "bu dan"
+    },
+    {
         "word": "知识",
         "pinyin": "zhi shi"
+    },
+    {
+        "word": "安静",
+        "pinyin": "an jing"
+    },
+    {
+        "word": "公平",
+        "pinyin": "gong ping"
+    },
+    {
+        "word": "家长",
+        "pinyin": "jia zhang"
+    },
+    {
+        "word": "菜单",
+        "pinyin": "cai dan"
+    },
+    {
+        "word": "体育馆",
+        "pinyin": "ti yu guan"
     },
     {
         "word": "目标",
@@ -1804,12 +2948,24 @@
         "pinyin": "ju zi"
     },
     {
+        "word": "成绩",
+        "pinyin": "cheng ji"
+    },
+    {
         "word": "东西",
         "pinyin": "dong xi"
     },
     {
+        "word": "车辆",
+        "pinyin": "che liang"
+    },
+    {
         "word": "贸易",
         "pinyin": "mao yi"
+    },
+    {
+        "word": "目的",
+        "pinyin": "mu di"
     },
     {
         "word": "起来",
@@ -1824,6 +2980,10 @@
         "pinyin": "qiu kui"
     },
     {
+        "word": "青少年",
+        "pinyin": "qing shao nian"
+    },
+    {
         "word": "期限",
         "pinyin": "qi xian"
     },
@@ -1832,12 +2992,20 @@
         "pinyin": "xue xiao"
     },
     {
+        "word": "外地",
+        "pinyin": "wai di"
+    },
+    {
         "word": "牛奶",
         "pinyin": "niu nai"
     },
     {
         "word": "漂亮",
         "pinyin": "piao liang"
+    },
+    {
+        "word": "一定",
+        "pinyin": "yi ding"
     },
     {
         "word": "鸡蛋羹",
@@ -1856,8 +3024,16 @@
         "pinyin": "jie cai"
     },
     {
+        "word": "刚才",
+        "pinyin": "gang cai"
+    },
+    {
         "word": "猪蹄",
         "pinyin": "zhu ti"
+    },
+    {
+        "word": "组长",
+        "pinyin": "zu zhang"
     },
     {
         "word": "熊",
@@ -1872,6 +3048,10 @@
         "pinyin": "qie zi"
     },
     {
+        "word": "通知",
+        "pinyin": "tong zhi"
+    },
+    {
         "word": "松鼠",
         "pinyin": "song shu"
     },
@@ -1884,8 +3064,20 @@
         "pinyin": "you de"
     },
     {
+        "word": "出租",
+        "pinyin": "chu zu"
+    },
+    {
+        "word": "心里",
+        "pinyin": "xin li"
+    },
+    {
         "word": "北京",
         "pinyin": "bei jing"
+    },
+    {
+        "word": "音乐",
+        "pinyin": "yin yue"
     },
     {
         "word": "海象",
@@ -1894,6 +3086,10 @@
     {
         "word": "生产",
         "pinyin": "sheng chan"
+    },
+    {
+        "word": "不同",
+        "pinyin": "bu tong"
     },
     {
         "word": "外语",
@@ -1940,6 +3136,10 @@
         "pinyin": "xue bao"
     },
     {
+        "word": "大小",
+        "pinyin": "da xiao"
+    },
+    {
         "word": "电视机",
         "pinyin": "dian shi ji"
     },
@@ -1952,12 +3152,20 @@
         "pinyin": "xue sheng"
     },
     {
+        "word": "过来",
+        "pinyin": "guo lai"
+    },
+    {
         "word": "凉菜",
         "pinyin": "liang cai"
     },
     {
         "word": "厕所",
         "pinyin": "ce suo"
+    },
+    {
+        "word": "以外",
+        "pinyin": "yi wai"
     },
     {
         "word": "唱歌",
@@ -1968,8 +3176,24 @@
         "pinyin": "biao bai"
     },
     {
+        "word": "行动",
+        "pinyin": "xing dong"
+    },
+    {
+        "word": "其中",
+        "pinyin": "qi zhong"
+    },
+    {
         "word": "电鳗",
         "pinyin": "dian man"
+    },
+    {
+        "word": "公路",
+        "pinyin": "gong lu"
+    },
+    {
+        "word": "舒服",
+        "pinyin": "shu fu"
     },
     {
         "word": "商场",
@@ -2004,6 +3228,10 @@
         "pinyin": "pi sa"
     },
     {
+        "word": "越来越",
+        "pinyin": "yue lai yue"
+    },
+    {
         "word": "椅子",
         "pinyin": "yi zi"
     },
@@ -2012,8 +3240,16 @@
         "pinyin": "lan se"
     },
     {
+        "word": "改变",
+        "pinyin": "gai bian"
+    },
+    {
         "word": "今年",
         "pinyin": "jin nian"
+    },
+    {
+        "word": "生活",
+        "pinyin": "sheng huo"
     },
     {
         "word": "饼干",
@@ -2022,6 +3258,10 @@
     {
         "word": "飞机",
         "pinyin": "fei ji"
+    },
+    {
+        "word": "随时",
+        "pinyin": "sui shi"
     },
     {
         "word": "质量",
@@ -2040,6 +3280,10 @@
         "pinyin": "lang"
     },
     {
+        "word": "或者",
+        "pinyin": "huo zhe"
+    },
+    {
         "word": "今天",
         "pinyin": "jin tian"
     },
@@ -2052,6 +3296,10 @@
         "pinyin": "niu jian"
     },
     {
+        "word": "明星",
+        "pinyin": "ming xing"
+    },
+    {
         "word": "答复",
         "pinyin": "da fu"
     },
@@ -2060,12 +3308,24 @@
         "pinyin": "han zi"
     },
     {
+        "word": "虽然",
+        "pinyin": "sui ran"
+    },
+    {
         "word": "情人节",
         "pinyin": "qing ren jie"
     },
     {
         "word": "彩椒",
         "pinyin": "cai jiao"
+    },
+    {
+        "word": "成为",
+        "pinyin": "cheng wei"
+    },
+    {
+        "word": "这时",
+        "pinyin": "zhe shi"
     },
     {
         "word": "外国",
@@ -2088,6 +3348,22 @@
         "pinyin": "gu zhu"
     },
     {
+        "word": "影片",
+        "pinyin": "ying pian"
+    },
+    {
+        "word": "行为",
+        "pinyin": "xing wei"
+    },
+    {
+        "word": "不如",
+        "pinyin": "bu ru"
+    },
+    {
+        "word": "西餐",
+        "pinyin": "xi can"
+    },
+    {
         "word": "鸭舌",
         "pinyin": "ya she"
     },
@@ -2096,12 +3372,24 @@
         "pinyin": "yi xie"
     },
     {
+        "word": "道理",
+        "pinyin": "dao li"
+    },
+    {
         "word": "豆浆",
         "pinyin": "dou jiang"
     },
     {
+        "word": "座位",
+        "pinyin": "zuo wei"
+    },
+    {
         "word": "西边",
         "pinyin": "xi bian"
+    },
+    {
+        "word": "教室",
+        "pinyin": "jiao shi"
     },
     {
         "word": "美女",
@@ -2116,6 +3404,10 @@
         "pinyin": "zhao huo"
     },
     {
+        "word": "以上",
+        "pinyin": "yi shang"
+    },
+    {
         "word": "右拐",
         "pinyin": "you guai"
     },
@@ -2126,6 +3418,10 @@
     {
         "word": "感情",
         "pinyin": "gan qing"
+    },
+    {
+        "word": "大家",
+        "pinyin": "da jia"
     },
     {
         "word": "鸭掌",
@@ -2168,6 +3464,14 @@
         "pinyin": "gong zi"
     },
     {
+        "word": "请求",
+        "pinyin": "qing qiu"
+    },
+    {
+        "word": "不少",
+        "pinyin": "bu shao"
+    },
+    {
         "word": "大象",
         "pinyin": "da xiang"
     },
@@ -2180,6 +3484,14 @@
         "pinyin": "bang wo"
     },
     {
+        "word": "前年",
+        "pinyin": "qian nian"
+    },
+    {
+        "word": "以下",
+        "pinyin": "yi xia"
+    },
+    {
         "word": "鸭胗",
         "pinyin": "ya zhen"
     },
@@ -2188,12 +3500,20 @@
         "pinyin": "zai hu"
     },
     {
+        "word": "头发",
+        "pinyin": "tou fa"
+    },
+    {
         "word": "山羊",
         "pinyin": "shan yang"
     },
     {
         "word": "韭黄",
         "pinyin": "jiu huang"
+    },
+    {
+        "word": "特别",
+        "pinyin": "te bie"
     },
     {
         "word": "苦瓜",
@@ -2220,6 +3540,10 @@
         "pinyin": "niu rou mo"
     },
     {
+        "word": "事情",
+        "pinyin": "shi qing"
+    },
+    {
         "word": "爱人",
         "pinyin": "ai ren"
     },
@@ -2232,8 +3556,20 @@
         "pinyin": "mi fan"
     },
     {
+        "word": "天上",
+        "pinyin": "tian shang"
+    },
+    {
         "word": "犀牛",
         "pinyin": "xi niu"
+    },
+    {
+        "word": "条件",
+        "pinyin": "tiao jian"
+    },
+    {
+        "word": "进行",
+        "pinyin": "jin xing"
     },
     {
         "word": "香干",
@@ -2244,12 +3580,28 @@
         "pinyin": "yan mai"
     },
     {
+        "word": "刚刚",
+        "pinyin": "gang gang"
+    },
+    {
         "word": "地上",
         "pinyin": "di shang"
     },
     {
         "word": "鸭脖",
         "pinyin": "ya bo"
+    },
+    {
+        "word": "大人",
+        "pinyin": "da ren"
+    },
+    {
+        "word": "自己",
+        "pinyin": "zi ji"
+    },
+    {
+        "word": "可怕",
+        "pinyin": "ke pa"
     },
     {
         "word": "告诉",
@@ -2262,6 +3614,14 @@
     {
         "word": "可爱",
         "pinyin": "ke ai"
+    },
+    {
+        "word": "全家",
+        "pinyin": "quan jia"
+    },
+    {
+        "word": "科学",
+        "pinyin": "ke xue"
     },
     {
         "word": "那儿",
@@ -2292,6 +3652,14 @@
         "pinyin": "zai na"
     },
     {
+        "word": "不行",
+        "pinyin": "bu xing"
+    },
+    {
+        "word": "加油",
+        "pinyin": "jia you"
+    },
+    {
         "word": "木瓜",
         "pinyin": "mu gua"
     },
@@ -2304,28 +3672,76 @@
         "pinyin": "hua sheng"
     },
     {
+        "word": "信息",
+        "pinyin": "xin xi"
+    },
+    {
+        "word": "参观",
+        "pinyin": "can guan"
+    },
+    {
         "word": "狐狸",
         "pinyin": "hu li"
+    },
+    {
+        "word": "讲话",
+        "pinyin": "jiang hua"
     },
     {
         "word": "牛筋",
         "pinyin": "niu jin"
     },
     {
+        "word": "等到",
+        "pinyin": "deng dao"
+    },
+    {
         "word": "我爱你",
         "pinyin": "wo ai ni"
+    },
+    {
+        "word": "感到",
+        "pinyin": "gan dao"
     },
     {
         "word": "宝贝",
         "pinyin": "bao bei"
     },
     {
+        "word": "冬天",
+        "pinyin": "dong tian"
+    },
+    {
+        "word": "提到",
+        "pinyin": "ti dao"
+    },
+    {
+        "word": "讨论",
+        "pinyin": "tao lun"
+    },
+    {
         "word": "蒜薹",
         "pinyin": "suan tai"
     },
     {
+        "word": "大自然",
+        "pinyin": "da zi ran"
+    },
+    {
         "word": "儿子",
         "pinyin": "er zi"
+    },
+    {
+        "word": "所有",
+        "pinyin": "suo you"
+    },
+    {
+        "word": "早餐",
+        "pinyin": "zao can"
+    },
+    {
+        "word": "节目",
+        "pinyin": "jie mu"
     },
     {
         "word": "荷兰豆",
@@ -2334,6 +3750,14 @@
     {
         "word": "模式",
         "pinyin": "mo shi"
+    },
+    {
+        "word": "考生",
+        "pinyin": "kao sheng"
+    },
+    {
+        "word": "自由",
+        "pinyin": "zi you"
     },
     {
         "word": "一生一世",
@@ -2346,6 +3770,14 @@
     {
         "word": "豆干",
         "pinyin": "dou gan"
+    },
+    {
+        "word": "难受",
+        "pinyin": "nan shou"
+    },
+    {
+        "word": "挺好",
+        "pinyin": "ting hao"
     },
     {
         "word": "写下来",
@@ -2368,6 +3800,10 @@
         "pinyin": "qian tian"
     },
     {
+        "word": "带来",
+        "pinyin": "dai lai"
+    },
+    {
         "word": "优惠",
         "pinyin": "you hui"
     },
@@ -2384,16 +3820,32 @@
         "pinyin": "ge ge"
     },
     {
+        "word": "好像",
+        "pinyin": "hao xiang"
+    },
+    {
         "word": "企业",
         "pinyin": "qi ye"
+    },
+    {
+        "word": "小组",
+        "pinyin": "xiao zu"
     },
     {
         "word": "美食",
         "pinyin": "mei shi"
     },
     {
+        "word": "完全",
+        "pinyin": "wan quan"
+    },
+    {
         "word": "小时",
         "pinyin": "xiao shi"
+    },
+    {
+        "word": "太太",
+        "pinyin": "tai tai"
     },
     {
         "word": "浣熊",
@@ -2416,6 +3868,14 @@
         "pinyin": "ting jian"
     },
     {
+        "word": "出发",
+        "pinyin": "chu fa"
+    },
+    {
+        "word": "原因",
+        "pinyin": "yuan yin"
+    },
+    {
         "word": "说话",
         "pinyin": "shuo hua"
     },
@@ -2436,6 +3896,22 @@
         "pinyin": "ha mi gua"
     },
     {
+        "word": "例子",
+        "pinyin": "li zi"
+    },
+    {
+        "word": "可是",
+        "pinyin": "ke shi"
+    },
+    {
+        "word": "年级",
+        "pinyin": "nian ji"
+    },
+    {
+        "word": "问路",
+        "pinyin": "wen lu"
+    },
+    {
         "word": "火龙果",
         "pinyin": "huo long guo"
     },
@@ -2452,20 +3928,44 @@
         "pinyin": "shi jian"
     },
     {
+        "word": "重复",
+        "pinyin": "chong fu"
+    },
+    {
         "word": "小甜甜",
         "pinyin": "xiao tian tian"
+    },
+    {
+        "word": "作业",
+        "pinyin": "zuo ye"
     },
     {
         "word": "海豚",
         "pinyin": "hai tun"
     },
     {
+        "word": "长大",
+        "pinyin": "zhang da"
+    },
+    {
         "word": "海鸥",
         "pinyin": "hai ou"
     },
     {
+        "word": "大量",
+        "pinyin": "da liang"
+    },
+    {
         "word": "杨桃",
         "pinyin": "yang tao"
+    },
+    {
+        "word": "小声",
+        "pinyin": "xiao sheng"
+    },
+    {
+        "word": "声音",
+        "pinyin": "sheng yin"
     },
     {
         "word": "知道",
@@ -2476,8 +3976,28 @@
         "pinyin": "shuai ge"
     },
     {
+        "word": "方便面",
+        "pinyin": "fang bian mian"
+    },
+    {
         "word": "照相",
         "pinyin": "zhao xiang"
+    },
+    {
+        "word": "高中",
+        "pinyin": "gao zhong"
+    },
+    {
+        "word": "实习",
+        "pinyin": "shi xi"
+    },
+    {
+        "word": "好事",
+        "pinyin": "hao shi"
+    },
+    {
+        "word": "经过",
+        "pinyin": "jing guo"
     },
     {
         "word": "早安",
@@ -2488,12 +4008,20 @@
         "pinyin": "jue de"
     },
     {
+        "word": "那会儿",
+        "pinyin": "na hui er"
+    },
+    {
         "word": "山药",
         "pinyin": "shan yao"
     },
     {
         "word": "喜欢",
         "pinyin": "xi huan"
+    },
+    {
+        "word": "离开",
+        "pinyin": "li kai"
     },
     {
         "word": "坐下",
@@ -2510,6 +4038,10 @@
     {
         "word": "网店",
         "pinyin": "wang dian"
+    },
+    {
+        "word": "词典",
+        "pinyin": "ci dian"
     },
     {
         "word": "你们",
@@ -2568,6 +4100,10 @@
         "pinyin": "huang tao"
     },
     {
+        "word": "中年",
+        "pinyin": "zhong nian"
+    },
+    {
         "word": "没有",
         "pinyin": "mei you"
     },
@@ -2588,12 +4124,20 @@
         "pinyin": "fen xi shi"
     },
     {
+        "word": "不要",
+        "pinyin": "bu yao"
+    },
+    {
         "word": "晚饭",
         "pinyin": "wan fan"
     },
     {
         "word": "淡奶油",
         "pinyin": "dan nai you"
+    },
+    {
+        "word": "难听",
+        "pinyin": "nan ting"
     },
     {
         "word": "鲨鱼",
@@ -2604,12 +4148,20 @@
         "pinyin": "yi yuan"
     },
     {
+        "word": "爱情",
+        "pinyin": "ai qing"
+    },
+    {
         "word": "媳妇",
         "pinyin": "xi fu"
     },
     {
         "word": "小米",
         "pinyin": "xiao mi"
+    },
+    {
+        "word": "大门",
+        "pinyin": "da men"
     },
     {
         "word": "楼上",
@@ -2620,8 +4172,20 @@
         "pinyin": "pei zhe ni"
     },
     {
+        "word": "影响",
+        "pinyin": "ying xiang"
+    },
+    {
         "word": "供应商",
         "pinyin": "gong ying shang"
+    },
+    {
+        "word": "不够",
+        "pinyin": "bu gou"
+    },
+    {
+        "word": "那时候",
+        "pinyin": "na shi hou"
     },
     {
         "word": "哪里",
@@ -2632,8 +4196,16 @@
         "pinyin": "dong bian"
     },
     {
+        "word": "一路平安",
+        "pinyin": "yi lu ping an"
+    },
+    {
         "word": "国外",
         "pinyin": "guo wai"
+    },
+    {
+        "word": "这样",
+        "pinyin": "zhe yang"
     },
     {
         "word": "最好",
@@ -2646,6 +4218,14 @@
     {
         "word": "救命",
         "pinyin": "jiu ming"
+    },
+    {
+        "word": "半夜",
+        "pinyin": "ban ye"
+    },
+    {
+        "word": "原来",
+        "pinyin": "yuan lai"
     },
     {
         "word": "打扰一下",
@@ -2664,8 +4244,20 @@
         "pinyin": "zhuo zi"
     },
     {
+        "word": "校长",
+        "pinyin": "xiao zhang"
+    },
+    {
+        "word": "交朋友",
+        "pinyin": "jiao peng you"
+    },
+    {
         "word": "实体店",
         "pinyin": "shi ti dian"
+    },
+    {
+        "word": "举手",
+        "pinyin": "ju shou"
     },
     {
         "word": "男孩儿",
@@ -2688,6 +4280,34 @@
         "pinyin": "zou lu"
     },
     {
+        "word": "旅客",
+        "pinyin": "lv ke"
+    },
+    {
+        "word": "作家",
+        "pinyin": "zuo jia"
+    },
+    {
+        "word": "骑车",
+        "pinyin": "qi che"
+    },
+    {
+        "word": "信号",
+        "pinyin": "xin hao"
+    },
+    {
+        "word": "动物园",
+        "pinyin": "dong wu yuan"
+    },
+    {
+        "word": "颜色",
+        "pinyin": "yan se"
+    },
+    {
+        "word": "做到",
+        "pinyin": "zuo dao"
+    },
+    {
         "word": "痴情",
         "pinyin": "chi qing"
     },
@@ -2700,12 +4320,24 @@
         "pinyin": "yuan bai cai"
     },
     {
+        "word": "下雪",
+        "pinyin": "xia xue"
+    },
+    {
         "word": "蜘蛛",
         "pinyin": "zhi zhu"
     },
     {
         "word": "橙色",
         "pinyin": "cheng se"
+    },
+    {
+        "word": "必须",
+        "pinyin": "bi xu"
+    },
+    {
+        "word": "留学生",
+        "pinyin": "liu xue sheng"
     },
     {
         "word": "猴子",
@@ -2732,6 +4364,10 @@
         "pinyin": "tong xue"
     },
     {
+        "word": "留下",
+        "pinyin": "liu xia"
+    },
+    {
         "word": "好看",
         "pinyin": "hao kan"
     },
@@ -2740,8 +4376,16 @@
         "pinyin": "you yi si"
     },
     {
+        "word": "一部分",
+        "pinyin": "yi bu fen"
+    },
+    {
         "word": "早上",
         "pinyin": "zao shang"
+    },
+    {
+        "word": "住房",
+        "pinyin": "zhu fang"
     },
     {
         "word": "我喜欢你",
@@ -2752,20 +4396,44 @@
         "pinyin": "jie jie"
     },
     {
+        "word": "超市",
+        "pinyin": "chao shi"
+    },
+    {
         "word": "得到",
         "pinyin": "de dao"
+    },
+    {
+        "word": "球鞋",
+        "pinyin": "qiu xie"
     },
     {
         "word": "出去",
         "pinyin": "chu qu"
     },
     {
+        "word": "进入",
+        "pinyin": "jin ru"
+    },
+    {
         "word": "鸡翅",
         "pinyin": "ji chi"
     },
     {
+        "word": "教育",
+        "pinyin": "jiao yu"
+    },
+    {
         "word": "老鼠",
         "pinyin": "lao shu"
+    },
+    {
+        "word": "分数",
+        "pinyin": "fen shu"
+    },
+    {
+        "word": "听说",
+        "pinyin": "ting shuo"
     },
     {
         "word": "笨蛋",
@@ -2776,12 +4444,32 @@
         "pinyin": "yi bian"
     },
     {
+        "word": "老是",
+        "pinyin": "lao shi"
+    },
+    {
+        "word": "大声",
+        "pinyin": "da sheng"
+    },
+    {
+        "word": "网球",
+        "pinyin": "wang qiu"
+    },
+    {
         "word": "南边",
         "pinyin": "nan bian"
     },
     {
+        "word": "运动",
+        "pinyin": "yun dong"
+    },
+    {
         "word": "小坏蛋",
         "pinyin": "xiao huai dan"
+    },
+    {
+        "word": "好人",
+        "pinyin": "hao ren"
     },
     {
         "word": "吐司",
@@ -2796,6 +4484,22 @@
         "pinyin": "shu bao"
     },
     {
+        "word": "瓶子",
+        "pinyin": "ping zi"
+    },
+    {
+        "word": "故事",
+        "pinyin": "gu shi"
+    },
+    {
+        "word": "篮球",
+        "pinyin": "lan qiu"
+    },
+    {
+        "word": "计划",
+        "pinyin": "ji hua"
+    },
+    {
         "word": "豌豆苗",
         "pinyin": "wan dou miao"
     },
@@ -2806,6 +4510,10 @@
     {
         "word": "羊腿",
         "pinyin": "yang tui"
+    },
+    {
+        "word": "一路顺风",
+        "pinyin": "yi lu shun feng"
     },
     {
         "word": "蜥蜴",
@@ -2828,8 +4536,16 @@
         "pinyin": "che zhan"
     },
     {
+        "word": "停车场",
+        "pinyin": "ting che chang"
+    },
+    {
         "word": "钢笔",
         "pinyin": "gang bi"
+    },
+    {
+        "word": "药片",
+        "pinyin": "yao pian"
     },
     {
         "word": "英语",
@@ -2852,6 +4568,10 @@
         "pinyin": "xin shang"
     },
     {
+        "word": "怎么样",
+        "pinyin": "zen me yang"
+    },
+    {
         "word": "上班",
         "pinyin": "shang ban"
     },
@@ -2864,8 +4584,16 @@
         "pinyin": "ji tui"
     },
     {
+        "word": "数字",
+        "pinyin": "shu zi"
+    },
+    {
         "word": "我想你",
         "pinyin": "wo xiang ni"
+    },
+    {
+        "word": "努力",
+        "pinyin": "nu li"
     },
     {
         "word": "鹌鹑蛋",
@@ -2896,6 +4624,10 @@
         "pinyin": "cheng zi"
     },
     {
+        "word": "接受",
+        "pinyin": "jie shou"
+    },
+    {
         "word": "有名",
         "pinyin": "you ming"
     },
@@ -2908,8 +4640,20 @@
         "pinyin": "guan xi"
     },
     {
+        "word": "对话",
+        "pinyin": "dui hua"
+    },
+    {
         "word": "男人",
         "pinyin": "nan ren"
+    },
+    {
+        "word": "因为",
+        "pinyin": "yin wei"
+    },
+    {
+        "word": "什么样",
+        "pinyin": "shen me yang"
     },
     {
         "word": "电影院",
@@ -2920,12 +4664,32 @@
         "pinyin": "yin se"
     },
     {
+        "word": "故意",
+        "pinyin": "gu yi"
+    },
+    {
         "word": "豆渣",
         "pinyin": "dou zha"
     },
     {
+        "word": "坏处",
+        "pinyin": "huai chu"
+    },
+    {
+        "word": "阴天",
+        "pinyin": "yin tian"
+    },
+    {
         "word": "门票",
         "pinyin": "men piao"
+    },
+    {
+        "word": "一直",
+        "pinyin": "yi zhi"
+    },
+    {
+        "word": "眼睛",
+        "pinyin": "yan jing"
     },
     {
         "word": "护照",
@@ -2936,12 +4700,40 @@
         "pinyin": "xiang gua"
     },
     {
+        "word": "的话",
+        "pinyin": "de hua"
+    },
+    {
+        "word": "春天",
+        "pinyin": "chun tian"
+    },
+    {
         "word": "帮帮我",
         "pinyin": "bang bang wo"
     },
     {
         "word": "抱歉",
         "pinyin": "bao qian"
+    },
+    {
+        "word": "过年",
+        "pinyin": "guo nian"
+    },
+    {
+        "word": "那时",
+        "pinyin": "na shi"
+    },
+    {
+        "word": "出生",
+        "pinyin": "chu sheng"
+    },
+    {
+        "word": "见过",
+        "pinyin": "jian guo"
+    },
+    {
+        "word": "大部分",
+        "pinyin": "da bu fen"
     },
     {
         "word": "她们",
@@ -2960,6 +4752,10 @@
         "pinyin": "jia ge"
     },
     {
+        "word": "东北",
+        "pinyin": "dong bei"
+    },
+    {
         "word": "多少",
         "pinyin": "duo shao"
     },
@@ -2968,8 +4764,24 @@
         "pinyin": "bai ban"
     },
     {
+        "word": "以为",
+        "pinyin": "yi wei"
+    },
+    {
+        "word": "看法",
+        "pinyin": "kan fa"
+    },
+    {
+        "word": "其他",
+        "pinyin": "qi ta"
+    },
+    {
         "word": "蜜蜂",
         "pinyin": "mi feng"
+    },
+    {
+        "word": "以后",
+        "pinyin": "yi hou"
     },
     {
         "word": "河马",
@@ -2980,6 +4792,10 @@
         "pinyin": "xiang chang"
     },
     {
+        "word": "从小",
+        "pinyin": "cong xiao"
+    },
+    {
         "word": "鸡爪",
         "pinyin": "ji zhao"
     },
@@ -2988,8 +4804,20 @@
         "pinyin": "xi shuai"
     },
     {
+        "word": "十分",
+        "pinyin": "shi fen"
+    },
+    {
         "word": "酸奶",
         "pinyin": "suan nai"
+    },
+    {
+        "word": "家庭",
+        "pinyin": "jia ting"
+    },
+    {
+        "word": "习惯",
+        "pinyin": "xi guan"
     },
     {
         "word": "领导",
@@ -2998,6 +4826,14 @@
     {
         "word": "天使",
         "pinyin": "tian shi"
+    },
+    {
+        "word": "全年",
+        "pinyin": "quan nian"
+    },
+    {
+        "word": "安全",
+        "pinyin": "an quan"
     },
     {
         "word": "要求",
@@ -3020,6 +4856,10 @@
         "pinyin": "dai shu"
     },
     {
+        "word": "难题",
+        "pinyin": "nan ti"
+    },
+    {
         "word": "开车",
         "pinyin": "kai che"
     },
@@ -3028,12 +4868,20 @@
         "pinyin": "fang jia"
     },
     {
+        "word": "叫作",
+        "pinyin": "jiao zuo"
+    },
+    {
         "word": "身体",
         "pinyin": "shen ti"
     },
     {
         "word": "果蝇",
         "pinyin": "guo ying"
+    },
+    {
+        "word": "洗衣机",
+        "pinyin": "xi yi ji"
     },
     {
         "word": "灰色",
@@ -3056,12 +4904,32 @@
         "pinyin": "gan jing"
     },
     {
+        "word": "出租车",
+        "pinyin": "chu zu che"
+    },
+    {
         "word": "鹰",
         "pinyin": "ying"
     },
     {
         "word": "火腿肠",
         "pinyin": "huo tui chang"
+    },
+    {
+        "word": "样子",
+        "pinyin": "yang zi"
+    },
+    {
+        "word": "大多数",
+        "pinyin": "da duo shu"
+    },
+    {
+        "word": "大衣",
+        "pinyin": "da yi"
+    },
+    {
+        "word": "实在",
+        "pinyin": "shi zai"
     },
     {
         "word": "永远",
@@ -3080,8 +4948,16 @@
         "pinyin": "hao wan er"
     },
     {
+        "word": "起飞",
+        "pinyin": "qi fei"
+    },
+    {
         "word": "男朋友",
         "pinyin": "nan peng you"
+    },
+    {
+        "word": "人数",
+        "pinyin": "ren shu"
     },
     {
         "word": "羊肉",
@@ -3096,8 +4972,28 @@
         "pinyin": "mang she"
     },
     {
+        "word": "活动",
+        "pinyin": "huo dong"
+    },
+    {
+        "word": "动物",
+        "pinyin": "dong wu"
+    },
+    {
         "word": "太好了",
         "pinyin": "tai hao le"
+    },
+    {
+        "word": "药水",
+        "pinyin": "yao shui"
+    },
+    {
+        "word": "中医",
+        "pinyin": "zhong yi"
+    },
+    {
+        "word": "理想",
+        "pinyin": "li xiang"
     },
     {
         "word": "娃娃菜",
@@ -3106,6 +5002,14 @@
     {
         "word": "开心",
         "pinyin": "kai xin"
+    },
+    {
+        "word": "老朋友",
+        "pinyin": "lao peng you"
+    },
+    {
+        "word": "一生",
+        "pinyin": "yi sheng"
     },
     {
         "word": "亲爱的",
@@ -3124,8 +5028,24 @@
         "pinyin": "jiu dian"
     },
     {
+        "word": "交给",
+        "pinyin": "jiao gei"
+    },
+    {
         "word": "草莓",
         "pinyin": "cao mei"
+    },
+    {
+        "word": "学期",
+        "pinyin": "xue qi"
+    },
+    {
+        "word": "碰到",
+        "pinyin": "peng dao"
+    },
+    {
+        "word": "送到",
+        "pinyin": "song dao"
     },
     {
         "word": "企鹅",
@@ -3136,16 +5056,44 @@
         "pinyin": "mian fen"
     },
     {
+        "word": "洗澡",
+        "pinyin": "xi zao"
+    },
+    {
+        "word": "不一定",
+        "pinyin": "bu yi ding"
+    },
+    {
         "word": "马上",
         "pinyin": "ma shang"
+    },
+    {
+        "word": "月亮",
+        "pinyin": "yue liang"
     },
     {
         "word": "管理",
         "pinyin": "guan li"
     },
     {
+        "word": "平安",
+        "pinyin": "ping an"
+    },
+    {
+        "word": "校园",
+        "pinyin": "xiao yuan"
+    },
+    {
+        "word": "网站",
+        "pinyin": "wang zhan"
+    },
+    {
         "word": "白芝麻",
         "pinyin": "bai zhi ma"
+    },
+    {
+        "word": "报名",
+        "pinyin": "bao ming"
     },
     {
         "word": "别的",
@@ -3164,8 +5112,16 @@
         "pinyin": "xia wu hao"
     },
     {
+        "word": "以前",
+        "pinyin": "yi qian"
+    },
+    {
         "word": "这儿",
         "pinyin": "zhe er"
+    },
+    {
+        "word": "节日",
+        "pinyin": "jie ri"
     },
     {
         "word": "名字",
@@ -3184,8 +5140,24 @@
         "pinyin": "shui qin"
     },
     {
+        "word": "打工",
+        "pinyin": "da gong"
+    },
+    {
+        "word": "千克",
+        "pinyin": "qian ke"
+    },
+    {
         "word": "汉语",
         "pinyin": "han yu"
+    },
+    {
+        "word": "来自",
+        "pinyin": "lai zi"
+    },
+    {
+        "word": "接着",
+        "pinyin": "jie zhe"
     },
     {
         "word": "不对",
@@ -3212,8 +5184,16 @@
         "pinyin": "wan dou jian"
     },
     {
+        "word": "快要",
+        "pinyin": "kuai yao"
+    },
+    {
         "word": "门口",
         "pinyin": "men kou"
+    },
+    {
+        "word": "怎样",
+        "pinyin": "zen yang"
     },
     {
         "word": "抱抱你",
@@ -3256,12 +5236,20 @@
         "pinyin": "wen jian gui"
     },
     {
+        "word": "想到",
+        "pinyin": "xiang dao"
+    },
+    {
         "word": "称呼",
         "pinyin": "cheng hu"
     },
     {
         "word": "紫色",
         "pinyin": "zi se"
+    },
+    {
+        "word": "少年",
+        "pinyin": "shao nian"
     },
     {
         "word": "上次",
@@ -3274,6 +5262,10 @@
     {
         "word": "瓠瓜",
         "pinyin": "hu gua"
+    },
+    {
+        "word": "不错",
+        "pinyin": "bu cuo"
     },
     {
         "word": "北边",
@@ -3296,12 +5288,24 @@
         "pinyin": "shi chang fen e"
     },
     {
+        "word": "开机",
+        "pinyin": "kai ji"
+    },
+    {
         "word": "过程",
         "pinyin": "guo cheng"
     },
     {
+        "word": "当时",
+        "pinyin": "dang shi"
+    },
+    {
         "word": "城市",
         "pinyin": "cheng shi"
+    },
+    {
+        "word": "午餐",
+        "pinyin": "wu can"
     },
     {
         "word": "打车",
@@ -3312,8 +5316,16 @@
         "pinyin": "jin ju"
     },
     {
+        "word": "办法",
+        "pinyin": "ban fa"
+    },
+    {
         "word": "不好意思",
         "pinyin": "bu hao yi si"
+    },
+    {
+        "word": "难过",
+        "pinyin": "nan guo"
     },
     {
         "word": "不客气",
@@ -3332,6 +5344,10 @@
         "pinyin": "nuo mi"
     },
     {
+        "word": "参加",
+        "pinyin": "can jia"
+    },
+    {
         "word": "座头鲸",
         "pinyin": "zuo tou jing"
     },
@@ -3344,12 +5360,24 @@
         "pinyin": "man dian"
     },
     {
+        "word": "就要",
+        "pinyin": "jiu yao"
+    },
+    {
         "word": "附件",
         "pinyin": "fu jian"
     },
     {
         "word": "蓝鲸",
         "pinyin": "lan jing"
+    },
+    {
+        "word": "帮助",
+        "pinyin": "bang zhu"
+    },
+    {
+        "word": "词语",
+        "pinyin": "ci yu"
     },
     {
         "word": "家人",
@@ -3376,8 +5404,20 @@
         "pinyin": "jie hun"
     },
     {
+        "word": "走开",
+        "pinyin": "zou kai"
+    },
+    {
         "word": "婚姻",
         "pinyin": "hun yin"
+    },
+    {
+        "word": "音乐会",
+        "pinyin": "yin yue hui"
+    },
+    {
+        "word": "公交车",
+        "pinyin": "gong jiao che"
     },
     {
         "word": "霸王龙",
@@ -3388,12 +5428,24 @@
         "pinyin": "zhu pi"
     },
     {
+        "word": "拿到",
+        "pinyin": "na dao"
+    },
+    {
         "word": "一半",
         "pinyin": "yi ban"
     },
     {
+        "word": "重点",
+        "pinyin": "zhong dian"
+    },
+    {
         "word": "时候",
         "pinyin": "shi hou"
+    },
+    {
+        "word": "体育场",
+        "pinyin": "ti yu chang"
     },
     {
         "word": "一起",
@@ -3404,6 +5456,38 @@
         "pinyin": "qian bao"
     },
     {
+        "word": "院子",
+        "pinyin": "yuan zi"
+    },
+    {
+        "word": "药店",
+        "pinyin": "yao dian"
+    },
+    {
+        "word": "方面",
+        "pinyin": "fang mian"
+    },
+    {
+        "word": "可以",
+        "pinyin": "ke yi"
+    },
+    {
+        "word": "读音",
+        "pinyin": "du yin"
+    },
+    {
+        "word": "西北",
+        "pinyin": "xi bei"
+    },
+    {
+        "word": "打印",
+        "pinyin": "da yin"
+    },
+    {
+        "word": "回国",
+        "pinyin": "hui guo"
+    },
+    {
         "word": "团队",
         "pinyin": "tuan dui"
     },
@@ -3412,16 +5496,32 @@
         "pinyin": "nai niu"
     },
     {
+        "word": "复习",
+        "pinyin": "fu xi"
+    },
+    {
         "word": "愿意",
         "pinyin": "yuan yi"
+    },
+    {
+        "word": "英文",
+        "pinyin": "ying wen"
     },
     {
         "word": "肥牛",
         "pinyin": "fei niu"
     },
     {
+        "word": "平常",
+        "pinyin": "ping chang"
+    },
+    {
         "word": "老板",
         "pinyin": "lao ban"
+    },
+    {
+        "word": "国际",
+        "pinyin": "guo ji"
     },
     {
         "word": "蚯蚓",
@@ -3440,6 +5540,22 @@
         "pinyin": "nai you"
     },
     {
+        "word": "爬山",
+        "pinyin": "pa shan"
+    },
+    {
+        "word": "分钟",
+        "pinyin": "fen zhong"
+    },
+    {
+        "word": "市长",
+        "pinyin": "shi zhang"
+    },
+    {
+        "word": "全体",
+        "pinyin": "quan ti"
+    },
+    {
         "word": "蚕豆",
         "pinyin": "can dou"
     },
@@ -3448,16 +5564,32 @@
         "pinyin": "ban gong shi"
     },
     {
+        "word": "正确",
+        "pinyin": "zheng que"
+    },
+    {
         "word": "路口",
         "pinyin": "lu kou"
+    },
+    {
+        "word": "那样",
+        "pinyin": "na yang"
     },
     {
         "word": "发誓",
         "pinyin": "fa shi"
     },
     {
+        "word": "大海",
+        "pinyin": "da hai"
+    },
+    {
         "word": "芹菜",
         "pinyin": "qin cai"
+    },
+    {
+        "word": "经常",
+        "pinyin": "jing chang"
     },
     {
         "word": "亲吻",
@@ -3466,6 +5598,14 @@
     {
         "word": "鸡肉",
         "pinyin": "ji rou"
+    },
+    {
+        "word": "排球",
+        "pinyin": "pai qiu"
+    },
+    {
+        "word": "黑板",
+        "pinyin": "hei ban"
     },
     {
         "word": "一块儿",

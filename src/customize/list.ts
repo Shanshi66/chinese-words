@@ -249,22 +249,18 @@ export const homeList: IntlListDetail[] = [
     loveList,
 ];
 
-export const allList: IntlListDetail[] = [
-    hsk1List,
-    // hsk2List,
-    // hsk3List,
-    // hsk4List,
-    // hsk5List,
-    // hsk6List,
-    // hskHighList,
+export const hskLists: IntlListDetail[] = [hsk1List, hsk2List];
+export const basicLists: IntlListDetail[] = [
+    dailyList,
+    colorList,
+    numberList,
     foodList,
     animalList,
-    numberList,
-    colorList,
+];
+export const scenarioLists: IntlListDetail[] = [
     businessList,
-    travelList,
-    dailyList,
     loveList,
+    travelList,
 ];
 
 export function getListIntl(

@@ -20,7 +20,7 @@ if (!images[post.data.cover.url])
     throw new Error(`"${post.data.cover}" does not exist in glob:`);
 ---
 
-<div class="flex flex-col md:flex-row items-center justify-start">
+<div class="flex flex-col md:flex-row items-start">
     <Image
         src={images[post.data.cover.url]()}
         alt={post.data.cover.alt}

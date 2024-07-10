@@ -16,24 +16,17 @@ const { detail, lang } = Astro.props;
 if (!images[detail.imgPath])
     throw new Error(`"${detail.imgPath}" does not exist in glob:`);
 
-const imageHeight = 150;
-const imageWidth = 150;
-
 const listDesc = getListIntl(detail, lang);
 ---
 
-<a href={`/${lang.locale}${detail.url}`}>
-    <div class="flex flex-row items-center">
-        <Image
-            src={images[detail.imgPath]()}
-            alt={listDesc.title}
-            width={imageWidth}
-            height={imageHeight}
-            class="aspect-video rounded-md mr-4"
-        />
-        <div>
-            <h3 class="md:text-xl font-semibold mb-2">{listDesc.title}</h3>
-            <p class="text-gray-500">{listDesc.description}</p>
-        </div>
-    </div>
-</a>
+<div class="flex flex-col items-start max-w-[300px]">
+    <Image
+        src={images[detail.imgPath]()}
+        alt={listDesc.title}
+        class="aspect-video rounded-md md:mr-4 mb-4"
+    />
+    <a href={`/${lang.locale}${detail.url}`}>
+        <h3 class="md:text-xl font-semibold mb-2">{listDesc.title}</h3>
+        <p class="text-gray-500">{listDesc.description}</p>
+    </a>
+</div>

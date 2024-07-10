@@ -30,6 +30,9 @@ export interface HomeIntlData {
 interface ListIntlData {
     title: string;
     description: string;
+    hskTitle: string;
+    basicTitle: string;
+    scenarioTitle: string;
 }
 
 interface BlogIntlData {
@@ -85,6 +88,9 @@ export const englishIntlData: IntlData = {
         title: "Chinese Word List",
         description:
             "Collect Chinese words in different scenarios and purposes, and organize them into lists for targeted learning",
+        hskTitle: "HSK",
+        basicTitle: "Basic",
+        scenarioTitle: "Scenario",
     },
     blog: {
         title: "Share interesting Chinese content",
@@ -130,6 +136,9 @@ export const chineseIntlData: IntlData = {
         title: "中文词分类表",
         description:
             "收集不同场景、不同用途下的中文单词，整理成列表，方便针对性学习",
+        hskTitle: "汉语水平考试",
+        basicTitle: "基本",
+        scenarioTitle: "场景",
     },
     blog: {
         title: "分享有趣的中文内容",

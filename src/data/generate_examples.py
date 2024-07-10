@@ -1,4 +1,5 @@
 import json
+import os
 import sys
 from volcenginesdkarkruntime import Ark
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -119,11 +120,18 @@ def process(word: str):
 
 
 def load_words(filename):
+    files = os.listdir('./result/checked')
+    done_words = set()
+    for file in files:
+        if not file.endswith('.json'):
+            continue
+        word = file.split('/')[-1][:-5].strip()
+        done_words.add(word)
     words = set()
     with open(filename, 'r') as f:
         for line in f:
             word = line.strip()
-            if not line:
+            if not line or word in done_words:
                 continue
             words.add(word)
     return words
