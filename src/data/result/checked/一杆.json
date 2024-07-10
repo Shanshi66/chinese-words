@@ -1,0 +1,34 @@
+{
+    "word": "一杆",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一杆",
+            "translate": {
+                "english": "a [thing like stick]"
+            },
+            "examples": [
+                {
+                    "example": "他是一个非常公正的裁判，就像比赛中的一杆秤，维持着公平与正义。",
+                    "translate": {
+                        "english": "He is a very fair referee, just like a steelyard in the competition, maintaining fairness and justice."
+                    }
+                },
+                {
+                    "example": "他在工作中始终坚守原则，犹如一杆旗帜，为大家树立起良好的榜样。",
+                    "translate": {
+                        "english": "He always adheres to principles in his work, just like a flag, setting a good example for everyone."
+                    }
+                },
+                {
+                    "example": "他就像一杆矗立在风雨中的标枪，始终坚定而挺拔。",
+                    "translate": {
+                        "english": "He is just like a javelin standing in the wind and rain, always firm and straight."
+                    }
+                }
+            ]
+        }
+    ]
+}

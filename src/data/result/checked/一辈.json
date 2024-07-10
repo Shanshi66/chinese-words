@@ -1,0 +1,28 @@
+{
+    "word": "一辈",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一辈",
+            "translate": {
+                "english": "a lifetime"
+            },
+            "examples": [
+                {
+                    "example": "我希望能和你做一辈子的好朋友。",
+                    "translate": {
+                        "english": "I hope to be good friends with you for a lifetime."
+                    }
+                },
+                {
+                    "example": "我愿和你携手走过这一辈子，共同创造美好的未来。",
+                    "translate": {
+                        "english": "I would like to go through this whole life hand in hand with you and jointly create a beautiful future."
+                    }
+                }
+            ]
+        }
+    ]
+}

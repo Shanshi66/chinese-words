@@ -1,0 +1,34 @@
+{
+    "word": "一课",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一课",
+            "translate": {
+                "english": "one lesson / one class"
+            },
+            "examples": [
+                {
+                    "example": "在这次经历中我学到了重要的一课，那就是坚持就是胜利。",
+                    "translate": {
+                        "english": "In this experience, I learned an important lesson, that is, perseverance means victory."
+                    }
+                },
+                {
+                    "example": "老师生动有趣的讲解，让我们在这堂课上学到了非常有意义的一课。",
+                    "translate": {
+                        "english": "The teacher's vivid and interesting explanation enables us to learn a very meaningful lesson in this class."
+                    }
+                },
+                {
+                    "example": "每一次的挑战都是人生的一课，让我们不断成长和进步。",
+                    "translate": {
+                        "english": "Every challenge is a lesson in life, allowing us to continuously grow and progress."
+                    }
+                }
+            ]
+        }
+    ]
+}

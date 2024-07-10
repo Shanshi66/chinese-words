@@ -1,0 +1,34 @@
+{
+    "word": "一摞",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一摞",
+            "translate": {
+                "english": "a stack / a pile"
+            },
+            "examples": [
+                {
+                    "example": "他抱着一摞书，满脸笑容地走进了教室。",
+                    "translate": {
+                        "english": "He carried a stack of books and walked into the classroom with a big smile on his face."
+                    }
+                },
+                {
+                    "example": "我整理出一摞旧照片，美好的回忆瞬间涌上心头。",
+                    "translate": {
+                        "english": "I sorted out a stack of old photos, and beautiful memories instantly welled up in my mind."
+                    }
+                },
+                {
+                    "example": "我把一摞文件整理好放在了桌子上。",
+                    "translate": {
+                        "english": "I sorted a stack of documents and put them on the table."
+                    }
+                }
+            ]
+        }
+    ]
+}

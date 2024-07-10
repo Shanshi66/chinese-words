@@ -1,0 +1,34 @@
+{
+    "word": "一株",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一株",
+            "translate": {
+                "english": "a plant"
+            },
+            "examples": [
+                {
+                    "example": "在那片花园里，有一株盛开得格外艳丽的牡丹花。",
+                    "translate": {
+                        "english": "In that garden, there is a peony that blooms extremely brightly."
+                    }
+                },
+                {
+                    "example": "远处的山坡上有一株高大挺拔的松树，像个卫士守护着那片土地。",
+                    "translate": {
+                        "english": "There is a tall and straight pine tree on the distant hillside, like a guard guarding that piece of land."
+                    }
+                },
+                {
+                    "example": "在我的窗前有一株茁壮成长的向日葵，总是向着阳光绽放灿烂的笑脸。",
+                    "translate": {
+                        "english": "There is a thriving sunflower in front of my window, always blooming a bright smiling face towards the sunlight."
+                    }
+                }
+            ]
+        }
+    ]
+}

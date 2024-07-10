@@ -1,0 +1,28 @@
+{
+    "word": "一挺",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一挺",
+            "translate": {
+                "english": "a (machine guns)"
+            },
+            "examples": [
+                {
+                    "example": "这位军人握着一挺机关枪，身姿挺拔，眼神坚定，充满了力量。",
+                    "translate": {
+                        "english": "This soldier is holding a machine gun, with a straight posture, firm eyes, and full of power."
+                    }
+                },
+                {
+                    "example": "他扛着一挺火箭炮，威风凛凛地站在那里，准备迎接挑战。",
+                    "translate": {
+                        "english": "He was carrying a rocket launcher, standing there majestically, ready to meet the challenge."
+                    }
+                }
+            ]
+        }
+    ]
+}

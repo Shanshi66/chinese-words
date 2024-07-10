@@ -1,0 +1,34 @@
+{
+    "word": "一孔",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一孔",
+            "translate": {
+                "english": "a hole"
+            },
+            "examples": [
+                {
+                    "example": "从这一孔小小的窗户望出去，却能看到无比美丽的风景。",
+                    "translate": {
+                        "english": "Looking out from this small window, one can see extremely beautiful scenery."
+                    }
+                },
+                {
+                    "example": "他透过一孔小小的缝隙，看到了外面精彩的世界。",
+                    "translate": {
+                        "english": "He saw the wonderful world outside through a small crack."
+                    }
+                },
+                {
+                    "example": "那古老的墙壁上有一孔窑洞，仿佛在诉说着过去的故事。",
+                    "translate": {
+                        "english": "There is a cave dwelling on that ancient wall, as if telling the stories of the past."
+                    }
+                }
+            ]
+        }
+    ]
+}

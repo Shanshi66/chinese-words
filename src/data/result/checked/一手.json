@@ -1,0 +1,34 @@
+{
+    "word": "一手",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一手",
+            "translate": {
+                "english": "one hand"
+            },
+            "examples": [
+                {
+                    "example": "他凭借一手好厨艺赢得了大家的称赞。",
+                    "translate": {
+                        "english": "He won everyone's praise with his excellent cooking skills."
+                    }
+                },
+                {
+                    "example": "他用一手漂亮的书法作品惊艳了众人。",
+                    "translate": {
+                        "english": "He amazed everyone with a beautiful calligraphy work."
+                    }
+                },
+                {
+                    "example": "这位画家凭借一手出神入化的绘画技艺征服了观众。",
+                    "translate": {
+                        "english": "This painter conquered the audience with his superb painting skills."
+                    }
+                }
+            ]
+        }
+    ]
+}

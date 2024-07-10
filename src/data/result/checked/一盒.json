@@ -1,0 +1,34 @@
+{
+    "word": "一盒",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一盒",
+            "translate": {
+                "english": "a box of"
+            },
+            "examples": [
+                {
+                    "example": "我买了一盒巧克力送给朋友，让他也能感受到甜蜜的快乐。",
+                    "translate": {
+                        "english": "I bought a box of chocolates and gave it to my friend so that he could also feel the sweet happiness."
+                    }
+                },
+                {
+                    "example": "我收到了一盒精美的礼物，心里满是欢喜。",
+                    "translate": {
+                        "english": "I received a box of exquisite gifts and was filled with joy."
+                    }
+                },
+                {
+                    "example": "我精心准备了一盒美味的点心送给长辈，表达我对他们的敬爱之情。",
+                    "translate": {
+                        "english": "I carefully prepared a box of delicious snacks to give to the elders to express my respect and love for them."
+                    }
+                }
+            ]
+        }
+    ]
+}

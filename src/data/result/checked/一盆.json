@@ -1,0 +1,34 @@
+{
+    "word": "一盆",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一盆",
+            "translate": {
+                "english": "a basin of"
+            },
+            "examples": [
+                {
+                    "example": "妈妈精心照料的那一盆花在阳台上开得格外鲜艳。",
+                    "translate": {
+                        "english": "The pot of flower that mother takes good care of blooms extremely brightly on the balcony."
+                    }
+                },
+                {
+                    "example": "我端着一盆洗好的水果去和朋友们分享。",
+                    "translate": {
+                        "english": "I carried a basin of washed fruits to share with my friends."
+                    }
+                },
+                {
+                    "example": "我买了一盆漂亮的绿植放在客厅里，让整个房间都充满了生机。",
+                    "translate": {
+                        "english": "I bought a beautiful green plant and put it in the living room, making the whole room full of vitality."
+                    }
+                }
+            ]
+        }
+    ]
+}

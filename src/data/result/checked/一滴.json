@@ -1,0 +1,34 @@
+{
+    "word": "一滴",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一滴",
+            "translate": {
+                "english": "a drop"
+            },
+            "examples": [
+                {
+                    "example": "母亲的爱就像一滴甘甜的泉水，滋润着我的心田。",
+                    "translate": {
+                        "english": "Mother's love is like a drop of sweet spring water, moistening my heart."
+                    }
+                },
+                {
+                    "example": "我在沙漠中艰难前行时，突然看到了前方有一滴珍贵的水滴，这让我又重新燃起了希望。",
+                    "translate": {
+                        "english": "When I was struggling to move forward in the desert, suddenly I saw a precious drop of water in front of me, which made me regain hope again."
+                    }
+                },
+                {
+                    "example": "我口渴难耐时，朋友递过来的一滴清水，让我感受到了深深的情谊。",
+                    "translate": {
+                        "english": "When I was extremely thirsty, a drop of clear water handed over by a friend made me feel deep friendship."
+                    }
+                }
+            ]
+        }
+    ]
+}

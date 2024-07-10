@@ -1,0 +1,34 @@
+{
+    "word": "一瓶",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一瓶",
+            "translate": {
+                "english": "a bottle"
+            },
+            "examples": [
+                {
+                    "example": "我递给朋友一瓶水，让他在口渴时能及时解渴。",
+                    "translate": {
+                        "english": "I handed a bottle of water to my friend so that he can quench his thirst in time when he is thirsty."
+                    }
+                },
+                {
+                    "example": "我买了一瓶饮料，和朋友一起分享这份快乐。",
+                    "translate": {
+                        "english": "I bought a bottle of drink and shared this happiness with friends."
+                    }
+                },
+                {
+                    "example": "我在路边捡到一瓶花，那美丽的样子让人心情愉悦。",
+                    "translate": {
+                        "english": "I picked up a bottle of flowers by the roadside, and its beautiful appearance makes people feel happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

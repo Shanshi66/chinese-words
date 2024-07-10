@@ -1,0 +1,34 @@
+{
+    "word": "一个",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一个",
+            "translate": {
+                "english": "one / a"
+            },
+            "examples": [
+                {
+                    "example": "我遇到了一个非常友善的人，他给予了我很多帮助。",
+                    "translate": {
+                        "english": "I met a very friendly person who gave me a lot of help."
+                    }
+                },
+                {
+                    "example": "我看到一个可爱的孩子在公园里快乐地玩耍。",
+                    "translate": {
+                        "english": "I saw a cute child playing happily in the park."
+                    }
+                },
+                {
+                    "example": "在人生的旅途中，我们总会遇到一个能给我们带来温暖和力量的人。",
+                    "translate": {
+                        "english": "In the journey of life, we will always meet a person who can bring us warmth and strength."
+                    }
+                }
+            ]
+        }
+    ]
+}

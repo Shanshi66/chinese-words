@@ -1,0 +1,34 @@
+{
+    "word": "一吨",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一吨",
+            "translate": {
+                "english": "one ton"
+            },
+            "examples": [
+                {
+                    "example": "这次我们成功收获了一吨粮食，大家都特别开心。",
+                    "translate": {
+                        "english": "This time we successfully harvested one ton of grain, and everyone was extremely happy."
+                    }
+                },
+                {
+                    "example": "他凭借自己的努力，一次性搬运了一吨的货物，真是令人钦佩。",
+                    "translate": {
+                        "english": "He carried one ton of goods at one time with his own efforts, which is really admirable."
+                    }
+                },
+                {
+                    "example": "我们齐心协力，终于把一吨重的物资成功运到了目的地。",
+                    "translate": {
+                        "english": "We worked together and finally successfully transported one ton of materials to the destination."
+                    }
+                }
+            ]
+        }
+    ]
+}

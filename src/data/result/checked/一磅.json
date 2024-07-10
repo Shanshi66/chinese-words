@@ -1,0 +1,34 @@
+{
+    "word": "一磅",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一磅",
+            "translate": {
+                "english": "a pound"
+            },
+            "examples": [
+                {
+                    "example": "我买了一磅新鲜的水果，准备做一份美味的水果沙拉。",
+                    "translate": {
+                        "english": "I bought a pound of fresh fruits and am going to make a delicious fruit salad."
+                    }
+                },
+                {
+                    "example": "我用一磅面粉做了一个香喷喷的蛋糕。",
+                    "translate": {
+                        "english": "I made a fragrant cake with one pound of flour."
+                    }
+                },
+                {
+                    "example": "我称出了一磅咖啡豆，准备煮一壶香浓的咖啡。",
+                    "translate": {
+                        "english": "I weighed out one pound of coffee beans and prepared to make a pot of fragrant coffee."
+                    }
+                }
+            ]
+        }
+    ]
+}

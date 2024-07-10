@@ -1,0 +1,34 @@
+{
+    "word": "一次",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一次",
+            "translate": {
+                "english": "once"
+            },
+            "examples": [
+                {
+                    "example": "这一次的经历让我收获颇丰，成长了许多。",
+                    "translate": {
+                        "english": "This experience has enabled me to gain a lot and grow a lot."
+                    }
+                },
+                {
+                    "example": "每一次的挑战都是一次成长的机会。",
+                    "translate": {
+                        "english": "Every challenge is an opportunity for growth."
+                    }
+                },
+                {
+                    "example": "每一次的努力都是靠近梦想的一次迈进。",
+                    "translate": {
+                        "english": "Every effort is a step closer to the dream."
+                    }
+                }
+            ]
+        }
+    ]
+}

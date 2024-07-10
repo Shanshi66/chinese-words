@@ -1,0 +1,34 @@
+{
+    "word": "一身",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一身",
+            "translate": {
+                "english": "the whole body"
+            },
+            "examples": [
+                {
+                    "example": "他总是穿着那一身整洁得体的西装，显得格外精神焕发。",
+                    "translate": {
+                        "english": "He always wears that neat and proper suit, looking particularly energetic."
+                    }
+                },
+                {
+                    "example": "她穿着一身漂亮的连衣裙，在舞台上翩翩起舞，宛如仙子一般。",
+                    "translate": {
+                        "english": "She is wearing a beautiful dress and dancing gracefully on the stage, just like a fairy."
+                    }
+                },
+                {
+                    "example": "他凭借自己的努力拥有了一身过硬的本领。",
+                    "translate": {
+                        "english": "He has a set of excellent skills through his own efforts."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "一根",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一根",
+            "translate": {
+                "english": "one"
+            },
+            "examples": [
+                {
+                    "example": "他手里拿着一根棒棒糖，脸上洋溢着幸福的笑容。",
+                    "translate": {
+                        "english": "He is holding a lollipop in his hand, with a happy smile on his face."
+                    }
+                },
+                {
+                    "example": "他递给我一根香蕉，那温暖的举动让我倍感开心。",
+                    "translate": {
+                        "english": "He handed me a banana, and that warm gesture made me feel extremely happy."
+                    }
+                },
+                {
+                    "example": "我送给小朋友一根彩色的画笔，看着他开心的样子我也很快乐。",
+                    "translate": {
+                        "english": "I gave a little child a colorful paintbrush and looking at his happy appearance, I was also very happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

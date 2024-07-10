@@ -1,0 +1,34 @@
+{
+    "word": "一瓣",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一瓣",
+            "translate": {
+                "english": "a segment / a section"
+            },
+            "examples": [
+                {
+                    "example": "我轻轻剥开橘子，掰下一瓣放入口中，那酸甜的味道令人愉悦。",
+                    "translate": {
+                        "english": "I gently peeled the orange, broke off a segment and put it into my mouth, and the sweet and sour taste was pleasant."
+                    }
+                },
+                {
+                    "example": "我送给朋友一瓣心香，祝愿他一切顺利。",
+                    "translate": {
+                        "english": "I send a fragrance of heart to my friend and wish him all the best."
+                    }
+                },
+                {
+                    "example": "我采下花园里的一瓣鲜花，放在鼻前轻嗅，那迷人的香气让人心旷神怡。",
+                    "translate": {
+                        "english": "I picked a petal of the flower in the garden, put it in front of my nose and sniffed gently, and the charming fragrance made people feel relaxed and happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "一桩",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一桩",
+            "translate": {
+                "english": "a [big] thing"
+            },
+            "examples": [
+                {
+                    "example": "这是一桩非常有意义的事情，值得我们全力以赴去完成。",
+                    "translate": {
+                        "english": "This is a very meaningful thing and worthy of our all-out efforts to complete."
+                    }
+                },
+                {
+                    "example": "他做成了一桩了不起的大买卖，大家都为他感到高兴。",
+                    "translate": {
+                        "english": "He made a remarkable big deal, and everyone was happy for him."
+                    }
+                },
+                {
+                    "example": "他做了一桩好事，帮助了那位迷路的老人找到了回家的路。",
+                    "translate": {
+                        "english": "He did a good deed and helped the lost old man find his way home."
+                    }
+                }
+            ]
+        }
+    ]
+}

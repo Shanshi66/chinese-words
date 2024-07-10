@@ -1,0 +1,34 @@
+{
+    "word": "一分",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一分",
+            "translate": {
+                "english": "one minute / one cent"
+            },
+            "examples": [
+                {
+                    "example": "只要我们每个人都付出一分努力，这个世界就会变得更加美好。",
+                    "translate": {
+                        "english": "As long as each of us makes a little effort, the world will become more beautiful."
+                    }
+                },
+                {
+                    "example": "我会用一分一秒的时间去努力提升自己。",
+                    "translate": {
+                        "english": "I will use every minute and second to strive to improve myself."
+                    }
+                },
+                {
+                    "example": "即使只有一分希望，我们也要付出百分百的努力去争取成功。",
+                    "translate": {
+                        "english": "Even if there is only one percent of hope, we also have to make one hundred percent of effort to strive for success."
+                    }
+                }
+            ]
+        }
+    ]
+}

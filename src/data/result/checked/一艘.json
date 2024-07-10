@@ -1,0 +1,34 @@
+{
+    "word": "一艘",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一艘",
+            "translate": {
+                "english": "a ship / a boat"
+            },
+            "examples": [
+                {
+                    "example": "海面上缓缓驶来一艘巨大且壮观的轮船。",
+                    "translate": {
+                        "english": "A huge and spectacular ship slowly sailed on the sea surface."
+                    }
+                },
+                {
+                    "example": "远处的海面上出现了一艘扬帆起航的轮船，充满了希望与活力。",
+                    "translate": {
+                        "english": "A sailing ship appeared on the distant sea surface, full of hope and vitality."
+                    }
+                },
+                {
+                    "example": "我在海边看到一艘乘风破浪的轮船驶向远方，那画面真美。",
+                    "translate": {
+                        "english": "I saw a ship braving the wind and waves sailing towards the distance by the seaside, and that picture was really beautiful."
+                    }
+                }
+            ]
+        }
+    ]
+}

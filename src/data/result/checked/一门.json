@@ -1,0 +1,34 @@
+{
+    "word": "一门",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一门",
+            "translate": {
+                "english": "a skill"
+            },
+            "examples": [
+                {
+                    "example": "掌握一门外语会给我们的生活带来很多便利。",
+                    "translate": {
+                        "english": "Mastering a foreign language will bring a lot of convenience to our life."
+                    }
+                },
+                {
+                    "example": "我正在努力学习一门新的艺术，让自己的生活更加丰富多彩。",
+                    "translate": {
+                        "english": "I am trying hard to learn a new art to make my life more rich and colorful."
+                    }
+                },
+                {
+                    "example": "我渴望掌握一门精湛的技艺，为自己的人生增添光彩。",
+                    "translate": {
+                        "english": "I am eager to master an exquisite skill to add luster to my life."
+                    }
+                }
+            ]
+        }
+    ]
+}

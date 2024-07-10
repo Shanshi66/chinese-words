@@ -1,0 +1,34 @@
+{
+    "word": "一泡",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一泡",
+            "translate": {
+                "english": "little water"
+            },
+            "examples": [
+                {
+                    "example": "小狗在草地上留下了一泡尿。",
+                    "translate": {
+                        "english": "The little dog left a puddle of urine on the grass."
+                    }
+                },
+                {
+                    "example": "他开心地吹了一泡五彩斑斓的泡泡，周围的小朋友都发出了欢快的笑声。",
+                    "translate": {
+                        "english": "He happily blew a bunch of colorful bubbles, and the children around all let out cheerful laughs."
+                    }
+                },
+                {
+                    "example": "我刚刚喝了一泡茶，感觉心旷神怡。",
+                    "translate": {
+                        "english": "I just drank a cup of tea and felt relaxed and happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

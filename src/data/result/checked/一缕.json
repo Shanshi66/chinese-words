@@ -1,0 +1,34 @@
+{
+    "word": "一缕",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一缕",
+            "translate": {
+                "english": "a wisp"
+            },
+            "examples": [
+                {
+                    "example": "清晨的阳光透过树叶的缝隙洒下一缕温暖的光芒。",
+                    "translate": {
+                        "english": "The early morning sunlight shines through the gaps of the leaves and casts a warm ray."
+                    }
+                },
+                {
+                    "example": "微风中带着一缕花香，让人心情格外舒畅。",
+                    "translate": {
+                        "english": "A wisp of flower fragrance in the gentle breeze makes people feel extremely comfortable."
+                    }
+                },
+                {
+                    "example": "她的头上总是扎着一缕漂亮的丝带，显得格外甜美可爱。",
+                    "translate": {
+                        "english": "There is always a beautiful ribbon tied on her head, looking extremely sweet and lovely."
+                    }
+                }
+            ]
+        }
+    ]
+}

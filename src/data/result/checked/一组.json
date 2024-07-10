@@ -1,0 +1,34 @@
+{
+    "word": "一组",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一组",
+            "translate": {
+                "english": "a group"
+            },
+            "examples": [
+                {
+                    "example": "我们分成了一组去完成这项有趣的任务。",
+                    "translate": {
+                        "english": "We were divided into a group to complete this interesting task."
+                    }
+                },
+                {
+                    "example": "我们这一组同学齐心协力，出色地完成了老师布置的任务。",
+                    "translate": {
+                        "english": "The classmates in our group worked together with one heart and one mind and accomplished the task assigned by the teacher excellently."
+                    }
+                },
+                {
+                    "example": "我们一组人团结协作，共同打造了一个美好的社区环境。",
+                    "translate": {
+                        "english": "Our group of people united and cooperated to jointly create a beautiful community environment."
+                    }
+                }
+            ]
+        }
+    ]
+}

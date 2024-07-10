@@ -1,0 +1,34 @@
+{
+    "word": "一撮",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一撮",
+            "translate": {
+                "english": "a pinch"
+            },
+            "examples": [
+                {
+                    "example": "他轻轻地捏起一撮茶叶放入茶壶中。",
+                    "translate": {
+                        "english": "He gently pinched up a pinch of tea leaves and put them into the teapot."
+                    }
+                },
+                {
+                    "example": "她微笑着拿起一撮彩色的糖果递给小朋友。",
+                    "translate": {
+                        "english": "She smiled and picked up a pinch of colorful candies and handed them to the children."
+                    }
+                },
+                {
+                    "example": "他从罐子里拿出一撮盐放入了汤中，让汤的味道更加鲜美了。",
+                    "translate": {
+                        "english": "He took out a pinch of salt from the jar and put it into the soup, making the taste of the soup more delicious."
+                    }
+                }
+            ]
+        }
+    ]
+}

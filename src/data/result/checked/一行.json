@@ -1,0 +1,34 @@
+{
+    "word": "一行",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一行",
+            "translate": {
+                "english": "a row / a line"
+            },
+            "examples": [
+                {
+                    "example": "我们排成一行，整齐地向前走去。",
+                    "translate": {
+                        "english": "We lined up in a row and walked forward neatly."
+                    }
+                },
+                {
+                    "example": "我们在沙滩上留下了一行清晰的脚印。",
+                    "translate": {
+                        "english": "We left a row of clear footprints on the beach."
+                    }
+                },
+                {
+                    "example": "他在纸上写下了一行漂亮的字。",
+                    "translate": {
+                        "english": "He wrote a beautiful line of words on the paper."
+                    }
+                }
+            ]
+        }
+    ]
+}

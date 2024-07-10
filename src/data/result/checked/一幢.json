@@ -1,0 +1,34 @@
+{
+    "word": "一幢",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一幢",
+            "translate": {
+                "english": "a building"
+            },
+            "examples": [
+                {
+                    "example": "远处矗立着一幢造型别致的高楼。",
+                    "translate": {
+                        "english": "In the distance stands a tall building with a unique shape."
+                    }
+                },
+                {
+                    "example": "小区里有一幢装修精美的别墅。",
+                    "translate": {
+                        "english": "There is a beautifully decorated villa in the community."
+                    }
+                },
+                {
+                    "example": "海边有一幢充满艺术气息的建筑，十分引人注目。",
+                    "translate": {
+                        "english": "There is a building full of artistic atmosphere by the seaside, which is very eye-catching."
+                    }
+                }
+            ]
+        }
+    ]
+}

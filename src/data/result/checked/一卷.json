@@ -1,0 +1,34 @@
+{
+    "word": "一卷",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一卷",
+            "translate": {
+                "english": "a roll"
+            },
+            "examples": [
+                {
+                    "example": "他手里拿着一卷画轴，脸上洋溢着开心的笑容。",
+                    "translate": {
+                        "english": "He is holding a scroll of painting in his hand, with a happy smile on his face."
+                    }
+                },
+                {
+                    "example": "我买了一卷漂亮的壁纸，准备用来装饰房间。",
+                    "translate": {
+                        "english": "I bought a roll of beautiful wallpaper and am ready to use it to decorate the room."
+                    }
+                },
+                {
+                    "example": "我展开一卷地图，仔细地研究着上面的路线。",
+                    "translate": {
+                        "english": "I spread out a map and carefully study the routes on it."
+                    }
+                }
+            ]
+        }
+    ]
+}

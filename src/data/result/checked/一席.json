@@ -1,0 +1,34 @@
+{
+    "word": "一席",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一席",
+            "translate": {
+                "english": "a seat"
+            },
+            "examples": [
+                {
+                    "example": "在这场精彩的演讲中，他的观点让人受益匪浅，赢得了一席热烈的掌声。",
+                    "translate": {
+                        "english": "In this wonderful speech, his point of view benefited people a lot and won a burst of warm applause."
+                    }
+                },
+                {
+                    "example": "在这次聚会中，他的一番真诚话语，赢得了一席朋友们的称赞。",
+                    "translate": {
+                        "english": "In this gathering, his sincere words won the praise of a group of friends."
+                    }
+                },
+                {
+                    "example": "在这次座谈会上，他的独到见解赢得了一席专家们的认可。",
+                    "translate": {
+                        "english": "At this symposium, his unique insights won the recognition of a group of experts."
+                    }
+                }
+            ]
+        }
+    ]
+}

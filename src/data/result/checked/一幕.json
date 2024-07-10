@@ -1,0 +1,34 @@
+{
+    "word": "一幕",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一幕",
+            "translate": {
+                "english": "a scene"
+            },
+            "examples": [
+                {
+                    "example": "那感人的一幕深深地印在了我的脑海中。",
+                    "translate": {
+                        "english": "That touching scene was deeply imprinted in my mind."
+                    }
+                },
+                {
+                    "example": "在舞台上那精彩的一幕让观众们掌声雷动。",
+                    "translate": {
+                        "english": "That wonderful scene on the stage made the audience thunder with applause."
+                    }
+                },
+                {
+                    "example": "在海边那美丽的一幕让我至今难以忘怀。",
+                    "translate": {
+                        "english": "The beautiful scene by the seaside makes me unforgettable until now."
+                    }
+                }
+            ]
+        }
+    ]
+}

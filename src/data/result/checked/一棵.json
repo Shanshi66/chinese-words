@@ -1,0 +1,34 @@
+{
+    "word": "一棵",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一棵",
+            "translate": {
+                "english": "a [plant]"
+            },
+            "examples": [
+                {
+                    "example": "我在院子里种下了一棵小树苗，期待它茁壮成长。",
+                    "translate": {
+                        "english": "I planted a small sapling in the yard and look forward to its thriving."
+                    }
+                },
+                {
+                    "example": "我在路边看到一棵高大挺拔的梧桐树，十分壮观。",
+                    "translate": {
+                        "english": "I saw a tall and straight plane tree by the roadside, which was very spectacular."
+                    }
+                },
+                {
+                    "example": "我在山上发现了一棵造型奇特的松树，非常吸引人。",
+                    "translate": {
+                        "english": "I found a strangely shaped pine tree on the mountain, which is very attractive."
+                    }
+                }
+            ]
+        }
+    ]
+}

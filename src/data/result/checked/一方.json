@@ -1,0 +1,34 @@
+{
+    "word": "一方",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一方",
+            "translate": {
+                "english": "one side"
+            },
+            "examples": [
+                {
+                    "example": "在爱情中，男女双方都应该为彼此付出，共同经营好这一方天地。",
+                    "translate": {
+                        "english": "In love, both men and women should pay for each other and jointly manage this world well."
+                    }
+                },
+                {
+                    "example": "每个人都可以在自己擅长的领域里独树一帜，开拓出属于自己的一方天地。",
+                    "translate": {
+                        "english": "Everyone can be unique in their own field of expertise and pioneer a world of their own."
+                    }
+                },
+                {
+                    "example": "在这小小的一方舞台上，演员们尽情展现着自己的才华。",
+                    "translate": {
+                        "english": "On this small stage, the actors are showing their talents to the fullest."
+                    }
+                }
+            ]
+        }
+    ]
+}

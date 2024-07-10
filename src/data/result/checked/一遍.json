@@ -1,0 +1,34 @@
+{
+    "word": "一遍",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一遍",
+            "translate": {
+                "english": "once"
+            },
+            "examples": [
+                {
+                    "example": "我把这首诗认真地读了一遍又一遍，感受着其中的韵味。",
+                    "translate": {
+                        "english": "I read this poem carefully over and over again, feeling the charm in it."
+                    }
+                },
+                {
+                    "example": "老师耐心地把知识点讲了一遍又一遍，确保同学们都能理解。",
+                    "translate": {
+                        "english": "The teacher patiently explained the knowledge points over and over again to ensure that all the students could understand."
+                    }
+                },
+                {
+                    "example": "我把那本书津津有味地看了一遍又一遍，沉浸在精彩的故事中。",
+                    "translate": {
+                        "english": "I read that book with great relish over and over again, immersed in the wonderful story."
+                    }
+                }
+            ]
+        }
+    ]
+}

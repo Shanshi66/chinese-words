@@ -1,0 +1,34 @@
+{
+    "word": "一千克",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一千克",
+            "translate": {
+                "english": "one kilogram"
+            },
+            "examples": [
+                {
+                    "example": "我买了一千克新鲜的水果，准备和家人一起分享。",
+                    "translate": {
+                        "english": "I bought one kilogram of fresh fruits and am going to share them with my family."
+                    }
+                },
+                {
+                    "example": "我扛着一千克的大米，开心地走在回家的路上。",
+                    "translate": {
+                        "english": "I am carrying one kilogram of rice and walking happily on the way home."
+                    }
+                },
+                {
+                    "example": "我今天去市场买了一千克美味的肉，准备做一顿丰盛的晚餐。",
+                    "translate": {
+                        "english": "I went to the market today and bought one kilogram of delicious meat, preparing to make a sumptuous dinner."
+                    }
+                }
+            ]
+        }
+    ]
+}

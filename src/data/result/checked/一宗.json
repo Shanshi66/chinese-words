@@ -1,0 +1,34 @@
+{
+    "word": "一宗",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一宗",
+            "translate": {
+                "english": "a case"
+            },
+            "examples": [
+                {
+                    "example": "这一宗买卖的成功让大家都非常高兴。",
+                    "translate": {
+                        "english": "The success of this deal made everyone very happy."
+                    }
+                },
+                {
+                    "example": "他解决了一宗棘手的难题，大家都对他称赞不已。",
+                    "translate": {
+                        "english": "He solved a difficult problem, and everyone praised him a lot."
+                    }
+                },
+                {
+                    "example": "他完成了一宗重要的任务，获得了大家的认可和赞扬。",
+                    "translate": {
+                        "english": "He completed an important task and obtained everyone's recognition and praise."
+                    }
+                }
+            ]
+        }
+    ]
+}

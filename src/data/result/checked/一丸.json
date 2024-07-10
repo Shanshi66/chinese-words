@@ -1,0 +1,34 @@
+{
+    "word": "一丸",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一丸",
+            "translate": {
+                "english": "a pellet / a pill"
+            },
+            "examples": [
+                {
+                    "example": "这颗小小的一丸药，或许能给病人带来康复的希望。",
+                    "translate": {
+                        "english": "This small pellet of medicine may bring the hope of recovery to the patient."
+                    }
+                },
+                {
+                    "example": "他手中捧着一丸种子，仿佛捧着满满的希望。",
+                    "translate": {
+                        "english": "He is holding a pellet of seeds in his hand, as if holding full hope."
+                    }
+                },
+                {
+                    "example": "他小心地捧着一丸糖果，脸上洋溢着幸福的笑容。",
+                    "translate": {
+                        "english": "He carefully held a ball of candy, with a happy smile on his face."
+                    }
+                }
+            ]
+        }
+    ]
+}

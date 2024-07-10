@@ -1,0 +1,34 @@
+{
+    "word": "一截",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一截",
+            "translate": {
+                "english": "a section / a piece"
+            },
+            "examples": [
+                {
+                    "example": "他把甘蔗砍成了一截一截的，准备分给大家品尝。",
+                    "translate": {
+                        "english": "He chopped the sugarcane into sections and prepared to share it with everyone to taste."
+                    }
+                },
+                {
+                    "example": "我在路上捡到了一截铅笔，想着可以用来做些简单的记录。",
+                    "translate": {
+                        "english": "I picked up a piece of pencil on the road, thinking that it could be used to make some simple records."
+                    }
+                },
+                {
+                    "example": "他拿着一截粉笔在黑板上写下了漂亮的板书。",
+                    "translate": {
+                        "english": "He held a piece of chalk and wrote beautiful blackboard writing on the blackboard."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "一宿",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一宿",
+            "translate": {
+                "english": "one night"
+            },
+            "examples": [
+                {
+                    "example": "昨天加班太晚，我在公司凑合了一宿。",
+                    "translate": {
+                        "english": "I worked overtime too late yesterday and made do with staying overnight at the company."
+                    }
+                },
+                {
+                    "example": "我们在山顶露营，开心地度过了一宿。",
+                    "translate": {
+                        "english": "We camped on the top of the mountain and spent a happy night."
+                    }
+                },
+                {
+                    "example": "我和朋友们在海边尽情玩耍，畅谈心事，愉快地度过了一宿。",
+                    "translate": {
+                        "english": "I played heartily with my friends by the seaside, talked freely about our worries and spent a pleasant night."
+                    }
+                }
+            ]
+        }
+    ]
+}

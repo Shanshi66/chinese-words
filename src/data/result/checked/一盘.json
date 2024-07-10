@@ -1,0 +1,34 @@
+{
+    "word": "一盘",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一盘",
+            "translate": {
+                "english": "a plate of / a dish of"
+            },
+            "examples": [
+                {
+                    "example": "妈妈精心准备了一盘美味的水果给辛苦工作一天的爸爸。",
+                    "translate": {
+                        "english": "Mother carefully prepared a plate of delicious fruit for father who has worked hard for a whole day."
+                    }
+                },
+                {
+                    "example": "我端出一盘自己精心制作的糕点与朋友们分享。",
+                    "translate": {
+                        "english": "I brought out a plate of pastries carefully made by myself to share with my friends."
+                    }
+                },
+                {
+                    "example": "我做了一盘香喷喷的菜肴与家人一起享用。",
+                    "translate": {
+                        "english": "I made a plate of delicious dishes to enjoy with my family."
+                    }
+                }
+            ]
+        }
+    ]
+}

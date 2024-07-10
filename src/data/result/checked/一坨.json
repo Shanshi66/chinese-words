@@ -1,0 +1,34 @@
+{
+    "word": "一坨",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一坨",
+            "translate": {
+                "english": "lump"
+            },
+            "examples": [
+                {
+                    "example": "我看见草地上有一坨可爱的小兔子在蹦蹦跳跳。",
+                    "translate": {
+                        "english": "I saw a group of cute little rabbits hopping on the grassland."
+                    }
+                },
+                {
+                    "example": "我看见不远处有一坨洁白的云朵像棉花糖一样。",
+                    "translate": {
+                        "english": "I see a lump of white cloud not far away like a marshmallow."
+                    }
+                },
+                {
+                    "example": "我看见花丛中有一坨五彩斑斓的蝴蝶在翩翩起舞。",
+                    "translate": {
+                        "english": "I saw a mass of colorful butterflies dancing in the flowers."
+                    }
+                }
+            ]
+        }
+    ]
+}

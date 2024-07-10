@@ -1,0 +1,34 @@
+{
+    "word": "一米",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一米",
+            "translate": {
+                "english": "one meter"
+            },
+            "examples": [
+                {
+                    "example": "他的身高已经超过了一米八，看起来非常挺拔。",
+                    "translate": {
+                        "english": "His height has exceeded 1.8 meters and he looks very tall and straight."
+                    }
+                },
+                {
+                    "example": "从这里到那棵树大概有一米的距离，我很快就能走过去。",
+                    "translate": {
+                        "english": "It is about one meter from here to that tree, and I can walk there quickly."
+                    }
+                },
+                {
+                    "example": "我每天都会沿着湖边跑一米，坚持锻炼身体。",
+                    "translate": {
+                        "english": "I will run one meter along the lake every day and keep on exercising."
+                    }
+                }
+            ]
+        }
+    ]
+}

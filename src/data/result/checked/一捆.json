@@ -1,0 +1,34 @@
+{
+    "word": "一捆",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一捆",
+            "translate": {
+                "english": "a bundle"
+            },
+            "examples": [
+                {
+                    "example": "他抱着一捆鲜花，准备去送给心爱的人。",
+                    "translate": {
+                        "english": "He is holding a bunch of fresh flowers and is going to give them to his beloved."
+                    }
+                },
+                {
+                    "example": "农民伯伯收获了一捆捆金黄的稻穗，脸上洋溢着喜悦的笑容。",
+                    "translate": {
+                        "english": "Uncle farmers harvested bundles of golden rice ears, with joyous smiles on their faces."
+                    }
+                },
+                {
+                    "example": "我买了一捆气球，准备用来装饰房间，让房间充满欢乐的氛围。",
+                    "translate": {
+                        "english": "I bought a bunch of balloons and prepared to use them to decorate the room to make the room full of a joyful atmosphere."
+                    }
+                }
+            ]
+        }
+    ]
+}

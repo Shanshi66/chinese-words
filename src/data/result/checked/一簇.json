@@ -1,0 +1,34 @@
+{
+    "word": "一簇",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一簇",
+            "translate": {
+                "english": "cluster"
+            },
+            "examples": [
+                {
+                    "example": "那花园里有一簇鲜艳的花朵，在阳光下绽放着美丽。",
+                    "translate": {
+                        "english": "There is a cluster of bright flowers in that garden, blooming beautifully in the sunlight."
+                    }
+                },
+                {
+                    "example": "那山坡上有一簇生机勃勃的绿草，在微风中轻轻摇曳。",
+                    "translate": {
+                        "english": "There is a cluster of vibrant green grass on that hillside, gently swaying in the breeze."
+                    }
+                },
+                {
+                    "example": "那片森林中有着一簇娇艳欲滴的野果，十分诱人。",
+                    "translate": {
+                        "english": "There is a cluster of charming and tender wild fruits in that forest, which is very attractive."
+                    }
+                }
+            ]
+        }
+    ]
+}

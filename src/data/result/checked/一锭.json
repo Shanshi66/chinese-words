@@ -1,0 +1,34 @@
+{
+    "word": "一锭",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一锭",
+            "translate": {
+                "english": "a ingot"
+            },
+            "examples": [
+                {
+                    "example": "他送给朋友一锭银子作为礼物，表达自己的心意。",
+                    "translate": {
+                        "english": "He gave a tael of silver to his friend as a gift to express his feeling."
+                    }
+                },
+                {
+                    "example": "他在古董店里发现了一锭造型精美的银锭，让他十分惊喜。",
+                    "translate": {
+                        "english": "He found a beautifully shaped silver ingot in the antique shop, which made him very pleasantly surprised."
+                    }
+                },
+                {
+                    "example": "我打开抽屉，惊喜地发现里面有一锭闪闪发光的金子。",
+                    "translate": {
+                        "english": "I opened the drawer and was pleasantly surprised to find a shiny ingot of gold inside."
+                    }
+                }
+            ]
+        }
+    ]
+}

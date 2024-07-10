@@ -1,0 +1,34 @@
+{
+    "word": "一英亩",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一英亩",
+            "translate": {
+                "english": "one acre"
+            },
+            "examples": [
+                {
+                    "example": "我们拥有一英亩肥沃的土地，可以种植各种美丽的花卉和蔬菜。",
+                    "translate": {
+                        "english": "We have one acre of fertile land, which can be used to plant all kinds of beautiful flowers and vegetables."
+                    }
+                },
+                {
+                    "example": "我们在那片一英亩的果园里辛勤劳作，收获着甜蜜的果实。",
+                    "translate": {
+                        "english": "We work hard in that one-acre orchard and harvest sweet fruits."
+                    }
+                },
+                {
+                    "example": "我的梦想是拥有一英亩属于自己的花园，在里面尽情享受惬意的时光。",
+                    "translate": {
+                        "english": "My dream is to have an acre of my own garden and enjoy the pleasant time in it to the fullest."
+                    }
+                }
+            ]
+        }
+    ]
+}

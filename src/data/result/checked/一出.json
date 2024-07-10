@@ -1,0 +1,34 @@
+{
+    "word": "一出",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一出",
+            "translate": {
+                "english": "a play / a drama"
+            },
+            "examples": [
+                {
+                    "example": "一出精彩的戏剧正在舞台上上演，赢得了观众们的阵阵掌声。",
+                    "translate": {
+                        "english": "A wonderful drama is being staged on the stage and has won bursts of applause from the audience."
+                    }
+                },
+                {
+                    "example": "生活就像一出充满惊喜的舞台剧，每天都有不一样的精彩上演。",
+                    "translate": {
+                        "english": "Life is like a stage play full of surprises, with different wonderful performances every day."
+                    }
+                },
+                {
+                    "example": "人生就如同一出波澜壮阔的大戏，我们都是其中的主角。",
+                    "translate": {
+                        "english": "Life is just like a magnificent drama, and we are all the main characters in it."
+                    }
+                }
+            ]
+        }
+    ]
+}

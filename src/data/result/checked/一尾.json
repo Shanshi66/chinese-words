@@ -1,0 +1,34 @@
+{
+    "word": "一尾",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一尾",
+            "translate": {
+                "english": "a [thing like fish]"
+            },
+            "examples": [
+                {
+                    "example": "清澈的溪水中游着一尾漂亮的小鱼，十分可爱。",
+                    "translate": {
+                        "english": "A beautiful little fish is swimming in the clear brook, very cute."
+                    }
+                },
+                {
+                    "example": "那片宁静的湖泊中悠然地游着一尾金色的鲤鱼，格外美丽。",
+                    "translate": {
+                        "english": "A golden carp is swimming leisurely in that peaceful lake, extremely beautiful."
+                    }
+                },
+                {
+                    "example": "清澈的小河里悠然地游着一尾灵动的小鱼，充满生机。",
+                    "translate": {
+                        "english": "A lively little fish is swimming leisurely in the clear small river, full of vitality."
+                    }
+                }
+            ]
+        }
+    ]
+}

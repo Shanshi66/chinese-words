@@ -1,0 +1,34 @@
+{
+    "word": "一腔",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一腔",
+            "translate": {
+                "english": "a cavity of [emotion]"
+            },
+            "examples": [
+                {
+                    "example": "他怀着一腔热忱投身到公益事业中。",
+                    "translate": {
+                        "english": "He devotes himself to the public welfare cause with great enthusiasm."
+                    }
+                },
+                {
+                    "example": "他带着一腔豪情壮志去追逐自己的梦想。",
+                    "translate": {
+                        "english": "He went to pursue his dream with great passion and aspiration."
+                    }
+                },
+                {
+                    "example": "他凭着一腔热血勇敢地面对各种挑战。",
+                    "translate": {
+                        "english": "He bravely faces all kinds of challenges with a cavity of warm blood."
+                    }
+                }
+            ]
+        }
+    ]
+}

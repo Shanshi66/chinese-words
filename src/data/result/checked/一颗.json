@@ -1,0 +1,34 @@
+{
+    "word": "一颗",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一颗",
+            "translate": {
+                "english": "one [small spheres]"
+            },
+            "examples": [
+                {
+                    "example": "我拥有一颗积极向上的心，面对生活的挑战从不退缩。",
+                    "translate": {
+                        "english": "I have a positive heart and never flinch in the face of the challenges of life."
+                    }
+                },
+                {
+                    "example": "我送给朋友一颗真诚的心，愿我们的友谊天长地久。",
+                    "translate": {
+                        "english": "I give my friend a sincere heart, and wish our friendship lasts forever."
+                    }
+                },
+                {
+                    "example": "我怀揣着一颗热忱的心，积极投入到工作中。",
+                    "translate": {
+                        "english": "I carry a passionate heart and actively devote myself to the work."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "一平方公里",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一平方公里",
+            "translate": {
+                "english": "one square kilometer"
+            },
+            "examples": [
+                {
+                    "example": "这座城市规划出了一平方公里的区域用于建设大型公园，供市民休闲娱乐。",
+                    "translate": {
+                        "english": "This city has planned an area of one square kilometer for the construction of a large park for citizens to relax and have fun."
+                    }
+                },
+                {
+                    "example": "我们的学校占地面积达到了一平方公里，为学生提供了宽敞而优美的学习环境。",
+                    "translate": {
+                        "english": "Our school covers an area of up to one square kilometer, providing students with a spacious and beautiful learning environment."
+                    }
+                },
+                {
+                    "example": "我们的小镇有一平方公里的绿地，是大家放松身心的好去处。",
+                    "translate": {
+                        "english": "Our small town has one square kilometer of green space, which is a good place for everyone to relax."
+                    }
+                }
+            ]
+        }
+    ]
+}

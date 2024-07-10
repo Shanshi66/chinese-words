@@ -1,0 +1,34 @@
+{
+    "word": "一列",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一列",
+            "translate": {
+                "english": "a row / a line"
+            },
+            "examples": [
+                {
+                    "example": "站台上整齐地排列着一列等待出发的火车。",
+                    "translate": {
+                        "english": "A row of trains waiting to depart are neatly lined up on the platform."
+                    }
+                },
+                {
+                    "example": "远处缓缓驶来一列装满货物的火车。",
+                    "translate": {
+                        "english": "In the distance, a train fully loaded with goods is slowly approaching."
+                    }
+                },
+                {
+                    "example": "在广阔的草原上，一列骏马奔腾而过，场面十分壮观。",
+                    "translate": {
+                        "english": "On the vast prairie, a row of fine horses galloped by, and the scene was very spectacular."
+                    }
+                }
+            ]
+        }
+    ]
+}

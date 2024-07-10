@@ -1,0 +1,34 @@
+{
+    "word": "一挂",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一挂",
+            "translate": {
+                "english": "a string"
+            },
+            "examples": [
+                {
+                    "example": "他脖子上一挂着精美的玉佩，整个人显得很有气质。",
+                    "translate": {
+                        "english": "He has an exquisite jade pendant hanging around his neck, and the whole person appears to be very temperamental."
+                    }
+                },
+                {
+                    "example": "果园里一挂挂葡萄像珍珠般晶莹剔透，让人看了满心欢喜。",
+                    "translate": {
+                        "english": "The clusters of grapes in the orchard are as crystal clear as pearls, making people feel full of joy when looking at them."
+                    }
+                },
+                {
+                    "example": "门口一挂红灯笼，为新年增添了许多喜庆的氛围。",
+                    "translate": {
+                        "english": "A red lantern hanging at the door adds a lot of festive atmosphere to the New Year."
+                    }
+                }
+            ]
+        }
+    ]
+}

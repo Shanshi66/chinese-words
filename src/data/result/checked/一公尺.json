@@ -1,0 +1,34 @@
+{
+    "word": "一公尺",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一公尺",
+            "translate": {
+                "english": "one meter"
+            },
+            "examples": [
+                {
+                    "example": "这条丝带的长度刚好是一公尺，非常适合用来装饰礼物。",
+                    "translate": {
+                        "english": "The length of this ribbon is just one meter, which is very suitable for decorating gifts."
+                    }
+                },
+                {
+                    "example": "他一步一步坚定地向前走，不多不少正好走出了一公尺的距离。",
+                    "translate": {
+                        "english": "He walked forward firmly step by step, and exactly walked a distance of one meter, neither more nor less."
+                    }
+                },
+                {
+                    "example": "我和他相距一公尺，微笑着互相打招呼。",
+                    "translate": {
+                        "english": "I am one meter away from him, smiling and greeting each other."
+                    }
+                }
+            ]
+        }
+    ]
+}

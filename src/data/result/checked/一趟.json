@@ -1,0 +1,34 @@
+{
+    "word": "一趟",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一趟",
+            "translate": {
+                "english": "a trip"
+            },
+            "examples": [
+                {
+                    "example": "我今天去了一趟超市，买了很多生活用品。",
+                    "translate": {
+                        "english": "I went to the supermarket today and bought a lot of daily necessities."
+                    }
+                },
+                {
+                    "example": "我今天特意跑了一趟图书馆，借了几本有趣的书。",
+                    "translate": {
+                        "english": "I specially ran to the library today and borrowed several interesting books."
+                    }
+                },
+                {
+                    "example": "我专门跑了一趟老家，看望了许久未见的亲人。",
+                    "translate": {
+                        "english": "I specially made a trip to my hometown and visited the relatives I haven't seen for a long time."
+                    }
+                }
+            ]
+        }
+    ]
+}

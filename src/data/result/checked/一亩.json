@@ -1,0 +1,34 @@
+{
+    "word": "一亩",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一亩",
+            "translate": {
+                "english": "one mu"
+            },
+            "examples": [
+                {
+                    "example": "在那片肥沃的土地上，有着一亩长势喜人的庄稼。",
+                    "translate": {
+                        "english": "On that fertile land, there is one mu of thriving crops."
+                    }
+                },
+                {
+                    "example": "他在山脚下开辟了一亩美丽的花园，里面种满了各种鲜花。",
+                    "translate": {
+                        "english": "He opened up a beautiful one-acre garden at the foot of the mountain, which is full of all kinds of flowers."
+                    }
+                },
+                {
+                    "example": "我们家有一亩小菜园，里面种满了各种新鲜的蔬菜，让人看了满心欢喜。",
+                    "translate": {
+                        "english": "Our family has a small vegetable garden of one mu, which is full of all kinds of fresh vegetables, making people feel full of joy when looking at it."
+                    }
+                }
+            ]
+        }
+    ]
+}

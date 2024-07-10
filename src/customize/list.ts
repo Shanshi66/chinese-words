@@ -174,6 +174,22 @@ export const priceList: IntlListDetail = {
     },
 };
 
+export const measureList: IntlListDetail = {
+    name: "measure",
+    imgPath: "/src/assets/images/measure.webp",
+    url: "/lists/measure",
+    tags: ["measure"],
+    english: {
+        title: "Measure",
+        description:
+            "Chinese words for measure, like time、area、volume、quantifier and so on",
+    },
+    chinese: {
+        title: "量词",
+        description: "汉语中的量词，包括时间、面积、体积、数量等",
+    },
+};
+
 export const colorList: IntlListDetail = {
     name: "colors",
     imgPath: "/src/assets/images/color.png",
@@ -272,6 +288,7 @@ export const basicLists: IntlListDetail[] = [
     foodList,
     animalList,
     priceList,
+    measureList,
 ];
 
 export const scenarioLists: IntlListDetail[] = [

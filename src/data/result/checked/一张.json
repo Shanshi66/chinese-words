@@ -1,0 +1,34 @@
+{
+    "word": "一张",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一张",
+            "translate": {
+                "english": "a piece / a sheet"
+            },
+            "examples": [
+                {
+                    "example": "我画了一张美丽的画，心里充满了成就感。",
+                    "translate": {
+                        "english": "I drew a beautiful painting and was filled with a sense of accomplishment."
+                    }
+                },
+                {
+                    "example": "我拿着一张车票，满怀期待地踏上了旅程。",
+                    "translate": {
+                        "english": "I held a train ticket and embarked on the journey with great anticipation."
+                    }
+                },
+                {
+                    "example": "我递给朋友一张纸巾，看到他开心的笑容，我也觉得很快乐。",
+                    "translate": {
+                        "english": "I handed a tissue to my friend, and seeing his happy smile, I also felt very happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "一篇",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一篇",
+            "translate": {
+                "english": "a piece / an article"
+            },
+            "examples": [
+                {
+                    "example": "我认真地写了一篇充满真情实感的文章。",
+                    "translate": {
+                        "english": "I seriously wrote an article full of true feelings."
+                    }
+                },
+                {
+                    "example": "我花费了不少时间完成了一篇精彩绝伦的作文。",
+                    "translate": {
+                        "english": "I spent quite a lot of time completing a wonderful composition."
+                    }
+                },
+                {
+                    "example": "我今天写了一篇积极向上的日记，记录生活中的美好点滴。",
+                    "translate": {
+                        "english": "I wrote a positive diary today, recording the beautiful bits and pieces in life."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "一户",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一户",
+            "translate": {
+                "english": "a household"
+            },
+            "examples": [
+                {
+                    "example": "在那美丽的小村庄里，每一户人家都过着幸福而宁静的生活。",
+                    "translate": {
+                        "english": "In that beautiful small village, every household lives a happy and peaceful life."
+                    }
+                },
+                {
+                    "example": "山脚下有一户人家，周围风景如画，他们每天都生活在如诗般的环境中。",
+                    "translate": {
+                        "english": "There is a family at the foot of the mountain, with picturesque scenery around, and they live in a poetic environment every day."
+                    }
+                },
+                {
+                    "example": "远方的山脚下住着一户善良的人家，他们与大自然和谐共处，日子过得温馨又快乐。",
+                    "translate": {
+                        "english": "At the foot of the distant mountain lives a kind family, they live in harmony with nature, and their life is warm and happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "一所",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一所",
+            "translate": {
+                "english": "a [institution]"
+            },
+            "examples": [
+                {
+                    "example": "我梦想有一天能在一所美丽的校园里教书育人。",
+                    "translate": {
+                        "english": "I dream of teaching and educating people in a beautiful campus one day."
+                    }
+                },
+                {
+                    "example": "我希望将来能在一所充满人文气息的大学深造。",
+                    "translate": {
+                        "english": "I hope to further my study in a university full of humanistic atmosphere in the future."
+                    }
+                },
+                {
+                    "example": "我期待能进入一所具有浓厚学术氛围的学校学习。",
+                    "translate": {
+                        "english": "I look forward to entering a school with a strong academic atmosphere to study."
+                    }
+                }
+            ]
+        }
+    ]
+}

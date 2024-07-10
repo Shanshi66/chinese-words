@@ -1,0 +1,34 @@
+{
+    "word": "一顷",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一顷",
+            "translate": {
+                "english": "a hundred Chinese acres"
+            },
+            "examples": [
+                {
+                    "example": "远处是一顷绿油油的麦田，充满了生机与希望。",
+                    "translate": {
+                        "english": "In the distance is a stretch of green wheat field, full of vitality and hope."
+                    }
+                },
+                {
+                    "example": "那片一顷的花园里百花盛开，犹如美丽的画卷。",
+                    "translate": {
+                        "english": "The one-acre garden is full of blooming flowers, just like a beautiful picture scroll."
+                    }
+                },
+                {
+                    "example": "那片一顷的向日葵田在阳光下闪耀着灿烂的光芒，让人心情愉悦。",
+                    "translate": {
+                        "english": "That one-acre sunflower field shines with a brilliant light in the sun, making people feel happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

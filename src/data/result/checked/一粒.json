@@ -1,0 +1,34 @@
+{
+    "word": "一粒",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一粒",
+            "translate": {
+                "english": "a / one [round, grain-like things]"
+            },
+            "examples": [
+                {
+                    "example": "我把这一粒种子种在了花盆里，期待它能茁壮成长。",
+                    "translate": {
+                        "english": "I planted this seed in the flower pot and expected it to thrive."
+                    }
+                },
+                {
+                    "example": "我从口袋里拿出一粒糖果，递给了可爱的小朋友。",
+                    "translate": {
+                        "english": "I took out a candy from my pocket and handed it to the lovely child."
+                    }
+                },
+                {
+                    "example": "我在路边发现了一粒发光的宝石。",
+                    "translate": {
+                        "english": "I found a shiny gem by the roadside."
+                    }
+                }
+            ]
+        }
+    ]
+}

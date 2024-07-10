@@ -1,0 +1,34 @@
+{
+    "word": "一通",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一通",
+            "translate": {
+                "english": "a [phone call, conversation]"
+            },
+            "examples": [
+                {
+                    "example": "我给好朋友打了一通电话，分享了最近的快乐点滴。",
+                    "translate": {
+                        "english": "I made a phone call to a good friend and shared the recent bits of happiness."
+                    }
+                },
+                {
+                    "example": "我给远方的父母打了一通电话，送去了我的问候和思念。",
+                    "translate": {
+                        "english": "I made a phone call to my parents in the distance and sent my regards and misses."
+                    }
+                },
+                {
+                    "example": "我给老师打了一通电话，表达了我对他的感激之情。",
+                    "translate": {
+                        "english": "I made a phone call to the teacher and expressed my gratitude to him."
+                    }
+                }
+            ]
+        }
+    ]
+}

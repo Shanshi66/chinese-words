@@ -1,0 +1,32 @@
+{
+    "word": "一座",
+    "tags": ["measure"],
+    "explanations": [
+        {
+            "explanation": "一座",
+            "translate": {
+                "english": "a [building / mountain]"
+            },
+            "examples": [
+                {
+                    "example": "远处有一座美丽的山峰，云雾缭绕，宛如仙境。",
+                    "translate": {
+                        "english": "There is a beautiful mountain peak in the distance, with clouds and mists swirling around, just like a fairyland."
+                    }
+                },
+                {
+                    "example": "城市中心矗立着一座宏伟的图书馆，给人们带来了无尽的知识财富。",
+                    "translate": {
+                        "english": "A magnificent library stands in the center of the city, bringing endless knowledge wealth to people."
+                    }
+                },
+                {
+                    "example": "海边矗立着一座古老的灯塔，指引着过往船只的方向。",
+                    "translate": {
+                        "english": "An old lighthouse stands by the seaside, guiding the direction of passing ships."
+                    }
+                }
+            ]
+        }
+    ]
+}

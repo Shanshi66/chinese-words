@@ -1,0 +1,34 @@
+{
+    "word": "一则",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一则",
+            "translate": {
+                "english": "one item / piece"
+            },
+            "examples": [
+                {
+                    "example": "我今天看到了一则非常有趣的新闻。",
+                    "translate": {
+                        "english": "I saw a very interesting news today."
+                    }
+                },
+                {
+                    "example": "我给大家分享一则令人开心的好消息。",
+                    "translate": {
+                        "english": "I share a good piece of happy news with everyone."
+                    }
+                },
+                {
+                    "example": "老师在课堂上给我们讲了一则富有教育意义的故事。",
+                    "translate": {
+                        "english": "The teacher told us a meaningful and educational story in class."
+                    }
+                }
+            ]
+        }
+    ]
+}

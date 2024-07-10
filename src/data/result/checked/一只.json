@@ -1,0 +1,34 @@
+{
+    "word": "一只",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一只",
+            "translate": {
+                "english": "one / a [small animal]"
+            },
+            "examples": [
+                {
+                    "example": "一只可爱的小鸟在枝头欢快地歌唱。",
+                    "translate": {
+                        "english": "A lovely little bird is singing merrily on the branch."
+                    }
+                },
+                {
+                    "example": "一只小狗在公园里快乐地奔跑着。",
+                    "translate": {
+                        "english": "A little dog is running happily in the park."
+                    }
+                },
+                {
+                    "example": "一只美丽的蝴蝶在花丛中翩翩起舞。",
+                    "translate": {
+                        "english": "A beautiful butterfly is dancing gracefully among the flowers."
+                    }
+                }
+            ]
+        }
+    ]
+}

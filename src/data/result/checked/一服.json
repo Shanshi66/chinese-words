@@ -1,0 +1,34 @@
+{
+    "word": "一服",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一服",
+            "translate": {
+                "english": "a dose"
+            },
+            "examples": [
+                {
+                    "example": "喝了这一服中药后，他感觉身体舒服多了。",
+                    "translate": {
+                        "english": "After drinking this dose of traditional Chinese medicine, he felt much more comfortable in his body."
+                    }
+                },
+                {
+                    "example": "他认真地为妈妈煎好了一服中药，希望妈妈能快点好起来。",
+                    "translate": {
+                        "english": "He carefully fried a dose of traditional Chinese medicine for his mother, hoping that his mother can get better soon."
+                    }
+                },
+                {
+                    "example": "她每天坚持服用一服补药，身体越来越健康。",
+                    "translate": {
+                        "english": "She insists on taking a dose of tonic every day, and her body is getting healthier and healthier."
+                    }
+                }
+            ]
+        }
+    ]
+}

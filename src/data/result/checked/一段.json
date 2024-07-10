@@ -1,0 +1,34 @@
+{
+    "word": "一段",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一段",
+            "translate": {
+                "english": "a section / a paragraph"
+            },
+            "examples": [
+                {
+                    "example": "人生中总会有那么一段美好的回忆，让人每每想起都倍感温馨。",
+                    "translate": {
+                        "english": "There will always be such a beautiful memory in life, which makes people feel very warm every time they think of it."
+                    }
+                },
+                {
+                    "example": "我和他曾有过一段非常难忘的旅行经历，那是我们珍贵的回忆。",
+                    "translate": {
+                        "english": "I and he once had a very unforgettable travel experience, and that was our precious memory."
+                    }
+                },
+                {
+                    "example": "在人生的旅途中，我们总会经历一段充满惊喜和挑战的时光，让我们不断成长和进步。",
+                    "translate": {
+                        "english": "In the journey of life, we will always experience a period of time full of surprises and challenges, which enables us to continuously grow and progress."
+                    }
+                }
+            ]
+        }
+    ]
+}

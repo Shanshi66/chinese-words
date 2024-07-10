@@ -1,0 +1,34 @@
+{
+    "word": "一首",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一首",
+            "translate": {
+                "english": "a poem / a song"
+            },
+            "examples": [
+                {
+                    "example": "他为她写了一首浪漫的情诗，表达了深深的爱意。",
+                    "translate": {
+                        "english": "He wrote a romantic love poem for her, expressing deep love."
+                    }
+                },
+                {
+                    "example": "我为妈妈唱了一首动听的歌，妈妈开心地笑了。",
+                    "translate": {
+                        "english": "I sang a beautiful song for my mother, and my mother smiled happily."
+                    }
+                },
+                {
+                    "example": "我写了一首欢快的歌曲，希望能给大家带来快乐。",
+                    "translate": {
+                        "english": "I wrote a cheerful song, hoping to bring happiness to everyone."
+                    }
+                }
+            ]
+        }
+    ]
+}

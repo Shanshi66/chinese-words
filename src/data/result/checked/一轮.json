@@ -1,0 +1,34 @@
+{
+    "word": "一轮",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一轮",
+            "translate": {
+                "english": "a round / a cycle"
+            },
+            "examples": [
+                {
+                    "example": "在这一轮的比赛中，大家都发挥出了自己的最佳水平。",
+                    "translate": {
+                        "english": "In this round of the competition, everyone played to their best level."
+                    }
+                },
+                {
+                    "example": "经历了一轮又一轮的挑战，他始终保持着积极向上的心态。",
+                    "translate": {
+                        "english": "Having experienced round after round of challenges, he always keeps a positive attitude."
+                    }
+                },
+                {
+                    "example": "新的一轮朝阳缓缓升起，给大地带来了无限的生机与希望。",
+                    "translate": {
+                        "english": "A new round of the rising sun slowly rises, bringing infinite vitality and hope to the earth."
+                    }
+                }
+            ]
+        }
+    ]
+}

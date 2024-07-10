@@ -1,0 +1,34 @@
+{
+    "word": "一篮",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一篮",
+            "translate": {
+                "english": "a basket of"
+            },
+            "examples": [
+                {
+                    "example": "我提着一篮新鲜的水果去看望生病的朋友。",
+                    "translate": {
+                        "english": "I carried a basket of fresh fruits to visit my sick friend."
+                    }
+                },
+                {
+                    "example": "我捧着一篮娇艳的鲜花送给亲爱的妈妈。",
+                    "translate": {
+                        "english": "I hold a basket of charming fresh flowers and give them to my dear mother."
+                    }
+                },
+                {
+                    "example": "我采了一篮美丽的野花送给可爱的妹妹。",
+                    "translate": {
+                        "english": "I picked a basket of beautiful wild flowers and gave them to the lovely sister."
+                    }
+                }
+            ]
+        }
+    ]
+}

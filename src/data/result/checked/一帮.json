@@ -1,0 +1,34 @@
+{
+    "word": "一帮",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一帮",
+            "translate": {
+                "english": "a group / a band"
+            },
+            "examples": [
+                {
+                    "example": "一帮充满活力的年轻人正在公园里快乐地做游戏。",
+                    "translate": {
+                        "english": "A group of energetic young people are happily playing games in the park."
+                    }
+                },
+                {
+                    "example": "一帮志愿者在社区里热情地帮助居民解决各种问题。",
+                    "translate": {
+                        "english": "A group of volunteers are passionately helping residents solve various problems in the community."
+                    }
+                },
+                {
+                    "example": "一帮小朋友在操场上尽情地玩耍，脸上洋溢着开心的笑容。",
+                    "translate": {
+                        "english": "A group of children are playing heartily on the playground, with happy smiles on their faces."
+                    }
+                }
+            ]
+        }
+    ]
+}

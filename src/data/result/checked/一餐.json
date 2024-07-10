@@ -1,0 +1,34 @@
+{
+    "word": "一餐",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一餐",
+            "translate": {
+                "english": "a meal"
+            },
+            "examples": [
+                {
+                    "example": "和家人一起享用温馨的一餐，真是幸福无比。",
+                    "translate": {
+                        "english": "Having a warm meal with family members is really extremely happy."
+                    }
+                },
+                {
+                    "example": "每一顿精心准备的一餐，都蕴含着对生活的热爱。",
+                    "translate": {
+                        "english": "Every carefully prepared meal contains the love for life."
+                    }
+                },
+                {
+                    "example": "今天我为自己做了美味的一餐，感觉生活充满了乐趣。",
+                    "translate": {
+                        "english": "Today I made a delicious meal for myself and felt that life is full of fun."
+                    }
+                }
+            ]
+        }
+    ]
+}

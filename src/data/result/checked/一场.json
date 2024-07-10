@@ -1,0 +1,34 @@
+{
+    "word": "一场",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一场",
+            "translate": {
+                "english": "a scene / a bout / a journey"
+            },
+            "examples": [
+                {
+                    "example": "人生就像一场精彩的旅行，充满了惊喜和美好。",
+                    "translate": {
+                        "english": "Life is like a wonderful journey, full of surprises and beauty."
+                    }
+                },
+                {
+                    "example": "经历了一场激烈的比赛后，大家都收获了成长和友谊。",
+                    "translate": {
+                        "english": "After experiencing a fierce competition, everyone has gained growth and friendship."
+                    }
+                },
+                {
+                    "example": "在这一场精彩的演出中，演员们的表现赢得了观众们热烈的掌声。",
+                    "translate": {
+                        "english": "In this wonderful performance, the performance of the actors won warm applause from the audience."
+                    }
+                }
+            ]
+        }
+    ]
+}

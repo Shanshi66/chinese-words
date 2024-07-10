@@ -1,0 +1,34 @@
+{
+    "word": "一套",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一套",
+            "translate": {
+                "english": "a set"
+            },
+            "examples": [
+                {
+                    "example": "我买了一套精致的茶具，准备用来招待客人。",
+                    "translate": {
+                        "english": "I bought a delicate tea set and prepared to use it to entertain guests."
+                    }
+                },
+                {
+                    "example": "我用攒了很久的零花钱买了一套喜欢的漫画书，真是太开心了。",
+                    "translate": {
+                        "english": "I used the pocket money that I had saved for a long time to buy a set of favorite comic books, and I'm really so happy."
+                    }
+                },
+                {
+                    "example": "我为自己挑选了一套漂亮的衣服，心情格外舒畅。",
+                    "translate": {
+                        "english": "I picked out a beautiful set of clothes for myself, and I feel extremely comfortable."
+                    }
+                }
+            ]
+        }
+    ]
+}

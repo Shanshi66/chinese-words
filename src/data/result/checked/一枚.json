@@ -1,0 +1,34 @@
+{
+    "word": "一枚",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一枚",
+            "translate": {
+                "english": "one [coins, stamps, something flat]"
+            },
+            "examples": [
+                {
+                    "example": "我在海边捡到了一枚漂亮的贝壳。",
+                    "translate": {
+                        "english": "I picked up a beautiful shell by the seaside."
+                    }
+                },
+                {
+                    "example": "我送给朋友一枚自己亲手制作的书签，表达我的心意。",
+                    "translate": {
+                        "english": "I gave a bookmark made by myself to my friend to express my feelings."
+                    }
+                },
+                {
+                    "example": "我获得了一枚代表荣誉的勋章，感到无比自豪。",
+                    "translate": {
+                        "english": "I obtained a medal representing honor and felt extremely proud."
+                    }
+                }
+            ]
+        }
+    ]
+}

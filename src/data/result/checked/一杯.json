@@ -1,0 +1,34 @@
+{
+    "word": "一杯",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一杯",
+            "translate": {
+                "english": "a cup / a glass"
+            },
+            "examples": [
+                {
+                    "example": "我为朋友递上一杯热茶，温暖了他的心。",
+                    "translate": {
+                        "english": "I handed a cup of hot tea to my friend, warming his heart."
+                    }
+                },
+                {
+                    "example": "我开心地为妈妈送上一杯果汁，表达我对她的爱。",
+                    "translate": {
+                        "english": "I happily offer a glass of juice to my mother to express my love for her."
+                    }
+                },
+                {
+                    "example": "我微笑着为客人送上一杯香醇的咖啡。",
+                    "translate": {
+                        "english": "I smiled and served a cup of mellow coffee to the guest."
+                    }
+                }
+            ]
+        }
+    ]
+}

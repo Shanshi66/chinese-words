@@ -1,0 +1,34 @@
+{
+    "word": "一公升",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一公升",
+            "translate": {
+                "english": "one liter"
+            },
+            "examples": [
+                {
+                    "example": "我今天买了一公升新鲜的牛奶，准备好好享受营养美味。",
+                    "translate": {
+                        "english": "I bought one liter of fresh milk today and am going to enjoy the nutritious and delicious."
+                    }
+                },
+                {
+                    "example": "我每天坚持喝一公升的水，让自己保持健康活力。",
+                    "translate": {
+                        "english": "I insist on drinking one liter of water every day to keep myself healthy and energetic."
+                    }
+                },
+                {
+                    "example": "我给植物浇了一公升的水，期望它能茁壮成长。",
+                    "translate": {
+                        "english": "I watered the plant with one liter of water, expecting it to thrive."
+                    }
+                }
+            ]
+        }
+    ]
+}

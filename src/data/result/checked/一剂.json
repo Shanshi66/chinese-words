@@ -1,0 +1,34 @@
+{
+    "word": "一剂",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一剂",
+            "translate": {
+                "english": "dose"
+            },
+            "examples": [
+                {
+                    "example": "这一剂良药让他的身体逐渐恢复了健康。",
+                    "translate": {
+                        "english": "This dose of good medicine made his body gradually restore to health."
+                    }
+                },
+                {
+                    "example": "母亲的鼓励如同一剂强心针，让我充满了前进的动力。",
+                    "translate": {
+                        "english": "Mother's encouragement is like a shot in the arm, making me full of the power to move forward."
+                    }
+                },
+                {
+                    "example": "困难时期朋友的支持就像一剂暖心药，给了我莫大的鼓舞。",
+                    "translate": {
+                        "english": "The support of friends in difficult times is like a warm heart medicine, which gives me great encouragement."
+                    }
+                }
+            ]
+        }
+    ]
+}

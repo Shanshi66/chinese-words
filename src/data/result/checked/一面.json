@@ -1,0 +1,34 @@
+{
+    "word": "一面",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一面",
+            "translate": {
+                "english": "one side"
+            },
+            "examples": [
+                {
+                    "example": "她一面哼着歌，一面快乐地做着家务。",
+                    "translate": {
+                        "english": "She hums a song while happily doing the household chores."
+                    }
+                },
+                {
+                    "example": "他一面努力工作，一面积极提升自己的能力。",
+                    "translate": {
+                        "english": "He works hard while actively improving his own abilities."
+                    }
+                },
+                {
+                    "example": "他一面认真听讲，一面仔细做笔记。",
+                    "translate": {
+                        "english": "He listens carefully while taking notes carefully at the same time."
+                    }
+                }
+            ]
+        }
+    ]
+}

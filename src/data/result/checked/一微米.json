@@ -1,0 +1,34 @@
+{
+    "word": "一微米",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一微米",
+            "translate": {
+                "english": "one micrometer"
+            },
+            "examples": [
+                {
+                    "example": "在微观世界里，一微米的距离也可能蕴含着巨大的奥秘。",
+                    "translate": {
+                        "english": "In the microscopic world, a distance of one micron may also contain tremendous mysteries."
+                    }
+                },
+                {
+                    "example": "即使是一微米的进步，也是值得我们骄傲和庆祝的。",
+                    "translate": {
+                        "english": "Even a micrometer of progress is also worthy of our pride and celebration."
+                    }
+                },
+                {
+                    "example": "每一次努力哪怕只有一微米的成果，那也是靠近梦想的一步。",
+                    "translate": {
+                        "english": "Every effort, even if there is only a micron of achievement, that is also a step closer to the dream."
+                    }
+                }
+            ]
+        }
+    ]
+}

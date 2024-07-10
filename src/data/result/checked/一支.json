@@ -1,0 +1,34 @@
+{
+    "word": "一支",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一支",
+            "translate": {
+                "english": "one / a [thin / short thing]"
+            },
+            "examples": [
+                {
+                    "example": "我买了一支漂亮的钢笔，准备用来写日记。",
+                    "translate": {
+                        "english": "I bought a beautiful pen and prepared to use it to write a diary."
+                    }
+                },
+                {
+                    "example": "我拿着一支画笔，描绘出心中美好的景象。",
+                    "translate": {
+                        "english": "I hold a paintbrush and depict the beautiful scene in my heart."
+                    }
+                },
+                {
+                    "example": "我送给朋友一支鲜花，表达我对他的美好祝福。",
+                    "translate": {
+                        "english": "I gave a flower to my friend to express my good wishes for him."
+                    }
+                }
+            ]
+        }
+    ]
+}

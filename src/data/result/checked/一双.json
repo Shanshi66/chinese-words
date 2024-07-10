@@ -1,0 +1,34 @@
+{
+    "word": "一双",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一双",
+            "translate": {
+                "english": "a pair"
+            },
+            "examples": [
+                {
+                    "example": "他用自己的一双巧手创造出了许多精美的艺术品。",
+                    "translate": {
+                        "english": "He created many exquisite artworks with his own pair of skillful hands."
+                    }
+                },
+                {
+                    "example": "她有一双明亮而又动人的眼睛，仿佛会说话一般。",
+                    "translate": {
+                        "english": "She has a pair of bright and charming eyes, as if they can talk."
+                    }
+                },
+                {
+                    "example": "她凭借自己的一双慧眼，总能发现生活中的美好。",
+                    "translate": {
+                        "english": "With her own pair of discerning eyes, she can always discover the beauty in life."
+                    }
+                }
+            ]
+        }
+    ]
+}

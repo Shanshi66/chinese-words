@@ -1,0 +1,34 @@
+{
+    "word": "一顿",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一顿",
+            "translate": {
+                "english": "a meal"
+            },
+            "examples": [
+                {
+                    "example": "今天妈妈做了一大桌美食，我们一家人美美的吃了一顿。",
+                    "translate": {
+                        "english": "Today mother made a big table of delicious food, and our family had a nice meal."
+                    }
+                },
+                {
+                    "example": "和朋友们一起享受了一顿欢乐的野餐，真是太棒了。",
+                    "translate": {
+                        "english": "Having enjoyed a joyful picnic with friends, it's really great."
+                    }
+                },
+                {
+                    "example": "我和朋友们美美地吃了一顿丰盛的火锅，大家都很开心。",
+                    "translate": {
+                        "english": "I and my friends had a delicious and sumptuous hot pot meal beautifully, and everyone was very happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

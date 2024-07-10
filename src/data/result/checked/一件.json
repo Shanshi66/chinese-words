@@ -1,0 +1,34 @@
+{
+    "word": "一件",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一件",
+            "translate": {
+                "english": "a piece / an item"
+            },
+            "examples": [
+                {
+                    "example": "今天我做了一件非常有意义的事情，感觉特别开心。",
+                    "translate": {
+                        "english": "Today I did a very meaningful thing and felt extremely happy."
+                    }
+                },
+                {
+                    "example": "我今天完成了一件很有挑战性的任务，心里特别有成就感。",
+                    "translate": {
+                        "english": "I completed a very challenging task today, and I feel a special sense of accomplishment in my heart."
+                    }
+                },
+                {
+                    "example": "我拥有一件珍贵的礼物，它让我时刻感到温暖和幸福。",
+                    "translate": {
+                        "english": "I have a precious gift which makes me feel warm and happy all the time."
+                    }
+                }
+            ]
+        }
+    ]
+}

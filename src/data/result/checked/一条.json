@@ -1,0 +1,34 @@
+{
+    "word": "一条",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一条",
+            "translate": {
+                "english": "a [long thing]"
+            },
+            "examples": [
+                {
+                    "example": "我在路上捡到了一条漂亮的项链。",
+                    "translate": {
+                        "english": "I picked up a beautiful necklace on the road."
+                    }
+                },
+                {
+                    "example": "我送给妈妈一条温暖的围巾。",
+                    "translate": {
+                        "english": "I gave my mother a warm scarf."
+                    }
+                },
+                {
+                    "example": "我在海边看到了一条美丽的彩虹。",
+                    "translate": {
+                        "english": "I saw a beautiful rainbow by the seaside."
+                    }
+                }
+            ]
+        }
+    ]
+}

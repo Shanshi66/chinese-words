@@ -1,0 +1,34 @@
+{
+    "word": "一扇",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一扇",
+            "translate": {
+                "english": "a leaf (of a door or window)"
+            },
+            "examples": [
+                {
+                    "example": "生活就像为我们打开了一扇充满希望和美好的门。",
+                    "translate": {
+                        "english": "Life is like opening a door full of hope and beauty for us."
+                    }
+                },
+                {
+                    "example": "我打开了一扇知识的大门，在其中尽情遨游。",
+                    "translate": {
+                        "english": "I opened a door of knowledge and enjoyed roaming freely in it."
+                    }
+                },
+                {
+                    "example": "我轻轻推开了一扇通往幸福的门，满心欢喜地迎接未来。",
+                    "translate": {
+                        "english": "I gently pushed open a door leading to happiness, and happily greeted the future."
+                    }
+                }
+            ]
+        }
+    ]
+}

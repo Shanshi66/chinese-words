@@ -1,0 +1,34 @@
+{
+    "word": "一立方米",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一立方米",
+            "translate": {
+                "english": "one cubic meter"
+            },
+            "examples": [
+                {
+                    "example": "我们为贫困地区捐赠了一立方米的书籍，给那里的孩子们带去了知识和希望。",
+                    "translate": {
+                        "english": "We donated one cubic meter of books to the poor areas, bringing knowledge and hope to the children there."
+                    }
+                },
+                {
+                    "example": "我们用一立方米的空间装满了爱心物资，准备送往灾区帮助受灾群众。",
+                    "translate": {
+                        "english": "We filled one cubic meter of space with loving supplies and are ready to send them to the disaster area to help the affected people."
+                    }
+                },
+                {
+                    "example": "志愿者们用一立方米的箱子装满了各种生活用品，送给了需要帮助的人们。",
+                    "translate": {
+                        "english": "The volunteers filled a one-cubic-meter box with various daily necessities and gave it to the people in need."
+                    }
+                }
+            ]
+        }
+    ]
+}

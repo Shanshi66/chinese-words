@@ -1,0 +1,34 @@
+{
+    "word": "一封",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一封",
+            "translate": {
+                "english": "a letter / a sealed letter"
+            },
+            "examples": [
+                {
+                    "example": "我收到了远方朋友寄来的一封充满关怀的信。",
+                    "translate": {
+                        "english": "I received a letter full of care sent by a friend from afar."
+                    }
+                },
+                {
+                    "example": "我写了一封热情洋溢的感谢信给帮助过我的人。",
+                    "translate": {
+                        "english": "I wrote a passionate thank-you letter to those who have helped me."
+                    }
+                },
+                {
+                    "example": "我给妈妈写了一封表达爱意的信。",
+                    "translate": {
+                        "english": "I wrote a letter expressing love to my mother."
+                    }
+                }
+            ]
+        }
+    ]
+}

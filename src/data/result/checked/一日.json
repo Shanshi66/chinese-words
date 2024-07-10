@@ -1,0 +1,34 @@
+{
+    "word": "一日",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一日",
+            "translate": {
+                "english": "one day"
+            },
+            "examples": [
+                {
+                    "example": "只要坚持努力，相信终有一日会实现自己的梦想。",
+                    "translate": {
+                        "english": "As long as you keep working hard, believe that one day your dream will come true."
+                    }
+                },
+                {
+                    "example": "度过充实的一日，能让我们收获满满的快乐和满足。",
+                    "translate": {
+                        "english": "Spending a fulfilling day can enable us to gain a lot of happiness and satisfaction."
+                    }
+                },
+                {
+                    "example": "每一日的清晨，阳光都会给世界带来新的希望和活力。",
+                    "translate": {
+                        "english": "Every morning of each day, the sunshine will bring new hope and vitality to the world."
+                    }
+                }
+            ]
+        }
+    ]
+}

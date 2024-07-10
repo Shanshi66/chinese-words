@@ -1,0 +1,34 @@
+{
+    "word": "一本",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一本",
+            "translate": {
+                "english": "a copy / volume"
+            },
+            "examples": [
+                {
+                    "example": "我买了一本非常有趣的书，它让我沉浸其中，收获了很多快乐。",
+                    "translate": {
+                        "english": "I bought a very interesting book, which made me immersed in it and gained a lot of happiness."
+                    }
+                },
+                {
+                    "example": "我今天读了一本很有意义的书，让我对人生有了新的感悟。",
+                    "translate": {
+                        "english": "I read a very meaningful book today, which made me have a new perception of life."
+                    }
+                },
+                {
+                    "example": "我送给朋友一本精美的相册，希望能记录下我们美好的回忆。",
+                    "translate": {
+                        "english": "I gave a friend a beautiful photo album, hoping to record our wonderful memories."
+                    }
+                }
+            ]
+        }
+    ]
+}

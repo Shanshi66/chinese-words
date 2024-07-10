@@ -1,0 +1,34 @@
+{
+    "word": "一堆",
+    "tags": [
+        "measure"
+    ],
+    "explanations": [
+        {
+            "explanation": "一堆",
+            "translate": {
+                "english": "a pile / a heap"
+            },
+            "examples": [
+                {
+                    "example": "我的书桌上有一堆有趣的书籍，它们给我带来了无尽的知识和欢乐。",
+                    "translate": {
+                        "english": "There is a pile of interesting books on my desk, which bring me endless knowledge and joy."
+                    }
+                },
+                {
+                    "example": "厨房里有一堆新鲜的蔬菜，看着就令人充满食欲。",
+                    "translate": {
+                        "english": "There is a pile of fresh vegetables in the kitchen, which looks very appetizing."
+                    }
+                },
+                {
+                    "example": "我的房间里有一堆可爱的玩偶，它们陪伴我度过了许多美好时光。",
+                    "translate": {
+                        "english": "There are a bunch of lovely dolls in my room, and they have accompanied me through many wonderful times."
+                    }
+                }
+            ]
+        }
+    ]
+}
