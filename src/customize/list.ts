@@ -263,6 +263,8 @@ export const scenarioLists: IntlListDetail[] = [
     travelList,
 ];
 
+export const allList = [...hskLists, ...basicLists, ...scenarioLists];
+
 export function getListIntl(
     intlList: IntlListDetail,
     lang: Language,
