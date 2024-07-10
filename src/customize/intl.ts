@@ -59,7 +59,7 @@ export const englishIntlData: IntlData = {
     site: {
         title: "Chinese Words - Find And Learn Chinese Words",
         description:
-            "Find Chinese words used in different scenarios. Learn how to use, write, and pronounce Chinese words.",
+            "Find Chinese words used in different scenarios. Learn how to use, write(stroke order), and pronounce Chinese words.",
     },
     header: {
         lists: "Lists",
@@ -92,7 +92,7 @@ export const englishIntlData: IntlData = {
             "Website updates, Chinese learning tips, interesting Chinese content sharing, etc",
     },
     word: {
-        description: "pinyin, writing, explanation and examples",
+        description: "pinyin, write(stroke order), explanation and examples",
         information: "Information",
         explanation: "Explanations",
         writing: "Writing",
