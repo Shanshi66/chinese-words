@@ -1,0 +1,34 @@
+{
+    "word": "碰到",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "碰到",
+            "translate": {
+                "english": "encounter"
+            },
+            "examples": [
+                {
+                    "example": "在人生的旅途中，我们总会碰到许多有趣的人和事。",
+                    "translate": {
+                        "english": "In the journey of life, we will always encounter many interesting people and things."
+                    }
+                },
+                {
+                    "example": "在探索未知的道路上，我们经常会碰到各种惊喜和挑战。",
+                    "translate": {
+                        "english": "On the road of exploring the unknown, we often encounter all kinds of surprises and challenges."
+                    }
+                },
+                {
+                    "example": "在逛街的时候，我幸运地碰到了许久未见的好朋友。",
+                    "translate": {
+                        "english": "When shopping, I was lucky to run into a good friend who I haven't seen for a long time."
+                    }
+                }
+            ]
+        }
+    ]
+}

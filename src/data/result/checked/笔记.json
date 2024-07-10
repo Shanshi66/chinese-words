@@ -1,0 +1,34 @@
+{
+    "word": "笔记",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "笔记",
+            "translate": {
+                "english": "note"
+            },
+            "examples": [
+                {
+                    "example": "我认真地整理课堂笔记，以便更好地复习和巩固知识。",
+                    "translate": {
+                        "english": "I carefully sort out the class notes so as to better review and consolidate knowledge."
+                    }
+                },
+                {
+                    "example": "我仔细地整理笔记，从中学到了很多有用的东西。",
+                    "translate": {
+                        "english": "I carefully sorted out the notes and learned a lot of useful things from them."
+                    }
+                },
+                {
+                    "example": "我经常翻阅以前的笔记，从中获得新的启发和灵感。",
+                    "translate": {
+                        "english": "I often look through previous notes and get new inspiration and inspiration from them."
+                    }
+                }
+            ]
+        }
+    ]
+}

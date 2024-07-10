@@ -1,0 +1,34 @@
+{
+    "word": "方便面",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "方便面",
+            "translate": {
+                "english": "instant noodles"
+            },
+            "examples": [
+                {
+                    "example": "我在加班的时候经常会吃方便面，它既方便又美味。",
+                    "translate": {
+                        "english": "When I am working overtime, I often eat instant noodles, which is both convenient and delicious."
+                    }
+                },
+                {
+                    "example": "忙碌了一天后，回到家泡一碗方便面，那感觉真是温暖又满足。",
+                    "translate": {
+                        "english": "After a busy day, going home and soaking a bowl of instant noodles, that feeling is really warm and satisfied."
+                    }
+                },
+                {
+                    "example": "当我饥饿难耐时，一碗热气腾腾的方便面总能给我带来满足和快乐。",
+                    "translate": {
+                        "english": "When I am extremely hungry, a bowl of steaming instant noodles can always bring me satisfaction and happiness."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "分开",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "分开",
+            "translate": {
+                "english": "separate"
+            },
+            "examples": [
+                {
+                    "example": "即使暂时分开，我们也坚信未来一定会再次相聚。",
+                    "translate": {
+                        "english": "Even if we are temporarily separated, we firmly believe that we will definitely meet again in the future."
+                    }
+                },
+                {
+                    "example": "毕业时同学们虽然分开了，但彼此的友情永远不会消散。",
+                    "translate": {
+                        "english": "When graduating, although the classmates are separated, but the friendship between each other will never dissipate."
+                    }
+                },
+                {
+                    "example": "无论我们相隔多远、分开多久，心始终紧紧相连。",
+                    "translate": {
+                        "english": "No matter how far apart we are and how long we are apart, our hearts are always closely connected."
+                    }
+                }
+            ]
+        }
+    ]
+}

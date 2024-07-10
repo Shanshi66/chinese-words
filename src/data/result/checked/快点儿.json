@@ -1,0 +1,34 @@
+{
+    "word": "快点儿",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "快点儿",
+            "translate": {
+                "english": "quickly"
+            },
+            "examples": [
+                {
+                    "example": "我们快点儿出发吧，不然就赶不上这趟精彩的旅程啦。",
+                    "translate": {
+                        "english": "Let's set off quickly, or we won't be able to catch this wonderful journey."
+                    }
+                },
+                {
+                    "example": "我们快点儿行动起来，去迎接美好的未来。",
+                    "translate": {
+                        "english": "Let's act quickly to welcome the beautiful future."
+                    }
+                },
+                {
+                    "example": "大家快点儿跟上队伍，一起去探索那片美丽的森林。",
+                    "translate": {
+                        "english": "Everybody hurry to catch up with the team and go to explore that beautiful forest together."
+                    }
+                }
+            ]
+        }
+    ]
+}

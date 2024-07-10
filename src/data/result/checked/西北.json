@@ -1,0 +1,34 @@
+{
+    "word": "西北",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "西北",
+            "translate": {
+                "english": "northwest"
+            },
+            "examples": [
+                {
+                    "example": "我国的西北地区有着壮丽的自然风光和独特的文化魅力。",
+                    "translate": {
+                        "english": "The northwest region of our country has magnificent natural scenery and unique cultural charm."
+                    }
+                },
+                {
+                    "example": "我一直向往着西北那广袤无垠的大地和雄浑壮阔的景色。",
+                    "translate": {
+                        "english": "I have always been longing for the vast and boundless land and the majestic and magnificent scenery in the northwest."
+                    }
+                },
+                {
+                    "example": "西北的天空格外湛蓝，让人心情格外舒畅。",
+                    "translate": {
+                        "english": "The sky in the northwest is exceptionally blue, making people feel exceptionally comfortable."
+                    }
+                }
+            ]
+        }
+    ]
+}

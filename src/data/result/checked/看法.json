@@ -1,0 +1,34 @@
+{
+    "word": "看法",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "看法",
+            "translate": {
+                "english": "opinion / view"
+            },
+            "examples": [
+                {
+                    "example": "我很愿意听取别人不同的看法，这有助于我开阔视野。",
+                    "translate": {
+                        "english": "I am very willing to listen to different views of others, which helps me broaden my horizons."
+                    }
+                },
+                {
+                    "example": "我对于这件事有自己独特的看法，并且相信通过努力可以让结果变得更好。",
+                    "translate": {
+                        "english": "I have my own unique view on this matter and believe that through hard work the result can be made better."
+                    }
+                },
+                {
+                    "example": "我对未来充满了积极的看法，相信一切都会越来越好。",
+                    "translate": {
+                        "english": "I am full of positive views about the future and believe that everything will get better and better."
+                    }
+                }
+            ]
+        }
+    ]
+}

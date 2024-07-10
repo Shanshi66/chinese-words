@@ -1,0 +1,34 @@
+{
+    "word": "北方",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "北方",
+            "translate": {
+                "english": "north"
+            },
+            "examples": [
+                {
+                    "example": "我一直很向往北方那广袤无垠的大地和壮丽的风光。",
+                    "translate": {
+                        "english": "I have always been longing for the vast and boundless land and magnificent scenery in the north."
+                    }
+                },
+                {
+                    "example": "北方的冬天虽然寒冷，但那银装素裹的世界却别有一番美丽。",
+                    "translate": {
+                        "english": "Although the winter in the north is cold, the world wrapped in silver is rather beautiful in a special way."
+                    }
+                },
+                {
+                    "example": "我计划明年去北方旅行，领略那里独特的风土人情。",
+                    "translate": {
+                        "english": "I plan to travel to the north next year to appreciate the unique local customs and practices there."
+                    }
+                }
+            ]
+        }
+    ]
+}

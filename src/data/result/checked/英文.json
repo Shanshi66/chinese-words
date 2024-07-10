@@ -1,0 +1,34 @@
+{
+    "word": "英文",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "英文",
+            "translate": {
+                "english": "English"
+            },
+            "examples": [
+                {
+                    "example": "我每天都坚持学习英文，这让我的语言能力有了很大提升。",
+                    "translate": {
+                        "english": "I insist on learning English every day, which has greatly improved my language ability."
+                    }
+                },
+                {
+                    "example": "我非常喜欢英文歌曲，它们的旋律和歌词都很动人。",
+                    "translate": {
+                        "english": "I like English songs very much, and their melodies and lyrics are very touching."
+                    }
+                },
+                {
+                    "example": "我很享受阅读英文书籍，从中领略到了不一样的精彩世界。",
+                    "translate": {
+                        "english": "I really enjoy reading English books and have appreciated a different wonderful world from them."
+                    }
+                }
+            ]
+        }
+    ]
+}

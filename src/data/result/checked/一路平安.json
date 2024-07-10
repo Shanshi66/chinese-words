@@ -1,0 +1,34 @@
+{
+    "word": "一路平安",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "一路平安",
+            "translate": {
+                "english": "have a safe trip"
+            },
+            "examples": [
+                {
+                    "example": "祝你此次出行一路平安，开心顺利。",
+                    "translate": {
+                        "english": "Wish you a safe journey and a happy and smooth trip this time."
+                    }
+                },
+                {
+                    "example": "朋友即将远行，我衷心地祝福他一路平安。",
+                    "translate": {
+                        "english": "A friend is about to go on a long journey, and I sincerely wish him a safe journey."
+                    }
+                },
+                {
+                    "example": "每次家人出门，我都会说一路平安，期待他们平安归来。",
+                    "translate": {
+                        "english": "Every time my family goes out, I will say \"bon voyage\" and look forward to their safe return."
+                    }
+                }
+            ]
+        }
+    ]
+}

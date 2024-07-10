@@ -1,0 +1,34 @@
+{
+    "word": "温度",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "温度",
+            "translate": {
+                "english": "temperature"
+            },
+            "examples": [
+                {
+                    "example": "生活中处处充满爱的温度，让人倍感温暖和幸福。",
+                    "translate": {
+                        "english": "Life is filled with the warmth of love everywhere, making people feel extremely warm and happy."
+                    }
+                },
+                {
+                    "example": "冬日的阳光洒在身上，带来了恰到好处的温度，让人心情格外舒畅。",
+                    "translate": {
+                        "english": "The winter sunlight shines on the body, bringing just the right temperature and making people feel extremely comfortable."
+                    }
+                },
+                {
+                    "example": "朋友的关怀总是带着适宜的温度，温暖着我的心。",
+                    "translate": {
+                        "english": "The care of friends always has an appropriate temperature and warms my heart."
+                    }
+                }
+            ]
+        }
+    ]
+}

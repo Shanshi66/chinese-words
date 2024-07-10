@@ -1,0 +1,34 @@
+{
+    "word": "使用",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "使用",
+            "translate": {
+                "english": "use"
+            },
+            "examples": [
+                {
+                    "example": "我们要学会正确使用各种工具，让它们更好地为我们服务。",
+                    "translate": {
+                        "english": "We should learn to use various tools correctly and let them serve us better."
+                    }
+                },
+                {
+                    "example": "我们应该合理使用资源，以实现可持续发展。",
+                    "translate": {
+                        "english": "We should use resources rationally in order to achieve sustainable development."
+                    }
+                },
+                {
+                    "example": "我们要合理使用时间，去做更多有意义的事情。",
+                    "translate": {
+                        "english": "We should make rational use of time to do more meaningful things."
+                    }
+                }
+            ]
+        }
+    ]
+}

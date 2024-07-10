@@ -1,0 +1,34 @@
+{
+    "word": "瓶子",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "瓶子",
+            "translate": {
+                "english": "bottle"
+            },
+            "examples": [
+                {
+                    "example": "我把采来的鲜花插进漂亮的瓶子里，心情格外愉悦。",
+                    "translate": {
+                        "english": "I put the picked fresh flowers into the beautiful bottle, and I feel extremely happy."
+                    }
+                },
+                {
+                    "example": "我小心翼翼地把亲手折的星星放进透明的瓶子里，满是成就感。",
+                    "translate": {
+                        "english": "I carefully put the star folded by myself into the transparent bottle, full of a sense of accomplishment."
+                    }
+                },
+                {
+                    "example": "我将自己的心愿写在纸条上，然后放进了可爱的瓶子里。",
+                    "translate": {
+                        "english": "I wrote my wish on a note and then put it into the lovely bottle."
+                    }
+                }
+            ]
+        }
+    ]
+}

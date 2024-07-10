@@ -1,0 +1,34 @@
+{
+    "word": "词典",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "词典",
+            "translate": {
+                "english": "dictionary"
+            },
+            "examples": [
+                {
+                    "example": "我经常查阅词典来学习新的词汇，丰富自己的知识储备。",
+                    "translate": {
+                        "english": "I often consult dictionaries to learn new words and enrich my knowledge reserve."
+                    }
+                },
+                {
+                    "example": "我在图书馆借了一本词典，它帮助我更好地理解了那些生僻的词汇。",
+                    "translate": {
+                        "english": "I borrowed a dictionary in the library, and it helps me better understand those rare words."
+                    }
+                },
+                {
+                    "example": "我把词典当作我学习中文的好帮手，它让我进步飞快。",
+                    "translate": {
+                        "english": "I take the dictionary as a good helper for my learning Chinese, and it makes me progress rapidly."
+                    }
+                }
+            ]
+        }
+    ]
+}

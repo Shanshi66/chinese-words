@@ -1,0 +1,34 @@
+{
+    "word": "一直",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "一直",
+            "translate": {
+                "english": "all the time"
+            },
+            "examples": [
+                {
+                    "example": "我一直都在努力提升自己，让生活变得更加美好。",
+                    "translate": {
+                        "english": "I have been constantly striving to improve myself to make life more beautiful."
+                    }
+                },
+                {
+                    "example": "他一直保持着乐观向上的心态，面对困难从不退缩。",
+                    "translate": {
+                        "english": "He always keeps an optimistic and upward mindset and never shrinks back in the face of difficulties."
+                    }
+                },
+                {
+                    "example": "他一直坚持锻炼，身体越来越健康。",
+                    "translate": {
+                        "english": "He has been insisting on exercising and his body is getting healthier and healthier."
+                    }
+                }
+            ]
+        }
+    ]
+}

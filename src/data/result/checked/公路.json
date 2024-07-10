@@ -1,0 +1,34 @@
+{
+    "word": "公路",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "公路",
+            "translate": {
+                "english": "highway / road"
+            },
+            "examples": [
+                {
+                    "example": "沿着这条公路一直向前，我们就能欣赏到美丽的风景。",
+                    "translate": {
+                        "english": "Go straight along this highway, and we can enjoy the beautiful scenery."
+                    }
+                },
+                {
+                    "example": "公路上车辆川流不息，大家都在为了生活努力前行。",
+                    "translate": {
+                        "english": "There is a continuous flow of vehicles on the highway, and everyone is striving forward for life."
+                    }
+                },
+                {
+                    "example": "公路两旁的树木郁郁葱葱，为过往的行人带来一片清凉。",
+                    "translate": {
+                        "english": "The trees on both sides of the highway are lush and green, bringing a coolness to the passing pedestrians."
+                    }
+                }
+            ]
+        }
+    ]
+}

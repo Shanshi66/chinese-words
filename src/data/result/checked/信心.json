@@ -1,0 +1,34 @@
+{
+    "word": "信心",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "信心",
+            "translate": {
+                "english": "confidence"
+            },
+            "examples": [
+                {
+                    "example": "只要我们充满信心，就一定能够克服所有困难，迎接美好的未来。",
+                    "translate": {
+                        "english": "As long as we are full of confidence, we will surely be able to overcome all difficulties and welcome a beautiful future."
+                    }
+                },
+                {
+                    "example": "无论面对怎样的挑战，我们都要保持信心，勇往直前。",
+                    "translate": {
+                        "english": "No matter what kind of challenges we face, we should keep confidence and move forward bravely."
+                    }
+                },
+                {
+                    "example": "即使遇到挫折，我们也要坚定信心，相信自己一定能成功。",
+                    "translate": {
+                        "english": "Even if encountering setbacks, we should also firm our confidence and believe that we can succeed for sure."
+                    }
+                }
+            ]
+        }
+    ]
+}

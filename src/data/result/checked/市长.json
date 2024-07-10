@@ -1,0 +1,34 @@
+{
+    "word": "市长",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "市长",
+            "translate": {
+                "english": "mayor"
+            },
+            "examples": [
+                {
+                    "example": "我们的市长一直致力于城市的发展和市民生活的改善。",
+                    "translate": {
+                        "english": "Our mayor has been committed to the development of the city and the improvement of the citizens' lives."
+                    }
+                },
+                {
+                    "example": "我们的市长总是积极地为市民解决各种问题，深受大家的爱戴。",
+                    "translate": {
+                        "english": "Our mayor always actively solves various problems for the citizens and is deeply loved by everyone."
+                    }
+                },
+                {
+                    "example": "我们的市长积极推动各项公益事业的发展，让城市充满了温暖与活力。",
+                    "translate": {
+                        "english": "Our mayor actively promotes the development of various public welfare undertakings, making the city full of warmth and vitality."
+                    }
+                }
+            ]
+        }
+    ]
+}

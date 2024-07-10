@@ -1,0 +1,34 @@
+{
+    "word": "体育馆",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "体育馆",
+            "translate": {
+                "english": "gymnasium / stadium"
+            },
+            "examples": [
+                {
+                    "example": "周末我和朋友们一起去体育馆打篮球，玩得非常开心。",
+                    "translate": {
+                        "english": "On the weekend, I go to the gymnasium to play basketball with my friends and have a great time."
+                    }
+                },
+                {
+                    "example": "我经常在体育馆里锻炼身体，感觉充满了活力。",
+                    "translate": {
+                        "english": "I often exercise in the gym and feel full of vitality."
+                    }
+                },
+                {
+                    "example": "每次走进体育馆，我都能感受到满满的运动热情和活力。",
+                    "translate": {
+                        "english": "Every time I walk into the gymnasium, I can feel full of sports enthusiasm and vitality."
+                    }
+                }
+            ]
+        }
+    ]
+}

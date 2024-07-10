@@ -1,0 +1,34 @@
+{
+    "word": "态度",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "态度",
+            "translate": {
+                "english": "attitude"
+            },
+            "examples": [
+                {
+                    "example": "他积极乐观的态度感染了身边每一个人。",
+                    "translate": {
+                        "english": "His positive and optimistic attitude infected everyone around him."
+                    }
+                },
+                {
+                    "example": "他始终以认真负责的态度对待每一项工作。",
+                    "translate": {
+                        "english": "He always treats every job with a serious and responsible attitude."
+                    }
+                },
+                {
+                    "example": "他以热情友好的态度对待每一位朋友。",
+                    "translate": {
+                        "english": "He treats every friend with a warm and friendly attitude."
+                    }
+                }
+            ]
+        }
+    ]
+}

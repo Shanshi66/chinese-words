@@ -1,0 +1,34 @@
+{
+    "word": "条件",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "条件",
+            "translate": {
+                "english": "condition"
+            },
+            "examples": [
+                {
+                    "example": "只要我们努力创造条件，就一定能实现自己的梦想。",
+                    "translate": {
+                        "english": "As long as we strive to create conditions, we will surely be able to realize our own dreams."
+                    }
+                },
+                {
+                    "example": "虽然目前条件有限，但我们依然要保持乐观积极的态度去面对生活。",
+                    "translate": {
+                        "english": "Although the current conditions are limited, we still have to maintain an optimistic and positive attitude to face life."
+                    }
+                },
+                {
+                    "example": "尽管现在条件艰苦，但我们依然充满信心去迎接挑战。",
+                    "translate": {
+                        "english": "Although the conditions are difficult now, we still have full confidence to meet the challenges."
+                    }
+                }
+            ]
+        }
+    ]
+}

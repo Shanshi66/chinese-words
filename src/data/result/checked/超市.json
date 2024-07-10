@@ -1,0 +1,34 @@
+{
+    "word": "超市",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "超市",
+            "translate": {
+                "english": "supermarket"
+            },
+            "examples": [
+                {
+                    "example": "周末我和家人一起去超市采购，度过了愉快的时光。",
+                    "translate": {
+                        "english": "On the weekend, I went to the supermarket to purchase with my family and had a pleasant time."
+                    }
+                },
+                {
+                    "example": "我经常去超市购买新鲜的食材，为家人烹饪美味的饭菜。",
+                    "translate": {
+                        "english": "I often go to the supermarket to buy fresh ingredients and cook delicious meals for my family."
+                    }
+                },
+                {
+                    "example": "今天下班后我去超市买了很多生活用品，感觉很满足。",
+                    "translate": {
+                        "english": "After work today, I went to the supermarket to buy a lot of daily necessities and felt very satisfied."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "应该",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "应该",
+            "translate": {
+                "english": "should"
+            },
+            "examples": [
+                {
+                    "example": "我们每个人都应该为自己的梦想而努力奋斗。",
+                    "translate": {
+                        "english": "Each of us should strive hard for our own dreams."
+                    }
+                },
+                {
+                    "example": "我们在生活中应该多去帮助他人，这样世界会变得更加美好。",
+                    "translate": {
+                        "english": "We should help others more in life, so that the world will become more beautiful."
+                    }
+                },
+                {
+                    "example": "我们应该保持积极乐观的心态去面对生活中的各种挑战。",
+                    "translate": {
+                        "english": "We should keep a positive and optimistic attitude to face all kinds of challenges in life."
+                    }
+                }
+            ]
+        }
+    ]
+}

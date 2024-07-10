@@ -1,0 +1,34 @@
+{
+    "word": "大海",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "大海",
+            "translate": {
+                "english": "sea / ocean"
+            },
+            "examples": [
+                {
+                    "example": "我站在海边，遥望着一望无际的大海，心情格外舒畅。",
+                    "translate": {
+                        "english": "I stand by the seaside, looking out at the boundless sea, feeling extremely comfortable."
+                    }
+                },
+                {
+                    "example": "我喜欢在假日里去海边漫步，感受大海的辽阔与壮美。",
+                    "translate": {
+                        "english": "I like to take a stroll by the seaside during holidays and feel the vastness and magnificence of the sea."
+                    }
+                },
+                {
+                    "example": "我向往着大海的宽广与深邃，渴望有一天能乘风破浪驶向远方。",
+                    "translate": {
+                        "english": "I yearn for the vastness and depth of the sea, and am eager to ride the wind and waves and sail to the distance one day."
+                    }
+                }
+            ]
+        }
+    ]
+}

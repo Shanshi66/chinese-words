@@ -1,0 +1,34 @@
+{
+    "word": "东南",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "东南",
+            "translate": {
+                "english": "southeast"
+            },
+            "examples": [
+                {
+                    "example": "东南方向的天空出现了一道美丽的彩虹，让人心情格外愉悦。",
+                    "translate": {
+                        "english": "A beautiful rainbow appeared in the southeastern sky, making people feel extremely pleasant."
+                    }
+                },
+                {
+                    "example": "我们朝着东南方向前进，一路欣赏着美丽的风景，充满了期待和欢乐。",
+                    "translate": {
+                        "english": "We move forward towards the southeast direction, enjoying the beautiful scenery all the way, full of expectations and joys."
+                    }
+                },
+                {
+                    "example": "我家在城市的东南区域，那里环境优美，生活便利。",
+                    "translate": {
+                        "english": "My home is in the southeast area of the city, where the environment is beautiful and life is convenient."
+                    }
+                }
+            ]
+        }
+    ]
+}

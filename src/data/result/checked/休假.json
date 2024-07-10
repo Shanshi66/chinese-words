@@ -1,0 +1,28 @@
+{
+    "word": "休假",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "休假",
+            "translate": {
+                "english": "vacation"
+            },
+            "examples": [
+                {
+                    "example": "我准备在休假期间好好放松一下，去看看外面的世界。",
+                    "translate": {
+                        "english": "I am going to relax well during the vacation and go to see the outside world."
+                    }
+                },
+                {
+                    "example": "休假时我会和家人一起去海边度假，享受美好的时光。",
+                    "translate": {
+                        "english": "When on vacation, I will go to the seaside for a vacation with my family and enjoy the wonderful time."
+                    }
+                }
+            ]
+        }
+    ]
+}

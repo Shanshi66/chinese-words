@@ -1,0 +1,34 @@
+{
+    "word": "半夜",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "半夜",
+            "translate": {
+                "english": "midnight"
+            },
+            "examples": [
+                {
+                    "example": "半夜醒来，看到窗外皎洁的月光，心情格外宁静。",
+                    "translate": {
+                        "english": "Waking up in the middle of the night and seeing the bright moonlight outside the window, the mood is exceptionally peaceful."
+                    }
+                },
+                {
+                    "example": "半夜的星空格外璀璨，让人沉醉其中。",
+                    "translate": {
+                        "english": "The starry sky at midnight is exceptionally bright and brilliant, making people intoxicated in it."
+                    }
+                },
+                {
+                    "example": "半夜时分，我还在挑灯夜读，为了实现梦想而努力奋斗。",
+                    "translate": {
+                        "english": "At midnight, I was still studying by the light of a lamp, striving hard to realize my dream."
+                    }
+                }
+            ]
+        }
+    ]
+}

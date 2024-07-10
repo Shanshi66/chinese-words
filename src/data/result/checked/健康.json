@@ -1,0 +1,34 @@
+{
+    "word": "健康",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "健康",
+            "translate": {
+                "english": "health"
+            },
+            "examples": [
+                {
+                    "example": "我们都要保持健康的生活方式，这样才能享受美好的人生。",
+                    "translate": {
+                        "english": "We all should maintain a healthy lifestyle so that we can enjoy a wonderful life."
+                    }
+                },
+                {
+                    "example": "经常运动有助于我们保持健康的身体和积极的心态。",
+                    "translate": {
+                        "english": "Regular exercise helps us maintain a healthy body and a positive mindset."
+                    }
+                },
+                {
+                    "example": "我们应该注重饮食和运动，以维持身体的健康。",
+                    "translate": {
+                        "english": "We should pay attention to diet and exercise to maintain the health of the body."
+                    }
+                }
+            ]
+        }
+    ]
+}

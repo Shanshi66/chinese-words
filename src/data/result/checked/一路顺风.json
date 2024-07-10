@@ -1,0 +1,34 @@
+{
+    "word": "一路顺风",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "一路顺风",
+            "translate": {
+                "english": "bon voyage / have a good trip"
+            },
+            "examples": [
+                {
+                    "example": "祝你此次出行一路顺风，玩得开心愉快。",
+                    "translate": {
+                        "english": "Wish you a pleasant journey and have a great time on this trip."
+                    }
+                },
+                {
+                    "example": "朋友即将远行，我衷心地祝福他一路顺风。",
+                    "translate": {
+                        "english": "A friend is about to take a long journey, and I sincerely wish him a pleasant journey."
+                    }
+                },
+                {
+                    "example": "愿你未来的人生旅途一路顺风，充满美好与惊喜。",
+                    "translate": {
+                        "english": "Wish you a smooth journey in the future life, full of beauty and surprises."
+                    }
+                }
+            ]
+        }
+    ]
+}

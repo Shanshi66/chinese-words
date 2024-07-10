@@ -1,0 +1,34 @@
+{
+    "word": "打算",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "打算",
+            "translate": {
+                "english": "intend / plan"
+            },
+            "examples": [
+                {
+                    "example": "我打算在假期里学习一门新技能，提升自己。",
+                    "translate": {
+                        "english": "I plan to learn a new skill during the holiday to improve myself."
+                    }
+                },
+                {
+                    "example": "我打算在未来的日子里努力奋斗，实现自己的梦想。",
+                    "translate": {
+                        "english": "I plan to strive hard in the days to come to realize my dream."
+                    }
+                },
+                {
+                    "example": "我打算从现在开始每天坚持锻炼，保持健康的身体。",
+                    "translate": {
+                        "english": "I plan to insist on exercising every day from now on to keep a healthy body."
+                    }
+                }
+            ]
+        }
+    ]
+}

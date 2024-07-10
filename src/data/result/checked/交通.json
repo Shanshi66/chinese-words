@@ -1,0 +1,34 @@
+{
+    "word": "交通",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "交通",
+            "translate": {
+                "english": "traffic / transportation"
+            },
+            "examples": [
+                {
+                    "example": "如今的交通越来越发达，给人们的生活带来了极大的便利。",
+                    "translate": {
+                        "english": "Today's transportation is becoming more and more developed, bringing great convenience to people's lives."
+                    }
+                },
+                {
+                    "example": "便捷的交通让城市之间的联系更加紧密，促进了经济的快速发展。",
+                    "translate": {
+                        "english": "Convenient transportation makes the connection between cities closer and promotes the rapid development of the economy."
+                    }
+                },
+                {
+                    "example": "便利的交通使人们的出行更加轻松愉快。",
+                    "translate": {
+                        "english": "Convenient transportation makes people's travel more relaxed and enjoyable."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "平安",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "平安",
+            "translate": {
+                "english": "safe / peaceful"
+            },
+            "examples": [
+                {
+                    "example": "愿大家每一天都过得平安快乐。",
+                    "translate": {
+                        "english": "Wish everyone a safe and happy every day."
+                    }
+                },
+                {
+                    "example": "愿所有人都能一生平安顺遂。",
+                    "translate": {
+                        "english": "Wish all people can have a safe and smooth life all their lives."
+                    }
+                },
+                {
+                    "example": "无论我们身在何处，都愿大家平安顺遂。",
+                    "translate": {
+                        "english": "No matter where we are, I wish everyone safe and smooth."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "月份",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "月份",
+            "translate": {
+                "english": "month"
+            },
+            "examples": [
+                {
+                    "example": "新的月份带来新的希望和机遇。",
+                    "translate": {
+                        "english": "The new month brings new hopes and opportunities."
+                    }
+                },
+                {
+                    "example": "每个月份都有它独特的美好与精彩。",
+                    "translate": {
+                        "english": "Each month has its unique beauty and splendor."
+                    }
+                },
+                {
+                    "example": "新的月份意味着新的开始，让我们充满期待地迎接它。",
+                    "translate": {
+                        "english": "The new month means a new beginning, let's welcome it with full of expectations."
+                    }
+                }
+            ]
+        }
+    ]
+}

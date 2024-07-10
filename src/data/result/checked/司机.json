@@ -1,0 +1,34 @@
+{
+    "word": "司机",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "司机",
+            "translate": {
+                "english": "driver"
+            },
+            "examples": [
+                {
+                    "example": "那位司机总是面带微笑，热情地为乘客服务。",
+                    "translate": {
+                        "english": "That driver always has a smile on his face and serves passengers passionately."
+                    }
+                },
+                {
+                    "example": "这位司机凭借着高超的驾驶技术，总能将乘客安全快速地送达目的地。",
+                    "translate": {
+                        "english": "With superb driving skills, this driver can always deliver passengers to their destinations safely and quickly."
+                    }
+                },
+                {
+                    "example": "那位司机拾金不昧，将乘客遗落的物品及时归还。",
+                    "translate": {
+                        "english": "That driver returned the items left by the passenger in a timely manner with honesty."
+                    }
+                }
+            ]
+        }
+    ]
+}

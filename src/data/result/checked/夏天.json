@@ -1,0 +1,34 @@
+{
+    "word": "夏天",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "夏天",
+            "translate": {
+                "english": "summer"
+            },
+            "examples": [
+                {
+                    "example": "夏天的阳光热烈而灿烂，让人充满活力。",
+                    "translate": {
+                        "english": "The summer sunshine is warm and brilliant, making people full of vitality."
+                    }
+                },
+                {
+                    "example": "夏天的风轻轻拂过脸庞，带来丝丝凉爽和惬意。",
+                    "translate": {
+                        "english": "The summer wind gently brushes across the face, bringing a hint of coolness and comfort."
+                    }
+                },
+                {
+                    "example": "夏天的海边总是充满欢声笑语，人们尽情享受着美好的时光。",
+                    "translate": {
+                        "english": "The seaside in summer is always full of laughter and voices, and people enjoy the wonderful time to the fullest."
+                    }
+                }
+            ]
+        }
+    ]
+}

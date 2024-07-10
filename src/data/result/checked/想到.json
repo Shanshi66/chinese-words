@@ -1,0 +1,34 @@
+{
+    "word": "想到",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "想到",
+            "translate": {
+                "english": "think of / come up with"
+            },
+            "examples": [
+                {
+                    "example": "每当我想到未来的美好生活，就充满了奋斗的动力。",
+                    "translate": {
+                        "english": "Whenever I think of the beautiful life in the future, I am filled with the motivation to strive."
+                    }
+                },
+                {
+                    "example": "每当我想到远方的亲人，心里就充满了温暖和思念。",
+                    "translate": {
+                        "english": "Whenever I think of my relatives in the distance, my heart is filled with warmth and missing."
+                    }
+                },
+                {
+                    "example": "每当我想到过去的美好经历，心中就涌起阵阵感动与喜悦。",
+                    "translate": {
+                        "english": "Whenever I think of the wonderful experiences in the past, waves of emotion and joy well up in my heart."
+                    }
+                }
+            ]
+        }
+    ]
+}

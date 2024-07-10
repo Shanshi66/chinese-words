@@ -1,0 +1,34 @@
+{
+    "word": "平等",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "平等",
+            "translate": {
+                "english": "equality"
+            },
+            "examples": [
+                {
+                    "example": "在这个社会中，我们应该倡导人人平等，相互尊重和理解。",
+                    "translate": {
+                        "english": "In this society, we should advocate that everyone is equal, and mutual respect and understanding."
+                    }
+                },
+                {
+                    "example": "我们要努力构建一个平等、公正、和谐的社会环境。",
+                    "translate": {
+                        "english": "We should strive to build an equal, just and harmonious social environment."
+                    }
+                },
+                {
+                    "example": "我们始终追求着机会平等，让每个人都能充分展现自己的才华。",
+                    "translate": {
+                        "english": "We always pursue equal opportunities so that everyone can fully display their talents."
+                    }
+                }
+            ]
+        }
+    ]
+}

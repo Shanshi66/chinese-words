@@ -1,0 +1,34 @@
+{
+    "word": "高级",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "高级",
+            "translate": {
+                "english": "advanced / senior / high-level"
+            },
+            "examples": [
+                {
+                    "example": "这件高级定制的服装让她在聚会上光彩照人。",
+                    "translate": {
+                        "english": "This advanced custom-made clothing made her shine at the party."
+                    }
+                },
+                {
+                    "example": "他凭借自己的努力进入了一家高级公司工作。",
+                    "translate": {
+                        "english": "He entered a senior company to work by virtue of his own efforts."
+                    }
+                },
+                {
+                    "example": "他在高级餐厅里享用了一顿美味的大餐。",
+                    "translate": {
+                        "english": "He enjoyed a delicious big meal in an upscale restaurant."
+                    }
+                }
+            ]
+        }
+    ]
+}

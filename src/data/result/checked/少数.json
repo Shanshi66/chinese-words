@@ -1,0 +1,34 @@
+{
+    "word": "少数",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "少数",
+            "translate": {
+                "english": "minority"
+            },
+            "examples": [
+                {
+                    "example": "在这个团队中，少数人的创新想法往往能带来意想不到的惊喜。",
+                    "translate": {
+                        "english": "In this team, the innovative ideas of a few people can often bring unexpected surprises."
+                    }
+                },
+                {
+                    "example": "尽管是少数人先发起了这项公益活动，但最终带动了很多人参与进来。",
+                    "translate": {
+                        "english": "Although a small number of people initiated this public welfare activity first, it eventually drove many people to participate."
+                    }
+                },
+                {
+                    "example": "尽管只是少数人做出了努力，但却推动了整个项目的进展。",
+                    "translate": {
+                        "english": "Although only a few people made efforts, it promoted the progress of the entire project."
+                    }
+                }
+            ]
+        }
+    ]
+}

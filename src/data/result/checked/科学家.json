@@ -1,0 +1,34 @@
+{
+    "word": "科学家",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "科学家",
+            "translate": {
+                "english": "scientist"
+            },
+            "examples": [
+                {
+                    "example": "科学家们通过不懈的努力和探索，为人类社会的进步做出了巨大的贡献。",
+                    "translate": {
+                        "english": "Scientists have made tremendous contributions to the progress of human society through unremitting efforts and exploration."
+                    }
+                },
+                {
+                    "example": "科学家们凭借着智慧与勇气，不断攻克一个又一个难关，推动着科技的发展。",
+                    "translate": {
+                        "english": "Scientists, with wisdom and courage, continuously overcome one difficulty after another and promote the development of science and technology."
+                    }
+                },
+                {
+                    "example": "科学家们始终怀揣着对科学的热爱与执着，不断追求真理和创新。",
+                    "translate": {
+                        "english": "Scientists always hold the love and persistence for science, and constantly pursue truth and innovation."
+                    }
+                }
+            ]
+        }
+    ]
+}

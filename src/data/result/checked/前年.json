@@ -1,0 +1,34 @@
+{
+    "word": "前年",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "前年",
+            "translate": {
+                "english": "the year before last"
+            },
+            "examples": [
+                {
+                    "example": "前年我去了一个美丽的地方旅行，那里的风景让我至今难忘。",
+                    "translate": {
+                        "english": "I traveled to a beautiful place the year before last, and the scenery there has remained unforgettable for me until now."
+                    }
+                },
+                {
+                    "example": "前年的努力付出，为我如今的成功奠定了坚实基础。",
+                    "translate": {
+                        "english": "The efforts made in the year before last have laid a solid foundation for my current success."
+                    }
+                },
+                {
+                    "example": "前年我和家人一起度过了一个非常愉快的春节，那温馨的氛围至今还萦绕心头。",
+                    "translate": {
+                        "english": "The year before last, I spent a very pleasant Spring Festival with my family, and the warm atmosphere still lingers in my mind until now."
+                    }
+                }
+            ]
+        }
+    ]
+}

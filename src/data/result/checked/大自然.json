@@ -1,0 +1,34 @@
+{
+    "word": "大自然",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "大自然",
+            "translate": {
+                "english": "nature"
+            },
+            "examples": [
+                {
+                    "example": "走进大自然，感受它的神奇和美丽，让人心旷神怡。",
+                    "translate": {
+                        "english": "Walk into nature, feel its magic and beauty, and make people feel relaxed and happy."
+                    }
+                },
+                {
+                    "example": "周末我们一家人去郊外亲近大自然，享受那美好的风光。",
+                    "translate": {
+                        "english": "On the weekend, our family goes to the suburbs to get close to nature and enjoy the beautiful scenery."
+                    }
+                },
+                {
+                    "example": "我们应该多去亲近大自然，在它的怀抱中汲取力量和快乐。",
+                    "translate": {
+                        "english": "We should get closer to nature more often and draw strength and happiness from its embrace."
+                    }
+                }
+            ]
+        }
+    ]
+}

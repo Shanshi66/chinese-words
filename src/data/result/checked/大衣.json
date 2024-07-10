@@ -1,0 +1,34 @@
+{
+    "word": "大衣",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "大衣",
+            "translate": {
+                "english": "overcoat"
+            },
+            "examples": [
+                {
+                    "example": "我穿上那件温暖的大衣，开心地出门去迎接美好的一天。",
+                    "translate": {
+                        "english": "I put on that warm coat and happily go out to welcome a beautiful day."
+                    }
+                },
+                {
+                    "example": "寒冷的冬天，我裹紧那件厚厚的大衣，感受着无尽的温暖与安心。",
+                    "translate": {
+                        "english": "In the cold winter, I wrapped myself tightly in that thick overcoat and felt endless warmth and peace of mind."
+                    }
+                },
+                {
+                    "example": "我买了一件漂亮的大衣，它让我在冬天也能自信地展现风采。",
+                    "translate": {
+                        "english": "I bought a beautiful overcoat and it enables me to show my elegance with confidence even in winter."
+                    }
+                }
+            ]
+        }
+    ]
+}

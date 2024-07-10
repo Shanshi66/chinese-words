@@ -1,0 +1,34 @@
+{
+    "word": "怎么办",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "怎么办",
+            "translate": {
+                "english": "how to do / what to do"
+            },
+            "examples": [
+                {
+                    "example": "当遇到困难时不要慌张，冷静思考怎么办才是最好的解决方式。",
+                    "translate": {
+                        "english": "When encountering difficulties, don't panic, and calmly think about what is the best way to solve them."
+                    }
+                },
+                {
+                    "example": "遇到问题不要焦虑，静下心来思考怎么办才能更好地解决它。",
+                    "translate": {
+                        "english": "When encountering problems, don't be anxious. Calm down and think about how to solve it better."
+                    }
+                },
+                {
+                    "example": "当我们不知道怎么办的时候，可以向有经验的人请教。",
+                    "translate": {
+                        "english": "When we don't know what to do, we can consult experienced people."
+                    }
+                }
+            ]
+        }
+    ]
+}

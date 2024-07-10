@@ -1,0 +1,34 @@
+{
+    "word": "画家",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "画家",
+            "translate": {
+                "english": "painter"
+            },
+            "examples": [
+                {
+                    "example": "这位画家凭借自己精湛的技艺创作出了许多令人赞叹的作品。",
+                    "translate": {
+                        "english": "This painter has created many amazing works with his exquisite skills."
+                    }
+                },
+                {
+                    "example": "那位画家以独特的视角和细腻的笔触描绘出了世间的美好。",
+                    "translate": {
+                        "english": "That painter depicted the beauty of the world with a unique perspective and delicate brushstrokes."
+                    }
+                },
+                {
+                    "example": "这位画家以其充满创意的构思和灵动的画笔展现了生活的多彩。",
+                    "translate": {
+                        "english": "This painter has shown the colorful life with his creative conception and flexible paintbrush."
+                    }
+                }
+            ]
+        }
+    ]
+}

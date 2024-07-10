@@ -1,0 +1,34 @@
+{
+    "word": "意思",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "意思",
+            "translate": {
+                "english": "meaning"
+            },
+            "examples": [
+                {
+                    "example": "你的这个提议很有意思，我非常愿意尝试。",
+                    "translate": {
+                        "english": "Your this proposal is very interesting, and I am very willing to try."
+                    }
+                },
+                {
+                    "example": "和朋友们一起玩游戏真有意思。",
+                    "translate": {
+                        "english": "Playing games with friends is really interesting."
+                    }
+                },
+                {
+                    "example": "和家人一起分享生活中的点滴真的很有意思。",
+                    "translate": {
+                        "english": "Sharing the bits and pieces in life with family members is really very interesting."
+                    }
+                }
+            ]
+        }
+    ]
+}

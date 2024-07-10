@@ -1,0 +1,34 @@
+{
+    "word": "旅行",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "旅行",
+            "translate": {
+                "english": "travel / journey / trip"
+            },
+            "examples": [
+                {
+                    "example": "我期待着下一次的旅行，去探索更多未知的美好。",
+                    "translate": {
+                        "english": "I am looking forward to the next trip to explore more unknown beauty."
+                    }
+                },
+                {
+                    "example": "我计划在假期进行一次愉快的旅行，去感受不同地方的风土人情。",
+                    "translate": {
+                        "english": "I plan to take a pleasant trip during the holiday to experience the local customs and practices in different places."
+                    }
+                },
+                {
+                    "example": "我喜欢和家人一起去旅行，那是非常快乐的时光。",
+                    "translate": {
+                        "english": "I like to travel with my family, and that is a very happy time."
+                    }
+                }
+            ]
+        }
+    ]
+}

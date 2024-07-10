@@ -1,0 +1,34 @@
+{
+    "word": "大门",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "大门",
+            "translate": {
+                "english": "gate"
+            },
+            "examples": [
+                {
+                    "example": "我怀着激动的心情推开了梦想的大门。",
+                    "translate": {
+                        "english": "I pushed open the door of my dream with excitement."
+                    }
+                },
+                {
+                    "example": "当我推开那扇知识的大门，就仿佛进入了一个全新的世界。",
+                    "translate": {
+                        "english": "When I pushed open that door of knowledge, it seemed as if I had entered a brand new world."
+                    }
+                },
+                {
+                    "example": "我微笑着推开希望的大门，迎接美好的未来。",
+                    "translate": {
+                        "english": "I smile and push open the door of hope to welcome the beautiful future."
+                    }
+                }
+            ]
+        }
+    ]
+}

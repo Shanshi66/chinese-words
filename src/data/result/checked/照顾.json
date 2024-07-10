@@ -1,0 +1,34 @@
+{
+    "word": "照顾",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "照顾",
+            "translate": {
+                "english": "take care of"
+            },
+            "examples": [
+                {
+                    "example": "妈妈无微不至地照顾着生病的奶奶。",
+                    "translate": {
+                        "english": "Mother takes meticulous care of the sick grandma."
+                    }
+                },
+                {
+                    "example": "志愿者们尽心尽力地照顾着那些需要帮助的人们。",
+                    "translate": {
+                        "english": "The volunteers take good care of those people in need wholeheartedly."
+                    }
+                },
+                {
+                    "example": "朋友们对我关怀备至，在我困难时悉心照顾我。",
+                    "translate": {
+                        "english": "Friends take great care of me and look after me carefully when I am in difficulty."
+                    }
+                }
+            ]
+        }
+    ]
+}

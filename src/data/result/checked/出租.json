@@ -1,0 +1,34 @@
+{
+    "word": "出租",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "出租",
+            "translate": {
+                "english": "rent out"
+            },
+            "examples": [
+                {
+                    "example": "城市里有很多出租车为人们的出行提供了便利。",
+                    "translate": {
+                        "english": "There are many taxis in the city, which provide convenience for people's travel."
+                    }
+                },
+                {
+                    "example": "我把多余的房间出租给了一位友善的租客。",
+                    "translate": {
+                        "english": "I rented the spare room to a friendly tenant."
+                    }
+                },
+                {
+                    "example": "他将自己的房子出租给了有需要的家庭。",
+                    "translate": {
+                        "english": "He rented his house to the families in need."
+                    }
+                }
+            ]
+        }
+    ]
+}

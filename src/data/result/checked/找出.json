@@ -1,0 +1,34 @@
+{
+    "word": "找出",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "找出",
+            "translate": {
+                "english": "find out"
+            },
+            "examples": [
+                {
+                    "example": "我们努力找出解决问题的最佳方法。",
+                    "translate": {
+                        "english": "We try hard to find out the best way to solve the problem."
+                    }
+                },
+                {
+                    "example": "他通过仔细研究终于找出了提高效率的有效途径。",
+                    "translate": {
+                        "english": "He finally found an effective way to improve efficiency through careful study."
+                    }
+                },
+                {
+                    "example": "我通过不断探索终于找出了适合自己的发展道路。",
+                    "translate": {
+                        "english": "I finally found out the development path suitable for myself through continuous exploration."
+                    }
+                }
+            ]
+        }
+    ]
+}

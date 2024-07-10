@@ -1,0 +1,34 @@
+{
+    "word": "明星",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "明星",
+            "translate": {
+                "english": "star"
+            },
+            "examples": [
+                {
+                    "example": "舞台上的明星们绽放着耀眼的光芒，给观众们带来了无尽的欢乐。",
+                    "translate": {
+                        "english": "The stars on the stage are blooming with dazzling light and bringing endless joy to the audience."
+                    }
+                },
+                {
+                    "example": "那位明星总是以积极向上的形象激励着粉丝不断前进。",
+                    "translate": {
+                        "english": "That star always inspires the fans to keep moving forward with a positive image."
+                    }
+                },
+                {
+                    "example": "这位明星用自己的努力和才华在娱乐圈中绽放光彩，成为了许多人的榜样。",
+                    "translate": {
+                        "english": "This star shines brightly in the entertainment industry with his own efforts and talent, and has become an example for many people."
+                    }
+                }
+            ]
+        }
+    ]
+}

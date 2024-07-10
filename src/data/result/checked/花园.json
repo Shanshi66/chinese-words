@@ -1,0 +1,34 @@
+{
+    "word": "花园",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "花园",
+            "translate": {
+                "english": "garden"
+            },
+            "examples": [
+                {
+                    "example": "我家的花园里盛开着各种美丽的花朵，让人心情愉悦。",
+                    "translate": {
+                        "english": "In my family's garden, all kinds of beautiful flowers are in full bloom, making people feel happy."
+                    }
+                },
+                {
+                    "example": "我经常在花园里散步，感受着大自然的美好。",
+                    "translate": {
+                        "english": "I often take a walk in the garden, feeling the beauty of nature."
+                    }
+                },
+                {
+                    "example": "春天来了，花园里到处是生机勃勃的景象，让人陶醉其中。",
+                    "translate": {
+                        "english": "Spring has come, and the garden is full of vibrant scenes everywhere, making people intoxicated in it."
+                    }
+                }
+            ]
+        }
+    ]
+}

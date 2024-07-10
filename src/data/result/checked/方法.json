@@ -1,0 +1,34 @@
+{
+    "word": "方法",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "方法",
+            "translate": {
+                "english": "method"
+            },
+            "examples": [
+                {
+                    "example": "我们要不断探索新的方法来提高工作效率。",
+                    "translate": {
+                        "english": "We should continuously explore new methods to improve work efficiency."
+                    }
+                },
+                {
+                    "example": "找到适合自己的方法，能让我们的学习过程更加轻松愉快。",
+                    "translate": {
+                        "english": "Finding the method that suits oneself can make our learning process more relaxed and enjoyable."
+                    }
+                },
+                {
+                    "example": "老师教给我们很多有效的方法来解决数学难题。",
+                    "translate": {
+                        "english": "The teacher taught us many effective methods to solve difficult math problems."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "变成",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "变成",
+            "translate": {
+                "english": "become"
+            },
+            "examples": [
+                {
+                    "example": "只要我们努力奋斗，未来一定会变成我们期望的美好模样。",
+                    "translate": {
+                        "english": "As long as we strive hard, the future will definitely become the beautiful appearance we expect."
+                    }
+                },
+                {
+                    "example": "只要我们保持乐观积极的心态，困难就会变成我们成长的助力。",
+                    "translate": {
+                        "english": "As long as we keep an optimistic and positive attitude, difficulties will become the boost for our growth."
+                    }
+                },
+                {
+                    "example": "我相信只要坚持梦想，毛毛虫终有一天会变成美丽的蝴蝶。",
+                    "translate": {
+                        "english": "I believe that as long as we stick to the dream, the caterpillar will eventually become a beautiful butterfly one day."
+                    }
+                }
+            ]
+        }
+    ]
+}

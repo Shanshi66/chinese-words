@@ -1,0 +1,34 @@
+{
+    "word": "普通话",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "普通话",
+            "translate": {
+                "english": "Mandarin"
+            },
+            "examples": [
+                {
+                    "example": "我们都应该努力学好普通话，以便更好地与他人交流沟通。",
+                    "translate": {
+                        "english": "We all should strive to learn Mandarin well in order to communicate better with others."
+                    }
+                },
+                {
+                    "example": "我一直努力练习普通话，希望能更清晰流畅地表达自己的想法。",
+                    "translate": {
+                        "english": "I have been constantly striving to practice Mandarin, hoping to express my own thoughts more clearly and fluently."
+                    }
+                },
+                {
+                    "example": "学好普通话，能让我们在各种场合更加自信地展示自己。",
+                    "translate": {
+                        "english": "Learning Mandarin well can enable us to show ourselves more confidently in various occasions."
+                    }
+                }
+            ]
+        }
+    ]
+}

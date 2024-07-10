@@ -1,0 +1,34 @@
+{
+    "word": "图片",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "图片",
+            "translate": {
+                "english": "picture / photo"
+            },
+            "examples": [
+                {
+                    "example": "我在欣赏这些精美的图片时，感受到了艺术的魅力。",
+                    "translate": {
+                        "english": "When I was enjoying these exquisite pictures, I felt the charm of art."
+                    }
+                },
+                {
+                    "example": "我看着墙上的图片，回忆起了许多美好的过往。",
+                    "translate": {
+                        "english": "I looked at the picture on the wall and recalled many wonderful past events."
+                    }
+                },
+                {
+                    "example": "我常常翻阅那些图片，它们总能给我带来愉悦的心情。",
+                    "translate": {
+                        "english": "I often look through those pictures, and they can always bring me a pleasant mood."
+                    }
+                }
+            ]
+        }
+    ]
+}

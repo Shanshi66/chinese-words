@@ -1,0 +1,34 @@
+{
+    "word": "日报",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "日报",
+            "translate": {
+                "english": "daily newspaper"
+            },
+            "examples": [
+                {
+                    "example": "我每天都会认真完成工作日报，这让我的工作更加有条理。",
+                    "translate": {
+                        "english": "I will carefully complete the work daily report every day, which makes my work more organized."
+                    }
+                },
+                {
+                    "example": "他每天坚持写日报来总结当天的工作成果和经验。",
+                    "translate": {
+                        "english": "He insists on writing a daily report every day to summarize the work achievements and experiences of the day."
+                    }
+                },
+                {
+                    "example": "我养成了写日报的好习惯，它帮助我更好地回顾和规划每天的工作与生活。",
+                    "translate": {
+                        "english": "I have developed a good habit of writing a daily report, which helps me better review and plan my daily work and life."
+                    }
+                }
+            ]
+        }
+    ]
+}

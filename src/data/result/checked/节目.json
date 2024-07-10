@@ -1,0 +1,34 @@
+{
+    "word": "节目",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "节目",
+            "translate": {
+                "english": "program"
+            },
+            "examples": [
+                {
+                    "example": "电视上的节目真是丰富多彩，让我们的生活充满了乐趣。",
+                    "translate": {
+                        "english": "The programs on TV are really rich and colorful, making our life full of fun."
+                    }
+                },
+                {
+                    "example": "精彩的节目一个接一个地上演，给观众带来了无尽的欢乐。",
+                    "translate": {
+                        "english": "Wonderful programs are staged one after another, bringing endless joy to the audience."
+                    }
+                },
+                {
+                    "example": "精彩的节目让大家沉浸在欢乐的氛围中，每个人的脸上都洋溢着幸福的笑容。",
+                    "translate": {
+                        "english": "The wonderful program makes everyone immersed in a happy atmosphere, and everyone's face is filled with a happy smile."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "故意",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "故意",
+            "translate": {
+                "english": "on purpose / deliberately"
+            },
+            "examples": [
+                {
+                    "example": "他绝对不是故意冒犯你的，可能是无心之失。",
+                    "translate": {
+                        "english": "He is definitely not intentionally offending you, maybe it is an inadvertent mistake."
+                    }
+                },
+                {
+                    "example": "他故意制造惊喜，让大家都非常开心。",
+                    "translate": {
+                        "english": "He deliberately created surprises, making everyone very happy."
+                    }
+                },
+                {
+                    "example": "他故意放慢脚步，只为能和我多聊一会儿。",
+                    "translate": {
+                        "english": "He deliberately slowed down his pace just to be able to chat with me a little longer."
+                    }
+                }
+            ]
+        }
+    ]
+}

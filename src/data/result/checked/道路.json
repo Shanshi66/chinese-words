@@ -1,0 +1,34 @@
+{
+    "word": "道路",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "道路",
+            "translate": {
+                "english": "road / way"
+            },
+            "examples": [
+                {
+                    "example": "在人生的道路上，我们要保持乐观积极的心态，勇敢前行。",
+                    "translate": {
+                        "english": "On the road of life, we should keep an optimistic and positive attitude and move forward bravely."
+                    }
+                },
+                {
+                    "example": "在这条宽阔的道路上，我们充满信心地追逐着自己的梦想。",
+                    "translate": {
+                        "english": "On this broad road, we are chasing our dreams with full confidence."
+                    }
+                },
+                {
+                    "example": "沿着这条蜿蜒的道路，我们愉快地欣赏着沿途的美景。",
+                    "translate": {
+                        "english": "Along this winding road, we happily enjoy the beautiful scenery along the way."
+                    }
+                }
+            ]
+        }
+    ]
+}

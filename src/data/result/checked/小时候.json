@@ -1,0 +1,34 @@
+{
+    "word": "小时候",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "小时候",
+            "translate": {
+                "english": "childhood"
+            },
+            "examples": [
+                {
+                    "example": "小时候的我总是对世界充满了好奇和幻想。",
+                    "translate": {
+                        "english": "When I was a child, I was always full of curiosity and fantasy about the world."
+                    }
+                },
+                {
+                    "example": "小时候的梦想一直激励着我不断努力前行。",
+                    "translate": {
+                        "english": "The childhood dream has always inspired me to keep striving forward."
+                    }
+                },
+                {
+                    "example": "小时候的我拥有很多天真无邪的快乐时光。",
+                    "translate": {
+                        "english": "When I was a child, I had a lot of innocent and carefree happy times."
+                    }
+                }
+            ]
+        }
+    ]
+}

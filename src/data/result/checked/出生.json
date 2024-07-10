@@ -1,0 +1,34 @@
+{
+    "word": "出生",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "出生",
+            "translate": {
+                "english": "birth"
+            },
+            "examples": [
+                {
+                    "example": "每个新生命的出生都给家庭带来了无尽的喜悦和希望。",
+                    "translate": {
+                        "english": "The birth of every new life brings endless joy and hope to the family."
+                    }
+                },
+                {
+                    "example": "可爱的宝宝出生后，一家人都沉浸在幸福的氛围中。",
+                    "translate": {
+                        "english": "After the lovely baby was born, the whole family were immersed in a happy atmosphere."
+                    }
+                },
+                {
+                    "example": "一个新生命的出生意味着一个家庭又增添了一份美好和欢乐。",
+                    "translate": {
+                        "english": "The birth of a new life means that a family has added another share of beauty and joy."
+                    }
+                }
+            ]
+        }
+    ]
+}

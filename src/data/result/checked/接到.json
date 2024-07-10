@@ -1,0 +1,34 @@
+{
+    "word": "接到",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "接到",
+            "translate": {
+                "english": "receive"
+            },
+            "examples": [
+                {
+                    "example": "我接到了朋友打来的问候电话，心里特别温暖。",
+                    "translate": {
+                        "english": "I received a greeting call from a friend, and my heart felt extremely warm."
+                    }
+                },
+                {
+                    "example": "我接到老师的表扬，心里美滋滋的。",
+                    "translate": {
+                        "english": "I received the teacher's praise and felt very pleased."
+                    }
+                },
+                {
+                    "example": "我接到了梦寐以求的大学录取通知书，开心极了。",
+                    "translate": {
+                        "english": "I received the college admission notice that I had been dreaming of and was extremely happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

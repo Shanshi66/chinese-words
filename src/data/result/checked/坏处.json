@@ -1,0 +1,34 @@
+{
+    "word": "坏处",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "坏处",
+            "translate": {
+                "english": "disadvantage / drawback"
+            },
+            "examples": [
+                {
+                    "example": "我们应该多看到事情好的方面，而不是只盯着那一点点坏处。",
+                    "translate": {
+                        "english": "We should see more of the good aspects of things rather than just focusing on that little bit of bad."
+                    }
+                },
+                {
+                    "example": "每件事情都有两面性，我们要善于发现好处，同时也坦然面对可能存在的坏处。",
+                    "translate": {
+                        "english": "Everything has two sides. We should be good at discovering the advantages and also face the possible disadvantages calmly."
+                    }
+                },
+                {
+                    "example": "虽然这种方法可能存在一些坏处，但我们可以通过努力将其转化为好处。",
+                    "translate": {
+                        "english": "Although this method may have some disadvantages, we can transform it into advantages through efforts."
+                    }
+                }
+            ]
+        }
+    ]
+}

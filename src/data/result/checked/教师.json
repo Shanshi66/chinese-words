@@ -1,0 +1,34 @@
+{
+    "word": "教师",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "教师",
+            "translate": {
+                "english": "teacher"
+            },
+            "examples": [
+                {
+                    "example": "尊敬的教师们用自己的智慧和爱心培育着祖国的花朵。",
+                    "translate": {
+                        "english": "Respected teachers cultivate the flowers of the motherland with their own wisdom and love."
+                    }
+                },
+                {
+                    "example": "和蔼可亲的教师耐心地为学生们答疑解惑。",
+                    "translate": {
+                        "english": "The kind and amiable teacher patiently answers the students' questions and solves their puzzles."
+                    }
+                },
+                {
+                    "example": "优秀的教师如同明亮的灯塔，指引着学生们走向知识的彼岸。",
+                    "translate": {
+                        "english": "Excellent teachers are like bright lighthouses, guiding students to the shore of knowledge."
+                    }
+                }
+            ]
+        }
+    ]
+}

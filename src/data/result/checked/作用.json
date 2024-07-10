@@ -1,0 +1,34 @@
+{
+    "word": "作用",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "作用",
+            "translate": {
+                "english": "function / effect / role"
+            },
+            "examples": [
+                {
+                    "example": "团队合作的作用是巨大的，它能让我们实现一加一大于二的效果。",
+                    "translate": {
+                        "english": "The role of teamwork is huge, and it can enable us to achieve the effect that one plus one is greater than two."
+                    }
+                },
+                {
+                    "example": "知识在我们的生活中有着至关重要的作用，能帮助我们更好地理解世界。",
+                    "translate": {
+                        "english": "Knowledge plays a crucial role in our life and can help us better understand the world."
+                    }
+                },
+                {
+                    "example": "良好的心态在我们的人生中有着重要的作用，能让我们更加积极地面对生活中的各种挑战。",
+                    "translate": {
+                        "english": "A good state of mind plays an important role in our life, which can enable us to face various challenges in life more actively."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "家长",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "家长",
+            "translate": {
+                "english": "parent"
+            },
+            "examples": [
+                {
+                    "example": "家长们总是尽心尽力地为孩子创造良好的成长环境。",
+                    "translate": {
+                        "english": "Parents always do their best to create a good growth environment for their children."
+                    }
+                },
+                {
+                    "example": "家长们以身作则，为孩子树立了良好的道德榜样。",
+                    "translate": {
+                        "english": "Parents set a good moral example by setting an example themselves for their children."
+                    }
+                },
+                {
+                    "example": "家长们用无尽的爱与关怀陪伴孩子茁壮成长。",
+                    "translate": {
+                        "english": "Parents accompany children to thrive with endless love and care."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "重点",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "重点",
+            "translate": {
+                "english": "key point / focus"
+            },
+            "examples": [
+                {
+                    "example": "老师在课堂上强调了这部分内容是重点，需要我们特别注意。",
+                    "translate": {
+                        "english": "The teacher emphasized in class that this part of the content is the key point and requires our special attention."
+                    }
+                },
+                {
+                    "example": "这次会议明确了工作的重点，大家都充满了信心去努力完成任务。",
+                    "translate": {
+                        "english": "This meeting clarified the key points of the work, and everyone is full of confidence to strive to complete the task."
+                    }
+                },
+                {
+                    "example": "学习时要抓住重点，这样才能事半功倍。",
+                    "translate": {
+                        "english": "When studying, we should grasp the key points so that we can achieve twice the result with half the effort."
+                    }
+                }
+            ]
+        }
+    ]
+}

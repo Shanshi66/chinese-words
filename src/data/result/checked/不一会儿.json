@@ -1,0 +1,34 @@
+{
+    "word": "不一会儿",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "不一会儿",
+            "translate": {
+                "english": "in a short while"
+            },
+            "examples": [
+                {
+                    "example": "他开始做作业，不一会儿就完成了。",
+                    "translate": {
+                        "english": "He began to do his homework and finished it in a short while."
+                    }
+                },
+                {
+                    "example": "我们在公园里玩耍，不一会儿天空就飘起了小雨。",
+                    "translate": {
+                        "english": "We were playing in the park, and after a while, a light rain began to fall in the sky."
+                    }
+                },
+                {
+                    "example": "我们一起在海边散步，不一会儿太阳就从海平面缓缓升起。",
+                    "translate": {
+                        "english": "We walked together by the seaside, and after a while the sun slowly rose from the sea level."
+                    }
+                }
+            ]
+        }
+    ]
+}

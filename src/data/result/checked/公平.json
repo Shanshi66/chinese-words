@@ -1,0 +1,34 @@
+{
+    "word": "公平",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "公平",
+            "translate": {
+                "english": "fairness"
+            },
+            "examples": [
+                {
+                    "example": "生活是公平的，只要我们努力付出，就一定会有所收获。",
+                    "translate": {
+                        "english": "Life is fair, as long as we work hard and pay, there will definitely be gains."
+                    }
+                },
+                {
+                    "example": "这个世界是公平的，只要我们保持积极向上的心态，努力奋斗，就一定能实现自己的梦想。",
+                    "translate": {
+                        "english": "The world is fair. As long as we keep a positive and upward mindset and strive hard, we will definitely be able to realize our dreams."
+                    }
+                },
+                {
+                    "example": "老师总是公平地对待每一位学生，不会有任何偏袒。",
+                    "translate": {
+                        "english": "Teachers always treat every student fairly and there will be no favoritism."
+                    }
+                }
+            ]
+        }
+    ]
+}

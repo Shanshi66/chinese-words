@@ -1,0 +1,34 @@
+{
+    "word": "笑话",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "笑话",
+            "translate": {
+                "english": "joke"
+            },
+            "examples": [
+                {
+                    "example": "他经常给大家讲笑话，让每个人都开怀大笑，氛围十分欢乐。",
+                    "translate": {
+                        "english": "He often tells jokes to everyone, making everyone laugh heartily, and the atmosphere is very joyful."
+                    }
+                },
+                {
+                    "example": "我喜欢给朋友们讲笑话，看着他们开心的笑容，我也觉得特别快乐。",
+                    "translate": {
+                        "english": "I like to tell jokes to my friends, and looking at their happy smiles, I also feel extremely happy."
+                    }
+                },
+                {
+                    "example": "我每天都会看一些笑话，给自己带来一整天的好心情。",
+                    "translate": {
+                        "english": "I read some jokes every day to bring myself a good mood for the whole day."
+                    }
+                }
+            ]
+        }
+    ]
+}

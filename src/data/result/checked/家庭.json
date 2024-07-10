@@ -1,0 +1,34 @@
+{
+    "word": "家庭",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "家庭",
+            "translate": {
+                "english": "family"
+            },
+            "examples": [
+                {
+                    "example": "我的家庭充满了爱和温暖，让我感到无比幸福。",
+                    "translate": {
+                        "english": "My family is full of love and warmth, making me feel extremely happy."
+                    }
+                },
+                {
+                    "example": "我的家庭是我最温暖的港湾，给予我无尽的力量和支持。",
+                    "translate": {
+                        "english": "My family is my warmest harbor, giving me endless strength and support."
+                    }
+                },
+                {
+                    "example": "和谐的家庭是每个人心灵的栖息地，给予我们源源不断的动力。",
+                    "translate": {
+                        "english": "A harmonious family is the habitat of everyone's soul, giving us a continuous source of power."
+                    }
+                }
+            ]
+        }
+    ]
+}

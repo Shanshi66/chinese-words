@@ -1,0 +1,34 @@
+{
+    "word": "举手",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "举手",
+            "translate": {
+                "english": "raise hand"
+            },
+            "examples": [
+                {
+                    "example": "老师提问后，同学们纷纷举手抢答。",
+                    "translate": {
+                        "english": "After the teacher asked questions, the students raised their hands one after another to rush to answer."
+                    }
+                },
+                {
+                    "example": "课堂上，当老师询问谁能解答这个问题时，小明第一个举手。",
+                    "translate": {
+                        "english": "In the classroom, when the teacher asked who could answer this question, Xiaoming was the first to raise his hand."
+                    }
+                },
+                {
+                    "example": "老师讲完课后询问大家是否理解，很多同学都举手表示已经明白。",
+                    "translate": {
+                        "english": "After the teacher finished the lesson and asked if everyone understood, many students raised their hands to indicate that they had already understood."
+                    }
+                }
+            ]
+        }
+    ]
+}

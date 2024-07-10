@@ -1,0 +1,34 @@
+{
+    "word": "只能",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "只能",
+            "translate": {
+                "english": "only"
+            },
+            "examples": [
+                {
+                    "example": "虽然遇到了困难，但我们只能勇往直前，努力去克服。",
+                    "translate": {
+                        "english": "Although we have encountered difficulties, we can only move forward bravely and try hard to overcome them."
+                    }
+                },
+                {
+                    "example": "我们在前进的道路上遇到挫折时，只能坚定信念继续前行。",
+                    "translate": {
+                        "english": "When we encounter setbacks on the way forward, we can only firm our beliefs and move on."
+                    }
+                },
+                {
+                    "example": "无论遇到什么情况，我们都只能保持乐观积极的心态去面对。",
+                    "translate": {
+                        "english": "No matter what situation we encounter, we can only keep an optimistic and positive attitude to face it."
+                    }
+                }
+            ]
+        }
+    ]
+}

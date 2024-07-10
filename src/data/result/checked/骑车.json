@@ -1,0 +1,34 @@
+{
+    "word": "骑车",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "骑车",
+            "translate": {
+                "english": "ride a bike"
+            },
+            "examples": [
+                {
+                    "example": "阳光明媚的日子里，我喜欢骑车去探索城市的美景。",
+                    "translate": {
+                        "english": "On sunny days, I like to ride a bike to explore the beautiful scenery of the city."
+                    }
+                },
+                {
+                    "example": "周末的时候，我经常和朋友们一起骑车去郊外享受大自然的美好。",
+                    "translate": {
+                        "english": "On weekends, I often ride a bike to the suburbs with my friends to enjoy the beauty of nature."
+                    }
+                },
+                {
+                    "example": "风和日丽的下午，我开心地骑车穿行在公园的小道上。",
+                    "translate": {
+                        "english": "On a sunny and breezy afternoon, I happily ride a bike through the path in the park."
+                    }
+                }
+            ]
+        }
+    ]
+}

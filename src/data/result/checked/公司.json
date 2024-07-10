@@ -1,0 +1,34 @@
+{
+    "word": "公司",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "公司",
+            "translate": {
+                "english": "company / corporation"
+            },
+            "examples": [
+                {
+                    "example": "我在这家公司里收获了很多成长和快乐。",
+                    "translate": {
+                        "english": "I have gained a lot of growth and happiness in this company."
+                    }
+                },
+                {
+                    "example": "我很庆幸能在这家充满活力的公司里工作。",
+                    "translate": {
+                        "english": "I am very glad to be able to work in this vibrant company."
+                    }
+                },
+                {
+                    "example": "我在公司里努力工作，不断实现着自己的价值。",
+                    "translate": {
+                        "english": "I work hard in the company and continuously realize my own value."
+                    }
+                }
+            ]
+        }
+    ]
+}

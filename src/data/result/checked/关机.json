@@ -1,0 +1,34 @@
+{
+    "word": "关机",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "关机",
+            "translate": {
+                "english": "shut down / power off"
+            },
+            "examples": [
+                {
+                    "example": "我准备休息了，先把电脑关机。",
+                    "translate": {
+                        "english": "I'm going to rest and shut down the computer first."
+                    }
+                },
+                {
+                    "example": "忙碌了一天，现在我要关机休息，养足精神迎接明天。",
+                    "translate": {
+                        "english": "After a busy day, now I'm going to shut down and rest to refresh myself to welcome tomorrow."
+                    }
+                },
+                {
+                    "example": "当一天的工作结束后，我愉快地关机，准备享受轻松的休闲时光。",
+                    "translate": {
+                        "english": "When the day's work is over, I happily shut down the computer and prepare to enjoy the relaxed leisure time."
+                    }
+                }
+            ]
+        }
+    ]
+}

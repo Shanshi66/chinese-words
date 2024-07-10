@@ -1,0 +1,34 @@
+{
+    "word": "忽然",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "忽然",
+            "translate": {
+                "english": "suddenly"
+            },
+            "examples": [
+                {
+                    "example": "我正在看书，忽然门铃响了起来。",
+                    "translate": {
+                        "english": "I was reading a book when suddenly the doorbell rang."
+                    }
+                },
+                {
+                    "example": "我正在路上走着，天空忽然飘起了小雨。",
+                    "translate": {
+                        "english": "I was walking on the road, and suddenly a light rain began to fall in the sky."
+                    }
+                },
+                {
+                    "example": "我正在安静地思考问题，忽然脑海中闪过一个奇妙的灵感。",
+                    "translate": {
+                        "english": "I am quietly thinking about the problem, and suddenly a wonderful inspiration flashed through my mind."
+                    }
+                }
+            ]
+        }
+    ]
+}

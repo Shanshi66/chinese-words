@@ -1,0 +1,34 @@
+{
+    "word": "青少年",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "青少年",
+            "translate": {
+                "english": "juvenile / teenager"
+            },
+            "examples": [
+                {
+                    "example": "青少年们充满朝气与活力，积极投身于各种有意义的活动中。",
+                    "translate": {
+                        "english": "Teenagers are full of vigor and vitality, and actively engage in various meaningful activities."
+                    }
+                },
+                {
+                    "example": "青少年应该树立远大的理想，为实现梦想而努力奋斗。",
+                    "translate": {
+                        "english": "Teenagers should establish lofty ideals and strive hard to realize their dreams."
+                    }
+                },
+                {
+                    "example": "青少年就像初升的太阳，闪耀着无限的光芒与希望。",
+                    "translate": {
+                        "english": "Teenagers are like the rising sun, shining with unlimited light and hope."
+                    }
+                }
+            ]
+        }
+    ]
+}

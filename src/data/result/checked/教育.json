@@ -1,0 +1,34 @@
+{
+    "word": "教育",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "教育",
+            "translate": {
+                "english": "education"
+            },
+            "examples": [
+                {
+                    "example": "良好的教育能帮助孩子们茁壮成长，成为社会的栋梁之才。",
+                    "translate": {
+                        "english": "Good education can help children thrive and become the pillars of society."
+                    }
+                },
+                {
+                    "example": "教育是开启智慧之门的钥匙，能让人们不断进步与成长。",
+                    "translate": {
+                        "english": "Education is the key to opening the door of wisdom, which can enable people to make continuous progress and growth."
+                    }
+                },
+                {
+                    "example": "教育是照亮人生道路的明灯，指引我们走向美好的未来。",
+                    "translate": {
+                        "english": "Education is the bright lamp that illuminates the path of life and guides us to a beautiful future."
+                    }
+                }
+            ]
+        }
+    ]
+}

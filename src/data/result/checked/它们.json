@@ -1,0 +1,34 @@
+{
+    "word": "它们",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "它们",
+            "translate": {
+                "english": "they / them"
+            },
+            "examples": [
+                {
+                    "example": "那些可爱的小动物们在草地上欢快地玩耍，它们是大自然的精灵。",
+                    "translate": {
+                        "english": "Those lovely little animals are playing merrily on the grass, and they are the elves of nature."
+                    }
+                },
+                {
+                    "example": "花园里的花朵绽放得绚丽多彩，它们是春天最美的风景。",
+                    "translate": {
+                        "english": "The flowers in the garden bloom gorgeously and colorfully, and they are the most beautiful scenery in spring."
+                    }
+                },
+                {
+                    "example": "它们在蔚蓝的天空中自由地翱翔，展现着生命的活力。",
+                    "translate": {
+                        "english": "They soar freely in the azure sky, showing the vitality of life."
+                    }
+                }
+            ]
+        }
+    ]
+}

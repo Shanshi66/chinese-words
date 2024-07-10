@@ -1,0 +1,34 @@
+{
+    "word": "头发",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "头发",
+            "translate": {
+                "english": "hair"
+            },
+            "examples": [
+                {
+                    "example": "她那乌黑亮丽的头发在微风中轻轻飘动，十分迷人。",
+                    "translate": {
+                        "english": "Her jet-black and shiny hair gently floats in the breeze, very charming."
+                    }
+                },
+                {
+                    "example": "我的妈妈有着一头乌黑柔顺的头发，看起来特别优雅。",
+                    "translate": {
+                        "english": "My mother has jet-black and smooth hair and looks particularly elegant."
+                    }
+                },
+                {
+                    "example": "她精心打理着自己的头发，整个人看起来精神又自信。",
+                    "translate": {
+                        "english": "She carefully takes care of her hair, and the whole person looks energetic and confident."
+                    }
+                }
+            ]
+        }
+    ]
+}

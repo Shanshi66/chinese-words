@@ -1,0 +1,34 @@
+{
+    "word": "合适",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "合适",
+            "translate": {
+                "english": "suitable / appropriate"
+            },
+            "examples": [
+                {
+                    "example": "我终于找到了一份各方面都很合适的工作，真的太开心了。",
+                    "translate": {
+                        "english": "I finally found a job that is very suitable in all aspects, and I am really too happy."
+                    }
+                },
+                {
+                    "example": "我找到了一件非常合适的礼物送给朋友，他很开心。",
+                    "translate": {
+                        "english": "I found a very suitable gift for my friend, and he was very happy."
+                    }
+                },
+                {
+                    "example": "我找到了一双合适的鞋子，穿上后特别舒服。",
+                    "translate": {
+                        "english": "I found a pair of suitable shoes and they are extremely comfortable after putting them on."
+                    }
+                }
+            ]
+        }
+    ]
+}

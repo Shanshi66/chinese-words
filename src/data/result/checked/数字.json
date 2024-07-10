@@ -1,0 +1,34 @@
+{
+    "word": "数字",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "数字",
+            "translate": {
+                "english": "number"
+            },
+            "examples": [
+                {
+                    "example": "生活中有许多数字的奥秘等待我们去探索。",
+                    "translate": {
+                        "english": "There are many mysteries of numbers in life waiting for us to explore."
+                    }
+                },
+                {
+                    "example": "数字在现代社会中扮演着极其重要的角色，给我们的生活带来了诸多便利。",
+                    "translate": {
+                        "english": "Numbers play an extremely important role in modern society and bring a lot of conveniences to our lives."
+                    }
+                },
+                {
+                    "example": "数字的世界丰富多彩，让我们的生活变得更加奇妙和有趣。",
+                    "translate": {
+                        "english": "The digital world is rich and colorful, making our lives more wonderful and interesting."
+                    }
+                }
+            ]
+        }
+    ]
+}

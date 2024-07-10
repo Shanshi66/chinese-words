@@ -1,0 +1,34 @@
+{
+    "word": "必须",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "必须",
+            "translate": {
+                "english": "must"
+            },
+            "examples": [
+                {
+                    "example": "我们必须努力奋斗，才能实现自己的梦想。",
+                    "translate": {
+                        "english": "We must strive hard in order to realize our own dreams."
+                    }
+                },
+                {
+                    "example": "我们在生活中必须保持乐观积极的心态，才能更好地面对各种挑战。",
+                    "translate": {
+                        "english": "We must maintain an optimistic and positive attitude in life in order to better face various challenges."
+                    }
+                },
+                {
+                    "example": "我们每个人都必须为自己的行为负责，这样才能成为更好的人。",
+                    "translate": {
+                        "english": "Each of us must be responsible for our own actions so that we can become better people."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "放心",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "放心",
+            "translate": {
+                "english": "set one's mind at rest / feel relieved"
+            },
+            "examples": [
+                {
+                    "example": "请您放心，我一定会出色地完成这项任务。",
+                    "translate": {
+                        "english": "Please rest assured that I will definitely complete this task excellently."
+                    }
+                },
+                {
+                    "example": "您就放心吧，这件事交给我绝对没问题。",
+                    "translate": {
+                        "english": "You can rest assured. There is absolutely no problem for me to handle this matter."
+                    }
+                },
+                {
+                    "example": "您放心好了，我会全力以赴达成目标的。",
+                    "translate": {
+                        "english": "You can rest assured. I will go all out to achieve the goal."
+                    }
+                }
+            ]
+        }
+    ]
+}

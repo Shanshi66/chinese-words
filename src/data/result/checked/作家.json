@@ -1,0 +1,34 @@
+{
+    "word": "作家",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "作家",
+            "translate": {
+                "english": "author / writer"
+            },
+            "examples": [
+                {
+                    "example": "这位作家以其深刻的思想和精彩的文笔赢得了众多读者的喜爱。",
+                    "translate": {
+                        "english": "This writer has won the love of many readers with his profound thoughts and wonderful writing style."
+                    }
+                },
+                {
+                    "example": "那位作家凭借坚持不懈的努力和独特的创作风格在文学界大放异彩。",
+                    "translate": {
+                        "english": "That writer shines brightly in the literary world with persistent efforts and unique creative style."
+                    }
+                },
+                {
+                    "example": "这位作家通过细腻的情感描写和动人的故事架构，给读者们带来了无尽的感动。",
+                    "translate": {
+                        "english": "This writer has brought endless moving to the readers through delicate emotional description and touching story structure."
+                    }
+                }
+            ]
+        }
+    ]
+}

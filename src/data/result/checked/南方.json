@@ -1,0 +1,34 @@
+{
+    "word": "南方",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "南方",
+            "translate": {
+                "english": "south"
+            },
+            "examples": [
+                {
+                    "example": "南方的景色美不胜收，吸引着众多游客前往欣赏。",
+                    "translate": {
+                        "english": "The scenery in the south is extremely beautiful, attracting a large number of tourists to go and appreciate."
+                    }
+                },
+                {
+                    "example": "我一直向往南方那温暖宜人的气候和美丽的自然风光。",
+                    "translate": {
+                        "english": "I have always been longing for the warm and pleasant climate and the beautiful natural scenery in the south."
+                    }
+                },
+                {
+                    "example": "我打算明年去南方旅行，感受那里独特的风土人情。",
+                    "translate": {
+                        "english": "I plan to travel to the south next year to feel the unique local customs and practices there."
+                    }
+                }
+            ]
+        }
+    ]
+}

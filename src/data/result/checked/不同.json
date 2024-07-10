@@ -1,0 +1,34 @@
+{
+    "word": "不同",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "不同",
+            "translate": {
+                "english": "different"
+            },
+            "examples": [
+                {
+                    "example": "这个世界由许多不同的文化和习俗组成，它们共同构成了丰富多彩的人类文明。",
+                    "translate": {
+                        "english": "This world is composed of many different cultures and customs, which together constitute the rich and colorful human civilization."
+                    }
+                },
+                {
+                    "example": "生活中有许多不同的风景等待我们去发现和欣赏。",
+                    "translate": {
+                        "english": "There are many different landscapes in life waiting for us to discover and appreciate."
+                    }
+                },
+                {
+                    "example": "每个人都有不同的优点和特长，我们应该相互学习，共同进步。",
+                    "translate": {
+                        "english": "Everyone has different strengths and specialties, and we should learn from each other and make progress together."
+                    }
+                }
+            ]
+        }
+    ]
+}

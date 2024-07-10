@@ -1,0 +1,34 @@
+{
+    "word": "以后",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "以后",
+            "translate": {
+                "english": "afterward / later"
+            },
+            "examples": [
+                {
+                    "example": "以后的日子里，我们要一起努力创造更美好的生活。",
+                    "translate": {
+                        "english": "In the days to come, we will work together to create a better life."
+                    }
+                },
+                {
+                    "example": "以后的人生道路还很长，我们要充满信心地走下去。",
+                    "translate": {
+                        "english": "The life path in the future is still very long, and we should go on with full confidence."
+                    }
+                },
+                {
+                    "example": "以后我会更加努力提升自己，让自己变得更加优秀。",
+                    "translate": {
+                        "english": "In the future, I will work harder to improve myself and make myself more excellent."
+                    }
+                }
+            ]
+        }
+    ]
+}

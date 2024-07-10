@@ -1,0 +1,34 @@
+{
+    "word": "爱情",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "爱情",
+            "translate": {
+                "english": "love"
+            },
+            "examples": [
+                {
+                    "example": "美好的爱情能让人们的生活充满阳光和温暖。",
+                    "translate": {
+                        "english": "Beautiful love can make people's lives full of sunshine and warmth."
+                    }
+                },
+                {
+                    "example": "真正的爱情会给予人勇往直前的力量和勇气。",
+                    "translate": {
+                        "english": "True love will give people the strength and courage to move forward bravely."
+                    }
+                },
+                {
+                    "example": "爱情就像璀璨的星辰，照亮了我们生命的旅程。",
+                    "translate": {
+                        "english": "Love is like the bright stars, illuminating the journey of our lives."
+                    }
+                }
+            ]
+        }
+    ]
+}

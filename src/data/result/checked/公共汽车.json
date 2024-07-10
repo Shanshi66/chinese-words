@@ -1,0 +1,34 @@
+{
+    "word": "公共汽车",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "公共汽车",
+            "translate": {
+                "english": "bus"
+            },
+            "examples": [
+                {
+                    "example": "每天我都会乘坐公共汽车去上班，既环保又便捷。",
+                    "translate": {
+                        "english": "Every day I will take the bus to go to work, which is both environmentally friendly and convenient."
+                    }
+                },
+                {
+                    "example": "我喜欢乘坐公共汽车去探索城市的各个角落，感受不同的风景和文化。",
+                    "translate": {
+                        "english": "I like to take the bus to explore every corner of the city and feel different landscapes and cultures."
+                    }
+                },
+                {
+                    "example": "我经常和朋友们一起乘坐公共汽车去游玩，享受快乐的时光。",
+                    "translate": {
+                        "english": "I often take the bus to play with friends and enjoy the happy time."
+                    }
+                }
+            ]
+        }
+    ]
+}

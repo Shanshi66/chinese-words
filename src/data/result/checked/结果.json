@@ -1,0 +1,34 @@
+{
+    "word": "结果",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "结果",
+            "translate": {
+                "english": "result / consequence"
+            },
+            "examples": [
+                {
+                    "example": "经过大家的共同努力，最终获得了令人满意的结果。",
+                    "translate": {
+                        "english": "Through the joint efforts of everyone, finally obtained a satisfactory result."
+                    }
+                },
+                {
+                    "example": "无论过程多么艰难，只要坚持到底，就一定会收获美好的结果。",
+                    "translate": {
+                        "english": "No matter how difficult the process is, as long as you persevere to the end, you will definitely reap a wonderful result."
+                    }
+                },
+                {
+                    "example": "无论做什么事情，我们都应该积极面对，期待最好的结果。",
+                    "translate": {
+                        "english": "No matter what we do, we should face it actively and expect the best result."
+                    }
+                }
+            ]
+        }
+    ]
+}

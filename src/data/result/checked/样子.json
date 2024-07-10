@@ -1,0 +1,34 @@
+{
+    "word": "样子",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "样子",
+            "translate": {
+                "english": "appearance / look / manner"
+            },
+            "examples": [
+                {
+                    "example": "她笑起来的样子真的好美，让人感觉如沐春风。",
+                    "translate": {
+                        "english": "The way she smiles is really beautiful, making people feel like bathing in the spring breeze."
+                    }
+                },
+                {
+                    "example": "他努力工作的样子充满了魅力，让人十分敬佩。",
+                    "translate": {
+                        "english": "The way he works hard is full of charm and makes people admire very much."
+                    }
+                },
+                {
+                    "example": "他自信的样子就像阳光一样灿烂，充满了感染力。",
+                    "translate": {
+                        "english": "His confident appearance is as bright as the sunshine, full of infectiousness."
+                    }
+                }
+            ]
+        }
+    ]
+}

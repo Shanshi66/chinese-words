@@ -1,0 +1,34 @@
+{
+    "word": "个子",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "个子",
+            "translate": {
+                "english": "stature"
+            },
+            "examples": [
+                {
+                    "example": "他虽然个子不高，但有着积极向上的心态和无穷的活力。",
+                    "translate": {
+                        "english": "Although he is not tall, he has a positive attitude and endless energy."
+                    }
+                },
+                {
+                    "example": "这位个子高挑的女士在舞台上展现出了非凡的魅力。",
+                    "translate": {
+                        "english": "This tall lady showed extraordinary charm on the stage."
+                    }
+                },
+                {
+                    "example": "那个个子高高的男生在篮球场上尽情挥洒着汗水。",
+                    "translate": {
+                        "english": "That tall boy is sweating freely on the basketball court."
+                    }
+                }
+            ]
+        }
+    ]
+}

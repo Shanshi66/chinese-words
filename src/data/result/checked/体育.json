@@ -1,0 +1,34 @@
+{
+    "word": "体育",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "体育",
+            "translate": {
+                "english": "physical education / sport"
+            },
+            "examples": [
+                {
+                    "example": "体育让我们的生活更加丰富多彩，也让我们拥有健康的体魄和积极向上的心态。",
+                    "translate": {
+                        "english": "Sports make our life more colorful, and also make us have a healthy body and a positive attitude."
+                    }
+                },
+                {
+                    "example": "我热爱体育，它让我充满活力，每天都能以饱满的精神状态面对生活。",
+                    "translate": {
+                        "english": "I love sports, which makes me full of vitality and enables me to face life with full energy every day."
+                    }
+                },
+                {
+                    "example": "体育就像一束光，照亮了我们的生活，带来无尽的欢乐和活力。",
+                    "translate": {
+                        "english": "Sports is like a beam of light, illuminating our lives and bringing endless joy and vitality."
+                    }
+                }
+            ]
+        }
+    ]
+}

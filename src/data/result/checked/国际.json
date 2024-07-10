@@ -1,0 +1,34 @@
+{
+    "word": "国际",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "国际",
+            "translate": {
+                "english": "international"
+            },
+            "examples": [
+                {
+                    "example": "中国在国际舞台上发挥着越来越重要的作用。",
+                    "translate": {
+                        "english": "China is playing an increasingly important role on the international stage."
+                    }
+                },
+                {
+                    "example": "随着科技的发展，国际间的交流与合作变得更加频繁和紧密。",
+                    "translate": {
+                        "english": "With the development of science and technology, the exchanges and cooperation among countries have become more frequent and closer."
+                    }
+                },
+                {
+                    "example": "国际友人的到来让我们倍感荣幸。",
+                    "translate": {
+                        "english": "The arrival of international friends makes us feel extremely honored."
+                    }
+                }
+            ]
+        }
+    ]
+}

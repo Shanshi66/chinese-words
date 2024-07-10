@@ -1,0 +1,34 @@
+{
+    "word": "原因",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "原因",
+            "translate": {
+                "english": "reason"
+            },
+            "examples": [
+                {
+                    "example": "我成功的原因在于我一直坚持不懈地努力奋斗。",
+                    "translate": {
+                        "english": "The reason for my success lies in that I have been persevering in striving continuously."
+                    }
+                },
+                {
+                    "example": "我今天如此开心的原因是得到了大家的认可和鼓励。",
+                    "translate": {
+                        "english": "The reason why I am so happy today is that I have got everyone's recognition and encouragement."
+                    }
+                },
+                {
+                    "example": "我取得好成绩的原因是平时的勤奋学习和积极思考。",
+                    "translate": {
+                        "english": "The reason why I got good grades is the usual diligent study and active thinking."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "见到",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "见到",
+            "translate": {
+                "english": "see"
+            },
+            "examples": [
+                {
+                    "example": "每次见到许久未见的朋友，我都特别开心。",
+                    "translate": {
+                        "english": "Every time I see a friend I haven't seen for a long time, I am extremely happy."
+                    }
+                },
+                {
+                    "example": "每次见到老师，我都会礼貌地打招呼。",
+                    "translate": {
+                        "english": "Every time I see the teacher, I will greet politely."
+                    }
+                },
+                {
+                    "example": "每次见到阳光灿烂的日子，我的心情就会格外舒畅。",
+                    "translate": {
+                        "english": "Every time I see a sunny day, my mood will be exceptionally comfortable."
+                    }
+                }
+            ]
+        }
+    ]
+}

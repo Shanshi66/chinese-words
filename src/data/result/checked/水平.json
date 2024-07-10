@@ -1,0 +1,34 @@
+{
+    "word": "水平",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "水平",
+            "translate": {
+                "english": "level"
+            },
+            "examples": [
+                {
+                    "example": "通过不断学习和努力，他的专业水平有了很大的提高。",
+                    "translate": {
+                        "english": "Through continuous learning and hard work, his professional level has been greatly improved."
+                    }
+                },
+                {
+                    "example": "他在绘画方面展现出了很高的水平，每一幅作品都让人赞叹不已。",
+                    "translate": {
+                        "english": "He has shown a very high level in painting, and every work makes people amazed."
+                    }
+                },
+                {
+                    "example": "他的厨艺水平堪称一流，做出来的美食让人赞不绝口。",
+                    "translate": {
+                        "english": "His cooking skill can be regarded as first-class, and the delicacies he makes are highly praised."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "海边",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "海边",
+            "translate": {
+                "english": "seaside"
+            },
+            "examples": [
+                {
+                    "example": "周末我们一家人开心地去海边享受美好的时光。",
+                    "translate": {
+                        "english": "On the weekend, our whole family happily goes to the seaside to enjoy the wonderful time."
+                    }
+                },
+                {
+                    "example": "夏日的海边总是充满了欢声笑语，人们尽情享受着阳光和海浪带来的快乐。",
+                    "translate": {
+                        "english": "The seaside in summer is always full of laughter and joy, and people enjoy to the fullest the happiness brought by the sunshine and the waves."
+                    }
+                },
+                {
+                    "example": "我喜欢在海边漫步，感受着海风的轻抚和海浪的呢喃。",
+                    "translate": {
+                        "english": "I like strolling by the seaside, feeling the gentle touch of the sea breeze and the murmur of the waves."
+                    }
+                }
+            ]
+        }
+    ]
+}

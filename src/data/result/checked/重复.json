@@ -1,0 +1,34 @@
+{
+    "word": "重复",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "重复",
+            "translate": {
+                "english": "repeat"
+            },
+            "examples": [
+                {
+                    "example": "我们不断地重复练习，只为把事情做到最好。",
+                    "translate": {
+                        "english": "We constantly repeat the practice only to do things to the best."
+                    }
+                },
+                {
+                    "example": "老师耐心地重复讲解知识点，以便同学们能更好地理解和掌握。",
+                    "translate": {
+                        "english": "The teacher patiently repeats to explain the knowledge points so that the students can better understand and master them."
+                    }
+                },
+                {
+                    "example": "我每天重复着积极的生活方式，让自己充满活力和阳光。",
+                    "translate": {
+                        "english": "I repeat the positive lifestyle every day to make myself full of vitality and sunshine."
+                    }
+                }
+            ]
+        }
+    ]
+}

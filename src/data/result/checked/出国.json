@@ -1,0 +1,34 @@
+{
+    "word": "出国",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "出国",
+            "translate": {
+                "english": "go abroad"
+            },
+            "examples": [
+                {
+                    "example": "我一直梦想着有一天能够出国去领略不同国家的风土人情。",
+                    "translate": {
+                        "english": "I have always dreamed that one day I can go abroad to appreciate the customs and cultures of different countries."
+                    }
+                },
+                {
+                    "example": "我希望在不久的将来可以出国深造，提升自己的能力。",
+                    "translate": {
+                        "english": "I hope I can go abroad for further study in the near future to improve my ability."
+                    }
+                },
+                {
+                    "example": "我打算努力工作几年，然后攒够钱出国旅游，看看外面的世界。",
+                    "translate": {
+                        "english": "I plan to work hard for a few years, and then save enough money to travel abroad and see the outside world."
+                    }
+                }
+            ]
+        }
+    ]
+}

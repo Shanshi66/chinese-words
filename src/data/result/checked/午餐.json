@@ -1,0 +1,34 @@
+{
+    "word": "午餐",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "午餐",
+            "translate": {
+                "english": "lunch"
+            },
+            "examples": [
+                {
+                    "example": "美味的午餐让我充满了能量，开启了美好的下午时光。",
+                    "translate": {
+                        "english": "The delicious lunch makes me full of energy and starts the wonderful afternoon time."
+                    }
+                },
+                {
+                    "example": "我和朋友们享用了一顿丰盛的午餐，大家都很开心。",
+                    "translate": {
+                        "english": "I and my friends enjoyed a sumptuous lunch and everyone was very happy."
+                    }
+                },
+                {
+                    "example": "午餐时间和家人一起分享美食，真是一件幸福的事情。",
+                    "translate": {
+                        "english": "Sharing delicious food with family during lunch time is really a happy thing."
+                    }
+                }
+            ]
+        }
+    ]
+}

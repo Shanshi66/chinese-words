@@ -1,0 +1,34 @@
+{
+    "word": "收入",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "收入",
+            "translate": {
+                "english": "income"
+            },
+            "examples": [
+                {
+                    "example": "我的努力工作换来了不错的收入，这让我感到很有成就感。",
+                    "translate": {
+                        "english": "My hard work has brought in a good income, which makes me feel a great sense of accomplishment."
+                    }
+                },
+                {
+                    "example": "随着工作经验的增加，我的收入也在稳步提升。",
+                    "translate": {
+                        "english": "As the work experience increases, my income is also steadily improving."
+                    }
+                },
+                {
+                    "example": "通过不断提升自己的能力，我的收入有了显著的提高，生活也更加美好了。",
+                    "translate": {
+                        "english": "By continuously improving my own abilities, my income has been significantly improved, and life has become even more beautiful."
+                    }
+                }
+            ]
+        }
+    ]
+}

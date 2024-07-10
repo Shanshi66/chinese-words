@@ -1,0 +1,34 @@
+{
+    "word": "一定",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "一定",
+            "translate": {
+                "english": "certainly"
+            },
+            "examples": [
+                {
+                    "example": "我相信只要努力，未来一定充满无限可能。",
+                    "translate": {
+                        "english": "I believe that as long as we work hard, the future will definitely be full of unlimited possibilities."
+                    }
+                },
+                {
+                    "example": "只要我们坚持不懈地追求梦想，就一定会取得成功。",
+                    "translate": {
+                        "english": "As long as we persevere in pursuing our dreams, we will surely succeed."
+                    }
+                },
+                {
+                    "example": "我相信只要坚持锻炼，身体一定会越来越健康。",
+                    "translate": {
+                        "english": "I believe that as long as we keep exercising, the body will definitely become healthier and healthier."
+                    }
+                }
+            ]
+        }
+    ]
+}

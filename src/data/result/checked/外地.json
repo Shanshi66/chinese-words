@@ -1,0 +1,34 @@
+{
+    "word": "外地",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "外地",
+            "translate": {
+                "english": "another place"
+            },
+            "examples": [
+                {
+                    "example": "我打算去外地旅游，领略不同地方的风土人情。",
+                    "translate": {
+                        "english": "I plan to travel to other places to appreciate the local customs and practices of different places."
+                    }
+                },
+                {
+                    "example": "我的朋友从外地回来，给我带来了很多有趣的故事。",
+                    "translate": {
+                        "english": "My friend came back from other places and brought me a lot of interesting stories."
+                    }
+                },
+                {
+                    "example": "我的父母在外地工作，他们一直都很努力奋斗。",
+                    "translate": {
+                        "english": "My parents work in other places and they have been working very hard all the time."
+                    }
+                }
+            ]
+        }
+    ]
+}

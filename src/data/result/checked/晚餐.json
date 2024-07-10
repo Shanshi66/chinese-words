@@ -1,0 +1,34 @@
+{
+    "word": "晚餐",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "晚餐",
+            "translate": {
+                "english": "dinner / supper"
+            },
+            "examples": [
+                {
+                    "example": "一家人围坐在一起享用美味的晚餐，场面十分温馨。",
+                    "translate": {
+                        "english": "The whole family sits around to enjoy the delicious dinner, and the scene is very warm."
+                    }
+                },
+                {
+                    "example": "精心准备的晚餐让家人感受到了浓浓的爱意。",
+                    "translate": {
+                        "english": "The carefully prepared dinner makes the family feel the deep love."
+                    }
+                },
+                {
+                    "example": "我们一家人在周末的晚上一起愉快地享用了温馨的晚餐。",
+                    "translate": {
+                        "english": "Our family enjoyed a warm and pleasant dinner together on the weekend night."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "小组",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "小组",
+            "translate": {
+                "english": "group"
+            },
+            "examples": [
+                {
+                    "example": "我们小组的成员都齐心协力，共同完成了这个艰难的任务。",
+                    "translate": {
+                        "english": "All the members of our group worked together with one heart and one mind and jointly completed this difficult task."
+                    }
+                },
+                {
+                    "example": "我们的小组充满了活力与创造力，总是能出色地完成各种任务。",
+                    "translate": {
+                        "english": "Our group is full of vitality and creativity, and always can excellently complete various tasks."
+                    }
+                },
+                {
+                    "example": "我们的小组就像一个温暖的大家庭，大家相互帮助，共同进步。",
+                    "translate": {
+                        "english": "Our group is like a warm big family, and everyone helps each other and makes progress together."
+                    }
+                }
+            ]
+        }
+    ]
+}

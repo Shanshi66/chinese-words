@@ -1,0 +1,34 @@
+{
+    "word": "那时",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "那时",
+            "translate": {
+                "english": "then"
+            },
+            "examples": [
+                {
+                    "example": "回忆起那时的美好时光，我的心中充满了温暖和感动。",
+                    "translate": {
+                        "english": "Recalling the wonderful time at that time, my heart is filled with warmth and touch."
+                    }
+                },
+                {
+                    "example": "那时的我们青春年少，对未来充满了无限的憧憬和希望。",
+                    "translate": {
+                        "english": "At that time, we were young and full of infinite longing and hope for the future."
+                    }
+                },
+                {
+                    "example": "那时的阳光格外明媚，我们在草地上尽情欢笑。",
+                    "translate": {
+                        "english": "The sunshine at that time was exceptionally bright, and we laughed heartily on the grass."
+                    }
+                }
+            ]
+        }
+    ]
+}

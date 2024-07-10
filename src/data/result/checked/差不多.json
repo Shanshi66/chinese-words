@@ -1,0 +1,34 @@
+{
+    "word": "差不多",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "差不多",
+            "translate": {
+                "english": "almost"
+            },
+            "examples": [
+                {
+                    "example": "经过大家差不多一个月的努力，项目终于取得了成功。",
+                    "translate": {
+                        "english": "After the efforts of everyone for almost a month, the project finally achieved success."
+                    }
+                },
+                {
+                    "example": "这次考试我的成绩和第一名差不多，我已经很满意了。",
+                    "translate": {
+                        "english": "My score in this exam is almost the same as that of the first place, and I am already very satisfied."
+                    }
+                },
+                {
+                    "example": "我和他的能力差不多，但我会更加努力去提升自己。",
+                    "translate": {
+                        "english": "My ability is about the same as his, but I will work harder to improve myself."
+                    }
+                }
+            ]
+        }
+    ]
+}

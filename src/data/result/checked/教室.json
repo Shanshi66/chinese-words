@@ -1,0 +1,34 @@
+{
+    "word": "教室",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "教室",
+            "translate": {
+                "english": "classroom"
+            },
+            "examples": [
+                {
+                    "example": "明亮的教室里同学们都在认真地学习知识。",
+                    "translate": {
+                        "english": "In the bright classroom, all the students are seriously studying knowledge."
+                    }
+                },
+                {
+                    "example": "宽敞的教室里充满了同学们的欢声笑语。",
+                    "translate": {
+                        "english": "The spacious classroom is filled with the laughter and voices of the students."
+                    }
+                },
+                {
+                    "example": "那间整洁的教室里回荡着老师和同学们的朗朗书声。",
+                    "translate": {
+                        "english": "The loud reading sounds of teachers and students reverberate in that tidy classroom."
+                    }
+                }
+            ]
+        }
+    ]
+}

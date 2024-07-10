@@ -1,0 +1,34 @@
+{
+    "word": "音乐",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "音乐",
+            "translate": {
+                "english": "music"
+            },
+            "examples": [
+                {
+                    "example": "优美的音乐总能给人带来愉悦的心情和美好的享受。",
+                    "translate": {
+                        "english": "Beautiful music can always bring people pleasant mood and wonderful enjoyment."
+                    }
+                },
+                {
+                    "example": "我喜欢在闲暇时光聆听音乐，让自己沉浸在美妙的旋律中。",
+                    "translate": {
+                        "english": "I like to listen to music in my spare time and immerse myself in the wonderful melody."
+                    }
+                },
+                {
+                    "example": "音乐就像阳光，能照亮人们的心灵，给生活增添无尽的乐趣。",
+                    "translate": {
+                        "english": "Music is like the sunshine, which can illuminate people's hearts and add endless joy to life."
+                    }
+                }
+            ]
+        }
+    ]
+}

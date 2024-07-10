@@ -1,0 +1,34 @@
+{
+    "word": "刚刚",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "刚刚",
+            "translate": {
+                "english": "just now"
+            },
+            "examples": [
+                {
+                    "example": "我刚刚完成了一项很有意义的任务，感觉特别有成就感。",
+                    "translate": {
+                        "english": "I have just completed a very meaningful task and feel particularly fulfilled."
+                    }
+                },
+                {
+                    "example": "我刚刚成功地解决了一个难题，心情十分愉悦。",
+                    "translate": {
+                        "english": "I just successfully solved a difficult problem and felt very happy."
+                    }
+                },
+                {
+                    "example": "我刚刚帮助了一位老人过马路，心里美滋滋的。",
+                    "translate": {
+                        "english": "I just helped an old man cross the road and felt very pleased."
+                    }
+                }
+            ]
+        }
+    ]
+}

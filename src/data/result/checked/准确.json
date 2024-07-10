@@ -1,0 +1,34 @@
+{
+    "word": "准确",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "准确",
+            "translate": {
+                "english": "accurate"
+            },
+            "examples": [
+                {
+                    "example": "他的回答总是那么准确，让人十分佩服。",
+                    "translate": {
+                        "english": "His answer is always so accurate that people admire him very much."
+                    }
+                },
+                {
+                    "example": "老师对知识的讲解准确而清晰，让同学们能很好地理解和掌握。",
+                    "translate": {
+                        "english": "The teacher's explanation of knowledge is accurate and clear, enabling students to understand and master it very well."
+                    }
+                },
+                {
+                    "example": "天气预报员的预测准确无误，给人们的出行带来了极大的便利。",
+                    "translate": {
+                        "english": "The weatherman's prediction is accurate and correct, which brings great convenience to people's travel."
+                    }
+                }
+            ]
+        }
+    ]
+}

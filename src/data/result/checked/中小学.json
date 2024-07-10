@@ -1,0 +1,34 @@
+{
+    "word": "中小学",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "中小学",
+            "translate": {
+                "english": "primary and secondary schools"
+            },
+            "examples": [
+                {
+                    "example": "中小学时期是我们奠定知识基础和培养良好品德的重要阶段。",
+                    "translate": {
+                        "english": "The period of primary and secondary schools is an important stage for us to lay the knowledge foundation and cultivate good moral character."
+                    }
+                },
+                {
+                    "example": "中小学的老师们用耐心和爱心呵护着学生们的成长。",
+                    "translate": {
+                        "english": "Teachers in primary and secondary schools care for the growth of students with patience and love."
+                    }
+                },
+                {
+                    "example": "中小学的校园里充满了孩子们的欢声笑语和蓬勃朝气。",
+                    "translate": {
+                        "english": "The campuses of primary and secondary schools are filled with the children's laughter, voices and vigorous vitality."
+                    }
+                }
+            ]
+        }
+    ]
+}

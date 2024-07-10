@@ -1,0 +1,34 @@
+{
+    "word": "生活",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "生活",
+            "translate": {
+                "english": "life"
+            },
+            "examples": [
+                {
+                    "example": "我们要热爱生活，积极面对每一天。",
+                    "translate": {
+                        "english": "We should love life and face every day positively."
+                    }
+                },
+                {
+                    "example": "丰富多彩的生活让我们感受到了世界的美好。",
+                    "translate": {
+                        "english": "A rich and colorful life makes us feel the beauty of the world."
+                    }
+                },
+                {
+                    "example": "我们努力奋斗，让生活变得更加美好而充实。",
+                    "translate": {
+                        "english": "We strive hard to make life more beautiful and fulfilling."
+                    }
+                }
+            ]
+        }
+    ]
+}

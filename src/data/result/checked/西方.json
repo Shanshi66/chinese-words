@@ -1,0 +1,34 @@
+{
+    "word": "西方",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "西方",
+            "translate": {
+                "english": "west"
+            },
+            "examples": [
+                {
+                    "example": "西方的文化有着独特的魅力，值得我们去探索和学习。",
+                    "translate": {
+                        "english": "The culture of the West has unique charm and is worth our exploration and learning."
+                    }
+                },
+                {
+                    "example": "西方的天空在夕阳余晖的映照下显得格外美丽。",
+                    "translate": {
+                        "english": "The western sky looks extremely beautiful under the afterglow of the setting sun."
+                    }
+                },
+                {
+                    "example": "西方的天空出现了一道绚丽的彩虹，引得人们纷纷驻足欣赏。",
+                    "translate": {
+                        "english": "A magnificent rainbow appeared in the western sky, attracting people to stop and enjoy it one after another."
+                    }
+                }
+            ]
+        }
+    ]
+}

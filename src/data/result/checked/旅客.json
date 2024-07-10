@@ -1,0 +1,34 @@
+{
+    "word": "旅客",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "旅客",
+            "translate": {
+                "english": "passenger"
+            },
+            "examples": [
+                {
+                    "example": "热情的工作人员真诚地为每一位旅客服务，让他们感受到了温暖和关怀。",
+                    "translate": {
+                        "english": "Enthusiastic staff sincerely serve every passenger, making them feel the warmth and care."
+                    }
+                },
+                {
+                    "example": "每一位旅客都带着对旅途的期待和憧憬，享受着旅途中的美好时光。",
+                    "translate": {
+                        "english": "Every traveler is with the expectation and longing for the journey, enjoying the wonderful time during the journey."
+                    }
+                },
+                {
+                    "example": "善良的志愿者热心地帮助每一位旅客，使他们的旅程更加顺畅愉快。",
+                    "translate": {
+                        "english": "Kind volunteers enthusiastically help every traveler to make their journey more smooth and pleasant."
+                    }
+                }
+            ]
+        }
+    ]
+}

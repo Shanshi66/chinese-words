@@ -1,0 +1,34 @@
+{
+    "word": "然后",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "然后",
+            "translate": {
+                "english": "then"
+            },
+            "examples": [
+                {
+                    "example": "我先完成了作业，然后去公园愉快地玩耍。",
+                    "translate": {
+                        "english": "I finished my homework first, and then went to the park to play happily."
+                    }
+                },
+                {
+                    "example": "我认真地读完了这本书，然后写下了自己的感悟。",
+                    "translate": {
+                        "english": "I carefully read through this book and then wrote down my own insights."
+                    }
+                },
+                {
+                    "example": "我每天早上都会先喝一杯温水，然后精神饱满地开始一天的工作。",
+                    "translate": {
+                        "english": "I will drink a cup of warm water every morning first, and then start the day's work full of energy."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "感动",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "感动",
+            "translate": {
+                "english": "move / touch"
+            },
+            "examples": [
+                {
+                    "example": "他的善举深深地感动了周围的每一个人。",
+                    "translate": {
+                        "english": "His kind deeds deeply touched everyone around."
+                    }
+                },
+                {
+                    "example": "那部电影里的真挚情感深深感动了我。",
+                    "translate": {
+                        "english": "The sincere emotions in that movie deeply touched me."
+                    }
+                },
+                {
+                    "example": "他的坚持和努力最终感动了所有人，大家都纷纷为他鼓掌喝彩。",
+                    "translate": {
+                        "english": "His persistence and efforts finally touched everyone, and everyone applauded and cheered for him."
+                    }
+                }
+            ]
+        }
+    ]
+}

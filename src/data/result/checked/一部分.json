@@ -1,0 +1,34 @@
+{
+    "word": "一部分",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "一部分",
+            "translate": {
+                "english": "a part"
+            },
+            "examples": [
+                {
+                    "example": "在这次活动中，一部分人负责布置场地，一部分人负责准备食物，大家配合得十分默契。",
+                    "translate": {
+                        "english": "In this activity, some people are responsible for setting up the venue, and some people are responsible for preparing the food. Everyone cooperates very tacitly."
+                    }
+                },
+                {
+                    "example": "班级里的同学们，一部分在认真阅读书籍，一部分在热烈讨论问题，氛围非常好。",
+                    "translate": {
+                        "english": "The classmates in the class, some are reading books carefully, some are discussing problems heatedly, and the atmosphere is very good."
+                    }
+                },
+                {
+                    "example": "在这个项目中，一部分同事负责前期调研，一部分同事负责方案设计，大家齐心协力共创佳绩。",
+                    "translate": {
+                        "english": "In this project, some colleagues are responsible for the preliminary research, and some colleagues are responsible for the scheme design, and everyone works together to create excellent results."
+                    }
+                }
+            ]
+        }
+    ]
+}

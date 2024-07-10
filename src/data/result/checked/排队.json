@@ -1,0 +1,34 @@
+{
+    "word": "排队",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "排队",
+            "translate": {
+                "english": "queue / line up"
+            },
+            "examples": [
+                {
+                    "example": "大家都在有序地排队进入公园，享受美好的时光。",
+                    "translate": {
+                        "english": "Everyone is queuing up orderly to enter the park and enjoying a wonderful time."
+                    }
+                },
+                {
+                    "example": "同学们在食堂门口排队打饭，秩序井然。",
+                    "translate": {
+                        "english": "The students are queuing up to get food at the cafeteria entrance in an orderly manner."
+                    }
+                },
+                {
+                    "example": "小朋友们在老师的带领下排队过马路，既安全又有序。",
+                    "translate": {
+                        "english": "The children queue up to cross the road under the leadership of the teacher, which is both safe and orderly."
+                    }
+                }
+            ]
+        }
+    ]
+}

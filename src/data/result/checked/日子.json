@@ -1,0 +1,34 @@
+{
+    "word": "日子",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "日子",
+            "translate": {
+                "english": "day"
+            },
+            "examples": [
+                {
+                    "example": "未来的日子一定会更加美好。",
+                    "translate": {
+                        "english": "The days in the future will definitely be more beautiful."
+                    }
+                },
+                {
+                    "example": "那些美好的日子如同璀璨的星辰，一直闪耀在我的记忆中。",
+                    "translate": {
+                        "english": "Those beautiful days are like the bright stars, always shining in my memory."
+                    }
+                },
+                {
+                    "example": "那些幸福的日子里，我们一起度过了许多欢乐的时光。",
+                    "translate": {
+                        "english": "In those happy days, we spent a lot of happy times together."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "多数",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "多数",
+            "translate": {
+                "english": "majority / most"
+            },
+            "examples": [
+                {
+                    "example": "多数人的努力奋斗共同铸就了这个美好和谐的社会。",
+                    "translate": {
+                        "english": "The hard work of the majority of people has jointly created this beautiful and harmonious society."
+                    }
+                },
+                {
+                    "example": "多数情况下，只要我们坚持努力，就一定能取得成功。",
+                    "translate": {
+                        "english": "In most cases, as long as we insist on working hard, we will surely achieve success."
+                    }
+                },
+                {
+                    "example": "多数同学都能积极参与班级活动，让班级氛围变得更加活跃和融洽。",
+                    "translate": {
+                        "english": "Most students can actively participate in class activities, making the class atmosphere more active and harmonious."
+                    }
+                }
+            ]
+        }
+    ]
+}

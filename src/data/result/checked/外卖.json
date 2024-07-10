@@ -1,0 +1,34 @@
+{
+    "word": "外卖",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "外卖",
+            "translate": {
+                "english": "takeaway / takeout"
+            },
+            "examples": [
+                {
+                    "example": "每天辛苦工作后，点一份美味的外卖，真是一种享受。",
+                    "translate": {
+                        "english": "After working hard every day, ordering a delicious takeaway is really a kind of enjoyment."
+                    }
+                },
+                {
+                    "example": "外卖小哥总是很及时地将外卖送到顾客手中，让人感到很贴心。",
+                    "translate": {
+                        "english": "The takeaway delivery guy always delivers the takeaway to the customers' hands in a timely manner, which makes people feel very considerate."
+                    }
+                },
+                {
+                    "example": "我今天点了一份外卖，它的美味让我心情格外愉悦。",
+                    "translate": {
+                        "english": "I ordered a takeaway today, and its deliciousness made me feel extremely happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

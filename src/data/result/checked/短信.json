@@ -1,0 +1,34 @@
+{
+    "word": "短信",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "短信",
+            "translate": {
+                "english": "text message / short message"
+            },
+            "examples": [
+                {
+                    "example": "我收到了朋友发来的充满关怀的短信，心里暖暖的。",
+                    "translate": {
+                        "english": "I received a text message full of care sent by a friend, and my heart felt warm."
+                    }
+                },
+                {
+                    "example": "我经常通过短信向远方的亲人传递我的思念和祝福。",
+                    "translate": {
+                        "english": "I often convey my missing and blessing to my distant relatives through text messages."
+                    }
+                },
+                {
+                    "example": "我通过短信给父母送上节日的祝福，让他们感受到我的爱与关心。",
+                    "translate": {
+                        "english": "I sent festival blessings to my parents via text message to let them feel my love and concern."
+                    }
+                }
+            ]
+        }
+    ]
+}

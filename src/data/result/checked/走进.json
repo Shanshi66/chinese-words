@@ -1,0 +1,34 @@
+{
+    "word": "走进",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "走进",
+            "translate": {
+                "english": "walk into / approach"
+            },
+            "examples": [
+                {
+                    "example": "我满怀期待地走进那充满知识的图书馆。",
+                    "translate": {
+                        "english": "I walked into that knowledge-filled library full of expectations."
+                    }
+                },
+                {
+                    "example": "我兴高采烈地走进那美丽的花园。",
+                    "translate": {
+                        "english": "I walked into that beautiful garden happily."
+                    }
+                },
+                {
+                    "example": "他面带微笑自信地走进那间宽敞明亮的会议室。",
+                    "translate": {
+                        "english": "He walked into that spacious and bright meeting room with a smile on his face and full of confidence."
+                    }
+                }
+            ]
+        }
+    ]
+}

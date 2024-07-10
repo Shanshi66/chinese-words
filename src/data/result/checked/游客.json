@@ -1,0 +1,34 @@
+{
+    "word": "游客",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "游客",
+            "translate": {
+                "english": "tourist"
+            },
+            "examples": [
+                {
+                    "example": "热情的志愿者们耐心地为每一位游客指引方向和提供帮助。",
+                    "translate": {
+                        "english": "Enthusiastic volunteers patiently guide the direction and provide assistance to every tourist."
+                    }
+                },
+                {
+                    "example": "美丽的景区里迎来了许多欢乐的游客。",
+                    "translate": {
+                        "english": "Many happy tourists come to the beautiful scenic area."
+                    }
+                },
+                {
+                    "example": "友善的当地人热情地为游客介绍当地的特色文化和美食。",
+                    "translate": {
+                        "english": "Friendly local people enthusiastically introduce the local characteristic culture and delicacies to tourists."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "老王",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "老王",
+            "translate": {
+                "english": "Lao Wang / Mr. Wang"
+            },
+            "examples": [
+                {
+                    "example": "善良的老王总是热情地帮助周围的邻居。",
+                    "translate": {
+                        "english": "Kind Lao Wang always helps the surrounding neighbors enthusiastically."
+                    }
+                },
+                {
+                    "example": "勤劳的老王每天都把院子打扫得干干净净。",
+                    "translate": {
+                        "english": "Hardworking Lao Wang cleans the yard spotlessly every day."
+                    }
+                },
+                {
+                    "example": "乐观开朗的老王总能给身边的人带来欢声笑语。",
+                    "translate": {
+                        "english": "Optimistic and cheerful Lao Wang can always bring laughter and joy to the people around him."
+                    }
+                }
+            ]
+        }
+    ]
+}

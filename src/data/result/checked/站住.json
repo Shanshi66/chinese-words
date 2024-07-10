@@ -1,0 +1,34 @@
+{
+    "word": "站住",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "站住",
+            "translate": {
+                "english": "stop / halt"
+            },
+            "examples": [
+                {
+                    "example": "警察叔叔喊道：“站住，不许动！”",
+                    "translate": {
+                        "english": "The police uncle shouted: \"Stop, don't move!\""
+                    }
+                },
+                {
+                    "example": "当我听到有人喊“站住”时，我好奇地回头看发生了什么事。",
+                    "translate": {
+                        "english": "When I heard someone shout \"Stop\", I curiously turned around to see what happened."
+                    }
+                },
+                {
+                    "example": "在路口，交警有礼貌地喊：“站住，请等红灯。”",
+                    "translate": {
+                        "english": "At the intersection, the traffic police politely shouted: \"Stop, please wait for the red light.\""
+                    }
+                }
+            ]
+        }
+    ]
+}

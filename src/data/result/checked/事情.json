@@ -1,0 +1,34 @@
+{
+    "word": "事情",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "事情",
+            "translate": {
+                "english": "matter / thing"
+            },
+            "examples": [
+                {
+                    "example": "生活中总会遇到各种各样的事情，但我们要保持乐观积极的态度去面对。",
+                    "translate": {
+                        "english": "There will always be all kinds of things in life, but we should keep an optimistic and positive attitude to face them."
+                    }
+                },
+                {
+                    "example": "生活中有很多美好的事情值得我们去期待和努力追求。",
+                    "translate": {
+                        "english": "There are many wonderful things in life worthy of our anticipation and hard pursuit."
+                    }
+                },
+                {
+                    "example": "每天都有许多有趣的事情等待着我们去发现和体验。",
+                    "translate": {
+                        "english": "Every day there are many interesting things waiting for us to discover and experience."
+                    }
+                }
+            ]
+        }
+    ]
+}

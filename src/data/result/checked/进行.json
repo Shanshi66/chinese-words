@@ -1,0 +1,34 @@
+{
+    "word": "进行",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "进行",
+            "translate": {
+                "english": "conduct / carry out"
+            },
+            "examples": [
+                {
+                    "example": "我们正在有序地进行着新的项目。",
+                    "translate": {
+                        "english": "We are carrying out the new project in an orderly manner."
+                    }
+                },
+                {
+                    "example": "大家正在热火朝天地进行着环保活动。",
+                    "translate": {
+                        "english": "Everyone is carrying out environmental protection activities in full swing."
+                    }
+                },
+                {
+                    "example": "学校正在积极地进行各项教学活动，以提升学生的综合素质。",
+                    "translate": {
+                        "english": "The school is actively carrying out various teaching activities to improve the comprehensive quality of students."
+                    }
+                }
+            ]
+        }
+    ]
+}

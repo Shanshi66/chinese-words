@@ -1,0 +1,34 @@
+{
+    "word": "碰见",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "碰见",
+            "translate": {
+                "english": "meet / encounter"
+            },
+            "examples": [
+                {
+                    "example": "今天出门我碰见了一位好久不见的老朋友，真是太开心了。",
+                    "translate": {
+                        "english": "Today when I went out, I met an old friend whom I haven't seen for a long time. I'm really so happy."
+                    }
+                },
+                {
+                    "example": "在图书馆里，我竟然碰见了许久未见的小学同学，真是令人惊喜。",
+                    "translate": {
+                        "english": "In the library, I unexpectedly met a primary school classmate whom I haven't seen for a long time. It's really a pleasant surprise."
+                    }
+                },
+                {
+                    "example": "我在超市购物时碰见了友善的邻居，我们愉快地交谈了一会儿。",
+                    "translate": {
+                        "english": "I met the friendly neighbor when shopping in the supermarket, and we had a pleasant chat for a while."
+                    }
+                }
+            ]
+        }
+    ]
+}

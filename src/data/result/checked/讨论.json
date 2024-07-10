@@ -1,0 +1,34 @@
+{
+    "word": "讨论",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "讨论",
+            "translate": {
+                "english": "discuss"
+            },
+            "examples": [
+                {
+                    "example": "我们围坐在一起热烈地讨论着有趣的话题。",
+                    "translate": {
+                        "english": "We sat around and discussed the interesting topics heatedly."
+                    }
+                },
+                {
+                    "example": "老师组织同学们针对学习方法展开了热烈的讨论。",
+                    "translate": {
+                        "english": "The teacher organized the students to have a lively discussion on learning methods."
+                    }
+                },
+                {
+                    "example": "大家针对环保问题展开了热烈的讨论，共同寻找更好的解决方案。",
+                    "translate": {
+                        "english": "Everyone carried out a lively discussion on environmental protection issues and jointly looked for better solutions."
+                    }
+                }
+            ]
+        }
+    ]
+}

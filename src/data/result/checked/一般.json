@@ -1,0 +1,34 @@
+{
+    "word": "一般",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "一般",
+            "translate": {
+                "english": "as ... as / like"
+            },
+            "examples": [
+                {
+                    "example": "这里的风景如同画卷一般美丽。",
+                    "translate": {
+                        "english": "The scenery here is as beautiful as a painting."
+                    }
+                },
+                {
+                    "example": "她的笑容如同阳光一般温暖人心。",
+                    "translate": {
+                        "english": "Her smile is as warm as the sunshine to people's hearts."
+                    }
+                },
+                {
+                    "example": "他的乐观精神如同阳光一般照亮了周围的人。",
+                    "translate": {
+                        "english": "His optimistic spirit illuminates the people around him like the sunshine."
+                    }
+                }
+            ]
+        }
+    ]
+}

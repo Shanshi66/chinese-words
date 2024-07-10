@@ -1,0 +1,34 @@
+{
+    "word": "例如",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "例如",
+            "translate": {
+                "english": "for example"
+            },
+            "examples": [
+                {
+                    "example": "生活中有很多美好的事物，例如灿烂的阳光、绽放的花朵。",
+                    "translate": {
+                        "english": "There are many beautiful things in life, such as the brilliant sunshine and the blooming flowers."
+                    }
+                },
+                {
+                    "example": "我们应该多尝试新事物，例如学习一门新语言或尝试一种新运动。",
+                    "translate": {
+                        "english": "We should try more new things, such as learning a new language or trying a new sport."
+                    }
+                },
+                {
+                    "example": "我们可以学习很多才艺，例如弹钢琴、拉小提琴。",
+                    "translate": {
+                        "english": "We can learn a lot of talents, such as playing the piano and playing the violin."
+                    }
+                }
+            ]
+        }
+    ]
+}

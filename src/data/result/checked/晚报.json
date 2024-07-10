@@ -1,0 +1,34 @@
+{
+    "word": "晚报",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "晚报",
+            "translate": {
+                "english": "evening newspaper"
+            },
+            "examples": [
+                {
+                    "example": "我每天都会看晚报，了解最新的新闻和有趣的故事。",
+                    "translate": {
+                        "english": "I read the evening newspaper every day to learn the latest news and interesting stories."
+                    }
+                },
+                {
+                    "example": "我喜欢在下班后悠闲地阅读晚报，享受片刻的宁静时光。",
+                    "translate": {
+                        "english": "I like to leisurely read the evening newspaper after work and enjoy a moment of peaceful time."
+                    }
+                },
+                {
+                    "example": "我会在晚饭后看一会儿晚报，放松身心。",
+                    "translate": {
+                        "english": "I will read the evening newspaper for a while after dinner to relax myself."
+                    }
+                }
+            ]
+        }
+    ]
+}

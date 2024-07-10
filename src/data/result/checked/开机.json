@@ -1,0 +1,34 @@
+{
+    "word": "开机",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "开机",
+            "translate": {
+                "english": "start up"
+            },
+            "examples": [
+                {
+                    "example": "每天开机后，我都充满期待地开始新一天的工作。",
+                    "translate": {
+                        "english": "Every day after turning on the computer, I start the work of the new day with full expectation."
+                    }
+                },
+                {
+                    "example": "我每天开机的那一刻，都感觉自己充满了活力，能迎接新的挑战。",
+                    "translate": {
+                        "english": "Every time I turn on the computer at the moment, I feel full of energy and able to meet new challenges."
+                    }
+                },
+                {
+                    "example": "每次开机的时候，我都信心满满地准备去创造更美好的未来。",
+                    "translate": {
+                        "english": "Every time when I start the machine, I am full of confidence and ready to create a better future."
+                    }
+                }
+            ]
+        }
+    ]
+}

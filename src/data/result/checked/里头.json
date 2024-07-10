@@ -1,0 +1,34 @@
+{
+    "word": "里头",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "里头",
+            "translate": {
+                "english": "inside"
+            },
+            "examples": [
+                {
+                    "example": "这个盒子里头装满了我美好的回忆。",
+                    "translate": {
+                        "english": "This box is filled with my wonderful memories."
+                    }
+                },
+                {
+                    "example": "我的心里头充满了对未来的憧憬和希望。",
+                    "translate": {
+                        "english": "My heart is filled with longing and hope for the future."
+                    }
+                },
+                {
+                    "example": "小木屋里头摆放着各种精致的手工艺品。",
+                    "translate": {
+                        "english": "There are various delicate handicrafts placed in the small wooden house."
+                    }
+                }
+            ]
+        }
+    ]
+}

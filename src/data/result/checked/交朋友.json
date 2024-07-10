@@ -1,0 +1,28 @@
+{
+    "word": "交朋友",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "交朋友",
+            "translate": {
+                "english": "make friends"
+            },
+            "examples": [
+                {
+                    "example": "我很喜欢参加社交活动，因为这样可以认识很多有趣的人并和他们交朋友。",
+                    "translate": {
+                        "english": "I really like to participate in social activities, because in this way I can meet many interesting people and make friends with them."
+                    }
+                },
+                {
+                    "example": "我热衷于参加各种聚会，因为这是一个很好的交朋友的机会。",
+                    "translate": {
+                        "english": "I am keen on attending various parties, because this is a very good opportunity to make friends."
+                    }
+                }
+            ]
+        }
+    ]
+}

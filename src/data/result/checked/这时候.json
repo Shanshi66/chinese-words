@@ -1,0 +1,34 @@
+{
+    "word": "这时候",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "这时候",
+            "translate": {
+                "english": "at this time / moment"
+            },
+            "examples": [
+                {
+                    "example": "当我正在努力思考的时候，这时候灵感突然就涌现了出来。",
+                    "translate": {
+                        "english": "When I was thinking hard, at this time the inspiration suddenly emerged."
+                    }
+                },
+                {
+                    "example": "在大家都感到困惑的时候，这时候老师站出来耐心地为我们答疑解惑。",
+                    "translate": {
+                        "english": "When everyone felt confused, at this time the teacher came forward and patiently answered our questions and cleared our doubts."
+                    }
+                },
+                {
+                    "example": "当我们遇到困难的时候，这时候朋友总会及时伸出援手给予帮助。",
+                    "translate": {
+                        "english": "When we encounter difficulties, at this time friends will always extend a helping hand in time to give help."
+                    }
+                }
+            ]
+        }
+    ]
+}

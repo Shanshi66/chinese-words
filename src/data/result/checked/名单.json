@@ -1,0 +1,34 @@
+{
+    "word": "名单",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "名单",
+            "translate": {
+                "english": "list"
+            },
+            "examples": [
+                {
+                    "example": "老师仔细地核对这份名单上的每一个名字。",
+                    "translate": {
+                        "english": "The teacher carefully checks each name on this list."
+                    }
+                },
+                {
+                    "example": "我高兴地在名单上找到了自己的名字。",
+                    "translate": {
+                        "english": "I was happily found my own name on the list."
+                    }
+                },
+                {
+                    "example": "我认真地将大家的名字写在名单上，准备给他们一个惊喜。",
+                    "translate": {
+                        "english": "I carefully wrote everyone's names on the list, preparing to give them a surprise."
+                    }
+                }
+            ]
+        }
+    ]
+}

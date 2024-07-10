@@ -1,0 +1,34 @@
+{
+    "word": "只要",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "只要",
+            "translate": {
+                "english": "as long as / only if"
+            },
+            "examples": [
+                {
+                    "example": "只要我们保持积极的心态，就一定能克服所有困难。",
+                    "translate": {
+                        "english": "As long as we keep a positive attitude, we will definitely be able to overcome all difficulties."
+                    }
+                },
+                {
+                    "example": "只要努力奋斗，就一定能实现自己的梦想。",
+                    "translate": {
+                        "english": "As long as you strive hard, you will definitely be able to realize your own dream."
+                    }
+                },
+                {
+                    "example": "只要我们坚持不懈地努力，就一定会收获成功的喜悦。",
+                    "translate": {
+                        "english": "As long as we persevere in our efforts, we will definitely reap the joy of success."
+                    }
+                }
+            ]
+        }
+    ]
+}

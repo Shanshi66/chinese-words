@@ -1,0 +1,34 @@
+{
+    "word": "报名",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "报名",
+            "translate": {
+                "english": "enroll / sign up"
+            },
+            "examples": [
+                {
+                    "example": "我已经报名参加了这次有意义的志愿者活动，很期待能贡献自己的一份力量。",
+                    "translate": {
+                        "english": "I have already signed up for this meaningful volunteer activity and am looking forward to contributing my own share."
+                    }
+                },
+                {
+                    "example": "我踊跃报名参加了社区组织的公益活动，希望能给他人带来温暖和帮助。",
+                    "translate": {
+                        "english": "I actively signed up to participate in the public welfare activities organized by the community, hoping to bring warmth and help to others."
+                    }
+                },
+                {
+                    "example": "我积极地报名参加了绘画比赛，渴望展示自己的才华。",
+                    "translate": {
+                        "english": "I actively signed up for the painting competition, eager to show my talent."
+                    }
+                }
+            ]
+        }
+    ]
+}

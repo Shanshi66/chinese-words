@@ -1,0 +1,34 @@
+{
+    "word": "听说",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "听说",
+            "translate": {
+                "english": "hear of / hear about"
+            },
+            "examples": [
+                {
+                    "example": "听说远方有美丽的风景，我迫不及待地想去看看。",
+                    "translate": {
+                        "english": "I heard that there are beautiful sceneries in the distance, and I can't wait to go and have a look."
+                    }
+                },
+                {
+                    "example": "听说最近有一部很棒的电影上映了，我准备去观看。",
+                    "translate": {
+                        "english": "I heard that there is a very good movie released recently and I am going to watch it."
+                    }
+                },
+                {
+                    "example": "听说公园里的花开得正艳，我打算去欣赏一番。",
+                    "translate": {
+                        "english": "I heard that the flowers in the park are blooming beautifully, and I plan to go and enjoy them."
+                    }
+                }
+            ]
+        }
+    ]
+}

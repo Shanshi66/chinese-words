@@ -1,0 +1,34 @@
+{
+    "word": "平时",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "平时",
+            "translate": {
+                "english": "ordinarily / usually"
+            },
+            "examples": [
+                {
+                    "example": "平时我会抽时间阅读书籍来丰富自己的知识。",
+                    "translate": {
+                        "english": "Usually I will take time to read books to enrich my knowledge."
+                    }
+                },
+                {
+                    "example": "平时我都会积极参加各种公益活动，为社会贡献自己的一份力量。",
+                    "translate": {
+                        "english": "Usually I will actively participate in various public welfare activities and contribute my own strength to the society."
+                    }
+                },
+                {
+                    "example": "平时我总是以乐观的心态面对生活中的各种挑战。",
+                    "translate": {
+                        "english": "Usually I always face all kinds of challenges in life with an optimistic attitude."
+                    }
+                }
+            ]
+        }
+    ]
+}

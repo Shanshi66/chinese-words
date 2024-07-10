@@ -1,0 +1,34 @@
+{
+    "word": "难看",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "难看",
+            "translate": {
+                "english": "ugly"
+            },
+            "examples": [
+                {
+                    "example": "这件衣服虽然款式普通，但穿在你身上一点也不难看，反而显得很精神。",
+                    "translate": {
+                        "english": "Although the style of this dress is ordinary, it doesn't look ugly at all when you wear it. Instead, it looks very energetic."
+                    }
+                },
+                {
+                    "example": "不要因为一次失败就觉得自己难看，要相信未来会有更多美好在等着你。",
+                    "translate": {
+                        "english": "Don't feel bad about yourself just because of one failure, and believe that there will be more beautiful things waiting for you in the future."
+                    }
+                },
+                {
+                    "example": "即使这面墙的颜色有些难看，但经过我们的精心布置后，它也变得温馨起来。",
+                    "translate": {
+                        "english": "Even though the color of this wall is a bit ugly, after our careful arrangement, it also becomes warm."
+                    }
+                }
+            ]
+        }
+    ]
+}

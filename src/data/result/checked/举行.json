@@ -1,0 +1,34 @@
+{
+    "word": "举行",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "举行",
+            "translate": {
+                "english": "hold / conduct"
+            },
+            "examples": [
+                {
+                    "example": "学校将在下周举行一场盛大的运动会。",
+                    "translate": {
+                        "english": "The school will hold a grand sports meeting next week."
+                    }
+                },
+                {
+                    "example": "公司将在月底举行一次重要的会议。",
+                    "translate": {
+                        "english": "The company will hold an important meeting at the end of the month."
+                    }
+                },
+                {
+                    "example": "社区将在周末举行一系列丰富多彩的活动。",
+                    "translate": {
+                        "english": "The community will hold a series of rich and colorful activities at the weekend."
+                    }
+                }
+            ]
+        }
+    ]
+}

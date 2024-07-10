@@ -1,0 +1,34 @@
+{
+    "word": "部分",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "部分",
+            "translate": {
+                "english": "part"
+            },
+            "examples": [
+                {
+                    "example": "我们已经完成了工作的部分，接下来要更加努力去完成剩下的。",
+                    "translate": {
+                        "english": "We have completed part of the work, and next we need to work harder to finish the rest."
+                    }
+                },
+                {
+                    "example": "这次考试我答对了大部分题目，感觉还不错。",
+                    "translate": {
+                        "english": "I answered most of the questions correctly in this exam and felt quite good."
+                    }
+                },
+                {
+                    "example": "整体的任务虽然很艰巨，但我们已经完成了部分，这给了我们很大的信心和动力。",
+                    "translate": {
+                        "english": "Although the overall task is very arduous, we have already completed a part, which gives us great confidence and motivation."
+                    }
+                }
+            ]
+        }
+    ]
+}

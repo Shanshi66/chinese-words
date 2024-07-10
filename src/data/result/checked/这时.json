@@ -1,0 +1,34 @@
+{
+    "word": "这时",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "这时",
+            "translate": {
+                "english": "at this time / at this moment"
+            },
+            "examples": [
+                {
+                    "example": "这时阳光正好洒在大地上，一切都显得那么生机勃勃。",
+                    "translate": {
+                        "english": "At this time the sunlight is just sprinkling on the ground, and everything appears so vibrant."
+                    }
+                },
+                {
+                    "example": "这时微风吹过脸庞，带来了沁人心脾的花香。",
+                    "translate": {
+                        "english": "At this time, the gentle breeze blew across the face, bringing the refreshing floral fragrance."
+                    }
+                },
+                {
+                    "example": "这时天空中出现了一道美丽的彩虹，大家都兴奋地欢呼起来。",
+                    "translate": {
+                        "english": "At this time, a beautiful rainbow appeared in the sky, and everyone shouted excitedly."
+                    }
+                }
+            ]
+        }
+    ]
+}

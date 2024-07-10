@@ -1,0 +1,34 @@
+{
+    "word": "声音",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "声音",
+            "translate": {
+                "english": "sound / voice"
+            },
+            "examples": [
+                {
+                    "example": "她那悦耳的声音如同天籁一般，让人陶醉其中。",
+                    "translate": {
+                        "english": "Her pleasant voice is like the sounds of nature, making people intoxicated."
+                    }
+                },
+                {
+                    "example": "小鸟的声音清脆悦耳，仿佛在诉说着大自然的美丽与神奇。",
+                    "translate": {
+                        "english": "The chirping of the little birds is clear and pleasant, as if telling the beauty and magic of nature."
+                    }
+                },
+                {
+                    "example": "他的声音充满了感染力，能给身边的人带来积极向上的力量。",
+                    "translate": {
+                        "english": "His voice is full of appeal and can bring positive power to the people around him."
+                    }
+                }
+            ]
+        }
+    ]
+}

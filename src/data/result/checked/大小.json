@@ -1,0 +1,34 @@
+{
+    "word": "大小",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "大小",
+            "translate": {
+                "english": "size"
+            },
+            "examples": [
+                {
+                    "example": "生活中无论事情大小，我们都应该认真对待。",
+                    "translate": {
+                        "english": "In life, no matter the size of things, we should treat them seriously."
+                    }
+                },
+                {
+                    "example": "这所学校里的孩子们无论年龄大小，都相处得十分融洽。",
+                    "translate": {
+                        "english": "The children in this school, regardless of their age, get along very well with each other."
+                    }
+                },
+                {
+                    "example": "这个世界无论大小事物，都有其存在的意义和价值。",
+                    "translate": {
+                        "english": "Everything in this world, no matter big or small, has its own meaning and value for existence."
+                    }
+                }
+            ]
+        }
+    ]
+}

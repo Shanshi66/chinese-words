@@ -1,0 +1,34 @@
+{
+    "word": "午睡",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "午睡",
+            "translate": {
+                "english": "noon nap"
+            },
+            "examples": [
+                {
+                    "example": "每天午睡一会儿能让我下午精力更加充沛。",
+                    "translate": {
+                        "english": "Taking a nap every day can make me more energetic in the afternoon."
+                    }
+                },
+                {
+                    "example": "我养成了午睡的好习惯，感觉每天都充满活力。",
+                    "translate": {
+                        "english": "I have developed a good habit of taking a nap at noon and feel full of energy every day."
+                    }
+                },
+                {
+                    "example": "我每天都会进行午睡，这样能让我以更好的状态迎接下午的工作和生活。",
+                    "translate": {
+                        "english": "I take a nap every day, so that I can meet the work and life in the afternoon in a better state."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "不但",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "不但",
+            "translate": {
+                "english": "not only"
+            },
+            "examples": [
+                {
+                    "example": "她不但学习成绩优异，还很擅长体育运动。",
+                    "translate": {
+                        "english": "She not only has excellent academic performance, but also is very good at sports."
+                    }
+                },
+                {
+                    "example": "他不但工作努力，还很乐于助人。",
+                    "translate": {
+                        "english": "He not only works hard, but also is very helpful."
+                    }
+                },
+                {
+                    "example": "她不但歌唱得好听，还能自己创作歌曲。",
+                    "translate": {
+                        "english": "She not only sings beautifully, but also can create songs by herself."
+                    }
+                }
+            ]
+        }
+    ]
+}

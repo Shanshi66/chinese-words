@@ -1,0 +1,34 @@
+{
+    "word": "以下",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "以下",
+            "translate": {
+                "english": "below / following"
+            },
+            "examples": [
+                {
+                    "example": "以下是我为大家精心准备的内容，希望能给你们带来帮助。",
+                    "translate": {
+                        "english": "Hereinafter is the content that I carefully prepared for everyone, hoping to bring help to you."
+                    }
+                },
+                {
+                    "example": "以下是我为你提供的一个有趣的建议。",
+                    "translate": {
+                        "english": "Hereinafter is an interesting suggestion that I provide for you."
+                    }
+                },
+                {
+                    "example": "以下是我对未来美好生活的憧憬和规划。",
+                    "translate": {
+                        "english": "Hereinafter is my vision and plan for the beautiful life in the future."
+                    }
+                }
+            ]
+        }
+    ]
+}

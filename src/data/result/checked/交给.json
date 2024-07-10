@@ -1,0 +1,34 @@
+{
+    "word": "交给",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "交给",
+            "translate": {
+                "english": "hand over / give to"
+            },
+            "examples": [
+                {
+                    "example": "我把这项重要的任务交给了最值得信赖的他。",
+                    "translate": {
+                        "english": "I entrusted this important task to the most trustworthy him."
+                    }
+                },
+                {
+                    "example": "我放心地把这项工作交给经验丰富的他去完成。",
+                    "translate": {
+                        "english": "I trustingly leave this work to the experienced him to finish."
+                    }
+                },
+                {
+                    "example": "我把精心准备的礼物交给亲爱的妈妈，看到她开心的笑容，我也觉得无比幸福。",
+                    "translate": {
+                        "english": "I gave the carefully prepared gift to my dear mother, and seeing her happy smile, I also felt extremely happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

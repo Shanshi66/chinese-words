@@ -1,0 +1,34 @@
+{
+    "word": "组成",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "组成",
+            "translate": {
+                "english": "constitute / compose"
+            },
+            "examples": [
+                {
+                    "example": "大家齐心协力组成团队，共同为了目标而努力奋斗。",
+                    "translate": {
+                        "english": "Everyone works together to form a team and strives hard together for the goal."
+                    }
+                },
+                {
+                    "example": "许多不同的元素巧妙地组成了一幅美丽而独特的画卷。",
+                    "translate": {
+                        "english": "Many different elements are ingeniously composed to form a beautiful and unique picture scroll."
+                    }
+                },
+                {
+                    "example": "各种色彩和线条巧妙地组成了一幅绚丽多彩的画作。",
+                    "translate": {
+                        "english": "All kinds of colors and lines skillfully form a magnificent and colorful painting."
+                    }
+                }
+            ]
+        }
+    ]
+}

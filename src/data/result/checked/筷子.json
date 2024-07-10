@@ -1,0 +1,34 @@
+{
+    "word": "筷子",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "筷子",
+            "translate": {
+                "english": "chopsticks"
+            },
+            "examples": [
+                {
+                    "example": "我们用筷子夹起美味的食物，享受着愉快的用餐时光。",
+                    "translate": {
+                        "english": "We use chopsticks to pick up delicious food and enjoy the pleasant dining time."
+                    }
+                },
+                {
+                    "example": "小朋友们正在努力学习如何正确使用筷子夹取食物。",
+                    "translate": {
+                        "english": "The children are trying hard to learn how to use chopsticks to pick up food correctly."
+                    }
+                },
+                {
+                    "example": "一家人围坐在一起，用筷子分享着美味的饭菜，其乐融融。",
+                    "translate": {
+                        "english": "The whole family sits around and shares the delicious food with chopsticks, full of joy."
+                    }
+                }
+            ]
+        }
+    ]
+}

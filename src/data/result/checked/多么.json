@@ -1,0 +1,34 @@
+{
+    "word": "多么",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "多么",
+            "translate": {
+                "english": "how"
+            },
+            "examples": [
+                {
+                    "example": "今天的天气多么好啊，适合出去游玩。",
+                    "translate": {
+                        "english": "What a fine day today, it is suitable to go out and play."
+                    }
+                },
+                {
+                    "example": "生活是多么美好啊，我们应该好好珍惜每一天。",
+                    "translate": {
+                        "english": "How wonderful life is, and we should cherish every day well."
+                    }
+                },
+                {
+                    "example": "那片花海是多么的绚丽多彩，让人陶醉其中。",
+                    "translate": {
+                        "english": "That sea of flowers is so magnificent and colorful, making people intoxicated in it."
+                    }
+                }
+            ]
+        }
+    ]
+}

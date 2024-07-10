@@ -1,0 +1,34 @@
+{
+    "word": "关心",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "关心",
+            "translate": {
+                "english": "care"
+            },
+            "examples": [
+                {
+                    "example": "老师对同学们的学习和生活都非常关心。",
+                    "translate": {
+                        "english": "Teachers are very concerned about the study and life of students."
+                    }
+                },
+                {
+                    "example": "朋友们总是互相关心和支持，让彼此的生活充满温暖。",
+                    "translate": {
+                        "english": "Friends always care about and support each other, making each other's lives full of warmth."
+                    }
+                },
+                {
+                    "example": "父母时刻关心着孩子的成长和发展。",
+                    "translate": {
+                        "english": "Parents always care about the growth and development of their children."
+                    }
+                }
+            ]
+        }
+    ]
+}

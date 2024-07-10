@@ -1,0 +1,34 @@
+{
+    "word": "请求",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "请求",
+            "translate": {
+                "english": "request / ask for"
+            },
+            "examples": [
+                {
+                    "example": "我真诚地请求您能给予我一些建议和帮助。",
+                    "translate": {
+                        "english": "I sincerely request that you can give me some advice and help."
+                    }
+                },
+                {
+                    "example": "我鼓起勇气向老师请求参加这次重要的活动。",
+                    "translate": {
+                        "english": "I summoned up the courage to ask the teacher to participate in this important activity."
+                    }
+                },
+                {
+                    "example": "我礼貌地请求他帮我个小忙，他很爽快地就答应了。",
+                    "translate": {
+                        "english": "I politely asked him to do me a small favor, and he readily agreed."
+                    }
+                }
+            ]
+        }
+    ]
+}

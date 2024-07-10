@@ -1,0 +1,34 @@
+{
+    "word": "零下",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "零下",
+            "translate": {
+                "english": "below zero"
+            },
+            "examples": [
+                {
+                    "example": "即使温度已经降到了零下，我们依然充满热情地在雪地里玩耍。",
+                    "translate": {
+                        "english": "Even though the temperature has dropped to below zero, we still play in the snow with full enthusiasm."
+                    }
+                },
+                {
+                    "example": "尽管外面的气温是零下，但大家的笑容依旧温暖如阳。",
+                    "translate": {
+                        "english": "Although the temperature outside is below zero, everyone's smile is still as warm as the sun."
+                    }
+                },
+                {
+                    "example": "尽管现在是零下的气温，但大家还是积极地进行户外运动。",
+                    "translate": {
+                        "english": "Although it is below zero temperature now, everyone still actively engages in outdoor sports."
+                    }
+                }
+            ]
+        }
+    ]
+}

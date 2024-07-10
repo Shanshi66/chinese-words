@@ -1,0 +1,34 @@
+{
+    "word": "故事",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "故事",
+            "translate": {
+                "english": "story"
+            },
+            "examples": [
+                {
+                    "example": "爷爷总是绘声绘色地给我讲那些有趣的故事。",
+                    "translate": {
+                        "english": "Grandpa always vividly tells me those interesting stories."
+                    }
+                },
+                {
+                    "example": "老师用生动的语言给我们讲述了一个充满哲理的故事。",
+                    "translate": {
+                        "english": "The teacher told us a philosophical story with vivid language."
+                    }
+                },
+                {
+                    "example": "我喜欢在闲暇时光阅读各种精彩的故事来丰富自己的精神世界。",
+                    "translate": {
+                        "english": "I like to read various wonderful stories in my spare time to enrich my spiritual world."
+                    }
+                }
+            ]
+        }
+    ]
+}

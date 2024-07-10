@@ -1,0 +1,34 @@
+{
+    "word": "大人",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "大人",
+            "translate": {
+                "english": "adult"
+            },
+            "examples": [
+                {
+                    "example": "我从小就立志要成为一个正直善良、能为大人排忧解难的人。",
+                    "translate": {
+                        "english": "I have determined since childhood to become an upright and kind person who can solve problems for adults."
+                    }
+                },
+                {
+                    "example": "我要努力学习，将来成为一个让大人骄傲的人。",
+                    "translate": {
+                        "english": "I will study hard and become a person that adults can be proud of in the future."
+                    }
+                },
+                {
+                    "example": "我的父母是我心中最了不起的大人，他们给予我无尽的爱与支持。",
+                    "translate": {
+                        "english": "My parents are the most amazing adults in my heart, and they give me endless love and support."
+                    }
+                }
+            ]
+        }
+    ]
+}

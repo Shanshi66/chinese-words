@@ -1,0 +1,34 @@
+{
+    "word": "眼睛",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "眼睛",
+            "translate": {
+                "english": "eye"
+            },
+            "examples": [
+                {
+                    "example": "她有一双明亮的眼睛，闪烁着智慧的光芒。",
+                    "translate": {
+                        "english": "She has a pair of bright eyes, glittering with the light of wisdom."
+                    }
+                },
+                {
+                    "example": "他的眼睛里充满了对未来的憧憬和希望。",
+                    "translate": {
+                        "english": "His eyes are filled with longing and hope for the future."
+                    }
+                },
+                {
+                    "example": "他用真诚的眼睛看着我，让我感受到了深深的善意。",
+                    "translate": {
+                        "english": "He looked at me with sincere eyes, making me feel deep kindness."
+                    }
+                }
+            ]
+        }
+    ]
+}

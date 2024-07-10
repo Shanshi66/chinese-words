@@ -1,0 +1,34 @@
+{
+    "word": "药片",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "药片",
+            "translate": {
+                "english": "tablet"
+            },
+            "examples": [
+                {
+                    "example": "妈妈细心地提醒我按时服用药片，让我感受到了她的关爱。",
+                    "translate": {
+                        "english": "Mother carefully reminds me to take the pills on time, which makes me feel her love."
+                    }
+                },
+                {
+                    "example": "我每天都会按时服用药片，希望自己能早日恢复健康。",
+                    "translate": {
+                        "english": "I take the pills on time every day and hope I can recover my health soon."
+                    }
+                },
+                {
+                    "example": "我把药片放在手心里，感受到了健康的希望。",
+                    "translate": {
+                        "english": "I put the tablet in the palm of my hand and felt the hope of health."
+                    }
+                }
+            ]
+        }
+    ]
+}

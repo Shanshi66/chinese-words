@@ -1,0 +1,34 @@
+{
+    "word": "那时候",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "那时候",
+            "translate": {
+                "english": "at that time"
+            },
+            "examples": [
+                {
+                    "example": "那时候的我们充满了激情与梦想，一起为了未来努力奋斗。",
+                    "translate": {
+                        "english": "At that time, we were full of passion and dreams, and worked hard together for the future."
+                    }
+                },
+                {
+                    "example": "那时候的天空格外湛蓝，我们尽情地在草地上欢笑奔跑。",
+                    "translate": {
+                        "english": "At that time the sky was exceptionally blue, and we laughed and ran on the grassland heartily."
+                    }
+                },
+                {
+                    "example": "那时候的生活虽然简单，却充满了无尽的欢乐和温馨。",
+                    "translate": {
+                        "english": "At that time, although life was simple, it was full of endless joy and warmth."
+                    }
+                }
+            ]
+        }
+    ]
+}

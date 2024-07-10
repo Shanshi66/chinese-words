@@ -1,0 +1,34 @@
+{
+    "word": "科学",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "科学",
+            "translate": {
+                "english": "science"
+            },
+            "examples": [
+                {
+                    "example": "我们要努力学习科学知识，用科学的力量让生活变得更加美好。",
+                    "translate": {
+                        "english": "We should study scientific knowledge hard and use the power of science to make life more beautiful."
+                    }
+                },
+                {
+                    "example": "科学的思维方式帮助我们更好地理解和探索这个奇妙的世界。",
+                    "translate": {
+                        "english": "The scientific way of thinking helps us better understand and explore this wonderful world."
+                    }
+                },
+                {
+                    "example": "科学的进步为人类带来了诸多便利和惊喜。",
+                    "translate": {
+                        "english": "The progress of science has brought many conveniences and surprises to human beings."
+                    }
+                }
+            ]
+        }
+    ]
+}

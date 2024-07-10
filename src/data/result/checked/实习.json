@@ -1,0 +1,34 @@
+{
+    "word": "实习",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "实习",
+            "translate": {
+                "english": "internship"
+            },
+            "examples": [
+                {
+                    "example": "在实习期间，我收获了满满的实践经验和珍贵的友谊。",
+                    "translate": {
+                        "english": "During the internship period, I gained a lot of practical experience and precious friendship."
+                    }
+                },
+                {
+                    "example": "通过这次实习，我不仅提升了自己的专业能力，还培养了良好的团队协作精神。",
+                    "translate": {
+                        "english": "Through this internship, I not only improved my professional ability, but also cultivated a good spirit of teamwork."
+                    }
+                },
+                {
+                    "example": "实习的这段日子虽然忙碌，但也让我感受到了成长的快乐。",
+                    "translate": {
+                        "english": "Although the days of internship are busy, it also makes me feel the happiness of growth."
+                    }
+                }
+            ]
+        }
+    ]
+}

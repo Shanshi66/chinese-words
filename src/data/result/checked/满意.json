@@ -1,0 +1,34 @@
+{
+    "word": "满意",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "满意",
+            "translate": {
+                "english": "satisfied"
+            },
+            "examples": [
+                {
+                    "example": "我对自己这次的表现非常满意。",
+                    "translate": {
+                        "english": "I am very satisfied with my performance this time."
+                    }
+                },
+                {
+                    "example": "看到孩子们的进步，老师们都露出了满意的笑容。",
+                    "translate": {
+                        "english": "Seeing the children's progress, the teachers all showed satisfied smiles."
+                    }
+                },
+                {
+                    "example": "他出色地完成了任务，领导对此十分满意。",
+                    "translate": {
+                        "english": "He accomplished the task excellently, and the leader was very satisfied with this."
+                    }
+                }
+            ]
+        }
+    ]
+}

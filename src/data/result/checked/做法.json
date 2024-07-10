@@ -1,0 +1,34 @@
+{
+    "word": "做法",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "做法",
+            "translate": {
+                "english": "way of doing sth."
+            },
+            "examples": [
+                {
+                    "example": "这种做法值得我们去学习和借鉴。",
+                    "translate": {
+                        "english": "This approach is worthy of our learning and reference."
+                    }
+                },
+                {
+                    "example": "这种创新的做法为我们打开了新的思路和方向。",
+                    "translate": {
+                        "english": "This innovative approach has opened up new ideas and directions for us."
+                    }
+                },
+                {
+                    "example": "这种巧妙的做法为解决问题提供了新的途径。",
+                    "translate": {
+                        "english": "This ingenious practice provides a new way to solve the problem."
+                    }
+                }
+            ]
+        }
+    ]
+}

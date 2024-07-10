@@ -1,0 +1,34 @@
+{
+    "word": "球队",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "球队",
+            "translate": {
+                "english": "team"
+            },
+            "examples": [
+                {
+                    "example": "我们的球队在比赛中展现出了顽强拼搏的精神和高超的技艺。",
+                    "translate": {
+                        "english": "Our team showed a tenacious fighting spirit and superb skills in the competition."
+                    }
+                },
+                {
+                    "example": "我们的球队一路过关斩将，最终赢得了比赛的冠军，大家都无比兴奋。",
+                    "translate": {
+                        "english": "Our team won the championship of the game after going through all the way and everyone was extremely excited."
+                    }
+                },
+                {
+                    "example": "我们的球队团结一心，在赛场上尽情挥洒着汗水，努力为胜利拼搏。",
+                    "translate": {
+                        "english": "Our team is united as one, sweating freely on the field and striving hard for victory."
+                    }
+                }
+            ]
+        }
+    ]
+}

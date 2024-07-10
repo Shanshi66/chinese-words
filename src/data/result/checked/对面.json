@@ -1,0 +1,34 @@
+{
+    "word": "对面",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "对面",
+            "translate": {
+                "english": "opposite side / across from"
+            },
+            "examples": [
+                {
+                    "example": "我站在街的这一面，看着对面热闹的店铺。",
+                    "translate": {
+                        "english": "I stand on this side of the street, looking at the bustling shops across."
+                    }
+                },
+                {
+                    "example": "我坐在窗边，望着对面美丽的风景，心情格外舒畅。",
+                    "translate": {
+                        "english": "I sit by the window, looking at the beautiful scenery opposite, and feel extremely comfortable."
+                    }
+                },
+                {
+                    "example": "我站在桥的这一端，望着对面如画的山水，心中满是欢喜。",
+                    "translate": {
+                        "english": "I stand at this end of the bridge, looking at the picturesque landscape on the opposite side, and my heart is full of joy."
+                    }
+                }
+            ]
+        }
+    ]
+}

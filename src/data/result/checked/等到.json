@@ -1,0 +1,34 @@
+{
+    "word": "等到",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "等到",
+            "translate": {
+                "english": "wait until"
+            },
+            "examples": [
+                {
+                    "example": "我会努力奋斗，等到成功的那一天。",
+                    "translate": {
+                        "english": "I will strive hard and wait until the day of success."
+                    }
+                },
+                {
+                    "example": "我会耐心等待，等到梦想实现的那一刻。",
+                    "translate": {
+                        "english": "I will wait patiently until the moment when the dream is realized."
+                    }
+                },
+                {
+                    "example": "我相信只要坚持努力，等到机会来临，就一定能绽放光彩。",
+                    "translate": {
+                        "english": "I believe that as long as we keep working hard and wait for the opportunity to come, we will definitely shine."
+                    }
+                }
+            ]
+        }
+    ]
+}

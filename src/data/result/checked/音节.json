@@ -1,0 +1,34 @@
+{
+    "word": "音节",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "音节",
+            "translate": {
+                "english": "syllable"
+            },
+            "examples": [
+                {
+                    "example": "老师耐心地教同学们认识不同的音节。",
+                    "translate": {
+                        "english": "The teacher patiently teaches the students to recognize different syllables."
+                    }
+                },
+                {
+                    "example": "小朋友们在课堂上认真地学习着各种音节。",
+                    "translate": {
+                        "english": "Children are studying various syllables carefully in class."
+                    }
+                },
+                {
+                    "example": "音乐老师带着我们一遍又一遍地练习着复杂的音节。",
+                    "translate": {
+                        "english": "The music teacher led us to practice the complex syllables over and over again."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "什么样",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "什么样",
+            "translate": {
+                "english": "what kind"
+            },
+            "examples": [
+                {
+                    "example": "我一直在思考自己想要过什么样的生活。",
+                    "translate": {
+                        "english": "I have been constantly thinking about what kind of life I want to live."
+                    }
+                },
+                {
+                    "example": "我在努力探索自己能成为什么样的人。",
+                    "translate": {
+                        "english": "I am trying hard to explore what kind of person I can become."
+                    }
+                },
+                {
+                    "example": "我在不断追寻着什么样的梦想才是最适合自己的。",
+                    "translate": {
+                        "english": "I am constantly in pursuit of what kind of dream is the most suitable for myself."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "起飞",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "起飞",
+            "translate": {
+                "english": "take off"
+            },
+            "examples": [
+                {
+                    "example": "只要我们不断努力，梦想就一定会起飞。",
+                    "translate": {
+                        "english": "As long as we keep working hard, the dream will definitely take off."
+                    }
+                },
+                {
+                    "example": "我们的事业正处在上升期，即将起飞，迈向更高的辉煌。",
+                    "translate": {
+                        "english": "Our cause is in the rising period, about to take off and move towards greater glory."
+                    }
+                },
+                {
+                    "example": "经过多年的筹备，他的创业项目终于顺利起飞。",
+                    "translate": {
+                        "english": "After years of preparation, his entrepreneurial project finally took off smoothly."
+                    }
+                }
+            ]
+        }
+    ]
+}

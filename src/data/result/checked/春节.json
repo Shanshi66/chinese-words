@@ -1,0 +1,34 @@
+{
+    "word": "春节",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "春节",
+            "translate": {
+                "english": "Spring Festival"
+            },
+            "examples": [
+                {
+                    "example": "春节期间，人们都沉浸在欢乐祥和的氛围中，互道祝福，共享美好时光。",
+                    "translate": {
+                        "english": "During the Spring Festival, people are all immersed in a happy and peaceful atmosphere, exchanging blessings and sharing good times."
+                    }
+                },
+                {
+                    "example": "春节到来时，家家户户张灯结彩，充满了喜庆的气息。",
+                    "translate": {
+                        "english": "When the Spring Festival comes, every household is decorated with lanterns and festoons, full of a festive atmosphere."
+                    }
+                },
+                {
+                    "example": "春节是中华民族最隆重的传统佳节，处处洋溢着幸福团圆的气氛。",
+                    "translate": {
+                        "english": "The Spring Festival is the most solemn traditional festival of the Chinese nation, and everywhere is filled with the atmosphere of happy reunion."
+                    }
+                }
+            ]
+        }
+    ]
+}

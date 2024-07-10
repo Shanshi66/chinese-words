@@ -1,0 +1,34 @@
+{
+    "word": "照片",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "照片",
+            "translate": {
+                "english": "photo / picture"
+            },
+            "examples": [
+                {
+                    "example": "我看着那张珍贵的照片，回忆起了许多美好的时光。",
+                    "translate": {
+                        "english": "I looked at that precious photo and recalled many wonderful times."
+                    }
+                },
+                {
+                    "example": "我把照片精心装裱起来，它见证了我生活中的美好瞬间。",
+                    "translate": {
+                        "english": "I carefully framed the photo, which witnessed the beautiful moments in my life."
+                    }
+                },
+                {
+                    "example": "我时常翻阅那些珍贵的照片，它们记录着我生活中的点滴欢乐与感动。",
+                    "translate": {
+                        "english": "I often look through those precious photos which record the bits of joy and touch in my life."
+                    }
+                }
+            ]
+        }
+    ]
+}

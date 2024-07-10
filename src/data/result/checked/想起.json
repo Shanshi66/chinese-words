@@ -1,0 +1,34 @@
+{
+    "word": "想起",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "想起",
+            "translate": {
+                "english": "recall / remember"
+            },
+            "examples": [
+                {
+                    "example": "每当我看到那本书，就会想起那段美好的时光。",
+                    "translate": {
+                        "english": "Whenever I see that book, I will think of that wonderful time."
+                    }
+                },
+                {
+                    "example": "每当我听到那首歌，就会想起和朋友们一起欢乐的日子。",
+                    "translate": {
+                        "english": "Whenever I hear that song, I will think of the happy days with my friends."
+                    }
+                },
+                {
+                    "example": "每当我看到这张照片，就会想起和家人一起度过的温馨时光。",
+                    "translate": {
+                        "english": "Whenever I see this photo, I will think of the warm time spent with my family."
+                    }
+                }
+            ]
+        }
+    ]
+}

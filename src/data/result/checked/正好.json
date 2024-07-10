@@ -1,0 +1,34 @@
+{
+    "word": "正好",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "正好",
+            "translate": {
+                "english": "just / exactly"
+            },
+            "examples": [
+                {
+                    "example": "今天出门正好碰到了许久未见的老朋友，真是太开心了。",
+                    "translate": {
+                        "english": "Going out today just happened to meet an old friend who hasn't seen for a long time. It's really so happy."
+                    }
+                },
+                {
+                    "example": "我正好完成了工作，就接到了朋友打来的电话，约我一起去看电影。",
+                    "translate": {
+                        "english": "I just finished my work when I received a call from a friend, inviting me to go to the movies together."
+                    }
+                },
+                {
+                    "example": "我正好路过面包店，就买了一个香喷喷的面包，感觉很满足。",
+                    "translate": {
+                        "english": "I just passed by the bakery and bought a fragrant bread, feeling very satisfied."
+                    }
+                }
+            ]
+        }
+    ]
+}

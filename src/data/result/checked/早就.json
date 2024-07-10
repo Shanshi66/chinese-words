@@ -1,0 +1,34 @@
+{
+    "word": "早就",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "早就",
+            "translate": {
+                "english": "already"
+            },
+            "examples": [
+                {
+                    "example": "我早就准备好了去迎接新的挑战。",
+                    "translate": {
+                        "english": "I have long been ready to meet new challenges."
+                    }
+                },
+                {
+                    "example": "我早就计划好这个假期要去远方旅行。",
+                    "translate": {
+                        "english": "I have long planned to travel far away during this vacation."
+                    }
+                },
+                {
+                    "example": "我早就期待着能和朋友们一起度过这个愉快的周末。",
+                    "translate": {
+                        "english": "I have long been looking forward to spending this pleasant weekend with friends."
+                    }
+                }
+            ]
+        }
+    ]
+}

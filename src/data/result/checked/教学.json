@@ -1,0 +1,34 @@
+{
+    "word": "教学",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "教学",
+            "translate": {
+                "english": "teaching / instruction"
+            },
+            "examples": [
+                {
+                    "example": "老师们通过创新的教学方法，让学生们对知识充满了兴趣和热情。",
+                    "translate": {
+                        "english": "Teachers make students full of interest and enthusiasm for knowledge through innovative teaching methods."
+                    }
+                },
+                {
+                    "example": "老师们运用各种有趣的教学手段，让课堂变得生动又活泼。",
+                    "translate": {
+                        "english": "Teachers use various interesting teaching methods to make the classroom lively and vivid."
+                    }
+                },
+                {
+                    "example": "老师们凭借丰富的教学经验，让学生们能够高效地掌握知识。",
+                    "translate": {
+                        "english": "Teachers, with rich teaching experience, enable students to master knowledge efficiently."
+                    }
+                }
+            ]
+        }
+    ]
+}

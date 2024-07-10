@@ -1,0 +1,34 @@
+{
+    "word": "路边",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "路边",
+            "translate": {
+                "english": "roadside"
+            },
+            "examples": [
+                {
+                    "example": "我在路边看到一位小朋友主动捡起垃圾，真的很棒。",
+                    "translate": {
+                        "english": "I saw a little child pick up the garbage voluntarily by the roadside. It's really great."
+                    }
+                },
+                {
+                    "example": "我在路边看到美丽的花朵在风中摇曳，心情格外舒畅。",
+                    "translate": {
+                        "english": "I saw beautiful flowers swaying in the wind by the roadside, and my mood was extremely comfortable."
+                    }
+                },
+                {
+                    "example": "我在路边帮助了一位迷路的老人找到回家的路，心里特别开心。",
+                    "translate": {
+                        "english": "I helped an old man who was lost find his way home by the roadside, and I felt extremely happy in my heart."
+                    }
+                }
+            ]
+        }
+    ]
+}

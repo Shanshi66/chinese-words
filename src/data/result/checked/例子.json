@@ -1,0 +1,34 @@
+{
+    "word": "例子",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "例子",
+            "translate": {
+                "english": "example"
+            },
+            "examples": [
+                {
+                    "example": "老师给我们举了很多生动有趣的例子来帮助我们理解知识点。",
+                    "translate": {
+                        "english": "The teacher gave us a lot of vivid and interesting examples to help us understand the knowledge points."
+                    }
+                },
+                {
+                    "example": "他在演讲中列举了许多成功的例子来激励大家。",
+                    "translate": {
+                        "english": "He enumerated many successful examples in the speech to inspire everyone."
+                    }
+                },
+                {
+                    "example": "父母常常会用身边的正面例子来教导孩子如何做人做事。",
+                    "translate": {
+                        "english": "Parents often use positive examples around to teach children how to be a person and do things."
+                    }
+                }
+            ]
+        }
+    ]
+}

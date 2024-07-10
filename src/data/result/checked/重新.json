@@ -1,0 +1,34 @@
+{
+    "word": "重新",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "重新",
+            "translate": {
+                "english": "again"
+            },
+            "examples": [
+                {
+                    "example": "经历挫折后，他决定重新出发，去追寻自己的梦想。",
+                    "translate": {
+                        "english": "After experiencing setbacks, he decided to start anew and go after his own dream."
+                    }
+                },
+                {
+                    "example": "让我们放下过去的烦恼，重新开始一段美好的旅程。",
+                    "translate": {
+                        "english": "Let's put down the past troubles and start a wonderful journey anew."
+                    }
+                },
+                {
+                    "example": "当太阳重新升起的时候，新的一天又充满了希望。",
+                    "translate": {
+                        "english": "When the sun rises again, a new day is full of hope once more."
+                    }
+                }
+            ]
+        }
+    ]
+}

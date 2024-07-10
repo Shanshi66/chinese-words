@@ -1,0 +1,34 @@
+{
+    "word": "多云",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "多云",
+            "translate": {
+                "english": "cloudy"
+            },
+            "examples": [
+                {
+                    "example": "今天的天空多云，给人一种很舒适的感觉。",
+                    "translate": {
+                        "english": "Today's sky is cloudy, giving people a very comfortable feeling."
+                    }
+                },
+                {
+                    "example": "明天虽然是多云的天气，但丝毫不会影响我们出去游玩的好心情。",
+                    "translate": {
+                        "english": "Although it will be cloudy tomorrow, it will not affect our good mood to go out and play at all."
+                    }
+                },
+                {
+                    "example": "即使天空多云，也阻挡不了我们享受户外美好时光的热情。",
+                    "translate": {
+                        "english": "Even if the sky is cloudy, it can't stop our enthusiasm for enjoying the wonderful outdoor time."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "正常",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "正常",
+            "translate": {
+                "english": "normal"
+            },
+            "examples": [
+                {
+                    "example": "我的生活已经恢复正常，一切都在有条不紊地进行着。",
+                    "translate": {
+                        "english": "My life has returned to normal, and everything is proceeding in an orderly manner."
+                    }
+                },
+                {
+                    "example": "尽管经历了一些波折，但现在所有事情都已经恢复正常，大家都很开心。",
+                    "translate": {
+                        "english": "Although there have been some twists and turns, now all things have returned to normal and everyone is very happy."
+                    }
+                },
+                {
+                    "example": "我的心情已经恢复正常，又能以积极的态度面对生活啦。",
+                    "translate": {
+                        "english": "My mood has returned to normal, and I can face life with a positive attitude again."
+                    }
+                }
+            ]
+        }
+    ]
+}

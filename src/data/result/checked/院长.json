@@ -1,0 +1,34 @@
+{
+    "word": "院长",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "院长",
+            "translate": {
+                "english": "dean"
+            },
+            "examples": [
+                {
+                    "example": "我们的院长和蔼可亲，十分关心每一位员工。",
+                    "translate": {
+                        "english": "Our dean is amiable and very concerned about every employee."
+                    }
+                },
+                {
+                    "example": "院长总是鼓励大家积极进取，勇于创新。",
+                    "translate": {
+                        "english": "The dean always encourages everyone to be aggressive and courageous in making innovations."
+                    }
+                },
+                {
+                    "example": "院长带领着全体医护人员不断提升医疗水平，为患者提供更优质的服务。",
+                    "translate": {
+                        "english": "The dean leads all the medical staff to continuously improve the medical level and provide better services for patients."
+                    }
+                }
+            ]
+        }
+    ]
+}

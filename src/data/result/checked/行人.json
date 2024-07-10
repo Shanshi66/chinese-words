@@ -1,0 +1,34 @@
+{
+    "word": "行人",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "行人",
+            "translate": {
+                "english": "pedestrian"
+            },
+            "examples": [
+                {
+                    "example": "在繁忙的街道上，行人都井然有序地走着。",
+                    "translate": {
+                        "english": "On the busy street, pedestrians are walking in an orderly manner."
+                    }
+                },
+                {
+                    "example": "那位热心的行人帮助老人捡起了掉落的物品。",
+                    "translate": {
+                        "english": "That warm-hearted pedestrian helped the old man pick up the dropped items."
+                    }
+                },
+                {
+                    "example": "善良的行人给迷路的孩子指引了正确的方向。",
+                    "translate": {
+                        "english": "The kind pedestrian guided the lost child in the right direction."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "篮球",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "篮球",
+            "translate": {
+                "english": "basketball"
+            },
+            "examples": [
+                {
+                    "example": "我非常喜欢打篮球，它让我的生活充满了活力。",
+                    "translate": {
+                        "english": "I like playing basketball very much, and it makes my life full of vitality."
+                    }
+                },
+                {
+                    "example": "篮球场上，大家尽情挥洒汗水，享受着运动带来的快乐。",
+                    "translate": {
+                        "english": "On the basketball court, everyone is sweating freely and enjoying the happiness brought by sports."
+                    }
+                },
+                {
+                    "example": "我和朋友们经常一起打篮球，那真是无比欢乐的时光。",
+                    "translate": {
+                        "english": "I often play basketball with my friends, and that is really an extremely happy time."
+                    }
+                }
+            ]
+        }
+    ]
+}

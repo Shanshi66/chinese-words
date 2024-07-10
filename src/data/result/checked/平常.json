@@ -1,0 +1,34 @@
+{
+    "word": "平常",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "平常",
+            "translate": {
+                "english": "usual / ordinary"
+            },
+            "examples": [
+                {
+                    "example": "他以平常的心态面对生活中的种种挑战，总是能保持乐观向上。",
+                    "translate": {
+                        "english": "He faces all kinds of challenges in life with an ordinary state of mind and can always remain optimistic."
+                    }
+                },
+                {
+                    "example": "他以一颗平常的心看待得失，生活得十分快乐。",
+                    "translate": {
+                        "english": "He views gains and losses with an ordinary heart and lives very happily."
+                    }
+                },
+                {
+                    "example": "他有着一颗平常的心，无论遇到什么事都能从容应对。",
+                    "translate": {
+                        "english": "He has an ordinary heart and can deal with whatever happens calmly."
+                    }
+                }
+            ]
+        }
+    ]
+}

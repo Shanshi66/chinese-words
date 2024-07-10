@@ -1,0 +1,34 @@
+{
+    "word": "见过",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "见过",
+            "translate": {
+                "english": "seen / met"
+            },
+            "examples": [
+                {
+                    "example": "我曾经见过那美丽的彩虹横跨天际，真是太震撼了。",
+                    "translate": {
+                        "english": "I once saw that beautiful rainbow spanning the sky, it was really so shocking."
+                    }
+                },
+                {
+                    "example": "我见过最璀璨的星空，那壮丽的景象让我难以忘怀。",
+                    "translate": {
+                        "english": "I have seen the most brilliant starry sky, and that magnificent sight makes me unforgettable."
+                    }
+                },
+                {
+                    "example": "我见过祖国的大好河山，心中满是对这片土地的热爱和自豪。",
+                    "translate": {
+                        "english": "I have seen the great rivers and mountains of the motherland, and my heart is full of love and pride for this land."
+                    }
+                }
+            ]
+        }
+    ]
+}

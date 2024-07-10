@@ -1,0 +1,34 @@
+{
+    "word": "送到",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "送到",
+            "translate": {
+                "english": "deliver / send to"
+            },
+            "examples": [
+                {
+                    "example": "快递员及时地把包裹送到了我的手中。",
+                    "translate": {
+                        "english": "The courier delivered the package to me in a timely manner."
+                    }
+                },
+                {
+                    "example": "志愿者们把温暖和关怀送到了每一位需要帮助的人身边。",
+                    "translate": {
+                        "english": "The volunteers brought warmth and care to every person in need."
+                    }
+                },
+                {
+                    "example": "善良的人们把爱心和温暖源源不断地送到那些处于困境中的人们心里。",
+                    "translate": {
+                        "english": "Kind people continuously send love and warmth to the hearts of those people in difficult situations."
+                    }
+                }
+            ]
+        }
+    ]
+}

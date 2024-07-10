@@ -1,0 +1,34 @@
+{
+    "word": "身边",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "身边",
+            "translate": {
+                "english": "around"
+            },
+            "examples": [
+                {
+                    "example": "我的身边总是围绕着一群充满正能量的朋友，让我每天都很开心。",
+                    "translate": {
+                        "english": "There are always a group of friends full of positive energy around me, making me very happy every day."
+                    }
+                },
+                {
+                    "example": "我身边的亲人和朋友都给予我无尽的支持和鼓励。",
+                    "translate": {
+                        "english": "The relatives and friends around me all give me endless support and encouragement."
+                    }
+                },
+                {
+                    "example": "我身边的美好事物如同繁星般闪耀，让我对生活充满热爱。",
+                    "translate": {
+                        "english": "The beautiful things around me shine like the stars, making me full of love for life."
+                    }
+                }
+            ]
+        }
+    ]
+}

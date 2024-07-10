@@ -1,0 +1,34 @@
+{
+    "word": "出发",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "出发",
+            "translate": {
+                "english": "set out / start off / depart"
+            },
+            "examples": [
+                {
+                    "example": "我们做好准备后就快乐地出发，去探索那未知的世界。",
+                    "translate": {
+                        "english": "After we get ready, we will set off happily to explore the unknown world."
+                    }
+                },
+                {
+                    "example": "迎着朝阳，我们满怀信心地出发，去追寻心中的梦想。",
+                    "translate": {
+                        "english": "Facing the morning sun, we set out full of confidence to pursue the dream in our hearts."
+                    }
+                },
+                {
+                    "example": "当太阳升起，我们兴高采烈地出发，开启新一天的美好旅程。",
+                    "translate": {
+                        "english": "When the sun rises, we set off cheerfully and start the beautiful journey of a new day."
+                    }
+                }
+            ]
+        }
+    ]
+}

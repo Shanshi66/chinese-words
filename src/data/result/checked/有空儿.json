@@ -1,0 +1,34 @@
+{
+    "word": "有空儿",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "有空儿",
+            "translate": {
+                "english": "be free / have time"
+            },
+            "examples": [
+                {
+                    "example": "等你有空儿的时候，我们一起去公园散步吧。",
+                    "translate": {
+                        "english": "When you are free, let's go for a walk in the park together."
+                    }
+                },
+                {
+                    "example": "当你有空儿的时候，不妨来我家做客，我们一起聊聊有趣的事。",
+                    "translate": {
+                        "english": "When you are free, you might as well come to my house as a guest, and we can talk about interesting things together."
+                    }
+                },
+                {
+                    "example": "等你有空儿的时候，咱们可以一起去做志愿者，帮助那些有需要的人。",
+                    "translate": {
+                        "english": "When you are free, we can go to be volunteers together to help those in need."
+                    }
+                }
+            ]
+        }
+    ]
+}

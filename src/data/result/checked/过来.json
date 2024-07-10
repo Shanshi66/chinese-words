@@ -1,0 +1,34 @@
+{
+    "word": "过来",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "过来",
+            "translate": {
+                "english": "come over"
+            },
+            "examples": [
+                {
+                    "example": "我朝他喊了一声，他便开心地跑过来了。",
+                    "translate": {
+                        "english": "I shouted at him once, and he ran over happily."
+                    }
+                },
+                {
+                    "example": "朋友远远地看到我，便笑着跑过来和我打招呼。",
+                    "translate": {
+                        "english": "Friends saw me from a distance, then ran over with a smile and greeted me."
+                    }
+                },
+                {
+                    "example": "当我遇到困难时，朋友们纷纷过来帮助我。",
+                    "translate": {
+                        "english": "When I encounter difficulties, friends come over to help me one after another."
+                    }
+                }
+            ]
+        }
+    ]
+}

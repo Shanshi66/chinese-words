@@ -1,0 +1,34 @@
+{
+    "word": "单位",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "单位",
+            "translate": {
+                "english": "unit"
+            },
+            "examples": [
+                {
+                    "example": "我很热爱我的单位，在这里我收获了成长和快乐。",
+                    "translate": {
+                        "english": "I love my company very much, and here I have gained growth and happiness."
+                    }
+                },
+                {
+                    "example": "我的单位就像一个温暖的大家庭，大家互帮互助，共同进步。",
+                    "translate": {
+                        "english": "My workplace is like a warm big family, and everyone helps each other and makes progress together."
+                    }
+                },
+                {
+                    "example": "我在单位里积极进取，与同事们携手创造了许多辉煌的成绩。",
+                    "translate": {
+                        "english": "I am aggressive and enterprising in the unit, and have created many brilliant achievements hand in hand with colleagues."
+                    }
+                }
+            ]
+        }
+    ]
+}

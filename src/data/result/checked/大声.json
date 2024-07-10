@@ -1,0 +1,34 @@
+{
+    "word": "大声",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "大声",
+            "translate": {
+                "english": "loud"
+            },
+            "examples": [
+                {
+                    "example": "他总是大声地表达自己的观点，充满了自信和热情。",
+                    "translate": {
+                        "english": "He always expresses his opinions loudly, full of confidence and enthusiasm."
+                    }
+                },
+                {
+                    "example": "他站在山顶大声呼喊，释放着内心的喜悦。",
+                    "translate": {
+                        "english": "He stood on the top of the mountain and shouted loudly, releasing the joy in his heart."
+                    }
+                },
+                {
+                    "example": "孩子们在公园里大声欢笑，享受着美好的时光。",
+                    "translate": {
+                        "english": "The children laugh loudly in the park and enjoy the wonderful time."
+                    }
+                }
+            ]
+        }
+    ]
+}

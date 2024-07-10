@@ -1,0 +1,34 @@
+{
+    "word": "不过",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "不过",
+            "translate": {
+                "english": "but / however"
+            },
+            "examples": [
+                {
+                    "example": "人生路上会遇到一些困难，不过只要我们保持乐观积极的心态，就一定能克服它们。",
+                    "translate": {
+                        "english": "There will be some difficulties on the road of life, but as long as we keep an optimistic and positive attitude, we will surely be able to overcome them."
+                    }
+                },
+                {
+                    "example": "生活中难免会有挫折，不过我们要相信阳光总在风雨后。",
+                    "translate": {
+                        "english": "There will inevitably be setbacks in life, but we should believe that the sunshine always comes after the storm."
+                    }
+                },
+                {
+                    "example": "无论遇到什么挑战，我们都要勇敢面对，不过也不要忘记给自己留一些放松的时间。",
+                    "translate": {
+                        "english": "No matter what challenges we encounter, we should face them bravely, but also don't forget to leave some relaxing time for ourselves."
+                    }
+                }
+            ]
+        }
+    ]
+}

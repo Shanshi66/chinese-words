@@ -1,0 +1,34 @@
+{
+    "word": "请客",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "请客",
+            "translate": {
+                "english": "treat"
+            },
+            "examples": [
+                {
+                    "example": "周末我打算请客，和朋友们一起去享受美食。",
+                    "translate": {
+                        "english": "On the weekend I plan to treat guests and go with friends to enjoy delicious food."
+                    }
+                },
+                {
+                    "example": "我升职了，决定请客和同事们一起庆祝。",
+                    "translate": {
+                        "english": "I got promoted and decided to treat my colleagues to celebrate together."
+                    }
+                },
+                {
+                    "example": "这次比赛我得了第一名，我决定请客和大家一起分享这份喜悦。",
+                    "translate": {
+                        "english": "I won the first place in this competition, and I decided to treat everyone to share this joy."
+                    }
+                }
+            ]
+        }
+    ]
+}

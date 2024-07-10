@@ -1,0 +1,34 @@
+{
+    "word": "目的",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "目的",
+            "translate": {
+                "english": "purpose / aim / goal"
+            },
+            "examples": [
+                {
+                    "example": "我做这件事的目的是为了让大家都能感受到温暖和快乐。",
+                    "translate": {
+                        "english": "The purpose of my doing this thing is to make everyone feel warm and happy."
+                    }
+                },
+                {
+                    "example": "我努力学习的目的是为了实现自己的梦想，创造美好的未来。",
+                    "translate": {
+                        "english": "The purpose of my hard study is to realize my dream and create a beautiful future."
+                    }
+                },
+                {
+                    "example": "我努力工作的目的是为了给家人提供更好的生活条件。",
+                    "translate": {
+                        "english": "The purpose of my hard work is to provide better living conditions for my family."
+                    }
+                }
+            ]
+        }
+    ]
+}

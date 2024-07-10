@@ -1,0 +1,34 @@
+{
+    "word": "随便",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "随便",
+            "translate": {
+                "english": "casually / randomly"
+            },
+            "examples": [
+                {
+                    "example": "大家可以随便发表自己的观点，共同探讨问题。",
+                    "translate": {
+                        "english": "Everyone can freely express their own views and jointly discuss problems."
+                    }
+                },
+                {
+                    "example": "我们可以随便聊聊，分享生活中的趣事。",
+                    "translate": {
+                        "english": "We can chat casually and share interesting things in life."
+                    }
+                },
+                {
+                    "example": "我可以随便选一本喜欢的书来阅读，享受惬意的时光。",
+                    "translate": {
+                        "english": "I can casually choose a favorite book to read and enjoy the pleasant time."
+                    }
+                }
+            ]
+        }
+    ]
+}

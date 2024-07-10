@@ -1,0 +1,34 @@
+{
+    "word": "全体",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "全体",
+            "translate": {
+                "english": "all"
+            },
+            "examples": [
+                {
+                    "example": "全体师生共同努力，营造了积极向上的学习氛围。",
+                    "translate": {
+                        "english": "All the teachers and students work together to create a positive learning atmosphere."
+                    }
+                },
+                {
+                    "example": "全体运动员们在赛场上努力拼搏，展现出了卓越的体育精神。",
+                    "translate": {
+                        "english": "All the athletes strive hard on the field and show excellent sportsmanship."
+                    }
+                },
+                {
+                    "example": "全体志愿者齐心协力，为社会贡献了自己的力量。",
+                    "translate": {
+                        "english": "All the volunteers worked together and contributed their own strength to the society."
+                    }
+                }
+            ]
+        }
+    ]
+}

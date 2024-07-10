@@ -1,0 +1,34 @@
+{
+    "word": "实在",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "实在",
+            "translate": {
+                "english": "really"
+            },
+            "examples": [
+                {
+                    "example": "他这个人实在是太好了，总是热心地帮助别人。",
+                    "translate": {
+                        "english": "He is really so nice and always helps others enthusiastically."
+                    }
+                },
+                {
+                    "example": "这里的风景实在是太美了，让人陶醉其中。",
+                    "translate": {
+                        "english": "The scenery here is really so beautiful that people are intoxicated by it."
+                    }
+                },
+                {
+                    "example": "这次的活动举办得实在是太成功了，大家都非常开心。",
+                    "translate": {
+                        "english": "This activity was really held too successfully, and everyone was very happy."
+                    }
+                }
+            ]
+        }
+    ]
+}

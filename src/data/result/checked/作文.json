@@ -1,0 +1,34 @@
+{
+    "word": "作文",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "作文",
+            "translate": {
+                "english": "composition"
+            },
+            "examples": [
+                {
+                    "example": "我认真地完成了一篇精彩的作文，心里充满了成就感。",
+                    "translate": {
+                        "english": "I carefully completed a wonderful composition and was filled with a sense of accomplishment in my heart."
+                    }
+                },
+                {
+                    "example": "老师对我的作文给予了高度评价，这让我备受鼓舞。",
+                    "translate": {
+                        "english": "The teacher gave a high evaluation to my composition, which made me greatly encouraged."
+                    }
+                },
+                {
+                    "example": "我写的作文在班级里被当作范文朗读，这让我感到无比自豪。",
+                    "translate": {
+                        "english": "The composition I wrote was read as a model essay in the class, which made me feel extremely proud."
+                    }
+                }
+            ]
+        }
+    ]
+}

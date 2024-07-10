@@ -1,0 +1,34 @@
+{
+    "word": "回国",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "回国",
+            "translate": {
+                "english": "return to one's country"
+            },
+            "examples": [
+                {
+                    "example": "他在国外完成学业后，毅然决定回国为祖国的发展贡献自己的力量。",
+                    "translate": {
+                        "english": "After completing his studies abroad, he resolutely decided to return to the motherland to contribute his own strength to the development of the motherland."
+                    }
+                },
+                {
+                    "example": "他在国外积累了丰富经验后，满怀憧憬地回国开启新的事业征程。",
+                    "translate": {
+                        "english": "After accumulating rich experience abroad, he returned to the country full of longing to start a new career journey."
+                    }
+                },
+                {
+                    "example": "小明在国外工作多年后，终于带着满满的收获回国与家人团聚。",
+                    "translate": {
+                        "english": "After working abroad for many years, Xiaoming finally returned to his country to reunite with his family with full harvest."
+                    }
+                }
+            ]
+        }
+    ]
+}

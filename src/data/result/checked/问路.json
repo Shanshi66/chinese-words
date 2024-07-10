@@ -1,0 +1,34 @@
+{
+    "word": "问路",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "问路",
+            "translate": {
+                "english": "ask the way"
+            },
+            "examples": [
+                {
+                    "example": "我在陌生的城市迷路了，还好有礼貌地向路人问路后找到了正确的方向。",
+                    "translate": {
+                        "english": "I got lost in a strange city, but fortunately, I found the right direction after politely asking passers-by for directions."
+                    }
+                },
+                {
+                    "example": "当我们在不熟悉的地方时，要勇敢地问路，这样才能顺利到达目的地。",
+                    "translate": {
+                        "english": "When we are in an unfamiliar place, we should bravely ask for directions so that we can successfully reach the destination."
+                    }
+                },
+                {
+                    "example": "我初到这座城市，礼貌地向一位老人问路，他热情地为我指引了方向。",
+                    "translate": {
+                        "english": "When I first arrived in this city, I politely asked an old man for directions, and he enthusiastically pointed out the direction for me."
+                    }
+                }
+            ]
+        }
+    ]
+}

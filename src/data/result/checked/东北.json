@@ -1,0 +1,34 @@
+{
+    "word": "东北",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "东北",
+            "translate": {
+                "english": "Northeast"
+            },
+            "examples": [
+                {
+                    "example": "东北是一个充满独特魅力和热情的地方。",
+                    "translate": {
+                        "english": "Northeast is a place full of unique charm and enthusiasm."
+                    }
+                },
+                {
+                    "example": "东北的自然风光壮美秀丽，吸引着众多游客前往欣赏。",
+                    "translate": {
+                        "english": "The natural scenery in Northeast China is magnificent and beautiful, attracting a large number of tourists to go and appreciate."
+                    }
+                },
+                {
+                    "example": "东北的冬天虽然寒冷，但那银装素裹的雪景却让人陶醉其中。",
+                    "translate": {
+                        "english": "Although the winter in Northeast China is very cold, the snow scene of being covered with white makes people intoxicated in it."
+                    }
+                }
+            ]
+        }
+    ]
+}

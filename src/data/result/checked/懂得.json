@@ -1,0 +1,34 @@
+{
+    "word": "懂得",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "懂得",
+            "translate": {
+                "english": "understand / know"
+            },
+            "examples": [
+                {
+                    "example": "我们要懂得感恩生活所给予的一切美好。",
+                    "translate": {
+                        "english": "We should know how to be grateful for all the goodness that life gives."
+                    }
+                },
+                {
+                    "example": "我们应该懂得珍惜身边的人和事。",
+                    "translate": {
+                        "english": "We should know to cherish the people and things around us."
+                    }
+                },
+                {
+                    "example": "我们只有懂得尊重他人，才能赢得他人的尊重。",
+                    "translate": {
+                        "english": "We can only win the respect of others if we know how to respect others."
+                    }
+                }
+            ]
+        }
+    ]
+}

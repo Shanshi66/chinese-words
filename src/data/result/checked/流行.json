@@ -1,0 +1,34 @@
+{
+    "word": "流行",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "流行",
+            "translate": {
+                "english": "popular"
+            },
+            "examples": [
+                {
+                    "example": "最近这首歌曲非常流行，大家都在传唱。",
+                    "translate": {
+                        "english": "Recently this song is very popular and everyone is singing it."
+                    }
+                },
+                {
+                    "example": "如今流行的健身方式让人们的生活更加健康和有活力。",
+                    "translate": {
+                        "english": "The currently popular fitness methods make people's lives healthier and more energetic."
+                    }
+                },
+                {
+                    "example": "当下流行的阅读方式，让人们能更便捷地获取知识。",
+                    "translate": {
+                        "english": "The currently popular reading way enables people to acquire knowledge more conveniently."
+                    }
+                }
+            ]
+        }
+    ]
+}

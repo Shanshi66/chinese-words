@@ -1,0 +1,34 @@
+{
+    "word": "不如",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "不如",
+            "translate": {
+                "english": "not as good as"
+            },
+            "examples": [
+                {
+                    "example": "与其犹豫不决，不如勇敢地迈出第一步去尝试。",
+                    "translate": {
+                        "english": "Rather than hesitate, it is better to bravely take the first step to try."
+                    }
+                },
+                {
+                    "example": "遇到困难时，与其抱怨，不如积极想办法去解决。",
+                    "translate": {
+                        "english": "When encountering difficulties, rather than complaining, it is better to actively think of ways to solve them."
+                    }
+                },
+                {
+                    "example": "与其总是羡慕别人，不如努力提升自己。",
+                    "translate": {
+                        "english": "Rather than always envying others, it is better to strive to improve oneself."
+                    }
+                }
+            ]
+        }
+    ]
+}

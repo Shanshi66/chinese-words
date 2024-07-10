@@ -1,0 +1,34 @@
+{
+    "word": "打工",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "打工",
+            "translate": {
+                "english": "work (as an employee)"
+            },
+            "examples": [
+                {
+                    "example": "我相信通过这次打工的经历，自己能获得更多的成长和进步。",
+                    "translate": {
+                        "english": "I believe that through this part-time job experience, I can gain more growth and progress."
+                    }
+                },
+                {
+                    "example": "我利用假期去打工，不仅锻炼了自己还收获了快乐和满足。",
+                    "translate": {
+                        "english": "I used the vacation to work part-time, which not only exercised myself but also gained happiness and satisfaction."
+                    }
+                },
+                {
+                    "example": "我准备利用业余时间去打工，既能增加收入又能积累经验。",
+                    "translate": {
+                        "english": "I am going to take advantage of my spare time to work part-time, which can both increase income and accumulate experience."
+                    }
+                }
+            ]
+        }
+    ]
+}

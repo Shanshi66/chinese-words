@@ -1,0 +1,34 @@
+{
+    "word": "阴天",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "阴天",
+            "translate": {
+                "english": "cloudy day"
+            },
+            "examples": [
+                {
+                    "example": "即使是阴天，也不能影响我们积极向上的心情和乐观的生活态度。",
+                    "translate": {
+                        "english": "Even if it is a cloudy day, it cannot affect our positive mood and optimistic attitude towards life."
+                    }
+                },
+                {
+                    "example": "阴天的时候我喜欢坐在窗边，静静欣赏那独特的宁静之美。",
+                    "translate": {
+                        "english": "On cloudy days, I like to sit by the window and quietly appreciate the unique beauty of tranquility."
+                    }
+                },
+                {
+                    "example": "阴天的日子里，我依然会微笑着面对生活中的一切。",
+                    "translate": {
+                        "english": "On cloudy days, I will still smile and face everything in life."
+                    }
+                }
+            ]
+        }
+    ]
+}

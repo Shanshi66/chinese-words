@@ -1,0 +1,34 @@
+{
+    "word": "笑话儿",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "笑话儿",
+            "translate": {
+                "english": "joke"
+            },
+            "examples": [
+                {
+                    "example": "他讲的笑话儿总是能逗得大家开怀大笑。",
+                    "translate": {
+                        "english": "The jokes he tells can always make everyone laugh heartily."
+                    }
+                },
+                {
+                    "example": "朋友给我讲了一个笑话儿，让我一整天都心情愉悦。",
+                    "translate": {
+                        "english": "A friend told me a joke, which made me feel happy all day long."
+                    }
+                },
+                {
+                    "example": "我给小朋友们讲了一个笑话儿，他们听完都开心地笑了起来。",
+                    "translate": {
+                        "english": "I told a joke to the children, and they all laughed happily after listening."
+                    }
+                }
+            ]
+        }
+    ]
+}

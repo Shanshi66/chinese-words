@@ -1,0 +1,34 @@
+{
+    "word": "作业",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "作业",
+            "translate": {
+                "english": "homework"
+            },
+            "examples": [
+                {
+                    "example": "我每天都认真完成作业，感觉很有成就感。",
+                    "translate": {
+                        "english": "I finish my homework carefully every day and feel a great sense of accomplishment."
+                    }
+                },
+                {
+                    "example": "我认真地对待每一项作业，从中收获了知识与成长。",
+                    "translate": {
+                        "english": "I treat every assignment seriously and gain knowledge and growth from it."
+                    }
+                },
+                {
+                    "example": "我高效地完成作业后，便可以开心地去做自己喜欢的事情了。",
+                    "translate": {
+                        "english": "After I finish my homework efficiently, I can happily go and do the things I like."
+                    }
+                }
+            ]
+        }
+    ]
+}

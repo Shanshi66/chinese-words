@@ -1,0 +1,34 @@
+{
+    "word": "节日",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "节日",
+            "translate": {
+                "english": "festival"
+            },
+            "examples": [
+                {
+                    "example": "在这个欢乐的节日里，大家都沉浸在幸福和喜悦之中。",
+                    "translate": {
+                        "english": "In this joyous festival, everyone is immersed in happiness and joy."
+                    }
+                },
+                {
+                    "example": "每到节日，我们一家人都会团聚在一起，享受温馨的时光。",
+                    "translate": {
+                        "english": "Every festival, our whole family will get together and enjoy the warm time."
+                    }
+                },
+                {
+                    "example": "节日里的大街小巷都充满着热闹欢快的氛围。",
+                    "translate": {
+                        "english": "The streets and alleys during the festivals are all filled with a lively and cheerful atmosphere."
+                    }
+                }
+            ]
+        }
+    ]
+}

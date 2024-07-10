@@ -1,0 +1,34 @@
+{
+    "word": "句子",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "句子",
+            "translate": {
+                "english": "sentence"
+            },
+            "examples": [
+                {
+                    "example": "老师耐心地给同学们讲解着每一个句子的含义。",
+                    "translate": {
+                        "english": "The teacher patiently explains the meaning of each sentence to the students."
+                    }
+                },
+                {
+                    "example": "我喜欢阅读各种优美的句子，它们总能带给我美好的感受。",
+                    "translate": {
+                        "english": "I like to read all kinds of beautiful sentences, and they can always bring me wonderful feelings."
+                    }
+                },
+                {
+                    "example": "我写下的每一个句子都饱含着我真挚的情感。",
+                    "translate": {
+                        "english": "Every sentence I write is full of my sincere feelings."
+                    }
+                }
+            ]
+        }
+    ]
+}

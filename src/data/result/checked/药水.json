@@ -1,0 +1,34 @@
+{
+    "word": "药水",
+    "tags": [
+        "hsk2"
+    ],
+    "explanations": [
+        {
+            "explanation": "药水",
+            "translate": {
+                "english": "liquid medicine"
+            },
+            "examples": [
+                {
+                    "example": "妈妈细心地为我擦拭着伤口上的药水。",
+                    "translate": {
+                        "english": "Mother carefully wiped the medicine on my wound for me."
+                    }
+                },
+                {
+                    "example": "爷爷轻轻地把药水倒在棉花上，准备为我处理伤口。",
+                    "translate": {
+                        "english": "Grandfather gently pours the liquid medicine onto the cotton, preparing to treat my wound."
+                    }
+                },
+                {
+                    "example": "我小心地拿着药水，准备给受伤的小动物进行擦拭。",
+                    "translate": {
+                        "english": "I carefully hold the potion, preparing to wipe it on the injured small animal."
+                    }
+                }
+            ]
+        }
+    ]
+}
