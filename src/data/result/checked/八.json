@@ -1,0 +1,32 @@
+{
+    "word": "八",
+    "tags": ["number"],
+    "explanations": [
+        {
+            "explanation": "八",
+            "translate": {
+                "english": "eight"
+            },
+            "examples": [
+                {
+                    "example": "八月的天空格外湛蓝，让人心情愉悦。",
+                    "translate": {
+                        "english": "The sky in August is exceptionally blue, making people feel pleasant."
+                    }
+                },
+                {
+                    "example": "我非常喜欢数字八，因为它在中国文化中代表着吉祥和好运。",
+                    "translate": {
+                        "english": "I like the number eight very much, because it represents auspiciousness and good luck in Chinese culture."
+                    }
+                },
+                {
+                    "example": "我的幸运数字是八，它总是能给我带来好运气。",
+                    "translate": {
+                        "english": "My lucky number is eight, and it can always bring me good luck."
+                    }
+                }
+            ]
+        }
+    ]
+}

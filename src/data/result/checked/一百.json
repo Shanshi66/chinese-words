@@ -1,0 +1,34 @@
+{
+    "word": "一百",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "一百",
+            "translate": {
+                "english": "one hundred"
+            },
+            "examples": [
+                {
+                    "example": "我给自己定了个目标，要在一百天内学会这门新技能。",
+                    "translate": {
+                        "english": "I set a goal for myself to learn this new skill within one hundred days."
+                    }
+                },
+                {
+                    "example": "我要用这一百天的时间努力提升自己，让自己变得更加优秀。",
+                    "translate": {
+                        "english": "I will use these one hundred days to strive to improve myself and make myself more excellent."
+                    }
+                },
+                {
+                    "example": "我要用一百天的时间来阅读经典书籍，丰富自己的内涵。",
+                    "translate": {
+                        "english": "I will use one hundred days to read classic books to enrich my connotation."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "六",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "六",
+            "translate": {
+                "english": "six"
+            },
+            "examples": [
+                {
+                    "example": "我用了六个月的时间终于完成了这幅美丽的画作。",
+                    "translate": {
+                        "english": "I finally finished this beautiful painting after using six months."
+                    }
+                },
+                {
+                    "example": "生活中总会遇到各种挑战，但我们要保持乐观，就像那六道绚丽的彩虹，给我们带来希望和美好。",
+                    "translate": {
+                        "english": "There will always be various challenges in life, but we should remain optimistic, just like the six brilliant rainbows that bring us hope and beauty."
+                    }
+                },
+                {
+                    "example": "六一儿童节那天，孩子们都沉浸在欢乐的氛围中，脸上洋溢着幸福的笑容。",
+                    "translate": {
+                        "english": "On the Children's Day on June 1st, children are all immersed in a happy atmosphere, with happy smiles on their faces."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "十",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "十",
+            "translate": {
+                "english": "ten"
+            },
+            "examples": [
+                {
+                    "example": "我为这次考试准备了十足的精力，相信一定能取得好成绩。",
+                    "translate": {
+                        "english": "I have prepared full energy for this exam and believe that I will definitely get good grades."
+                    }
+                },
+                {
+                    "example": "我十分期待这次旅行，相信一定会非常精彩。",
+                    "translate": {
+                        "english": "I am very much looking forward to this trip and believe it will be extremely wonderful."
+                    }
+                },
+                {
+                    "example": "我们的团队有十足的信心完成这项艰巨的任务。",
+                    "translate": {
+                        "english": "Our team has full confidence to complete this arduous task."
+                    }
+                }
+            ]
+        }
+    ]
+}

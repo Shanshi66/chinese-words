@@ -1,0 +1,34 @@
+{
+    "word": "九十",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "九十",
+            "translate": {
+                "english": "ninety"
+            },
+            "examples": [
+                {
+                    "example": "我的爷爷已经九十岁了，但他依然精神矍铄。",
+                    "translate": {
+                        "english": "My grandfather is already ninety years old, but he is still hale and hearty."
+                    }
+                },
+                {
+                    "example": "我的奶奶虽然九十岁了，可还是每天笑容满面，积极乐观地生活着。",
+                    "translate": {
+                        "english": "Although my grandma is ninety years old, she still smiles every day and lives actively and optimistically."
+                    }
+                },
+                {
+                    "example": "我的老师已经九十岁了，可他还是坚持每天读书学习。",
+                    "translate": {
+                        "english": "My teacher is already ninety years old, but he still insists on reading and studying every day."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -108,6 +108,10 @@
         "pinyin": "tu zi"
     },
     {
+        "word": "千",
+        "pinyin": "qian"
+    },
+    {
         "word": "白菜",
         "pinyin": "bai cai"
     },
@@ -118,6 +122,10 @@
     {
         "word": "是不是",
         "pinyin": "shi bu shi"
+    },
+    {
+        "word": "二十",
+        "pinyin": "er shi"
     },
     {
         "word": "取得",
@@ -368,6 +376,10 @@
         "pinyin": "ling jiao"
     },
     {
+        "word": "三",
+        "pinyin": "san"
+    },
+    {
         "word": "所以",
         "pinyin": "suo yi"
     },
@@ -460,6 +472,10 @@
         "pinyin": "bao zi"
     },
     {
+        "word": "两百",
+        "pinyin": "liang bai"
+    },
+    {
         "word": "语言",
         "pinyin": "yu yan"
     },
@@ -506,6 +522,10 @@
     {
         "word": "放心",
         "pinyin": "fang xin"
+    },
+    {
+        "word": "二",
+        "pinyin": "er"
     },
     {
         "word": "请假",
@@ -808,6 +828,10 @@
         "pinyin": "she"
     },
     {
+        "word": "十万",
+        "pinyin": "shi wan"
+    },
+    {
         "word": "顾问",
         "pinyin": "gu wen"
     },
@@ -1056,6 +1080,10 @@
         "pinyin": "qi wen"
     },
     {
+        "word": "一百",
+        "pinyin": "yi bai"
+    },
+    {
         "word": "蝎子",
         "pinyin": "xie zi"
     },
@@ -1144,8 +1172,16 @@
         "pinyin": "hu die"
     },
     {
+        "word": "千万",
+        "pinyin": "qian wan"
+    },
+    {
         "word": "星期日",
         "pinyin": "xing qi ri"
+    },
+    {
+        "word": "五",
+        "pinyin": "wu"
     },
     {
         "word": "只能",
@@ -1448,6 +1484,10 @@
         "pinyin": "ke ren"
     },
     {
+        "word": "四",
+        "pinyin": "si"
+    },
+    {
         "word": "研究",
         "pinyin": "yan jiu"
     },
@@ -1482,6 +1522,10 @@
     {
         "word": "碰见",
         "pinyin": "peng jian"
+    },
+    {
+        "word": "十亿",
+        "pinyin": "shi yi"
     },
     {
         "word": "银行卡",
@@ -1582,6 +1626,10 @@
     {
         "word": "常常",
         "pinyin": "chang chang"
+    },
+    {
+        "word": "一千",
+        "pinyin": "yi qian"
     },
     {
         "word": "句子",
@@ -1768,6 +1816,10 @@
         "pinyin": "dong zuo"
     },
     {
+        "word": "七",
+        "pinyin": "qi"
+    },
+    {
         "word": "科学家",
         "pinyin": "ke xue jia"
     },
@@ -1898,6 +1950,10 @@
     {
         "word": "紫薯",
         "pinyin": "zi shu"
+    },
+    {
+        "word": "千亿",
+        "pinyin": "qian yi"
     },
     {
         "word": "柴鸡",
@@ -2300,6 +2356,10 @@
         "pinyin": "tong yang"
     },
     {
+        "word": "两千",
+        "pinyin": "liang qian"
+    },
+    {
         "word": "广告",
         "pinyin": "guang gao"
     },
@@ -2684,6 +2744,10 @@
         "pinyin": "yin hang"
     },
     {
+        "word": "百",
+        "pinyin": "bai"
+    },
+    {
         "word": "关上",
         "pinyin": "guan shang"
     },
@@ -2734,6 +2798,10 @@
     {
         "word": "楼下",
         "pinyin": "lou xia"
+    },
+    {
+        "word": "一万",
+        "pinyin": "yi wan"
     },
     {
         "word": "牛蒡",
@@ -3388,6 +3456,14 @@
         "pinyin": "xi bian"
     },
     {
+        "word": "万亿",
+        "pinyin": "wan yi"
+    },
+    {
+        "word": "九十",
+        "pinyin": "jiu shi"
+    },
+    {
         "word": "教室",
         "pinyin": "jiao shi"
     },
@@ -3444,6 +3520,10 @@
         "pinyin": "tang shui"
     },
     {
+        "word": "三百",
+        "pinyin": "san bai"
+    },
+    {
         "word": "工人",
         "pinyin": "gong ren"
     },
@@ -3466,6 +3546,10 @@
     {
         "word": "请求",
         "pinyin": "qing qiu"
+    },
+    {
+        "word": "一",
+        "pinyin": "yi"
     },
     {
         "word": "不少",
@@ -3498,6 +3582,10 @@
     {
         "word": "在乎",
         "pinyin": "zai hu"
+    },
+    {
+        "word": "亿",
+        "pinyin": "yi"
     },
     {
         "word": "头发",
@@ -3796,6 +3884,10 @@
         "pinyin": "si ji dou"
     },
     {
+        "word": "六",
+        "pinyin": "liu"
+    },
+    {
         "word": "前天",
         "pinyin": "qian tian"
     },
@@ -4020,6 +4112,10 @@
         "pinyin": "xi huan"
     },
     {
+        "word": "百万",
+        "pinyin": "bai wan"
+    },
+    {
         "word": "离开",
         "pinyin": "li kai"
     },
@@ -4114,6 +4210,10 @@
     {
         "word": "红薯",
         "pinyin": "hong shu"
+    },
+    {
+        "word": "零",
+        "pinyin": "ling"
     },
     {
         "word": "奶酪",
@@ -4392,12 +4492,20 @@
         "pinyin": "wo xi huan ni"
     },
     {
+        "word": "十",
+        "pinyin": "shi"
+    },
+    {
         "word": "姐姐",
         "pinyin": "jie jie"
     },
     {
         "word": "超市",
         "pinyin": "chao shi"
+    },
+    {
+        "word": "两亿",
+        "pinyin": "liang yi"
     },
     {
         "word": "得到",
@@ -4482,6 +4590,10 @@
     {
         "word": "书包",
         "pinyin": "shu bao"
+    },
+    {
+        "word": "万",
+        "pinyin": "wan"
     },
     {
         "word": "瓶子",
@@ -4624,6 +4736,10 @@
         "pinyin": "cheng zi"
     },
     {
+        "word": "百亿",
+        "pinyin": "bai yi"
+    },
+    {
         "word": "接受",
         "pinyin": "jie shou"
     },
@@ -4726,6 +4842,10 @@
     {
         "word": "出生",
         "pinyin": "chu sheng"
+    },
+    {
+        "word": "三千",
+        "pinyin": "san qian"
     },
     {
         "word": "见过",
@@ -5172,6 +5292,10 @@
         "pinyin": "shang wu"
     },
     {
+        "word": "一亿",
+        "pinyin": "yi yi"
+    },
+    {
         "word": "水母",
         "pinyin": "shui mu"
     },
@@ -5230,6 +5354,10 @@
     {
         "word": "什么",
         "pinyin": "shen me"
+    },
+    {
+        "word": "九",
+        "pinyin": "jiu"
     },
     {
         "word": "文件柜",
@@ -5582,6 +5710,10 @@
     {
         "word": "大海",
         "pinyin": "da hai"
+    },
+    {
+        "word": "八",
+        "pinyin": "ba"
     },
     {
         "word": "芹菜",

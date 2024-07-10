@@ -1,0 +1,34 @@
+{
+    "word": "二十",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "二十",
+            "translate": {
+                "english": "twenty"
+            },
+            "examples": [
+                {
+                    "example": "在二十岁的美好年华里，我们应该努力追逐自己的梦想。",
+                    "translate": {
+                        "english": "In the beautiful years of twenty, we should strive to pursue our own dreams."
+                    }
+                },
+                {
+                    "example": "二十年后的我一定会感谢现在努力奋斗的自己。",
+                    "translate": {
+                        "english": "Twenty years later, I will definitely thank myself who is striving hard now."
+                    }
+                },
+                {
+                    "example": "二十个春秋转瞬即逝，我依然保持着对生活的热爱和憧憬。",
+                    "translate": {
+                        "english": "Twenty years have passed in the twinkling of an eye, and I still keep the love and longing for life."
+                    }
+                }
+            ]
+        }
+    ]
+}

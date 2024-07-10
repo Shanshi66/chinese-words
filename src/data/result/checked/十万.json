@@ -1,0 +1,34 @@
+{
+    "word": "十万",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "十万",
+            "translate": {
+                "english": "one hundred thousand"
+            },
+            "examples": [
+                {
+                    "example": "为了实现梦想，他努力拼搏，终于在短短几年内积累了超过十万元的财富。",
+                    "translate": {
+                        "english": "In order to realize his dream, he worked hard and finally accumulated more than one hundred thousand yuan of wealth in just a few years."
+                    }
+                },
+                {
+                    "example": "这次的公益活动筹集到了超过十万元的善款，能帮助很多有需要的人。",
+                    "translate": {
+                        "english": "This public welfare activity has raised more than one hundred thousand yuan in donations, which can help many people in need."
+                    }
+                },
+                {
+                    "example": "经过多年的努力奋斗，他终于拥有了价值超十万的资产。",
+                    "translate": {
+                        "english": "After years of hard work and struggle, he finally owned assets worth more than one hundred thousand."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "两百",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "两百",
+            "translate": {
+                "english": "two hundred"
+            },
+            "examples": [
+                {
+                    "example": "我存了两百元钱，准备用来买一本自己喜欢的书。",
+                    "translate": {
+                        "english": "I saved two hundred yuan and prepared to use it to buy a book that I like."
+                    }
+                },
+                {
+                    "example": "我花费了两百元买了一件漂亮又实用的礼物送给朋友，他非常开心。",
+                    "translate": {
+                        "english": "I spent two hundred yuan to buy a beautiful and practical gift for my friend, and he was very happy."
+                    }
+                },
+                {
+                    "example": "我努力工作了两个月，终于存够了两百元，这让我很有成就感。",
+                    "translate": {
+                        "english": "I worked hard for two months and finally saved up two hundred yuan, which made me feel a great sense of accomplishment."
+                    }
+                }
+            ]
+        }
+    ]
+}

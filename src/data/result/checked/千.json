@@ -1,0 +1,34 @@
+{
+    "word": "千",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "千",
+            "translate": {
+                "english": "thousand"
+            },
+            "examples": [
+                {
+                    "example": "在这大千世界里，有着无尽的美好等待我们去发现。",
+                    "translate": {
+                        "english": "In this big world, there are endless beauties waiting for us to discover."
+                    }
+                },
+                {
+                    "example": "人生的道路上纵然有千难万险，我们也要勇往直前。",
+                    "translate": {
+                        "english": "Even if there are thousands of difficulties and dangers on the road of life, we should also march forward bravely."
+                    }
+                },
+                {
+                    "example": "人生路上纵然会遇到千千万万的困难，但只要我们保持乐观，就一定能克服。",
+                    "translate": {
+                        "english": "Even if there will be thousands of difficulties on the road of life, but as long as we remain optimistic, we will definitely be able to overcome."
+                    }
+                }
+            ]
+        }
+    ]
+}

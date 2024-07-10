@@ -1,0 +1,34 @@
+{
+    "word": "亿",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "亿",
+            "translate": {
+                "english": "hundred million"
+            },
+            "examples": [
+                {
+                    "example": "中国有十几亿人口，大家共同努力创造着美好的未来。",
+                    "translate": {
+                        "english": "China has more than a billion people, and everyone is working together to create a beautiful future."
+                    }
+                },
+                {
+                    "example": "中国拥有十四亿勤劳勇敢的人民，他们共同为实现中华民族伟大复兴的中国梦而努力奋斗着。",
+                    "translate": {
+                        "english": "China has 1.4 billion hardworking and brave people, who are all working hard together to realize the Chinese Dream of the great rejuvenation of the Chinese nation."
+                    }
+                },
+                {
+                    "example": "地球上有几十亿人，大家都在各自的领域努力生活着。",
+                    "translate": {
+                        "english": "There are billions of people on the earth, and everyone is striving to live in their respective fields."
+                    }
+                }
+            ]
+        }
+    ]
+}

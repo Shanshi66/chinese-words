@@ -1,0 +1,34 @@
+{
+    "word": "万亿",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "万亿",
+            "translate": {
+                "english": "trillion"
+            },
+            "examples": [
+                {
+                    "example": "我国的经济总量已经达到了万亿级别，并且还在持续增长。",
+                    "translate": {
+                        "english": "The total economic volume of our country has reached the trillion-level, and it is still continuously growing."
+                    }
+                },
+                {
+                    "example": "我国在科技领域的投入逐年增加，未来有望突破万亿大关。",
+                    "translate": {
+                        "english": "The investment of our country in the field of science and technology is increasing year by year, and it is expected to break through the trillion mark in the future."
+                    }
+                },
+                {
+                    "example": "我国的科技创新成果价值万亿，为国家的发展增添了强大动力。",
+                    "translate": {
+                        "english": "The scientific and technological innovation achievements in our country are worth trillions of yuan, adding strong impetus to the development of the country."
+                    }
+                }
+            ]
+        }
+    ]
+}

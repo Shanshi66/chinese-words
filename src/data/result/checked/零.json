@@ -1,0 +1,34 @@
+{
+    "word": "零",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "零",
+            "translate": {
+                "english": "zero"
+            },
+            "examples": [
+                {
+                    "example": "我的考试成绩从不及格提升到了满分，实现了从零到一百分的飞跃。",
+                    "translate": {
+                        "english": "My exam score has been raised from failing to full marks, achieving a leap from zero to one hundred."
+                    }
+                },
+                {
+                    "example": "即使从零开始，只要我们努力奋斗，也一定能创造出美好的未来。",
+                    "translate": {
+                        "english": "Even if starting from zero, as long as we strive hard, we will definitely be able to create a beautiful future."
+                    }
+                },
+                {
+                    "example": "生活中难免会遇到挫折，但我们要相信可以从零基础开始，重新出发，迎接美好的明天。",
+                    "translate": {
+                        "english": "In life, setbacks are inevitable, but we have to believe that we can start from scratch and set out again to welcome a beautiful tomorrow."
+                    }
+                }
+            ]
+        }
+    ]
+}

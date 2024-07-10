@@ -1,0 +1,34 @@
+{
+    "word": "五",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "五",
+            "translate": {
+                "english": "five"
+            },
+            "examples": [
+                {
+                    "example": "五星红旗在风中飘扬，那鲜艳的颜色让人心中充满了自豪与骄傲。",
+                    "translate": {
+                        "english": "The Five-starred Red Flag is fluttering in the wind, and the bright color fills people's hearts with pride and arrogance."
+                    }
+                },
+                {
+                    "example": "五一假期我们一家人去了美丽的海边，度过了一段非常愉快的时光。",
+                    "translate": {
+                        "english": "During the May Day holiday, our family went to the beautiful seaside and had a very pleasant time."
+                    }
+                },
+                {
+                    "example": "五彩斑斓的花朵绽放在公园里，构成了一幅美丽的画卷。",
+                    "translate": {
+                        "english": "Colorful flowers are blooming in the park, constituting a beautiful picture."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "两千",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "两千",
+            "translate": {
+                "english": "two thousand"
+            },
+            "examples": [
+                {
+                    "example": "在过去的两千个日夜中，我一直为梦想努力奋斗着。",
+                    "translate": {
+                        "english": "In the past two thousand days and nights, I have been striving hard for the dream."
+                    }
+                },
+                {
+                    "example": "我要在这两千个小时里，努力提升自己，让自己变得更加优秀。",
+                    "translate": {
+                        "english": "I will strive to improve myself in these two thousand hours to make myself more excellent."
+                    }
+                },
+                {
+                    "example": "在未来的两千天里，我相信自己会创造更多的精彩。",
+                    "translate": {
+                        "english": "In the next two thousand days, I believe I will create more wonderful things."
+                    }
+                }
+            ]
+        }
+    ]
+}

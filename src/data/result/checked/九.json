@@ -1,0 +1,28 @@
+{
+    "word": "九",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "九",
+            "translate": {
+                "english": "nine"
+            },
+            "examples": [
+                {
+                    "example": "我最喜欢的数字就是九，它寓意着长久。",
+                    "translate": {
+                        "english": "My favorite number is nine, which implies longevity."
+                    }
+                },
+                {
+                    "example": "九九重阳节到了，大家一起去登高望远，真是其乐融融。",
+                    "translate": {
+                        "english": "The Double Ninth Festival has arrived, and everyone goes to climb high and look far together, which is really enjoyable and harmonious."
+                    }
+                }
+            ]
+        }
+    ]
+}

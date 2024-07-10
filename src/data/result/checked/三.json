@@ -1,0 +1,34 @@
+{
+    "word": "三",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "三",
+            "translate": {
+                "english": "three"
+            },
+            "examples": [
+                {
+                    "example": "我们一家三口经常在周末一起去公园游玩，享受美好的时光。",
+                    "translate": {
+                        "english": "Our family of three often go to the park to play together on weekends and enjoy the wonderful time."
+                    }
+                },
+                {
+                    "example": "我们三个人齐心协力，一定能把这件事做好。",
+                    "translate": {
+                        "english": "The three of us work together with one heart, and we will surely be able to do this thing well."
+                    }
+                },
+                {
+                    "example": "我们三个好朋友总是互相鼓励，共同进步。",
+                    "translate": {
+                        "english": "The three of us good friends always encourage each other and make progress together."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "千万",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "千万",
+            "translate": {
+                "english": "ten million"
+            },
+            "examples": [
+                {
+                    "example": "无论做什么事都要认真对待，千万不能马虎。",
+                    "translate": {
+                        "english": "No matter what you do, you should take it seriously and must not be careless."
+                    }
+                },
+                {
+                    "example": "无论遇到什么困难，我们都要保持乐观的心态，千万不能轻易放弃。",
+                    "translate": {
+                        "english": "No matter what difficulties we encounter, we should keep an optimistic attitude and must not give up easily."
+                    }
+                },
+                {
+                    "example": "无论前方道路多么崎岖，我们千万要坚定信念勇往直前。",
+                    "translate": {
+                        "english": "No matter how rugged the road ahead is, we must firmly hold our beliefs and move forward bravely."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "一",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "一",
+            "translate": {
+                "english": "one"
+            },
+            "examples": [
+                {
+                    "example": "生活中总有一些不如意，但我们要保持一颗乐观向上的心。",
+                    "translate": {
+                        "english": "There are always some disappointments in life, but we should keep an optimistic and upward heart."
+                    }
+                },
+                {
+                    "example": "每一天我都以积极的态度去迎接新的挑战。",
+                    "translate": {
+                        "english": "Every day I meet new challenges with a positive attitude."
+                    }
+                },
+                {
+                    "example": "我一定会努力实现自己的梦想。",
+                    "translate": {
+                        "english": "I will definitely strive to realize my own dream."
+                    }
+                }
+            ]
+        }
+    ]
+}

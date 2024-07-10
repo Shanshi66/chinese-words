@@ -1,0 +1,34 @@
+{
+    "word": "百",
+    "tags": [
+        "number"
+    ],
+    "explanations": [
+        {
+            "explanation": "百",
+            "translate": {
+                "english": "hundred"
+            },
+            "examples": [
+                {
+                    "example": "生活中总有百般滋味，我们要乐观面对。",
+                    "translate": {
+                        "english": "There are always all kinds of tastes in life, and we should face it optimistically."
+                    }
+                },
+                {
+                    "example": "人生的道路上有百种可能，我们要充满信心地去探索。",
+                    "translate": {
+                        "english": "There are hundreds of possibilities on the road of life, and we should explore with full confidence."
+                    }
+                },
+                {
+                    "example": "我相信只要坚持努力，未来定会有百般美好的可能在等待着我们。",
+                    "translate": {
+                        "english": "I believe that as long as we keep working hard, there will definitely be a hundred kinds of beautiful possibilities waiting for us in the future."
+                    }
+                }
+            ]
+        }
+    ]
+}
