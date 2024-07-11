@@ -1,6 +1,6 @@
 ---
-import type { IntlListDetail, Language } from "@/common/types";
-import { getListIntl } from "@/customize/list";
+import type { Language } from "@/common/types";
+import { getListIntl, type IntlListDetail } from "@/customize/list";
 import { Image } from "astro:assets";
 
 interface Props {
@@ -8,7 +8,7 @@ interface Props {
     lang: Language;
 }
 const images = import.meta.glob<{ default: ImageMetadata }>(
-    "/src/assets/images/*.{jpg,jpeg,png,webp,gif}",
+    "/src/assets/images/*.{jpg,jpeg,png,webp,gif}"
 );
 
 const { detail, lang } = Astro.props;
