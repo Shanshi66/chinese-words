@@ -12,5 +12,8 @@ export default defineConfig({
     prefixDefaultLocale: true
   },
   trailingSlash: "never",
-  site: "https://chinesewords.co"
+  site: "https://chinesewords.co",
+  build: {
+    format: 'file'
+  }
 });
