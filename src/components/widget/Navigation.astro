@@ -18,8 +18,8 @@ if (pathSplit.length > 2) {
 
 const intlData = getIntlData(lang);
 
-const isList = pathWithoutLang === "/lists.html";
-const isBlog = pathWithoutLang === "/blog.html";
+const isList = pathWithoutLang.startsWith("/lists");
+const isBlog = pathWithoutLang.startsWith("/blog");
 const isHome = pathWithoutLang === "/";
 ---
 

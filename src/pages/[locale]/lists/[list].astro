@@ -41,8 +41,8 @@ for (let i = 0; i < allWords.length; i++) {
 }
 
 const metadata: MetaData = {
-    title: `${wordListDesc?.title} - Chinese Words`,
-    description: wordListDesc?.description ?? "Chinese Words",
+    title: `${wordListDesc?.meta.title}`,
+    description: `${wordListDesc?.meta.description}`,
     lang: lang,
 };
 ---

@@ -27,7 +27,13 @@ export interface HomeIntlData {
     faqTitle: string;
 }
 
+export interface MetaIntlData {
+    title: string;
+    description: string;
+}
+
 interface ListIntlData {
+    meta: MetaIntlData;
     title: string;
     description: string;
     hskTitle: string;
@@ -41,7 +47,7 @@ interface BlogIntlData {
 }
 
 interface WordIntlData {
-    description: string;
+    meta: MetaIntlData;
     information: string;
     explanation: string;
     writing: string;
@@ -85,9 +91,14 @@ export const englishIntlData: IntlData = {
         faqTitle: "Frequently Asked Questions",
     },
     lists: {
-        title: "Chinese Word List",
+        meta: {
+            title: "Chinese Word Lists - Different Scenarios And Purposes",
+            description:
+                "Categorize Chinese words into different lists based on their usage scenarios and purposes, such as HSK, animals, food, expressions of love, measure words, and so on.",
+        },
+        title: "Chinese Word Lists",
         description:
-            "Collect Chinese words in different scenarios and purposes, and organize them into lists for targeted learning",
+            "Categorize Chinese words into different lists based on their usage scenarios and purposes, such as HSK, animals, food, expressions of love, measure words, and so on.",
         hskTitle: "HSK",
         basicTitle: "Basic",
         scenarioTitle: "Scenario",
@@ -98,7 +109,11 @@ export const englishIntlData: IntlData = {
             "Website updates, Chinese learning tips, interesting Chinese content sharing, etc",
     },
     word: {
-        description: "pinyin, write(stroke order), explanation and examples",
+        meta: {
+            title: "Explanation, Examples, Stroke Order And More",
+            description:
+                "every thing about this chinese word, include explanation, examples, stroke order, related words and so on",
+        },
         information: "Information",
         explanation: "Explanations",
         writing: "Writing",
@@ -133,9 +148,14 @@ export const chineseIntlData: IntlData = {
         faqTitle: "常见问题",
     },
     lists: {
+        meta: {
+            title: "中文词分类表 - 不同的使用场景和用途",
+            description:
+                "将中文单词根据使用场景和目的归于不同的列表，比如HSK、动物、食物、表达爱、量词等等",
+        },
         title: "中文词分类表",
         description:
-            "收集不同场景、不同用途下的中文单词，整理成列表，方便针对性学习",
+            "将中文单词根据使用场景和目的归于不同的列表，比如HSK、动物、食物、表达爱、量词等等",
         hskTitle: "汉语水平考试",
         basicTitle: "基本",
         scenarioTitle: "场景",
@@ -145,7 +165,11 @@ export const chineseIntlData: IntlData = {
         description: "网站收录更新，中文学习技巧，有趣的中文内容分享等等",
     },
     word: {
-        description: "拼音、写法、解释和例句",
+        meta: {
+            title: "解释、写法、例句、相关词等",
+            description:
+                "关于这个中文词的一切，包括解释、写法、例句、相关词、同音词等等",
+        },
         information: "基本信息",
         explanation: "解释",
         writing: "写法",

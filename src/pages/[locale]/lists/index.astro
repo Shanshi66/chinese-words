@@ -22,8 +22,8 @@ const lang = getLang(locale);
 const intlData = getIntlData(lang);
 
 const metadata: MetaData = {
-    title: `${intlData.lists.title}`,
-    description: `${intlData.lists.description}`,
+    title: `${intlData.lists.meta.title}`,
+    description: `${intlData.lists.meta.description}`,
     lang: lang,
 };
 ---
@@ -33,7 +33,7 @@ const metadata: MetaData = {
         <h1 class="text-3xl font-bold md:text-5xl text-center mb-10">
             {intlData.lists.title}
         </h1>
-        <p class="text-center md:text-xl text-gray-500">
+        <p class="text-center md:text-xl text-gray-500 w-2/3 mx-auto">
             {intlData.lists.description}
         </p>
     </div>

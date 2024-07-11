@@ -1,5 +1,4 @@
 ---
-import fs from "fs";
 import PageLayout from "@/layouts/PageLayout.astro";
 import Hanzi from "@/components/widget/WritingWords.astro";
 import { pinyin } from "pinyin-pro";
@@ -47,8 +46,8 @@ let relatedList = allList.filter((list) =>
 );
 
 const metadata: MetaData = {
-    title: `${word} - Chinese Words`,
-    description: `${word} - ${intlData.word.description}`,
+    title: `${word} - ${intlData.word.meta.title}`,
+    description: `${word} - ${intlData.word.meta.description}`,
     lang: lang,
 };
 ---
