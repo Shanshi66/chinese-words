@@ -453,6 +453,32 @@ export const loveList: IntlListDetail = {
     },
 };
 
+export const rudeList: IntlListDetail = {
+    name: "rude",
+    imgPath: "/src/assets/images/rude.jpg",
+    url: "/lists/rude",
+    tags: ["rude"],
+    english: {
+        title: "Rude",
+        description:
+            "Rude words in Chinese to express emotions such as dissatisfaction or surprise",
+        meta: {
+            title: "Chinese Rude Words - Explanation, Examples, Writing",
+            description:
+                "Rude words are often used in daily life to express emotions like dissatisfaction and surprise. Examples are provided to help you better learn and understand.",
+        },
+    },
+    chinese: {
+        title: "粗俗",
+        description: "汉语中表达不满或吃惊等情绪的粗俗词汇",
+        meta: {
+            title: "汉语中表达不满或吃惊等情绪的粗俗词汇 - 解释、例句和写法",
+            description:
+                "在日常生活中经常使用粗俗的词汇来表达不满、吃惊等情绪，通过例句帮助你更好的学习和理解",
+        },
+    },
+};
+
 export const homeList: IntlListDetail[] = [
     hsk1List,
     foodList,
@@ -480,6 +506,7 @@ export const scenarioLists: IntlListDetail[] = [
     businessList,
     loveList,
     travelList,
+    rudeList,
 ];
 
 export const allList = [...hskLists, ...basicLists, ...scenarioLists];
