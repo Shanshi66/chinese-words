@@ -30,6 +30,15 @@ const lang = getLang(locale);
 const intlData = getIntlData(lang);
 
 const pinyins = pinyin(word, { type: "array" });
+const pinyinString = pinyin(word);
+
+let allWords = loadAllWords();
+let homophones = [];
+for (let w of allWords) {
+    if (word != w.word && pinyinString === pinyin(w.word)) {
+        homophones.push(w);
+    }
+}
 
 let pinyinWords: PinyinWord[] = [];
 for (let i = 0; i < word.length; i++) {
@@ -92,15 +101,29 @@ const metadata: MetaData = {
             <h2 class="text-2xl border-b-[1px] py-4">
                 {intlData.word.writing}
             </h2>
-            <p class="mt-2 md:text-xl">
-                {intlData.word.writingTips}
-            </p>
+            <div class="my-4">
+                <p class="md:text-xl">
+                    {intlData.word.writingTips}
+                </p>
+            </div>
         </div>
 
         <div class="my-10">
             <h2 class="text-2xl border-b-[1px] py-4">
                 {intlData.word.homophones}
             </h2>
+            <div class="my-4 flex flex-row flex-wrap">
+                {
+                    homophones.map((w) => (
+                        <a
+                            href={`/${lang.locale}/words/${w.word}`}
+                            class="text-blue-700 md:text-xl mr-2"
+                        >
+                            {w.word}
+                        </a>
+                    ))
+                }
+            </div>
         </div>
 
         <div class="my-10">
