@@ -22,7 +22,7 @@ const listDesc = getListIntl(detail, lang);
 <div class="flex flex-col items-start max-w-[300px]">
     <Image
         src={images[detail.imgPath]()}
-        alt={listDesc.title}
+        alt={`${listDesc.title}-image`}
         class="aspect-video rounded-md md:mr-4 mb-4"
     />
     <a href={`/${lang.locale}${detail.url}`}>

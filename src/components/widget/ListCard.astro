@@ -25,7 +25,7 @@ const listDesc = getListIntl(detail, lang);
 <a href={`/${lang.locale}${detail.url}`}>
     <Image
         src={images[detail.imgPath]()}
-        alt={listDesc.title}
+        alt={`${listDesc.title}-image`}
         width={imageWidth}
         height={imageHeight}
         class="aspect-video rounded-md mb-2"

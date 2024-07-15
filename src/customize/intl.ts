@@ -50,7 +50,9 @@ interface WordIntlData {
     meta: MetaIntlData;
     information: string;
     explanation: string;
+    speaking: string;
     writing: string;
+    writingTips: string;
     relatedList: string;
     homophones: string;
 }
@@ -114,9 +116,11 @@ export const englishIntlData: IntlData = {
             description:
                 "every thing about this chinese word, include explanation, examples, stroke order, related words and so on",
         },
+        speaking: "Speaking",
         information: "Information",
         explanation: "Explanations",
         writing: "Writing",
+        writingTips: "Click grid above to animate stroke order",
         relatedList: "Related List",
         homophones: "Homophones",
     },
@@ -172,7 +176,9 @@ export const chineseIntlData: IntlData = {
         },
         information: "基本信息",
         explanation: "解释",
+        speaking: "发音",
         writing: "写法",
+        writingTips: "点击上方方格查看笔画动画",
         relatedList: "相关列表",
         homophones: "同音词",
     },
