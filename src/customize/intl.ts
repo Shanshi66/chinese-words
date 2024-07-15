@@ -112,7 +112,7 @@ export const englishIntlData: IntlData = {
     },
     word: {
         meta: {
-            title: "Explanation, Examples, Stroke Order And More",
+            title: "Explanation, Examples, Speaking, Writing And More",
             description:
                 "every thing about this chinese word, include explanation, examples, stroke order, related words and so on",
         },
@@ -170,7 +170,7 @@ export const chineseIntlData: IntlData = {
     },
     word: {
         meta: {
-            title: "解释、写法、例句、相关词等",
+            title: "解释、发音、写法、例句、相关词等",
             description:
                 "关于这个中文词的一切，包括解释、写法、例句、相关词、同音词等等",
         },
