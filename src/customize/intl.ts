@@ -50,7 +50,7 @@ interface WordIntlData {
     meta: MetaIntlData;
     information: string;
     explanation: string;
-    speaking: string;
+    pronunciation: string;
     writing: string;
     writingTips: string;
     relatedList: string;
@@ -112,11 +112,11 @@ export const englishIntlData: IntlData = {
     },
     word: {
         meta: {
-            title: "Explanation, Examples, Speaking, Writing And More",
+            title: "Explanation, Examples, Pronunciation, Writing And More",
             description:
-                "every thing about this chinese word, include explanation, examples, stroke order, related words and so on",
+                "every thing about this chinese word, include explanation, pronunciation, examples, stroke order, related words and so on",
         },
-        speaking: "Speaking",
+        pronunciation: "Pronunciation",
         information: "Information",
         explanation: "Explanations",
         writing: "Writing",
@@ -176,7 +176,7 @@ export const chineseIntlData: IntlData = {
         },
         information: "基本信息",
         explanation: "解释",
-        speaking: "发音",
+        pronunciation: "发音",
         writing: "写法",
         writingTips: "点击上方方格查看笔画动画",
         relatedList: "相关列表",

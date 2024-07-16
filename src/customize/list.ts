@@ -78,7 +78,7 @@ export const hsk3List: IntlListDetail = {
         meta: {
             title: "HSK Level-3 Words (HSK 3.0) - Explanation, Writing, Examples",
             description:
-                "This list includes the vocabulary list for the HSK 3.0 Level 3(Beginner), including the explanation, pinyin, writing, example sentences, and so on for each word",
+                "This list includes the vocabulary list for the HSK 3.0 Level 3(Beginner), including the explanation, pinyin, writing, pronunciation, example sentences, and so on for each word",
         },
     },
     chinese: {
@@ -87,7 +87,7 @@ export const hsk3List: IntlListDetail = {
         meta: {
             title: "汉语水平考试三级(初级)词汇列表(HSK 3.0) - 解释，写法，例句",
             description:
-                "这个列表包含了汉语水平考试(HSK 3.0)三级(初级)词汇列表，包括每个词的解释、拼音、写法、例句等等",
+                "这个列表包含了汉语水平考试(HSK 3.0)三级(初级)词汇列表，包括每个词的解释、发音、拼音、写法、例句等等",
         },
     },
 };
@@ -491,7 +491,7 @@ export const homeList: IntlListDetail[] = [
     loveList,
 ];
 
-export const hskLists: IntlListDetail[] = [hsk1List, hsk2List];
+export const hskLists: IntlListDetail[] = [hsk1List, hsk2List, hsk3List];
 export const basicLists: IntlListDetail[] = [
     dailyList,
     colorList,
