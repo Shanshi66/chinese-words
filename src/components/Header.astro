@@ -49,18 +49,10 @@ function getLangUrl(lang: Language): string {
                 >
                     <Search intlData={intlData} lang={lang} client:load />
                 </div>
-                <select
-                    name="language"
-                    id="language-select"
-                    class="hidden md:block"
-                >
+                <select name="language" class="hidden md:block language-select">
                     {
                         supportedLang.map((l) => (
-                            <option
-                                value={l.locale}
-                                selected={l === lang}
-                                data-path={getLangUrl(l)}
-                            >
+                            <option value={getLangUrl(l)} selected={l === lang}>
                                 {l.name}
                             </option>
                         ))
@@ -96,14 +88,10 @@ function getLangUrl(lang: Language): string {
             id="mobile-menu"
         >
             <Navigation lang={lang} />
-            <select name="language" id="language-select-mobile">
+            <select name="language" class="language-select">
                 {
                     supportedLang.map((l) => (
-                        <option
-                            value={l.locale}
-                            selected={l === lang}
-                            data-path={getLangUrl(l)}
-                        >
+                        <option value={getLangUrl(l)} selected={l === lang}>
                             {l.name}
                         </option>
                     ))
@@ -111,36 +99,38 @@ function getLangUrl(lang: Language): string {
             </select>
         </div>
     </nav>
+</header>
 
-    <script>
-        function addLanguageSelectListener(id: string) {
-            const languageSelect = document.getElementById(id);
-            if (languageSelect) {
-                languageSelect.addEventListener("change", (e) => {
-                    let elem = e.target as HTMLSelectElement;
-                    let option = elem.options[elem.selectedIndex];
-                    let path = option.getAttribute("data-path");
-                    window.location.href = `${path}`;
-                });
-            }
-        }
-        function addMobileMenuListener() {
-            const menuButton = document.querySelector(
-                'button[aria-controls="mobile-menu"]'
-            );
-            const mobileMenu = document.getElementById("mobile-menu");
-            menuButton?.addEventListener("click", () => {
-                const isExpanded =
-                    menuButton.getAttribute("aria-expanded") === "true";
-                menuButton.setAttribute(
-                    "aria-expanded",
-                    (!isExpanded).toString()
-                );
-                mobileMenu?.classList.toggle("hidden");
+<script>
+    import { navigate } from "astro:transitions/client";
+
+    function addLanguageSelectListener(cls: string) {
+        const languageSelects = document.querySelectorAll(`.${cls}`);
+        for (let ls of languageSelects) {
+            ls.addEventListener("change", (e) => {
+                let elem = e.target as HTMLSelectElement;
+                navigate(elem.value);
             });
         }
+    }
+
+    function addMobileMenuListener() {
+        const menuButton = document.querySelector(
+            'button[aria-controls="mobile-menu"]'
+        );
+        const mobileMenu = document.getElementById("mobile-menu");
+        menuButton?.addEventListener("click", () => {
+            const isExpanded =
+                menuButton.getAttribute("aria-expanded") === "true";
+            menuButton.setAttribute("aria-expanded", (!isExpanded).toString());
+            mobileMenu?.classList.toggle("hidden");
+        });
+    }
+    addLanguageSelectListener("language-select");
+    addMobileMenuListener();
+
+    document.addEventListener("astro:after-swap", () => {
         addLanguageSelectListener("language-select");
-        addLanguageSelectListener("language-select-mobile");
         addMobileMenuListener();
-    </script>
-</header>
+    });
+</script>

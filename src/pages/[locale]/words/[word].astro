@@ -148,17 +148,22 @@ const metadata: MetaData = {
 
 <script>
     // add event listener to speak button
-    let allSpeakBtns = document.querySelectorAll(".speak-btn");
-    allSpeakBtns.forEach((btn) => {
-        let word = btn.getAttribute("data-word");
-        if (!word) return;
-        btn.addEventListener("click", () => {
-            speak(word);
+    function addSpeakListener() {
+        let allSpeakBtns = document.querySelectorAll(".speak-btn");
+        allSpeakBtns.forEach((btn) => {
+            let word = btn.getAttribute("data-word");
+            if (!word) return;
+            btn.addEventListener("click", () => {
+                speak(word);
+            });
         });
-    });
+    }
 
     function speak(words: string) {
         let utterance = new SpeechSynthesisUtterance(words);
         speechSynthesis.speak(utterance);
     }
+
+    addSpeakListener();
+    document.addEventListener("astro:after-swap", () => addSpeakListener());
 </script>

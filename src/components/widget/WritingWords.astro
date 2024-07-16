@@ -64,24 +64,30 @@ const halfSize = size / 2;
 
 <script>
     import HanziWriter from "hanzi-writer";
-    let allHanzi = document.querySelectorAll(
-        ".hanzi",
-    ) as NodeListOf<HTMLElement>;
-    let chars = [];
-    for (var elem of allHanzi) {
-        let word = elem.getAttribute("data-word");
-        let size = elem.getAttribute("data-size");
-        if (!word || !size) continue;
-        let writer = HanziWriter.create(elem, word, {
-            width: parseInt(size),
-            height: parseInt(size),
-            padding: 5,
-            showCharacter: true,
-            delayBetweenStrokes: 10,
-        });
-        chars.push(writer);
-        elem.addEventListener("click", function () {
-            writer.animateCharacter();
-        });
+
+    function displayHanzi() {
+        let allHanzi = document.querySelectorAll(
+            ".hanzi"
+        ) as NodeListOf<HTMLElement>;
+        let chars = [];
+        for (var elem of allHanzi) {
+            let word = elem.getAttribute("data-word");
+            let size = elem.getAttribute("data-size");
+            if (!word || !size) continue;
+            let writer = HanziWriter.create(elem, word, {
+                width: parseInt(size),
+                height: parseInt(size),
+                padding: 5,
+                showCharacter: true,
+                delayBetweenStrokes: 10,
+            });
+            chars.push(writer);
+            elem.addEventListener("click", function () {
+                writer.animateCharacter();
+            });
+        }
     }
+
+    displayHanzi();
+    document.addEventListener("astro:after-swap", () => displayHanzi());
 </script>
