@@ -164,6 +164,7 @@ const metadata: MetaData = {
         speechSynthesis.speak(utterance);
     }
 
-    addSpeakListener();
-    document.addEventListener("astro:after-swap", () => addSpeakListener());
+    document.addEventListener("astro:page-load", () => {
+        addSpeakListener();
+    });
 </script>

@@ -88,6 +88,7 @@ const halfSize = size / 2;
         }
     }
 
-    displayHanzi();
-    document.addEventListener("astro:after-swap", () => displayHanzi());
+    document.addEventListener("astro:page-load", () => {
+        displayHanzi();
+    });
 </script>

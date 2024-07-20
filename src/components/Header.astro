@@ -126,10 +126,8 @@ function getLangUrl(lang: Language): string {
             mobileMenu?.classList.toggle("hidden");
         });
     }
-    addLanguageSelectListener("language-select");
-    addMobileMenuListener();
 
-    document.addEventListener("astro:after-swap", () => {
+    document.addEventListener("astro:page-load", () => {
         addLanguageSelectListener("language-select");
         addMobileMenuListener();
     });
