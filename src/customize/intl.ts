@@ -55,6 +55,8 @@ interface WordIntlData {
     writingTips: string;
     relatedList: string;
     homophones: string;
+    next: string;
+    previous: string;
 }
 
 export interface IntlData {
@@ -123,6 +125,8 @@ export const englishIntlData: IntlData = {
         writingTips: "Click grid above to animate stroke order",
         relatedList: "Related List",
         homophones: "Homophones",
+        next: "Next Word",
+        previous: "Previous Word",
     },
 };
 
@@ -181,6 +185,8 @@ export const chineseIntlData: IntlData = {
         writingTips: "点击上方方格查看笔画动画",
         relatedList: "相关列表",
         homophones: "同音词",
+        next: "下一个词",
+        previous: "上一个词",
     },
 };
 

@@ -34,11 +34,21 @@ const pinyinString = pinyin(word);
 
 let allWords = loadAllWords();
 let homophones = [];
-for (let w of allWords) {
-    if (word != w.word && pinyinString === pinyin(w.word)) {
-        homophones.push(w);
+let index = -1;
+for (let i = 0; i < allWords.length; i++) {
+    if (
+        word !== allWords[i].word &&
+        pinyinString === pinyin(allWords[i].word)
+    ) {
+        homophones.push(allWords[i]);
+    }
+    if (word === allWords[i].word) {
+        index = i;
     }
 }
+
+let previous = allWords[index - 1] || allWords[allWords.length - 1];
+let next = allWords[index + 1] || allWords[0];
 
 let pinyinWords: PinyinWord[] = [];
 for (let i = 0; i < word.length; i++) {
@@ -142,6 +152,15 @@ const metadata: MetaData = {
                     ))
                 }
             </div>
+        </div>
+
+        <div class="flex flex-row justify-between">
+            <a href={`/${lang.locale}/words/${previous?.word}`}>
+                ← {intlData.word.previous}
+            </a>
+            <a href={`/${lang.locale}/words/${next?.word}`}>
+                {intlData.word.next} →
+            </a>
         </div>
     </div>
 </PageLayout>
